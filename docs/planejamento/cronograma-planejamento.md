@@ -13,21 +13,124 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <center>
 
-| Atividades                                            | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
-| ----------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Documentar a Equipe | Início: 17/10/2024<br>Fim: 21/10/2024 | [Pedro Lopes](https://github.com/pLopess) | Início: 21/10/2024<br>Fim: 22/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Implementar o GitHub Pages do projeto | Início: 17/10/2024<br>Fim: 21/10/2024 | [Pedro Lopes](https://github.com/pLopess) | Início: 21/10/2024<br>Fim: 22/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Produzir o Heatmap de disponibilidade dos integrantes | Início: 15/10/2024<br>Fim: 16/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 16/10/2024<br>Fim: 17/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Produzir Rich Picture dos aplicativos avaliados | Início: 24/10/2024<br>Fim: 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 27/10/2024<br>Fim: 28/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Incluir lista de aplicativos avaliados por cada integrante | Início: 24/10/2024<br>Fim: 27/10/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: 27/10/2024<br>Fim: 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) |
-| Selecionar aplicativo para o projeto | Início: 27/10/2024<br>Fim: 28/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 27/10/2024<br>Fim: 28/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Incluir cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina | Início: 27/10/2024<br>Fim: 28/10/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: 27/10/2024<br>Fim: 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) |
-| Selecionar ferramentas para o projeto | Início: 15/10/2024<br>Fim: 16/10/2024 | [João Pedro](https://github.com/JoosPerro) | Início: 17/10/2024<br>Fim: 18/10/2024 | [Emivalto junior](https://github.com/EmivaltoJrr) |
-| Produzir cronograma de planejamento | Início: 15/10/2024<br>Fim: 17/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 17/10/2024<br>Fim: 18/10/2024 | [João Pedro](https://github.com/JoosPerro) |
-| Produzir cronograma de execução | Início: 15/10/2024<br>Fim: 17/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 17/10/2024<br>Fim: 18/10/2024 | [João Pedro](https://github.com/JoosPerro) |
-| Gravar a apresentação da Etapa 1 do projeto | Início: 26/10/2024<br>Fim: 27/10/2024 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 27/10/2024<br>Fim:28/10/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: 30/10/2024<br>Fim: 30/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 30/10/2024<br>Fim: 30/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: 31/10/2024<br>Fim: 04/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 04/11/2024<br>Fim:05/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Documentar a Equipe | Início: 17/10<br>Fim: 21/10 | [Pedro Lopes](https://github.com/pLopess) | Início: 21/10<br>Fim: 22/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Implementar o GitHub Pages do projeto | Início: 17/10<br>Fim: 21/10 | [Pedro Lopes](https://github.com/pLopess) | Início: 21/10<br>Fim: 22/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Produzir o Heatmap de disponibilidade dos integrantes | Início: 15/10<br>Fim: 16/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 16/10<br>Fim: 17/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Produzir Rich Picture dos aplicativos avaliados | Início: 24/10<br>Fim: 27/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 27/10<br>Fim: 28/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Incluir lista de aplicativos avaliados por cada integrante | Início: 24/10<br>Fim: 27/10 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: 27/10<br>Fim: 28/10 | [Pedro Lopes](https://github.com/pLopess) |
+| Selecionar aplicativo para o projeto | Início: 27/10<br>Fim: 28/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 27/10<br>Fim: 28/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Incluir cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina | Início: 27/10<br>Fim: 28/10 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: 27/10<br>Fim: 28/10 | [Pedro Lopes](https://github.com/pLopess) |
+| Selecionar ferramentas para o projeto | Início: 15/10<br>Fim: 16/10 | [João Pedro](https://github.com/JoosPerro) | Início: 17/10<br>Fim: 18/10 | [Emivalto junior](https://github.com/EmivaltoJrr) |
+| Produzir cronograma de planejamento | Início: 15/10<br>Fim: 17/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 17/10<br>Fim: 18/10 | [João Pedro](https://github.com/JoosPerro) |
+| Produzir cronograma de execução | Início: 15/10<br>Fim: 17/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 17/10<br>Fim: 18/10 | [João Pedro](https://github.com/JoosPerro) |
+| Gravar a apresentação da Etapa 1 do projeto | Início: 26/10<br>Fim: 27/10 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 27/10<br>Fim: 28/10 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: 30/10<br>Fim: 30/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 30/10<br>Fim: 30/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: 31/10<br>Fim: 04/11 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 04/11<br>Fim: 05/11 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 2 - Elicitação – Técnicas e Priorização
+
+A **Tabela 2** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 2 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação – Técnicas e Priorização</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Definir perfil dos usuários | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| Escolher e documentar as técnicas de elicitação usadas e que serão usadas | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) |
+| Escolher e documentar as técnicas de priorização usadas e que serão usadas | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) |
+| Gravar a apresentação da Etapa 2 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 2 do projeto do Grupo 5 | Início: 25/11<br>Fim: 25/11 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 25/11<br>Fim: 25/11 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: 26/11<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 3 - Modelagem de Requisitos
+
+A **Tabela 3** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 3 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Cenários | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Léxico | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| Use Case | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Especificação Suplementar | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| Gravar a apresentação da Etapa 3 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 3 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 3 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 4 - Modelagem de Requisitos (Ágil)
+
+A **Tabela 4** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 4 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos (Ágil)</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Histórias de Usuário | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| Backlogs | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| NFR Framework | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) |
+| Gravar a apresentação da Etapa 4 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 4 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 4 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 5 - Análise de Requisitos: Verificação e Validação
+
+A **Tabela 5** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 5 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Verificação da Análise de Requisitos | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Validação da Análise de Requisitos | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Gravar a apresentação da Etapa 5 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 5 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 5 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 6 - Pós-Rastreabilidade - Gerência II
+
+A **Tabela 6** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 6 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Pós-Rastreabilidade</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Pós-Rastreabilidade | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Gravar a apresentação da Etapa 6 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 6 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 6 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
 
 </center>
 
@@ -49,3 +152,4 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 | :-----: | :--------: | --------- | --------- | ----------- |
 | `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
