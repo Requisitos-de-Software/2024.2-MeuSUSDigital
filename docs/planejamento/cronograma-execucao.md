@@ -13,21 +13,124 @@ A **Tabela 1** trata do cronograma executado de todas as atividades referentes �
 
 <center>
 
-| Atividades                                            | Período de desenvolvimento  | Responsáveis | Período de revisão | Revisores |
-| ----------------------------------------------------- | --------------------------- | ------------ | --------------------------- | --------- |
-| Documentar a Equipe | Início: 28/10/2024<br>Fim: 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) | Início: 28/10/2024<br>Fim: 28/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Implementar o GitHub Pages do projeto | Início: 28/10/2024<br>Fim: 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) | Início: 28/10/2024<br>Fim: 28/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Produzir o Heatmap de disponibilidade dos integrantes | Início: 18/10/2024<br>Fim: 23/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 23/10/2024<br>Fim: 23/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Produzir Rich Picture dos aplicativos avaliados | Início: 24/10/2024<br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | |
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Documentar a Equipe | Início: 28/10<br>Fim: 28/10 | [Pedro Lopes](https://github.com/pLopess) | Início: 28/10<br>Fim: 28/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Implementar o GitHub Pages do projeto | Início: 28/10<br>Fim: 28/10 | [Pedro Lopes](https://github.com/pLopess) | Início: 28/10<br>Fim: 28/10 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Produzir o Heatmap de disponibilidade dos integrantes | Início: 18/10<br>Fim: 23/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 23/10<br>Fim: 23/10 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Produzir Rich Picture dos aplicativos avaliados | Início: 24/10<br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | |
 | Incluir lista de aplicativos avaliados por cada integrante | Início: <br>Fim: | | Início: <br>Fim: | |
 | Selecionar aplicativo para o projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 | Incluir cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina | Início: <br>Fim: | | Início: <br>Fim: | |
-| Selecionar ferramentas para o projeto | Início: 28/10/2024<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | |
-| Produzir cronograma de planejamento | Início: 28/10/2024<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | |
-| Produzir cronograma de execução | Início: 28/10/2024<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | |
+| Selecionar ferramentas para o projeto | Início: 28/10<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | |
+| Produzir cronograma de planejamento | Início: 28/10<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | |
+| Produzir cronograma de execução | Início: 28/10<br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: | |
 | Gravar a apresentação da Etapa 1 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 | Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
 | Correção pós entrega/apresentação da Etapa 1 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 2 - Elicitação – Técnicas e Priorização
+
+A **Tabela 2** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 2 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação – Técnicas e Priorização</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Definir perfil dos usuários | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Escolher e documentar as técnicas de elicitação usadas e que serão usadas | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Escolher e documentar as técnicas de priorização usadas e que serão usadas | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 2 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Inspecionar a entrega da apresentação da Etapa 2 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 3 - Modelagem de Requisitos
+
+A **Tabela 3** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 3 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Cenários | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Léxico | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Use Case | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Especificação Suplementar | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 3 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Inspecionar a entrega da apresentação da Etapa 3 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 3 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 4 - Modelagem de Requisitos (Ágil)
+
+A **Tabela 4** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 4 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos (Ágil)</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Histórias de Usuário | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Backlogs | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| NFR Framework | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 4 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Inspecionar a entrega da apresentação da Etapa 4 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 4 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 5 - Análise de Requisitos: Verificação e Validação
+
+A **Tabela 5** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 5 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Verificação da Análise de Requisitos | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Validação da Análise de Requisitos | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 5 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Inspecionar a entrega da apresentação da Etapa 5 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 5 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Etapa 6 - Pós-Rastreabilidade - Gerência II
+
+A **Tabela 6** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 6 do projeto.
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Pós-Rastreabilidade</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Pós-Rastreabilidade | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 6 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Inspecionar a entrega da apresentação da Etapa 6 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 6 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 
 </center>
 
@@ -45,7 +148,8 @@ A **Tabela 1** trata do cronograma executado de todas as atividades referentes �
 
 ## Histórico de Versão
 
-| Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
-| :-----: | :--------: | --------- | --------- | ----------- |
+| Versão  | Data       | Descrição | Autor | Revisor |
+| :-----: | :--------: | --------- | ----- | ------- |
 | `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.1`   | 28/10/2024 | Criação da tabela do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
