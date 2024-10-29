@@ -35,7 +35,7 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 ## Etapa 2 - Elicitação – Técnicas e Priorização
 
-A **Tabela 2** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 2 do projeto.
+A **Tabela 2** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da Etapa 2 do projeto.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Elicitação – Técnicas e Priorização</p></font>
 
@@ -56,7 +56,7 @@ A **Tabela 2** trata do cronograma executado de todas as atividades referentes �
 
 ## Etapa 3 - Modelagem de Requisitos
 
-A **Tabela 3** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 3 do projeto.
+A **Tabela 3** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da Etapa 3 do projeto.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos</p></font>
 
@@ -78,7 +78,7 @@ A **Tabela 3** trata do cronograma executado de todas as atividades referentes �
 
 ## Etapa 4 - Modelagem de Requisitos (Ágil)
 
-A **Tabela 4** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 4 do projeto.
+A **Tabela 4** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da Etapa 4 do projeto.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos (Ágil)</p></font>
 
@@ -99,7 +99,7 @@ A **Tabela 4** trata do cronograma executado de todas as atividades referentes �
 
 ## Etapa 5 - Análise de Requisitos: Verificação e Validação
 
-A **Tabela 5** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 5 do projeto.
+A **Tabela 5** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da Etapa 5 do projeto.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Análise de Requisitos</p></font>
 
@@ -107,11 +107,11 @@ A **Tabela 5** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------ | ----------- |
-| Verificação da Análise de Requisitos | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Validação da Análise de Requisitos | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Gravar a apresentação da Etapa 5 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Inspecionar a entrega da apresentação da Etapa 5 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Correção pós entrega/apresentação da Etapa 5 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Verificação da Análise de Requisitos | Início: 14/01<br>Fim: 17/01 | [Pedro Lopes](https://github.com/pLopess) | Início: 17/01<br>Fim: 18/01 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Validação da Análise de Requisitos | Início: 19/01<br>Fim: 22/01 | [João Pedro](https://github.com/JoosPerro) | Início: 22/01<br>Fim: 23/01 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Gravar a apresentação da Etapa 5 do projeto | Início: 24/01<br>Fim: 27/01 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 27/01<br>Fim: 28/01 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 5 do projeto do Grupo 5 | Início: 29/01<br>Fim: 29/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 29/01<br>Fim: 29/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 5 do projeto | Início: 30/01<br>Fim: 02/02 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 02/02<br>Fim: 03/02 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
 
 </center>
 
@@ -119,7 +119,7 @@ A **Tabela 5** trata do cronograma executado de todas as atividades referentes �
 
 ## Etapa 6 - Pós-Rastreabilidade - Gerência II
 
-A **Tabela 6** trata do cronograma executado de todas as atividades referentes à entrega da Etapa 6 do projeto.
+A **Tabela 6** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da Etapa 6 do projeto.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Pós-Rastreabilidade</p></font>
 
@@ -127,10 +127,29 @@ A **Tabela 6** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------ | ----------- |
-| Pós-Rastreabilidade | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Gravar a apresentação da Etapa 6 do projeto | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Inspecionar a entrega da apresentação da Etapa 6 do projeto do Grupo 5 | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Correção pós entrega/apresentação da Etapa 6 do projeto | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Pós-Rastreabilidade | Início: 10/01<br>Fim: 13/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 13/01<br>Fim: 14/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Gravar a apresentação da Etapa 6 do projeto | Início: 15/01<br>Fim: 18/01 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 18/01<br>Fim: 19/01 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação da Etapa 6 do projeto do Grupo 5 | Início: 20/01<br>Fim: 20/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 20/01<br>Fim: 20/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 6 do projeto | Início: 21/01<br>Fim: 24/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 24/01<br>Fim: 25/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
+
+## Entrega Final
+
+A **Tabela 7** trata do cronograma planejado para o desenvolvimento de todas as atividades referentes à entrega da apresentação do projeto final.
+
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Entrega da apresentação do projeto final</p></font>
+
+<center>
+
+| Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisão | Revisor(es) |
+| --------- | -------------------------- | ---------------- | ------------------ | ----------- |
+| Desenvolvimento do projeto final | Início: 09/01<br>Fim: 13/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 13/01<br>Fim: 14/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Gravar a apresentação da Etapa 6 do projeto | Início: 15/01<br>Fim: 18/01 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 18/01<br>Fim: 19/01 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Inspecionar a entrega da apresentação do projeto final do Grupo 5 | Início: 20/01<br>Fim: 20/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 20/01<br>Fim: 20/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Avaliação do Projeto final | Início: 11/02<br>Fim: 18/02 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 18/02<br>Fim: 19/02 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 </center>
 
@@ -153,3 +172,4 @@ A **Tabela 6** trata do cronograma executado de todas as atividades referentes �
 | `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) |
 | `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.3`   | 29/10/2024 | Criação da tabela do cronograma de planejamento referente à entrega final, correção de erros e adição de novas datas. | [Artur Ricardo](https://github.com/algorithmorphic) |
