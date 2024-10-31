@@ -7,11 +7,13 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-    - Ata 1º reunião: atas/ata01.md
+    - Ata 01: atas/ata01.md
+    - Ata 02: atas/ata02.md
   - Planejamento: 
     - Aplicativo selecionado: planejamento/apps-avaliados.md
     - Ferramentas: planejamento/ferramentas.md
     - HeatMap: planejamento/heatmap.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
     - Cronograma de Execução: planejamento/cronograma-execucao.md
+  - Lista de Verificação: verificacao/lista_ver.md
   

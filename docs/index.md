@@ -1,7 +1,7 @@
 # Grupo 04
 
 # Inicio
-Esta página é dedicada para a documentação de todos os artefatos estudados e desenvolvidos pelo Grupo 04 na disciplina de Requisitos de Software da Universidade de Brasília (UnB), durante o segundo semestre de 2024.
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo Grupo 04 no projeto da disciplina de Requisitos de Software, na Universidade de Brasília (UnB), durante o segundo semestre de 2024.
 
 ### **Equipe**
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
@@ -43,4 +43,4 @@ Esta página é dedicada para a documentação de todos os artefatos estudados e
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação da página inicial | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
+|  1.0   | Criação da página inicial | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [João Pedro](https://github.com/JoosPerro) | 30/10/2024 |
