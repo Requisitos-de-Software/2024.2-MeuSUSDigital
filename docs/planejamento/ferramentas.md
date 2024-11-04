@@ -81,7 +81,7 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 
 <font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
 
-## Referências Bibliográficas
+## Referência Bibliográfica
 
 > [1] diagrams.net. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 03 nov. 2024.
 >
