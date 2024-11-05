@@ -39,28 +39,28 @@ Seguindo os critérios definidos e as diretrizes do professor para avaliação, 
 O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de saúde diretamente pelo celular, proporcionando acesso a uma variedade de funcionalidades que colocam o indivíduo no centro do cuidado com sua saúde. 
 
 ### Recursos disponiveis no aplicativo
-1. **Acesso a Interações de Saúde**
+#### **Acesso a Interações de Saúde**
    - Consulta a pontos de atenção à saúde.
    - Acompanhamento de históricos de exames, vacinas e medicamentos.
 
-2. **Emissão de Documentos e Certificados**
+#### **Emissão de Documentos e Certificados**
    - Autorização de retirada de absorventes.
    - Certificado de Vacinação.
    - Certificado Internacional de Vacinação ou Profilaxia (CIVP).
 
-3. **Gerenciamento de Programas de Saúde**
+#### **Gerenciamento de Programas de Saúde**
    - Habilitação ou desabilitação da adesão ao programa do Farmácia Popular.
 
-4. **Acompanhamento de Transplantes**
+#### **Acompanhamento de Transplantes**
    - Monitoramento da posição na fila do Sistema Nacional de Transplantes.
 
-5. **Localização de Serviços de Saúde**
+#### **Localização de Serviços de Saúde**
    - Busca por serviços de saúde próximos (Saúde Bucal, tratamento de Doenças Raras).
 
-6. **Gerenciamento de Saúde Pessoal**
+#### **Gerenciamento de Saúde Pessoal**
    - Uso do Meu Diário de Saúde para registrar informações pessoais.
 
-7. **Acompanhamento de Notícias de Saúde**
+#### **Acompanhamento de Notícias de Saúde**
    - Recebimento de notícias seguras e confiáveis sobre saúde e bem-estar.
 
 
@@ -70,71 +70,75 @@ Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os term
 
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 1</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg1.png" alt="Termos de Uso parte 1" />
+    <img src="../../imagens/termo_SUS-pg1.png" alt="Termos de Uso parte 1" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 2</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg2.png" alt="Termos de Uso parte 2" />
+    <img src="../../imagens/termo_SUS-pg2.png" alt="Termos de Uso parte 2" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 3</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg3.png" alt="Termos de Uso parte 3" />
+    <img src="../../imagens/termo_SUS-pg3.png" alt="Termos de Uso parte 3" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 4</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg4.png" alt="Termos de Uso parte 4" />
+    <img src="../../imagens/termo_SUS-pg4.png" alt="Termos de Uso parte 4" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 5</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg5.png" alt="Termos de Uso parte 5" />
+    <img src="../../imagens/termo_SUS-pg5.png" alt="Termos de Uso parte 5" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 6</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg6.png" alt="Termos de Uso parte 6" />
+    <img src="../../imagens/termo_SUS-pg6.png" alt="Termos de Uso parte 6" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 7</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg7.png" alt="Termos de Uso parte 7" />
+    <img src="../../imagens/termo_SUS-pg7.png" alt="Termos de Uso parte 7" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 8</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg8.png" alt="Termos de Uso parte 8" />
+    <img src="../../imagens/termo_SUS-pg8.png" alt="Termos de Uso parte 8" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 9</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg9.png" alt="Termos de Uso parte 9" />
+    <img src="../../imagens/termo_SUS-pg9.png" alt="Termos de Uso parte 9" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 10</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg10.png" alt="Termos de Uso parte 10" />
+    <img src="../../imagens/termo_SUS-pg10.png" alt="Termos de Uso parte 10" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 11</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg11.png" alt="Termos de Uso parte 11" />
+    <img src="../../imagens/termo_SUS-pg11.png" alt="Termos de Uso parte 11" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 <div style="text-align: center; font-size: 16px;">
     <p><b>Figura 12</b> - Termos de Uso.</p>
-    <img src="../../site/assets/images/termo_SUS-pg12.png" alt="Termos de Uso parte 12" />
+    <img src="../../imagens/termo_SUS-pg12.png" alt="Termos de Uso parte 12" />
     <p>Fonte: Meu SUS Digital.</p>
 </div>
 
 ## Bibliografia
-> Steam. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community. Acesso em: 28 de outubro de 2024</br>
-> Correios. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.com.correios.preatendimento. Acesso em: 02 de novembro de 2024</br>
-> Meu SUS Digital. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital. Acesso em: 02 de novembro de 2024</br>
-> Microsoft 365 (Office). Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow. Acesso em: 02 de novembro de 2024</br>
-> Baratão Combustíveis. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.barataoapp. Acesso em: 28 de outubro de 2024</br>
+> Steam. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community). Acesso em: 28 de outubro de 2024.</br>
+>
+> Correios. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=br.com.correios.preatendimento](https://play.google.com/store/apps/details?id=br.com.correios.preatendimento). Acesso em: 02 de novembro de 2024.</br>
+>
+> Meu SUS Digital. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital). Acesso em: 02 de novembro de 2024.</br>
+>
+> Microsoft 365 (Office). Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow). Acesso em: 02 de novembro de 2024.</br>
+>
+> Baratão Combustíveis. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.barataoapp](https://play.google.com/store/apps/details?id=com.barataoapp). Acesso em: 28 de outubro de 2024.</br>
 
 
 ## 📑 Histórico de versões 
