@@ -6,18 +6,28 @@ theme:
 
 nav:
   - Home: index.md
+
+  - Apresentação:
+    - Apresentação 01: apresentacao/apresentacao01.md
+
   - Atas:
     - Ata 01: atas/ata01.md
+
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastrabilidade/rich-picture.md
+
   - Planejamento:
     - Aplicativos Avaliados: planejamento/apps-avaliados.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
     - Cronograma de Execução: planejamento/cronograma-execucao.md
     - Ferramentas: planejamento/ferramentas.md
     - HeatMap: planejamento/heatmap.md
-    - Lista de Verificação: verificacao/lista_ver.md
-    - Rich Picture: planejamento/rich-picture.md
     - Termo de Uso: planejamento/termo-de-uso.md
     
+  - Verificação:
+    - Visao Geral: verificacao/visao-geral.md
+    - Grupo 4: verificacao/grupo4.md
+    - Grupo +1 (5): verificacao/grupo5.md
     
   
 
