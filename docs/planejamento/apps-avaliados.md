@@ -57,14 +57,16 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 
 - **Público-alvo amplo**: É utilizado por muitos usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
 
+
 ### Baratão
+
 
 ### Office365
 
 ### Correios
 
-## Histórico de Versão
 
+## Histórico de versão
 <center>
 
 
