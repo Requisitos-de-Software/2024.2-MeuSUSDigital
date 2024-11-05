@@ -62,6 +62,16 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 
 
 ### Office365
+O [Officer 365](https://www.office.com/) é uma plataforma da [Microsoft](https://www.microsoft.com/pt-br/) distribuição digital dos servisos que ela oferece, amplamente utilizada por muitas empressas cooporativas e tambem com usuarios comuns, onde se pode ter acessos aos programas mais comuns de quase todos os escritorios, como por exemplo o Word, Excel e PowerPoint os mais comuns, e possivel tambem dazer um gerenciamento dos seus arquivos em nuvem pelo OneDrive que tambem e oferecido junto ao Officer 365 no mundo inteiro. Disponível para desktops e dispositivos móveis, o Officer 365 oferece uma ampla variedade de funcionalidades com todos os seus produtos oferecidos, com recursos de segurança e privacidade. A escolha dessa plataforma foi feita com base nos seguintes critérios:
+
+- **Requisito**: se encaixa no escopo de análise de software proposto pela disciplina.
+
+- **Novidade**: O App não foi analisado em semestres anteriores.
+
+- **Complexidade**: A plataforma apresenta uma estrutura complexa, com diversas funcionalidades.
+
+- **Público-alvo amplo**: É utilizado por muitos usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
+
 
 ### Correios
 
@@ -73,5 +83,6 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
+|  1.1   | Complementação de documentos |  [Emivalto Junior](https://github.com/EmivaltoJrr) | 05/11/2024   | [???]() ||
 
 </center>
