@@ -57,7 +57,7 @@ Segue, abaixo, a **Imagem 3** contendo tanto o Rich Picture Officer 365 quanto s
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Imagem 3</b> - Rich Picture Officer 365</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-Officer-365.jpg?raw=true">
+<img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-Officer-365.pnj?raw=true">
 
 <font size="3"><p style="text-align: center"><b>Imagem 3.1</b> - Legenda Rich Picture Officer 365</p></font>
 
