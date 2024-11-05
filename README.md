@@ -50,7 +50,7 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
     </tr>
   </table>
     <p><strong>Tabela 1 – Integrantes da Equipe</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 ## Histórico de Versões
