@@ -38,13 +38,13 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
       </td>
       <td align="center">
         <a href="https://github.com/MatheusHenrickSantos">
-          <img style="border-radius: 20%; border: 3px solid #ff0000 ;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
-          <br /><sub><b>Matheus Henrick</b></sub>
+          <img style="border-radius: 20%; border: 3px solid #00cf00;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
+          <br /><sub><b>Matheus Henrick</b></sub> 
         </a><br />
       </td>
       <td align="center">
         <a href="https://github.com/pLopess">
-          <img style="border-radius: 20%; border: 3px solid #00cf00;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
+          <img style="border-radius: 20%; border: 3px solid #ff0000;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
           <br /><sub><b>Pedro Lopes</b></sub>
         </a><br />
       </td>
@@ -57,9 +57,10 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
 
 
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
-| `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |  |  |
+| `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+

@@ -41,6 +41,7 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 <div align="center">
     <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+
 </div>
 
 ---
@@ -71,6 +72,7 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 O [Baratão Combustíveis](https://barataocombustiveis.com.br/) é um aplicativo desenvolvido pela Baratão Tecnologia LTDA, sendo a primeira plataforma para venda de combustíveis do mercado. Oferece desconto no preço de combustíveis em postos credenciados, além de parcelamento em débitos veiculares. Está disponível para dispositivos móveis.
 Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 
+
 - Não foi trabalhado na disciplina;
 - Possui complexidade adequada;
 - Possui um público-alvo relevante, acessível a indivíduos habilitados para conduzir veículos. Representa uma alternativa atrativa para condutores de serviços de transporte por aplicativo e também para aqueles que realizam frequentes deslocamentos.
@@ -82,7 +84,8 @@ Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 ## Bibliografia
 >**BARATÃO COMBUSTÍVEIS**. *Baratão Combustíveis*. Baratão Combustíveis, 2024. Disponível em: https://barataocombustiveis.com.br. Acesso em: 05 de novembro 2024.</br>
 
-## Histórico de Versões
+
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
@@ -90,3 +93,4 @@ Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 | `1.1`  | Atualização do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.2`  | Atualização do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.3`  | Atualização do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |  |  |
+

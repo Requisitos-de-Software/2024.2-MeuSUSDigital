@@ -112,8 +112,8 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 >
 > [15] YOUTUBE. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 03 nov. 2024.
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial do documento referente às ferramentas utilizadas no projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | | |
+| `1.0`  | Criação inicial do documento referente às ferramentas utilizadas no projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |

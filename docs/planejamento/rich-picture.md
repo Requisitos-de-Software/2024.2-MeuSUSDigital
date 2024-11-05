@@ -33,7 +33,7 @@ Segue, abaixo, a **Imagem 1** contendo tanto o Rich Picture do aplicativo Meu SU
 >
 > - SALES, André Barros de. _Rich pictures_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972425/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>. Acesso em: 04 nov. 2024.
 
-## Histórico de Versão
+## 📑 Histórico de Versão
 
 | Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
 | :-----: | :--------: | --------- | --------- | ----------- |
