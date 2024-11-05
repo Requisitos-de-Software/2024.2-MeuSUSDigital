@@ -17,7 +17,11 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
   </thead>
   <tbody>
     <tr>
-      <td> Steam</td>
+      <td> MeuSUS Digital</td>
+      <td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+    </tr>
+    <tr>
+      <td>Steam</td> 
       <td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
     </tr>
     <tr>
@@ -25,15 +29,11 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
       <td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
     </tr>
     <tr>
-      <td>???</td>
+      <td>Office365</td>
       <td><a href="https://github.com/EmivaltoJrr ">Emivalto Junior</a></td>
     </tr>
     <tr>
-      <td>???</td>
-      <td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
-    </tr>
-    <tr>
-      <td>???</td>
+      <td>Correios</td>
       <td><a href="https://github.com/JoosPerro">João Pedro</a></td>
     </tr>
   </tbody>
@@ -43,6 +43,8 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 </div>
 
 ---
+
+### MeuSUS Digital
 
 ### Steam
 
@@ -66,6 +68,26 @@ Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 
 ## Histórico de Versão
 
+A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição digital desenvolvida pela [Valve Corporation](https://www.valvesoftware.com/), amplamente utilizada para a compra, gerenciamento e jogabilidade de jogos eletrônicos no mundo inteiro. Disponível para desktops e dispositivos móveis, o Steam oferece uma ampla biblioteca de jogos e funcionalidades como comunidades de jogadores, suporte para mods, e recursos avançados de segurança e privacidade. A escolha dessa plataforma foi feita com base nos seguintes critérios:
+
+- **Requisito**: se encaixa no escopo de análise de software proposto pela disciplina.
+
+- **Novidade**: O App não foi analisado em semestres anteriores.
+
+- **Complexidade**: A plataforma apresenta uma estrutura complexa, com diversas funcionalidades.
+
+- **Público-alvo amplo**: É utilizado por muitos usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
+
+
+### Baratão
+
+
+### Office365
+
+### Correios
+
+
+## Histórico de versão
 <center>
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
