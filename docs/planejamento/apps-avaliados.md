@@ -73,5 +73,6 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
+|  1.1   | Atualização do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
 
 </center>
