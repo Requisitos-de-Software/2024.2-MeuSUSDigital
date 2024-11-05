@@ -57,7 +57,7 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
 
 
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |

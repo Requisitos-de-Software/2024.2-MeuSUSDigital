@@ -136,7 +136,7 @@
 
 Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
-## Histórico de Versão
+## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|

@@ -38,7 +38,7 @@
 
 Não foi definida a próxima reunião.
 
-## Histórico de Versão
+## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|

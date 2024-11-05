@@ -72,7 +72,7 @@ Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 ## Bibliografia
 >**BARATÃO COMBUSTÍVEIS**. *Baratão Combustíveis*. Baratão Combustíveis, 2024. Disponível em: https://barataocombustiveis.com.br. Acesso em: 05 de novembro 2024.</br>
 
-## Histórico de versão
+## 📑 Histórico de versão
 <center>
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  

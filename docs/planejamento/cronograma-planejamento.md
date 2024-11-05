@@ -165,7 +165,7 @@ A **Tabela 7** trata do cronograma planejado para o desenvolvimento de todas as 
 >
 > - Economia DF: Cronograma Executado do Projeto. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md>>. Acesso em: 28 out. 2024.
 
-## Histórico de Versão
+## 📑 Histórico de Versão
 
 | Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
 | :-----: | :--------: | --------- | --------- | ----------- |
