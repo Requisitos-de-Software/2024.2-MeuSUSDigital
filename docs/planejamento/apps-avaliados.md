@@ -78,6 +78,8 @@ Este aplicativo está apto para estudo de acordo com os seguintes critérios:
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
-|  1.1   | Atualização do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/10/2024 | [???]() ||
+|  1.1   | Atualização do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
+|  1.2   | Atualização do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/10/2024 | [???]() ||
+
 
 </center>

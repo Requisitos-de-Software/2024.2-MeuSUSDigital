@@ -170,7 +170,7 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 
 | Versão  | Data       | Descrição | Autor | Revisor |
 | :-----: | :--------: | --------- | ----- | ------- |
-| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.3`   | 03/11/2024 | Criação da tabela do cronograma de execução referente à entrega final, correção de erros e atualização dos dados. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.3`   | 03/11/2024 | Criação da tabela do cronograma de execução referente à entrega final, correção de erros e atualização dos dados. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
