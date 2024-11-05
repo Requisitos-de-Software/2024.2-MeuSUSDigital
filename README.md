@@ -53,8 +53,9 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
-## Histórico de Versão
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
-|  1.1   | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |  |  |
+## Histórico de Versões
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
+| `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |  |  |
