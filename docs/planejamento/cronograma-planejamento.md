@@ -157,19 +157,19 @@ A **Tabela 7** trata do cronograma planejado para o desenvolvimento de todas as 
 
 ## Bibliografia
 
-> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>>. Acesso em 28 de outubro de 2024.
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>>. Acesso em: 28 out. 2024.
 >
-> - Bilheteria Digital: Cronograma. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 28 de outubro de 2024.
+> - Bilheteria Digital: Cronograma. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 28 out. 2024.
 >
-> - Economia DF: Cronograma de Planejamento Detalhado. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md>>. Acesso em 28 de outubro de 2024.
+> - Economia DF: Cronograma de Planejamento Detalhado. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md>>. Acesso em: 28 out. 2024.
 >
-> - Economia DF: Cronograma Executado do Projeto. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md>>. Acesso em 28 de outubro de 2024.
+> - Economia DF: Cronograma Executado do Projeto. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md>>. Acesso em: 28 out. 2024.
 
 ## Histórico de Versão
 
 | Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
 | :-----: | :--------: | --------- | --------- | ----------- |
-| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.3`   | 29/10/2024 | Criação da tabela do cronograma de planejamento referente à entrega final, correção de erros e adição de novas datas. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.3`   | 29/10/2024 | Criação da tabela do cronograma de planejamento referente à entrega final, correção de erros e adição de novas datas. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |

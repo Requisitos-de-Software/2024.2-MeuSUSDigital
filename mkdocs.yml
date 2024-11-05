@@ -1,5 +1,5 @@
-site_name: "Grupo 4"
-site_url: "https://requisitos-de-software.github.io/2024.2-Grupo04/"
+site_name: "Meu SUS Digital"
+site_url: "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/"
 theme:
   name: "material"
 
@@ -7,13 +7,17 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-    - Ata 01: atas/ata01.md
-    - Ata 02: atas/ata02.md
-  - Planejamento: 
-    - Aplicativo selecionado: planejamento/apps-avaliados.md
-    - Ferramentas: planejamento/ferramentas.md
-    - HeatMap: planejamento/heatmap.md
+    - Ata 1º reunião: atas/ata01.md
+  - Planejamento:
+    - Aplicativo Selecionado: planejamento/apps-avaliados.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
     - Cronograma de Execução: planejamento/cronograma-execucao.md
-  - Lista de Verificação: verificacao/lista_ver.md
+    - Ferramentas: planejamento/ferramentas.md
+    - HeatMap: planejamento/heatmap.md
+    - Lista de Verificação: verificacao/lista_ver.md
+    - Rich Picture: planejamento/rich-picture.md
+    - Termo de Uso: planejamento/termo-de-uso.md
+    
+    
   
+
