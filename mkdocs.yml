@@ -7,7 +7,8 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-    - Ata 1º reunião: atas/ata01.md
+    - Ata 01: atas/ata01.md
+    - Ata 02: atas/ata02.md
   - Planejamento:
     - Aplicativo Selecionado: planejamento/apps-avaliados.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
