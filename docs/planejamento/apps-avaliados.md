@@ -63,21 +63,17 @@ Segue, abaixo, a **Imagem 3** contendo tanto o Rich Picture Officer 365 quanto s
 
 <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/legenda-rich-picture-Officer-365.jpg?raw=true">
 
-<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
-
 
 ### ???
 
 ### ???
 
-## Histórico de Versão
 
+## Histórico de versão
 <center>
 
-
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento |  [Pedro Lopes](https://github.com/pLopess) | 27/10/2024   | [???]() ||
-|  1.01  |Adição de Rich Picture| [Emivalto junior](https://github.com/EmivaltoJrr)|05/11/2024| [???]()||
-
+| Versão  | Data       | Descrição | Autor(es) | Revisor(es) | Data de revisão |
+| :-----: | :--------: | --------- | --------- | ----------- |
+| `1.0`   | 27/10/2024 |  Criação do documento. | [Pedro Lopes](https://github.com/pLopess) |
+| `1.1`   | 05/11/2024 | Adição de Rich Picture. | [Emivalto junior](https://github.com/EmivaltoJrr) |
 </center>
