@@ -10,12 +10,12 @@ Apos a primeira reunião estudamos os horários dos integrantes da equipe para c
 
 </br>
 
-Logo, através do estudo do Heatmap, a equipe então definiu que os melhores horários para reunião poderias ser nas segundas entre as 14H ate as 20h, terças e quintas no horário entre 21h as 22h, sendo que nasegunda seria uma revisão geral e o planejamento das sprints, e na terça seria mais um feadback da reunição de segunda caso algum mebro tivesse perdido algo e tambem pra ver se já iniciou algo das sprint seguinte, e na quinta o fechamento/abertura de sprints, e optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos as reuniões.
+Logo, através do estudo do Heatmap, a equipe então definiu que os melhores horários para reunião poderia ser nas segundas entre as 14h ate as 18h, terças e quintas no horário entre 21h as 22h, sendo que na segunda seria uma revisão geral e o planejamento das sprints, e na terça seria um feadback da reunição de segunda caso algum mebro tivesse perdido algo e tambem pra ver se já iniciou algo das sprint seguinte, e na quinta o fechamento/abertura de sprints, e optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos as reuniões.
 
-## Histórico de versão
+## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0  | Adição de Rich Picture |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   | [???]() ||
+|  1.0  | Adição de Rich Picture |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 
 
 </center>

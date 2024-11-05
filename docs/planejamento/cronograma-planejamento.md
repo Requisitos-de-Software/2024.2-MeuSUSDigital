@@ -165,11 +165,11 @@ A **Tabela 7** trata do cronograma planejado para o desenvolvimento de todas as 
 >
 > - Economia DF: Cronograma Executado do Projeto. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_executado.md>>. Acesso em: 28 out. 2024.
 
-## Histórico de Versão
+## 📑 Histórico de Versão
 
 | Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
 | :-----: | :--------: | --------- | --------- | ----------- |
-| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) |
-| `1.3`   | 29/10/2024 | Criação da tabela do cronograma de planejamento referente à entrega final, correção de erros e adição de novas datas. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| `1.0`   | 28/10/2024 | Criação da estrutura, bibliografia e descrição do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.1`   | 28/10/2024 | Criação da tabela do cronograma de planejamento referente à Etapa 1 do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.2`   | 28/10/2024 | Criação das demais tabelas do cronograma de planejamento referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.3`   | 29/10/2024 | Criação da tabela do cronograma de planejamento referente à entrega final, correção de erros e adição de novas datas. | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
