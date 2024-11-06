@@ -46,13 +46,13 @@ A tabela 1 apresenta sobre o checklist com os dados obtidos a partir das verific
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 |  |  |  | DD/MM/AA | HH:MM |
-| 02 |  |  |  | DD/MM/AA | HH:MM |
-| 03 |  |  |  | DD/MM/AA | HH:MM |
-| 04 |  |  |  | DD/MM/AA | HH:MM |
-| 05 |  |  |  | DD/MM/AA | HH:MM |
-| 06 |  |  |  | DD/MM/AA | HH:MM |
-| 07 |  |  |  | DD/MM/AA | HH:MM |
+| 01 | Sim |  |  | DD/MM/AA | HH:MM |
+| 02 | Sim |  |  | DD/MM/AA | HH:MM |
+| 03 | Sim |  |  | DD/MM/AA | HH:MM |
+| 04 | Sim |  |  | DD/MM/AA | HH:MM |
+| 05 | Sim |  |  | DD/MM/AA | HH:MM |
+| 06 | Sim |  |  | DD/MM/AA | HH:MM |
+| 07 | Sim |  |  | DD/MM/AA | HH:MM |
 
 <div align="center">
     <p><strong>Tabela 1 – Padronização</strong></p>
