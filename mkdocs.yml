@@ -13,12 +13,12 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Planejamento:
-    - Aplicativos Avaliados: planejamento/apps-avaliados.md
-    - Aplicativo Selecionado: planejamento/app-selecionado.md
+    - HeatMap: planejamento/heatmap.md
+    - Ferramentas: planejamento/ferramentas.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
     - Cronograma de Execução: planejamento/cronograma-execucao.md
-    - Ferramentas: planejamento/ferramentas.md
-    - HeatMap: planejamento/heatmap.md
+    - Aplicativos Avaliados: planejamento/apps-avaliados.md
+    - Aplicativo Selecionado: planejamento/app-selecionado.md
     - Termo de Uso: planejamento/termo-de-uso.md
   - Verificação:
       - Visão Geral: verificacao/lista-verificacao.md
