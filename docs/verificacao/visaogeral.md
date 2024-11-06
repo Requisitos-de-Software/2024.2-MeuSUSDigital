@@ -94,9 +94,13 @@
 
 | N° |                      Questão                          | Autor |
 |----|-------------------------------------------------------|-------|
-| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? [1](#figura-1) |  |
-| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? [2](#figura-1) |  |
-| 03 |  |  |
+| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? [1]{#figura-1}|  |
+| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? [2]{#figura-1} |  |
+| 03 | O Rich Picture indica de alguma forma as motivações/intenções das pessoas envolvidas? [3]{#figura-2} | João Pedro |
+| 04 | O Rich Picture apresenta os limites do sistema? [4]{#figura-3}|  |
+| 05 | O Rich Picture apresenta cada ator relacionado com pelo menos uma atividade? [5]{#figura-4}|  |
+| 06 | O Rich Picture apresenta o fluxo de dados entre atores e sistema, e entre os componentes do sistema? [6]{#figura-4} |  |
+| 07 | O Rich Picture informa os dados que são transmitidos, e o sentido em que são transmitidos? [7]{#figura-5} |  |
 
 ### Tabela 3.2: Respostas da Verificação do Rich Pictures - Autoavaliação
 
@@ -132,12 +136,37 @@
 
 ### figura 1: Referência de Rich Picture {#figura-1}
 
-![Referência para rich pictures](../assets/images/richpicture.png)
+![[../assets/images/richpicture.png]]
 
 Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
+
+### Figura 2: Preocupações dos Envolvidos {#figura-2}
+
+![[../assets/images/includeconcerns.png]]
+
+(HOWARD, Steve; MONK, Andrew; Methods and Tools, p. 24)
+
+### Figura 3: Limites do Sistema {#figura-3}
+
+![[../assets/images/systemboundaries.png]]
+
+(CTEC2402, Software Development Project, p. 5) 
+
+### Figura 4: Utilidade do Rich Picture {#figura-4}
+
+![[../assets/images/rputilities.png]]
+
+(CTEC2402 Software Development Project, p. 1)
+
+### Figura 5: Uma possível abordagem de Rich Picture {#figura-5}
+
+![[../assets/images/rpapproach.png]]
+
+(CTEC2402 Software Development Project, p. 4)
 
 ## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
 |  1.0   | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 30/10/2024 |  |  |
+|  1.1   | Incremento da LV de Rich Picture | [João Pedro](https://github.com/JoosPerro) | 05/11/2024 |  |
