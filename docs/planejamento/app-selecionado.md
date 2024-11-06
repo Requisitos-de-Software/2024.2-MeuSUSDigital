@@ -27,7 +27,7 @@ Esse processo metódico demonstra o compromisso da equipe com a qualidade e a ef
 * Steam: Com o aplicativo móvel gratuito do Steam, você pode levá-lo para qualquer lugar. Compre jogos para PC e fique por dentro das últimas novidades dos seus jogos e da comunidade, enquanto protege sua conta Steam.
 * Correios: O aplicativo oferece serviços de simulação de preços e prazos de encomendas nacionais e internacionais, rastreamento de encomendas, busca por agências, entre outros.
 * Meu SUS Digital: A porta de acesso aos serviços do Sistema Único de Saúde (SUS) de forma digital está de cara nova! O antigo "Conecte SUS" agora é Meu SUS Digital. O aplicativo permite que o cidadão acompanhe, na palma da mão, o seu histórico clínico e acesse diversas soluções para que ele seja o protagonista da sua saúde. É um compromisso contínuo do Governo Federal e do Ministério da Saúde em aprimorar a experiência do usuário e fortalecer o SUS!
-* Office 365: O Microsoft 365 é o aplicativo de produtividade para trabalho e vida pessoal que ajuda você a encontrar e editar arquivos, digitalizar documentos e criar conteúdo em qualquer lugar com o Copilot*, Word, Excel, PowerPoint e PDFs, tudo em um único aplicativo.
+* Office 365: O Microsoft 365 é o aplicativo de produtividade para trabalho e vida pessoal que ajuda você a encontrar e editar arquivos, digitalizar documentos e criar conteúdo em qualquer lugar com o Copilot, Word, Excel, PowerPoint e PDFs, tudo em um único aplicativo.
 * Baratão Combustíveis: O Baratão Combustíveis é um aplicativo que oferece desconto na compra de combustível e uma variedade de serviços automotivos, como oficinas, pneus, lavagem, e muito mais.
   
 ## Aplicativo escolhido 
@@ -78,4 +78,4 @@ O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 05/11/2024| Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | |
+`1.0` | 05/11/2024| Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |[Emivalto Júnior](https://github.com/EmivaltoJrr)|
