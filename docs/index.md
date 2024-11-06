@@ -1,4 +1,4 @@
- # 📱Meu SUS Digital
+# 📱Meu SUS Digital
 
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/meu-sus-digital-logo.png?raw=true" width="500">
