@@ -134,33 +134,33 @@
 
 ## Referências Bibliográficas
 
-### figura 1: Referência de Rich Picture {#figura-1}
+### figura 1: Referência de Rich Picture
 
-![[../assets/images/richpicture.png]]
+![Figura 1](../assets/images/richpicture.png)
 
 Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
-### Figura 2: Preocupações dos Envolvidos {#figura-2}
+### Figura 2: Preocupações dos Envolvidos
 
-![[../assets/images/includeconcerns.png]]
+![Figura 2](../assets/images/includeconcerns.png)
 
 (HOWARD, Steve; MONK, Andrew; Methods and Tools, p. 24)
 
-### Figura 3: Limites do Sistema {#figura-3}
+### Figura 3: Limites do Sistema
 
-![[../assets/images/systemboundaries.png]]
+![Figura 3](../assets/images/systemboundaries.png)
 
 (CTEC2402, Software Development Project, p. 5) 
 
-### Figura 4: Utilidade do Rich Picture {#figura-4}
+### Figura 4: Utilidade do Rich Picture
 
-![[../assets/images/rputilities.png]]
+![Figura 4](../assets/images/rputilities.png)
 
 (CTEC2402 Software Development Project, p. 1)
 
-### Figura 5: Uma possível abordagem de Rich Picture {#figura-5}
+### Figura 5: Uma possível abordagem de Rich Picture
 
-![[../assets/images/rpapproach.png]]
+![Figura 5](../assets/images/rpapproach.png)
 
 (CTEC2402 Software Development Project, p. 4)
 
