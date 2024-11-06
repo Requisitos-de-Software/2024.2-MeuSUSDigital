@@ -75,6 +75,9 @@ Com o intuito de melhor organizar a verificação, o checklist será dividido em
 | 08 | Sim |  |  | DD/MM/AA | HH:MM |
 | 09 | Sim |  |  | DD/MM/AA | HH:MM |
 
+### Gravação Autoavaliação
+
+https://youtu.be/4ZSyIVl7qtc
 
 ## Referencias Bibliograficas
 
