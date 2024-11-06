@@ -33,13 +33,13 @@ A tabela 1 a ser apresenta sobre o checklist com os dados obtidos a partir das v
 |    4     | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  |    ?    |             -             |
 |    5     | Todos os textos estão na norma padrão?                                        |    ?    |             -      
 
-_Fonte: Elaborada por [Emivalto](https://github.com/EmivaltoJrr)
+Fonte: Elaborada por [Emivalto](https://github.com/EmivaltoJrr)
 
-**Tebela 2 de Rich Picture** 
+**Tabela 2 de Rich Picture** 
 |    ID   |                     Descrição                                                | Avaliação  |       Observações      |
 | :-----: | ---------------------------------------------------------------------------- | :--------: | :--------------------: |     
 |    1    | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  |  ?   |      -      |
-|    2    | Foi utilizada alguma técnica (brainstorming, storyboarding ou paper-based prototyping) na produção do rich picture? |  ?   |   -  |
+|    2    | Foi utilizada alguma técnica (brainstorming, storyboarding ou paper-based prototyping) na produção do rich picture? |  ?   |   - |
 |    3    | O artefato está conciso?                                                     |    ?     |             -            |
 |    4    | O rich picture consegue comunicar a sua ideia sem excesso de palavras?       |    ?     |             -            |
 |    5    | Ele conta uma história?                                                      |    ?     |             -            |
@@ -47,9 +47,9 @@ _Fonte: Elaborada por [Emivalto](https://github.com/EmivaltoJrr)
 |    7    | O rich picture dá uma ideia do que realmente está acontecendo?               |    ?     |             -            |
 |    8    | Contém palavras-chave relevantes?                                            |    ?     |             -            |
 |    9    | Comunica mais ideias do que palavras?                                        |    ?     |             -            |
-|    10    | Contém a explicação dos componentes?                                        |    ?     |             -            |
+|    10   | Contém a explicação dos componentes?                                        |    ?     |             -            |
 
-_Fonte: Elaborada por [Emivalto](https://github.com/EmivaltoJrr)
+Fonte: Elaborada por [Emivalto](https://github.com/EmivaltoJrr)
 
 ## Referências Bibliográficas
 
