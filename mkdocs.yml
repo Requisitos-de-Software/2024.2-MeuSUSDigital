@@ -6,18 +6,26 @@ theme:
 
 nav:
   - Home: index.md
+  - Apresentação:
+    - Apresentação 01: apresentacao/apresentacao01.md
   - Atas:
     - Ata 01: atas/ata01.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Planejamento:
-    - Aplicativo Selecionado: planejamento/apps-avaliados.md
+    - Aplicativos Avaliados: planejamento/apps-avaliados.md
     - Cronograma de Planejamento: planejamento/cronograma-planejamento.md
     - Cronograma de Execução: planejamento/cronograma-execucao.md
     - Ferramentas: planejamento/ferramentas.md
     - HeatMap: planejamento/heatmap.md
-    - Lista de Verificação: verificacao/lista_ver.md
-    - Rich Picture: planejamento/rich-picture.md
     - Termo de Uso: planejamento/termo-de-uso.md
+  - Verificação:
+      -Grupo 4:
+        -Entrega 1:
+          -Planejamento da Verificação da Entrega 1: verificacao/grupo4/entrega1/entrega1.md
+         -Rich Picture: verificacao/grupo4/entrega1/entrega1.1.md
+     - Grupo +1 (5): 
+        -Entrega 1:
+            -Verificação grupo 5: verificacao/grupo5/entrga1/entrega1g5.md
+        
     
-    
-  
-
