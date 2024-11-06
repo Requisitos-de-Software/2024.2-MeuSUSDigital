@@ -1,4 +1,4 @@
-# Meu SUS Digital
+ # 📱Meu SUS Digital
 
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/meu-sus-digital-logo.png?raw=true" width="500">
@@ -10,7 +10,7 @@ O Meu SUS Digital é uma iniciativa que visa digitalizar e facilitar o acesso ao
 
 Somos o Grupo 04 da disciplina Requisitos de Software da Universidade de Brasília - UnB, ministrada pelo professor André Barros durante o segundo semestre de 2024. Nosso objetivo é analisar e documentar os requisitos do aplicativo Meu SUS Digital, contribuindo para a melhoria contínua dos serviços oferecidos à população.
 
-## Equipe
+## 👥 Equipe
 
 A equipe do projeto é composta por cinco integrantes dedicados, conforme apresentado na **Tabela 1**. Cada membro traz habilidades únicas que contribuem para o sucesso do projeto.
 
@@ -54,10 +54,7 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
   <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
-
-
-
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
