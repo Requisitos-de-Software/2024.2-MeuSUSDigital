@@ -63,7 +63,35 @@ A tabela 1 apresenta sobre o checklist com os dados obtidos a partir das verific
 
 ## 📚 Referências Bibliográficas
 
-### figura 1: Referência de Rich Picture {#figura-1}
+### figura 1: Referência de Rich Picture
+
+![Figura 1](../assets/images/richpicture.png)
+
+Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
+
+### Figura 2: Preocupações dos Envolvidos
+
+![Figura 2](../assets/images/includeconcerns.png)
+
+(HOWARD, Steve; MONK, Andrew; Methods and Tools, p. 24)
+
+### Figura 3: Limites do Sistema
+
+![Figura 3](../assets/images/systemboundaries.png)
+
+(CTEC2402, Software Development Project, p. 5) 
+
+### Figura 4: Utilidade do Rich Picture
+
+![Figura 4](../assets/images/rputilities.png)
+
+(CTEC2402 Software Development Project, p. 1)
+
+### Figura 5: Uma possível abordagem de Rich Picture
+
+![Figura 5](../assets/images/rpapproach.png)
+
+(CTEC2402 Software Development Project, p. 4)
 
 
 Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
