@@ -1,8 +1,12 @@
 # Aplicativos Avaliados
 
+
+
 ## Introdução
 
 Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicativo que tivesse potencial para ser analisado. O propósito dessa etapa foi selecionar um aplicativo que serviria como o foco principal de estudo para a disciplina de Requisitos de Software. A **Tabela 1** a seguir mostra os aplicativos considerados, acompanhados do nome do integrante/avaliador responsável por cada análise/avaliação.
+
+
 
 <center>
   
@@ -85,7 +89,7 @@ O [Correios](https://www.correios.com.br/app-dos-correios) é um aplicativo ofic
 
 ---
 
-## Referências Bibliográficas
+## 📚 Referências Bibliográficas
 
 > - BARATÃO COMBUSTÍVEIS. Baratão Combustíveis. Baratão Combustíveis, 2024. Disponível em: https://barataocombustiveis.com.br. Acesso em: 05 nov. 2024.
 >
@@ -96,6 +100,7 @@ O [Correios](https://www.correios.com.br/app-dos-correios) é um aplicativo ofic
 > - MICROSOFT. Office 365. Microsoft, 2024. Disponível em: https://www.office.com/. Acesso em: 05 nov. 2024.
 >
 > - VALVE CORPORATION. Steam. Valve Corporation, 2024. Disponível em: https://store.steampowered.com/. Acesso em: 05 nov. 2024.
+
 
 
 ## 📑 Histórico de Versões
