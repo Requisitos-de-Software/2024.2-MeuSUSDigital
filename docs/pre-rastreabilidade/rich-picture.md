@@ -1,30 +1,30 @@
-# Rich Picture
+# *Rich Picture*
 
 
 
 ## Descrição
 
-O Rich Picture é uma representação visual e informal de um sistema ou problema, utilizada para capturar e organizar ideias complexas de maneira acessível. Por meio de desenhos, ícones, textos e símbolos, ele ilustra atores, processos, fluxos de informação, dados e fronteiras do sistema, proporcionando uma visão holística e intuitiva.
+O *Rich Picture* é uma representação visual e informal de um sistema ou problema, utilizada para capturar e organizar ideias complexas de maneira acessível. Por meio de desenhos, ícones, textos e símbolos, ele ilustra atores, processos, fluxos de informação, dados e fronteiras do sistema, proporcionando uma visão holística e intuitiva.
 
 Essa ferramenta é útil para facilitar o entendimento de todos os envolvidos, ajudando a identificar relações, problemas e possíveis melhorias. Além disso, serve como base para discussão entre stakeholders, promovendo clareza e alinhamento sobre os elementos e interações principais do sistema. Em resumo, o Rich Picture é um ponto de partida valioso para o planejamento e análise de sistemas, especialmente em etapas iniciais de um projeto.
 
-Neste documento, podemos observar o Rich Picture do aplicativo Meu SUS Digital. Aplicativo este que foi selecionado pelos integrantes desta equipe com a finalidade de, tendo o mesmo como foco de trabalho, desenvolvermos um projeto na disciplina de Requisitos de Software.
+Neste documento, podemos observar o *Rich Picture* do aplicativo Meu SUS Digital. Aplicativo este que foi selecionado pelos integrantes desta equipe com a finalidade de, tendo o mesmo como foco de trabalho, desenvolvermos um projeto na disciplina de Requisitos de Software.
 
 
 
 ## Metodologia e Ferramentas
 
-Tendo como base o conhecimento obtido dentro de sala de aula, bem como os materiais disponíveis no moodle (plataforma de aprendizagem online) utilizado na disciplina, produzimos o Rich Picture do app selecionado utilizando o [diagrams.net](https://app.diagrams.net/) como ferramenta.
+Tendo como base o conhecimento obtido dentro de sala de aula, bem como os materiais disponíveis no moodle (plataforma de aprendizagem online) utilizado na disciplina, produzimos o *Rich Picture* do aplicativo selecionado utilizando o [diagrams.net](https://app.diagrams.net/) como ferramenta.
 
 
 
-## Rich Picture do aplicativo Meu SUS Digital
+## *Rich Picture* do aplicativo Meu SUS Digital
 
-Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do aplicativo Meu SUS Digital quanto sua legenda.
+Abaixo, podemos identificar a **Figura 1** contendo tanto o *Rich Picture* do aplicativo Meu SUS Digital quanto sua legenda.
 
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
-    <p><strong>Figura 1 – Rich Picture do app Meu SUS Digital</strong></p>
+    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
@@ -44,4 +44,4 @@ Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do apli
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação da estrutura inicial do documento referente ao Rich Picture do app selecionado. | [Artur Ricardo](https://github.com/algorithmorphic) | 04/11/2024 | | |
+| `1.0`  | Criação da estrutura inicial do documento referente ao *Rich Picture* do aplicativo selecionado. | [Artur Ricardo](https://github.com/algorithmorphic) | 04/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 06/11/2024 |
