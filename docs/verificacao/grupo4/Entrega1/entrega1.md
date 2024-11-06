@@ -33,6 +33,18 @@ Com o intuito de melhor organizar, a verificação, o checklist de verificação
 | 07 | O github pages possui opção de contraste de cores? | André Barros |
 
 
+### Tabela 1.2: Respostas da Verificação do Planejamento Geral - Autoavaliação
+
+| N° | Resposta | Observação | Versão do Artefato | Data | Horário |
+|----|----------|------------|--------------------|------|---------|
+| 01 |  |  |  | DD/MM/AA | HH:MM |
+| 02 |  |  |  | DD/MM/AA | HH:MM |
+| 03 |  |  |  | DD/MM/AA | HH:MM |
+| 04 |  |  |  | DD/MM/AA | HH:MM |
+| 05 |  |  |  | DD/MM/AA | HH:MM |
+| 06 |  |  |  | DD/MM/AA | HH:MM |
+| 07 |  |  |  | DD/MM/AA | HH:MM |
+
 ## 2. Verificação do Desenvolvimento do Projeto
 
 ### Tabela 2.1: Questões do Desenvolvimento do Projeto
@@ -49,14 +61,20 @@ Com o intuito de melhor organizar, a verificação, o checklist de verificação
 | 08 | As reuniões de grupo foram gravadas? | André Barros |
 | 09 | O vídeo de apresentação tem categoria “não listado” no youtube? | André Barros |
 
-## 3. Verificação dos Rich Pictures
+### Tabela 2.2: Respostas da Verificação do Desenvolvimento do Projeto - Autoavaliação
 
-### Tabela 3.1: Questões do Rich Picture
+| N° | Resposta | Observação | Versão do Artefato | Data | Horário |
+|----|----------|------------|--------------------|------|---------|
+| 01 |  |  |  | DD/MM/AA | HH:MM |
+| 02 |  |  |  | DD/MM/AA | HH:MM |
+| 03 |  |  |  | DD/MM/AA | HH:MM |
+| 04 |  |  |  | DD/MM/AA | HH:MM |
+| 05 |  |  |  | DD/MM/AA | HH:MM |
+| 06 |  |  |  | DD/MM/AA | HH:MM |
+| 07 |  |  |  | DD/MM/AA | HH:MM |
+| 08 |  |  |  | DD/MM/AA | HH:MM |
+| 09 |  |  |  | DD/MM/AA | HH:MM |
 
-| N° |                      Questão                          | Autor |
-|----|-------------------------------------------------------|-------|
-| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? [1](#figura-1) |  |
-| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? [2](#figura-1) |  |
 
 ## Referencias Bibliograficas
 
@@ -65,4 +83,4 @@ Com o intuito de melhor organizar, a verificação, o checklist de verificação
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0  | Criação do Documento |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   |  |  |
+|  1.0  | Criação do Documento |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
