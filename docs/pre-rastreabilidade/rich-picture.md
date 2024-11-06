@@ -1,5 +1,7 @@
 # Rich Picture
 
+
+
 ## Descrição
 
 O Rich Picture é uma representação visual e informal de um sistema ou problema, utilizada para capturar e organizar ideias complexas de maneira acessível. Por meio de desenhos, ícones, textos e símbolos, ele ilustra atores, processos, fluxos de informação, dados e fronteiras do sistema, proporcionando uma visão holística e intuitiva.
@@ -8,9 +10,13 @@ Essa ferramenta é útil para facilitar o entendimento de todos os envolvidos, a
 
 Neste documento, podemos observar o Rich Picture do aplicativo Meu SUS Digital. Aplicativo este que foi selecionado pelos integrantes desta equipe com a finalidade de, tendo o mesmo como foco de trabalho, desenvolvermos um projeto na disciplina de Requisitos de Software.
 
+
+
 ## Metodologia e Ferramentas
 
 Tendo como base o conhecimento obtido dentro de sala de aula, bem como os materiais disponíveis no moodle (plataforma de aprendizagem online) utilizado na disciplina, produzimos o Rich Picture do app selecionado utilizando o [diagrams.net](https://app.diagrams.net/) como ferramenta.
+
+
 
 ## Rich Picture do aplicativo Meu SUS Digital
 
@@ -22,6 +28,8 @@ Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do apli
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
+
+
 ## 📚 Bibliografia
 
 > - SALES, André Barros de. _Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures)_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf>. Acesso em: 04 nov. 2024.
@@ -29,6 +37,8 @@ Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do apli
 > - SALES, André Barros de. _Rich Picture! O que é? Como fazer?_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/mod/url/view.php?id=1305240>. Acesso em: 04 nov. 2024.
 >
 > - SALES, André Barros de. _Rich pictures_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972425/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>. Acesso em: 04 nov. 2024.
+
+
 
 ## 📑 Histórico de Versões
 
