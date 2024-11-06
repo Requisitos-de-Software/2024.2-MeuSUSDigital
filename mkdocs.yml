@@ -2,6 +2,18 @@ site_name: "Meu SUS Digital"
 site_url: "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/"
 theme:
   name: "material"
+  palette:
+    - scheme: light
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
  
 nav:
 
