@@ -4,7 +4,7 @@
 
 Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicativo que tivesse potencial para ser analisado. O propósito dessa etapa foi selecionar um aplicativo que serviria como o foco principal de estudo para a disciplina de Requisitos de Software. A **Tabela 1** a seguir mostra os aplicativos considerados, acompanhados do nome do integrante/avaliador responsável por cada análise/avaliação.
 
-<div align="center">
+<center>
   
 | Aplicativo Avaliado  | Avaliador(a)                                               |
 | :------------------: | :--------------------------------------------------------: |
@@ -14,7 +14,7 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 | Baratão Combustíveis | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 | Correios             | [João Pedro](https://github.com/JoosPerro)                 |
 
-</div>
+</center>
 
 <div align="center">
     <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
