@@ -2,16 +2,20 @@ site_name: "Meu SUS Digital"
 site_url: "https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/"
 theme:
   name: "material"
-
-
+ 
 nav:
+
   - Home: index.md
+  
   - Apresentação:
     - Apresentação 01: apresentacao/apresentacao01.md
+    
   - Atas:
     - Ata 01: atas/ata01.md
+    
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
+    
   - Planejamento:
     - Aplicativos Avaliados: planejamento/apps-avaliados.md
     - Aplicativo Selecionado: planejamento/app-selecionado.md
@@ -20,10 +24,17 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - HeatMap: planejamento/heatmap.md
     - Termo de Uso: planejamento/termo-de-uso.md
+    
   - Verificação:
     - Visao Geral: verificacao/lista-verificacao.md
     - Grupo 4: verificacao/grupo4.md
+      - Entrega 1:
+        - Planejamento da Verificação da Entrega 1: verificacao/grupo4/entrega1/entrega1.md
+        - Rich Picture: verificacao/grupo4/entrega1/entrega1.1.md
     - Grupo +1 (5): verificacao/grupo5.md
+      - Entrega 1:
+        - Verificação grupo 5: verificacao/grupo5/entrega1/entrega1g5.md
     
   
+
 
