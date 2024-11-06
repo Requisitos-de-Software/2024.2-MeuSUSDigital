@@ -80,7 +80,7 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
   <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
-## Referências
+## 📚 Referências
 
 > [1] DIAGRAMS.NET. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 03 nov. 2024.
 >
@@ -111,6 +111,8 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 > [14] WHATSAPP. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 03 nov. 2024.
 >
 > [15] YOUTUBE. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 03 nov. 2024.
+
+
 
 ## 📑 Histórico de Versões
 
