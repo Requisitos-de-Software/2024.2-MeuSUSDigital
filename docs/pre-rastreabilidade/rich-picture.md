@@ -22,7 +22,7 @@ Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do apli
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
-## Bibliografia
+## 📚 Bibliografia
 
 > - SALES, André Barros de. _Introducing Rich Pictures - Rich Picture Drawing Guidelines (Diretrizes para desenhar Rich Pictures)_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf>. Acesso em: 04 nov. 2024.
 >
