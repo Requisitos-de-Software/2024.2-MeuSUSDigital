@@ -8,17 +8,38 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 
 
 
-<center>
-  
-| Aplicativo Avaliado  | Avaliador(a)                                               |
-| :------------------: | :--------------------------------------------------------: |
-| Meu SUS Digital      | [Artur Ricardo](https://github.com/algorithmorphic)        |
-| Office 365           | [Emivalto junior](https://github.com/EmivaltoJrr)          |
-| Steam                | [Pedro Lopes](https://github.com/pLopess)                  |
-| Baratão Combustíveis | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Correios             | [João Pedro](https://github.com/JoosPerro)                 |
-
-</center>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center;">Aplicativo Avaliado</th>
+        <th style="text-align: center;">Avaliador(a)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">Meu SUS Digital</td>
+        <td style="text-align: center;"><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Office 365</td>
+        <td style="text-align: center;"><a href="https://github.com/EmivaltoJrr">Emivalto junior</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Correios</td>
+        <td style="text-align: center;"><a href="https://github.com/JoosPerro">João Pedro</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Baratão Combustíveis</td>
+        <td style="text-align: center;"><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Steam</td>
+        <td style="text-align: center;"><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div align="center">
     <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
