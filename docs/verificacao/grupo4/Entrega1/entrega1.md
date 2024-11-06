@@ -1,11 +1,11 @@
 # Panorama da 1ªEntrega Grupo 4
 
 ## Introdução
-Nessa primeira etapa a verificação é uma das etapas mais importantes do desenvolvimento de qualquer projeto. Já que e nessa etapa onde os artefatos produzidos são analisados para que os mesmos cumpram com os seus requisitos especificados. Desse modo, os artefatos que serão vistos a seguir visa apresentar o planejamento para a verificação de cada artefato da primeira entrega do grupo.
+Nessa primeira etapa a verificação é uma das etapas mais importantes do desenvolvimento de qualquer projeto. Já que é nessa etapa onde os artefatos produzidos são analisados para que os mesmos cumpram com os seus requisitos especificados. Desse modo, os artefatos que serão vistos a seguir visa apresentar o planejamento para a verificação de cada artefato da primeira entrega do grupo.
 
 ## Objetivos
 
-O objetivo a ser realizado por este documento é verificar se os artefatos produzidos nesta primeira etapa do grupo possuem os itens e o padrão exigidos. É importante citar que essa verificação não tem como intuito diminuir os membros responsáveis por cada artefato ou seu trabalho, apenas aplicar os conceitos de verificação e se cumprem seu papel.
+O objetivo a ser realizado por este documento é verificar se os artefatos produzidos nesta primeira etapa do grupo possuem os itens e o padrão exigidos. É importante citar que essa verificação não tem como intuito diminuir os membros responsáveis por cada artefato ou seu trabalho, apenas aplicar os conceitos de verificação e confirmar se cumprem seu papel.
 
 ## Metodologia
 
@@ -13,9 +13,9 @@ O Grupos após as reuniões resolveu adotar a metodologia de verificação por i
 
 ## Checklists
 
-Em todas as entregas haverá uma pessoa responsável por revisar o que foi elaborado e assim fazer as devidas correções, com isso deverá ser elaborado um checklist de todas as verificações se foram cumpridas, e como o esperado.
+Em todas as entregas haverá uma pessoa responsável por revisar o que foi elaborado e assim fazer as devidas correções, com isso deverá ser elaborado um checklist de todas as verificações, se foram cumpridas conforme o esperado.
 
-Com o intuito de melhor organizar, a verificação, o checklist de verificação serão divididos em 2 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist Geral. Esse checklist poderá ser alterado durante o desenvolvimento do projeto e com isso mudando sua versão para melhor se adequar a necessidade do grupo.
+Com o intuito de melhor organizar a verificação, o checklist será dividido em 2, sendo que uma parte deverá estar presente em todas as etapas de verificação, (esta é a checklist Geral). Esse checklist poderá ser alterado durante o desenvolvimento do projeto e com isso mudando sua versão para melhor se adequar a necessidade do grupo.
 
 
 ## 1. Verificação do Planejamento Geral do Projeto

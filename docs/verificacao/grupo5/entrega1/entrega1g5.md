@@ -1,6 +1,6 @@
 # Avaliação Grupo + 1
 
-### Tabela 1.1: Questões do Planejamento Geral
+### Tabela 1: Questões do Planejamento Geral
 
 | N° |                      Questão                          | Autor |
 |----|-------------------------------------------------------|-------|
@@ -14,7 +14,7 @@
 
 
 
-### Tabela 1.3: Respostas da Verificação do Planejamento Geral - Grupo 5
+### Tabela 2: Respostas da Verificação do Planejamento Geral - Grupo 5
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
@@ -30,7 +30,7 @@
 
 ## 2. Verificação do Desenvolvimento do Projeto
 
-### Tabela 2.1: Questões do Desenvolvimento do Projeto
+### Tabela 3: Questões do Desenvolvimento do Projeto
 
 | N° |                      Questão                          | Autor |
 |----|-------------------------------------------------------|-------|
@@ -67,15 +67,15 @@
 
 | N° |                      Questão                          | Autor |
 |----|-------------------------------------------------------|-------|
-| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? [1] figura-1| André Barros |
-| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? [2] figura-1 | André Barros |
-| 03 | O Rich Picture indica de alguma forma as motivações/intenções das pessoas envolvidas? [3] figura-2 | João Pedro |
-| 04 | O Rich Picture apresenta os limites do sistema? [4] figura-3 | Artur Ricardo |
-| 05 | O Rich Picture apresenta cada ator relacionado com pelo menos uma atividade? [5] figura-4| Emivalto Júnior |
-| 06 | O Rich Picture apresenta o fluxo de dados entre atores e sistema, e entre os componentes do sistema? [6] figura-4 | Pedro Lopes |
-| 07 | O Rich Picture informa os dados que são transmitidos, e o sentido em que são transmitidos? [7] figura-5 | Matheus Henrick |
+| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? | André Barros |
+| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? | André Barros |
+| 03 | O Rich Picture indica de alguma forma as motivações/intenções das pessoas envolvidas? | João Pedro |
+| 04 | O Rich Picture apresenta os limites do sistema? | Artur Ricardo |
+| 05 | O Rich Picture apresenta cada ator relacionado com pelo menos uma atividade? | Emivalto Júnior |
+| 06 | O Rich Picture apresenta o fluxo de dados entre atores e sistema, e entre os componentes do sistema? | Pedro Lopes |
+| 07 | O Rich Picture informa os dados que são transmitidos, e o sentido em que são transmitidos? | Matheus Henrick |
 
-### Tabela 3.3: Respostas da Verificação do Desenvolvimento do Projeto - Grupo 5
+### Tabela 3.2: Respostas da Verificação do Desenvolvimento do Projeto - Grupo 5
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
@@ -86,3 +86,8 @@
 | 05 |  |  |  | DD/MM/AA | HH:MM |
 | 06 |  |  |  | DD/MM/AA | HH:MM |
 | 07 |  |  |  | DD/MM/AA | HH:MM |
+
+## 📑 Histórico de versão
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess)| 05/11/2024   | [João Pedro](https://github.com/JoosPerro) | 06/11/2024 |
