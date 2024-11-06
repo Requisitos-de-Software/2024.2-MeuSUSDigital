@@ -14,16 +14,13 @@ Tendo como base o conhecimento obtido dentro de sala de aula, bem como os materi
 
 ## Rich Picture do aplicativo Meu SUS Digital
 
-Segue, abaixo, a **Imagem 1** contendo tanto o Rich Picture do aplicativo Meu SUS Digital quanto sua legenda:
+Abaixo, podemos identificar a **Figura 1** contendo tanto o Rich Picture do aplicativo Meu SUS Digital quanto sua legenda.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Imagem 1</b> - Rich Picture do app Meu SUS Digital</p></font>
-
-<img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
-
-<font size="3"><p style="text-align: center">Fonte: [Artur Ricardo](https://github.com/algorithmorphic).</p></font>
-
-
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
+    <p><strong>Figura 1 – Rich Picture do app Meu SUS Digital</strong></p>
+    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
 
 ## Bibliografia
 
@@ -33,8 +30,8 @@ Segue, abaixo, a **Imagem 1** contendo tanto o Rich Picture do aplicativo Meu SU
 >
 > - SALES, André Barros de. _Rich pictures_. Aprender 3. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972425/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>. Acesso em: 04 nov. 2024.
 
-## 📑 Histórico de Versão
+## 📑 Histórico de Versões
 
-| Versão  | Data       | Descrição | Autor(es) | Revisor(es) |
-| :-----: | :--------: | --------- | --------- | ----------- |
-| `1.0`   | 04/11/2024 | Criação da estrutura inicial do documento referente ao Rich Picture do app selecionado. | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação da estrutura inicial do documento referente ao Rich Picture do app selecionado. | [Artur Ricardo](https://github.com/algorithmorphic) | 04/11/2024 | | |
