@@ -6,6 +6,10 @@
     <p>Fonte: <a href="https://meususdigital.saude.gov.br">Meu SUS Digital</a>.</p>
 </div>
 
+
+
+## 🤓 Projeto
+
 O Meu SUS Digital é uma iniciativa que visa digitalizar e facilitar o acesso aos serviços de saúde pública no Brasil. O aplicativo permite que os cidadãos consultem informações sobre o Sistema Único de Saúde (SUS), agendem consultas, acessem resultados de exames e recebam orientações médicas diretamente pelo smartphone, promovendo maior eficiência e comodidade no atendimento à saúde.
 
 Somos o Grupo 04 da disciplina Requisitos de Software da Universidade de Brasília - UnB, ministrada pelo professor André Barros durante o segundo semestre de 2024. Nosso objetivo é analisar e documentar os requisitos do aplicativo Meu SUS Digital, contribuindo para a melhoria contínua dos serviços oferecidos à população.
