@@ -71,7 +71,7 @@ Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
 ### Figura 2: Preocupações dos Envolvidos
 
-![Figura 2](../assets/images/includeconcerns.png)
+![Figura 2](assets/images/includeconcerns.png)
 
 (HOWARD, Steve; MONK, Andrew; Methods and Tools, p. 24)
 
