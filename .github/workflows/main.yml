@@ -42,8 +42,12 @@ jobs:
 
     - run: pip install mkdocs-material
     
-    - name: Copiar README.md para index.md
-      run: tail -n +2 README.md > docs/index.md
+    - name: Copiar README para index.md
+      run: cp README.md docs/index.md
+
+    - name: Remover primeiro caractere (#) se presente
+      run: sed -i '1s/^# //' docs/index.md
+
  
     - name: Deploy Docs
       run: mkdocs gh-deploy --force
