@@ -37,13 +37,13 @@ Com o intuito de melhor organizar a verificação, o checklist será dividido em
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 | Sim |  |  | DD/MM/AA | HH:MM |
-| 02 | Sim |  |  | DD/MM/AA | HH:MM |
-| 03 | Sim |  |  | DD/MM/AA | HH:MM |
-| 04 | Sim |  |  | DD/MM/AA | HH:MM |
-| 05 | Sim |  |  | DD/MM/AA | HH:MM |
-| 06 | Sim |  |  | DD/MM/AA | HH:MM |
-| 07 | Não |  |  | DD/MM/AA | HH:MM |
+| 01 | Sim |  |  | 06/11/2024 | 19:00 |
+| 02 | Sim |  |  | 06/11/2024 | 19:00 |
+| 03 | Sim |  |  | 06/11/2024 | 19:00 |
+| 04 | Sim |  |  | 06/11/2024 | 19:00 |
+| 05 | Sim |  |  | 06/11/2024 | 19:00 |
+| 06 | Sim |  |  | 06/11/2024 | 19:00 |
+| 07 | Sim |  |  | 06/11/2024 | 19:00 |
 
 ## 2. Verificação do Desenvolvimento do Projeto
 
@@ -65,15 +65,15 @@ Com o intuito de melhor organizar a verificação, o checklist será dividido em
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 | Sim |  |  | DD/MM/AA | HH:MM |
-| 02 | Sim |  |  | DD/MM/AA | HH:MM |
-| 03 | Sim |  |  | DD/MM/AA | HH:MM |
-| 04 | Sim |  |  | DD/MM/AA | HH:MM |
-| 05 | Sim |  |  | DD/MM/AA | HH:MM |
-| 06 | Sim |  |  | DD/MM/AA | HH:MM |
-| 07 | Sim |  |  | DD/MM/AA | HH:MM |
-| 08 | Sim |  |  | DD/MM/AA | HH:MM |
-| 09 | Sim |  |  | DD/MM/AA | HH:MM |
+| 01 | Sim |  |  | 06/11/2024 | 19:30 |
+| 02 | Sim |  |  | 06/11/2024 | 19:30 |
+| 03 | Sim |  |  | 06/11/2024 | 19:30 |
+| 04 | Sim |  |  | 06/11/2024 | 19:30 |
+| 05 | Sim |  |  | 06/11/2024 | 19:30 |
+| 06 | Sim |  |  | 06/11/2024 | 19:30 |
+| 07 | Sim |  |  | 06/11/2024 | 19:30 |
+| 08 | Sim |  |  | 06/11/2024 | 19:30 |
+| 09 | Sim |  |  | 06/11/2024 | 19:30 |
 
 ### Gravação Autoavaliação
 
