@@ -18,14 +18,14 @@
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 |  |  |  | DD/MM/AA | HH:MM |
-| 02 |  |  |  | DD/MM/AA | HH:MM |
-| 03 |  |  |  | DD/MM/AA | HH:MM |
-| 04 |  |  |  | DD/MM/AA | HH:MM |
-| 05 |  |  |  | DD/MM/AA | HH:MM |
-| 06 |  |  |  | DD/MM/AA | HH:MM |
-| 07 |  |  |  | DD/MM/AA | HH:MM |
-| 08 |  |  |  | DD/MM/AA | HH:MM |
+| 01 | Sim |  |  | 07/11/2024 | 17:15 |
+| 02 | Sim |  |  | 07/11/2024 | 17:15 |
+| 03 | Sim |  |  | 07/11/2024 | 17:15 |
+| 04 | Sim |  |  | 07/11/2024 | 17:15 |
+| 05 | Sim |  |  | 07/11/2024 | 17:15 |
+| 06 | Sim |  |  | 07/11/2024 | 17:15 |
+| 07 | Sim |  |  | 07/11/2024 | 17:15 |
+
 
 
 ## 2. Verificação do Desenvolvimento do Projeto
@@ -49,17 +49,15 @@
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 |  |  |  | DD/MM/AA | HH:MM |
-| 02 |  |  |  | DD/MM/AA | HH:MM |
-| 03 |  |  |  | DD/MM/AA | HH:MM |
-| 04 |  |  |  | DD/MM/AA | HH:MM |
-| 05 |  |  |  | DD/MM/AA | HH:MM |
-| 06 |  |  |  | DD/MM/AA | HH:MM |
-| 07 |  |  |  | DD/MM/AA | HH:MM |
-| 08 |  |  |  | DD/MM/AA | HH:MM |
-| 09 |  |  |  | DD/MM/AA | HH:MM |
-| 10 |  |  |  | DD/MM/AA | HH:MM |
-
+| 01 | Sim |  |  | 07/11/2024 | 17:15 |
+| 02 | Sim |  |  | 07/11/2024 | 17:15 |
+| 03 | Sim |  |  | 07/11/2024 | 17:15 |
+| 04 | Sim |  |  | 07/11/2024 | 17:15 |
+| 05 | Sim |  |  | 07/11/2024 | 17:15 |
+| 06 | Sim |  |  | 07/11/2024 | 17:15 |
+| 07 | Sim |  |  | 07/11/2024 | 17:15 |
+| 08 | Sim |  |  | 07/11/2024 | 17:15 |
+| 09 | Sim |  |  | 07/11/2024 | 17:15 |
 
 ## 3. Verificação dos Rich Pictures
 
@@ -79,13 +77,13 @@
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
-| 01 |  |  |  | DD/MM/AA | HH:MM |
-| 02 |  |  |  | DD/MM/AA | HH:MM |
-| 03 |  |  |  | DD/MM/AA | HH:MM |
-| 04 |  |  |  | DD/MM/AA | HH:MM |
-| 05 |  |  |  | DD/MM/AA | HH:MM |
-| 06 |  |  |  | DD/MM/AA | HH:MM |
-| 07 |  |  |  | DD/MM/AA | HH:MM |
+| 01 | Sim |  |  | 07/11/2024 | 17:15 |
+| 02 | Sim |  |  | 07/11/2024 | 17:15 |
+| 03 | Sim |  |  | 07/11/2024 | 17:15 |
+| 04 | Sim |  |  | 07/11/2024 | 17:15 |
+| 05 | Sim |  |  | 07/11/2024 | 17:15 |
+| 06 | Sim |  |  | 07/11/2024 | 17:15 |
+| 07 | Sim |  |  | 07/11/2024 | 17:15 |
 
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
