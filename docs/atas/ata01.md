@@ -6,7 +6,7 @@
 |----------|-------|-------|-----------|
 | 30/10/24 | 18:04 | 19:24 | Via Teams |
 
-**Projeto**: _a definir_
+**Projeto**: Meu SUS Digital
 
 **Redator**: João Pedro
 
@@ -34,9 +34,7 @@
 | Criar uma branch pessoal por integrante | Todos | - |
 | Incluir a lista de verificação à documentação | João Pedro | 01/11/24 |
 
-## Próxima Reunião
 
-Não foi definida a próxima reunião.
 
 ## 📑 Histórico de Versão
 
