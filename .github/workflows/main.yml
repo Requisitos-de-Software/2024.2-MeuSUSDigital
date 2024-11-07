@@ -45,9 +45,8 @@ jobs:
     - name: Copiar README para index.md
       run: cp README.md docs/index.md
 
-    - name: Remover primeiro caractere (#) se presente
-      run: sed -i '1s/^# //' docs/index.md
-
+    - name: Remover primeiro caractere (#) com ou sem espaços iniciais
+      run: sed -i '1s/^[[:space:]]*# //' docs/index.md
  
     - name: Deploy Docs
       run: mkdocs gh-deploy --force
