@@ -14,10 +14,11 @@ O Meu SUS Digital é uma iniciativa que visa digitalizar e facilitar o acesso ao
 
 Somos o Grupo 04 da disciplina Requisitos de Software da Universidade de Brasília - UnB, ministrada pelo professor André Barros durante o segundo semestre de 2024. Nosso objetivo é analisar e documentar os requisitos do aplicativo Meu SUS Digital, contribuindo para a melhoria contínua dos serviços oferecidos à população.
 
+
+
 ## 👥 Equipe
 
 A equipe do projeto é composta por cinco integrantes dedicados, conforme apresentado na **Tabela 1**. Cada membro traz habilidades únicas que contribuem para o sucesso do projeto.
-
 
 <div align="center">
   <table>
@@ -57,6 +58,8 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
   <p><strong>Tabela 1 – Integrantes da Equipe</strong></p>
   <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
+
+
 
 ## 📑 Histórico de Versões
 
