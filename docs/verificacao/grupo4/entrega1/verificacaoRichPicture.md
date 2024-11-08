@@ -96,8 +96,23 @@ Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
 Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
+<center>
+
+## Gravação da Revisão Grupo+1
+
+</center>
+
+<div align="center">
+    <iframe width="560" height="315" src="https://youtu.be/4ZSyIVl7qtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+    <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+
+
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-|  1.0   | Criação do documento | [Emivalto Jr](https://github.com/EmivaltoJrr) | 5/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
+|  `1.0`   | Criação do documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 5/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
+|  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   |  |

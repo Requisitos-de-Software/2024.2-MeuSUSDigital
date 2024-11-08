@@ -85,7 +85,25 @@
 | 06 | Sim |  |  | 07/11/2024 | 17:15 |
 | 07 | Sim |  |  | 07/11/2024 | 17:15 |
 
+
+<center>
+
+## Gravação da Revisão Grupo+1
+
+</center>
+
+
+<div align="center">
+    <iframe width="560" height="315" src="https://youtu.be/x-_A9-g7_0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+    <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+
+
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess)| 05/11/2024   | [João Pedro](https://github.com/JoosPerro) | 06/11/2024 |
+|  `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess)| 05/11/2024   | [João Pedro](https://github.com/JoosPerro) | 06/11/2024 |
+|  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   |  |
+

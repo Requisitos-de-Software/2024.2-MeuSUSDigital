@@ -75,9 +75,7 @@ Com o intuito de melhor organizar a verificação, o checklist será dividido em
 | 08 | Sim |  |  | 06/11/2024 | 19:00 |
 | 09 | Sim |  |  | 06/11/2024 | 19:00 |
 
-### Gravação Autoavaliação
 
-https://youtu.be/4ZSyIVl7qtc
 
 ## Referencias Bibliograficas
 
@@ -86,4 +84,4 @@ https://youtu.be/4ZSyIVl7qtc
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0  | Criação do Documento |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |

@@ -15,7 +15,7 @@ Logo, através do estudo do Heatmap, a equipe então definiu que os melhores hor
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0  | Adição de Rich Picture |[Emivalto junior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+|  `1.0` | Adição de Rich Picture |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 
 
 </center>
