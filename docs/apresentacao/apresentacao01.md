@@ -10,7 +10,7 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 # 1ªEntrega 
 
-<iframe width="560" height="315" src="https://youtu.be/Cj8_GY2w_iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cj8_GY2w_iM&ab_channel=emivaltojr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
