@@ -90,11 +90,12 @@
 
 ## Gravação da Revisão Grupo+1
 
+<iframe width="560" height="315" src="https://youtu.be/x-_A9-g7_0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </center>
 
 
 <div align="center">
-    <iframe width="560" height="315" src="https://youtu.be/x-_A9-g7_0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
     <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>

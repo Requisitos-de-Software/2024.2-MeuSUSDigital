@@ -10,10 +10,11 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 # 1ªEntrega 
 
+<iframe width="560" height="315" src="https://youtu.be/Cj8_GY2w_iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </center>
 
 <div align="center">
-    <iframe width="560" height="315" src="https://youtu.be/Cj8_GY2w_iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
     <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
