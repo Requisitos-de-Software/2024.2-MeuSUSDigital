@@ -76,7 +76,7 @@ O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de
 
 
 
-## Bibliografia
+## 📚 Bibliografia
 
 > _BARATÃO COMBUSTÍVEIS_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=com.barataoapp>. Acesso em: 28 out. 2024.
 >
