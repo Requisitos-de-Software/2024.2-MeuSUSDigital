@@ -15,6 +15,7 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 </center>
 
+
 <div align="center">
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
     <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
@@ -24,4 +25,4 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   |  |
+|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   | /11/2024 |
