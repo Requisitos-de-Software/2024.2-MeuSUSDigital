@@ -46,7 +46,7 @@ jobs:
       run: cp README.md docs/index.md
 
     - name: Ajustar título no index.md
-      run: sed -i '1s/^[[:space:]#]*\([[:emoji:]]*📱\)/# \1/' docs/index.md
- 
+      run: sed -i '1s/^[[:space:]#]*\(📱\)/# \1/' docs/index.md
+
     - name: Deploy Docs
       run: mkdocs gh-deploy --force
