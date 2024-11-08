@@ -12,6 +12,9 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cj8_GY2w_iM&ab_channel=emivaltojr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cj8_GY2w_iM" frameborder="0" allowfullscreen></iframe>
+
+
 </center>
 
 <div align="center">
