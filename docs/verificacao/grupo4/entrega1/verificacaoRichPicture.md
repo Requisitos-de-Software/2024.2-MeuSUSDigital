@@ -100,7 +100,7 @@ Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
 ## Gravação da Revisão Grupo+1
 
-<iframe width="560" height="315" src="https://youtu.be/4ZSyIVl7qtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZSyIVl7qtc" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
