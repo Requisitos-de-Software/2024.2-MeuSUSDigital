@@ -1,5 +1,7 @@
 # Aplicativo selecionado
 
+
+
 ## Introdução
 
 A escolha de um aplicativo para a disciplina de requisitos é um processo importante que pode impactar significativamente o sucesso no desenvolvimento dos artefatos. Para garantir uma seleção eficaz, a equipe adotou uma abordagem que envolve algumas etapas:
@@ -15,6 +17,7 @@ A escolha de um aplicativo para a disciplina de requisitos é um processo import
 Esse processo metódico demonstra o compromisso da equipe com a qualidade e a eficiência no desenvolvimento, assegurando que a ferramenta escolhida seja a mais adequada para o sucesso do projeto.
 
 
+
 ## Critérios de escolha 
 
 * Aplicativo não ter sido trabalhado na disciplina ☑
@@ -22,21 +25,29 @@ Esse processo metódico demonstra o compromisso da equipe com a qualidade e a ef
 * Aplicativo ser de uma comunidade ou governo ☑
 * Disponibilidade de informações ☑
 
+
+
 ## Aplicativos sugeridos
 
-* Steam: Com o aplicativo móvel gratuito do Steam, você pode levá-lo para qualquer lugar. Compre jogos para PC e fique por dentro das últimas novidades dos seus jogos e da comunidade, enquanto protege sua conta Steam.
+* **Steam**: Com o aplicativo móvel gratuito do Steam, você pode levá-lo para qualquer lugar. Compre jogos para PC e fique por dentro das últimas novidades dos seus jogos e da comunidade, enquanto protege sua conta Steam.
 * Correios: O aplicativo oferece serviços de simulação de preços e prazos de encomendas nacionais e internacionais, rastreamento de encomendas, busca por agências, entre outros.
-* Meu SUS Digital: A porta de acesso aos serviços do Sistema Único de Saúde (SUS) de forma digital está de cara nova! O antigo "Conecte SUS" agora é Meu SUS Digital. O aplicativo permite que o cidadão acompanhe, na palma da mão, o seu histórico clínico e acesse diversas soluções para que ele seja o protagonista da sua saúde. É um compromisso contínuo do Governo Federal e do Ministério da Saúde em aprimorar a experiência do usuário e fortalecer o SUS!
-* Office 365: O Microsoft 365 é o aplicativo de produtividade para trabalho e vida pessoal que ajuda você a encontrar e editar arquivos, digitalizar documentos e criar conteúdo em qualquer lugar com o Copilot, Word, Excel, PowerPoint e PDFs, tudo em um único aplicativo.
-* Baratão Combustíveis: O Baratão Combustíveis é um aplicativo que oferece desconto na compra de combustível e uma variedade de serviços automotivos, como oficinas, pneus, lavagem, e muito mais.
+* **Meu SUS Digital**: A porta de acesso aos serviços do Sistema Único de Saúde (SUS) de forma digital está de cara nova! O antigo "Conecte SUS" agora é Meu SUS Digital. O aplicativo permite que o cidadão acompanhe, na palma da mão, o seu histórico clínico e acesse diversas soluções para que ele seja o protagonista da sua saúde. É um compromisso contínuo do Governo Federal e do Ministério da Saúde em aprimorar a experiência do usuário e fortalecer o SUS!
+* **Office 365**: O Microsoft 365 é o aplicativo de produtividade para trabalho e vida pessoal que ajuda você a encontrar e editar arquivos, digitalizar documentos e criar conteúdo em qualquer lugar com o Copilot, Word, Excel, PowerPoint e PDFs, tudo em um único aplicativo.
+* **Baratão Combustíveis**: O Baratão Combustíveis é um aplicativo que oferece desconto na compra de combustível e uma variedade de serviços automotivos, como oficinas, pneus, lavagem, e muito mais.
+
+
   
 ## Aplicativo escolhido 
 
 Seguindo os critérios definidos e as diretrizes do professor para avaliação, o grupo decidiu selecionar o aplicativo "Meu SUS Digital" como objeto de estudo durante o curso. Dentre os critérios analisados, o que foi determinante para a escolha deste aplicativo foi por se tratar de um aplicativo governamental, assegurando assim a conformidade com os termos de uso estabelecidos.
 
+
+
 ## Sobre o aplicativo 
 
 O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de saúde diretamente pelo celular, proporcionando acesso a uma variedade de funcionalidades que colocam o indivíduo no centro do cuidado com sua saúde. 
+
+
 
 ### Recursos disponiveis no aplicativo
 #### **Acesso a Interações de Saúde**
@@ -63,19 +74,24 @@ O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de
 #### **Acompanhamento de Notícias de Saúde**
    - Recebimento de notícias seguras e confiáveis sobre saúde e bem-estar.
 
+
+
 ## Bibliografia
-> Steam. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community). Acesso em: 28 de outubro de 2024.</br>
->
-> Correios. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=br.com.correios.preatendimento](https://play.google.com/store/apps/details?id=br.com.correios.preatendimento). Acesso em: 02 de novembro de 2024.</br>
->
-> Meu SUS Digital. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital). Acesso em: 02 de novembro de 2024.</br>
->
-> Microsoft 365 (Office). Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow). Acesso em: 02 de novembro de 2024.</br>
->
-> Baratão Combustíveis. Google Play, 2024. Disponível em: [https://play.google.com/store/apps/details?id=com.barataoapp](https://play.google.com/store/apps/details?id=com.barataoapp). Acesso em: 28 de outubro de 2024.</br>
 
-## 📑 Histórico de versões 
+> _BARATÃO COMBUSTÍVEIS_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=com.barataoapp>. Acesso em: 28 out. 2024.
+>
+> _CORREIOS_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=br.com.correios.preatendimento>. Acesso em: 02 nov. 2024.
+>
+> _MEU SUS DIGITAL_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital>. Acesso em: 02 nov. 2024.
+>
+> _MICROSOFT 365 (OFFICE)_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow>. Acesso em: 02 nov. 2024.
+>
+> _STEAM_. 2024. Google Play. Disponível em: <https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community>. Acesso em: 28 out. 2024.
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
-`1.0` | 05/11/2024| Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |[Emivalto Júnior](https://github.com/EmivaltoJrr)|
+
+
+## 📑 Histórico de Versões
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/11/2024| [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/11/2024 |
