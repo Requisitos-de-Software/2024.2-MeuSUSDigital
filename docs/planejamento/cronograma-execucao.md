@@ -135,7 +135,7 @@ A **Tabela 5** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 5 – Análise de Requisitos</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
