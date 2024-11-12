@@ -116,4 +116,4 @@ Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 |  `1.0`   | Criação do documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 5/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
-|  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   |  |
+|  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
