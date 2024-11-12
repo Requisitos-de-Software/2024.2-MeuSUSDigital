@@ -25,7 +25,7 @@ Abaixo, podemos identificar a **Figura 1** contendo tanto o *Rich Picture* do ap
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 
