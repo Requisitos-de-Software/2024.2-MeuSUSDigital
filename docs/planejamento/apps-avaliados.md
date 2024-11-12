@@ -43,7 +43,7 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 
 <div align="center">
     <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+    <p>Autores: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 
 </div>
 
