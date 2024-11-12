@@ -16,7 +16,7 @@ O objetivo deste documento é relatar os resultados das verificações realizada
 
 ## Metodologia
 
-todos os resultados da verificação do artefato poderam ser obtidos a partir das checklists elaboradas na página de [planejamento](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/cronograma-planejamento/) em que o grupo eleaborou. Para responder às perguntas apresentadas nas checklist o avaliador usará as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador tambem poderá escrever observações se nescessário em cada pergunta para obter os detalhes se achar necessários.
+todos os resultados da verificação do artefato poderam ser obtidos a partir das listas de verificação elaboradas na página de [planejamento](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/cronograma-planejamento/) em que o grupo eleaborou. Para responder às perguntas apresentadas nas listas de verificação o avaliador usará as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador tambem poderá escrever observações se nescessário em cada pergunta para obter os detalhes se achar necessários.
 
 
 
@@ -24,13 +24,13 @@ todos os resultados da verificação do artefato poderam ser obtidos a partir da
 
 ### Dados Encontrados
 
-A tabela 1 apresenta sobre o checklist com os dados obtidos a partir das verificações. 
+A tabela 1 apresenta sobre a lista de verificação com os dados obtidos a partir das verificações. 
 
 </center>
 
 
 
-## Tabela 1 – Checklist de Verificação
+## Tabela 1 – Lista de Verificação
 
 | N° |                      Questão                          | Autor |
 |----|-------------------------------------------------------|-------|
