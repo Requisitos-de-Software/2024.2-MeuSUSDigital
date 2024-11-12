@@ -34,7 +34,7 @@ A **Tabela 1** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 1 – Planejamento do Projeto</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -58,7 +58,7 @@ A **Tabela 2** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 2 – Elicitação - Técnicas e Priorização</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -83,7 +83,7 @@ A **Tabela 3** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 3 – Modelagem de Requisitos</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -107,7 +107,7 @@ A **Tabela 4** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 4 – Modelagem de Requisitos (Ágil)</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -130,7 +130,7 @@ A **Tabela 5** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 5 – Análise de Requisitos</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -152,7 +152,7 @@ A **Tabela 6** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 6 – Pós-Rastreabilidade</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -174,7 +174,7 @@ A **Tabela 7** trata do cronograma planejado para o desenvolvimento de todas as 
 
 <div align="center">
     <p><strong>Tabela 7 – Entrega da apresentação do projeto final</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
