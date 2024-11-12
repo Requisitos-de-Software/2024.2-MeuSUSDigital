@@ -7,62 +7,62 @@ Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os term
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg1.png?raw=true" alt="Termos de Uso parte 1" />
     <p><strong>Figura 1 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg2.png?raw=true" alt="Termos de Uso parte 2" />
     <p><strong>Figura 2 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg3.png?raw=true" alt="Termos de Uso parte 3" />
     <p><strong>Figura 3 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg4.png?raw=true" alt="Termos de Uso parte 4" />
     <p><strong>Figura 4 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg5.png?raw=true" alt="Termos de Uso parte 5" />
     <p><strong>Figura 5 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg6.png?raw=true" alt="Termos de Uso parte 6" />
     <p><strong>Figura 6 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg7.png?raw=true" alt="Termos de Uso parte 7" />
     <p><strong>Figura 7 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg8.png?raw=true" alt="Termos de Uso parte 8" />
     <p><strong>Figura 8 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg9.png?raw=true" alt="Termos de Uso parte 9" />
     <p><strong>Figura 9 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg10.png?raw=true" alt="Termos de Uso parte 10" />
     <p><strong>Figura 10 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg11.png?raw=true" alt="Termos de Uso parte 11" />
     <p><strong>Figura 11 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/termo_SUS-pg12.png?raw=true" alt="Termos de Uso parte 12" />
     <p><strong>Figura 12 – Termos de Uso.</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>.</p>
+    <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 
 ## 📚 Bibliografia
@@ -75,3 +75,4 @@ Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os term
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 `1.0` | 02/11/2024| Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Pedro Lopes](https://github.com/pLopess) |
+`1.1` | 02/11/2024| Adicionando data de acesso em cada print | [Pedro Lopes](https://github.com/pLopess) |  |
