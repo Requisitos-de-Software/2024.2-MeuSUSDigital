@@ -31,9 +31,9 @@ A **Tabela 1** trata do cronograma executado de todas as atividades referentes �
 | Produzir cronograma de planejamento | Início: 28/10<br>Fim: 29/10 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 05/11<br>Fim: 05/11 | [Pedro Lopes](https://github.com/pLopess) |
 | Produzir cronograma de execução | Início: 28/10<br>Fim: 03/11 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 05/11<br>Fim: 05/11 | [Pedro Lopes](https://github.com/pLopess) |
 | Produzir e disponibilizar documento referente à lista de verificação dos artefatos | Início: 30/10<br>Fim: 05/11 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 06/11<br>Fim: 06/11 | [Pedro Lopes](https://github.com/pLopess) |
-| Gravar a apresentação da Etapa 1 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
-| Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
-| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Gravar a apresentação da Etapa 1 do projeto | Início: 06/11<br>Fim: 06/11 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 08/11 <br>Fim: 08/11| [Pedro Lopes](https://github.com/pLopess) |
+| Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: 07/11 <br>Fim: 07/11 | [Pedro Lopes](https://github.com/pLopess), [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e  [João Pedro](https://github.com/JoosPerro) | Início: 08/11<br>Fim: 08/11 | [Pedro Lopes](https://github.com/pLopess) |
+| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: 12/11 <br>Fim: | | Início: <br>Fim: | |
 
 </center>
 
