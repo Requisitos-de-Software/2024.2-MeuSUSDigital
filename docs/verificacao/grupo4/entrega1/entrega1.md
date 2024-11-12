@@ -13,9 +13,9 @@ O Grupos após as reuniões resolveu adotar a metodologia de verificação por i
 
 ## Lista de Verificação
 
-Em todas as entregas haverá uma pessoa responsável por revisar o que foi elaborado e assim fazer as devidas correções, com isso deverá ser elaborado um Lista de Verificação de todas as verificações, se foram cumpridas conforme o esperado.
+Em todas as entregas haverá uma pessoa responsável por revisar o que foi elaborado e assim fazer as devidas correções, com isso deverá ser elaborado uma Lista de Verificação de todas as verificações, se foram cumpridas conforme o esperado.
 
-Com o intuito de melhor organizar a verificação, o Lista de Verificação será dividido em 2, sendo que uma parte deverá estar presente em todas as etapas de verificação, (esta é a Lista de Verificação Geral). Esse Lista de Verificação poderá ser alterado durante o desenvolvimento do projeto e com isso mudando sua versão para melhor se adequar a necessidade do grupo.
+Com o intuito de melhor organizar a verificação, a Lista de Verificação será dividido em 2, sendo que uma parte deverá estar presente em todas as etapas de verificação, (esta é a Lista de Verificação Geral). Essa Lista de Verificação poderá ser alterada durante o desenvolvimento do projeto e com isso mudando sua versão para melhor se adequar a necessidade do grupo.
 
 
 ## 1. Verificação do Planejamento Geral do Projeto
