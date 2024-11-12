@@ -80,7 +80,7 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
   </table>
   
   <p><strong>Tabela 1 – Ferramentas utilizadas no projeto</strong></p>
-  <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+  <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 
