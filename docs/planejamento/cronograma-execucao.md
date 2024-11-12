@@ -33,13 +33,13 @@ A **Tabela 1** trata do cronograma executado de todas as atividades referentes �
 | Produzir e disponibilizar documento referente à lista de verificação dos artefatos | Início: 30/10<br>Fim: 05/11 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 06/11<br>Fim: 06/11 | [Pedro Lopes](https://github.com/pLopess) |
 | Gravar a apresentação da Etapa 1 do projeto | Início: 06/11<br>Fim: 06/11 | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: 08/11 <br>Fim: 08/11| [Pedro Lopes](https://github.com/pLopess) |
 | Inspecionar a entrega da apresentação da Etapa 1 do projeto do Grupo 5 | Início: 07/11 <br>Fim: 07/11 | [Pedro Lopes](https://github.com/pLopess), [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e  [João Pedro](https://github.com/JoosPerro) | Início: 08/11<br>Fim: 08/11 | [Pedro Lopes](https://github.com/pLopess) |
-| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: 12/11 <br>Fim: | | Início: <br>Fim: | |
+| Correção pós entrega/apresentação da Etapa 1 do projeto | Início: 12/11 <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: | |
 
 </center>
 
 <div align="center">
     <p><strong>Tabela 1 – Planejamento do Projeto</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -63,7 +63,7 @@ A **Tabela 2** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 2 – Elicitação - Técnicas e Priorização</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -88,7 +88,7 @@ A **Tabela 3** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 3 – Modelagem de Requisitos</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -112,7 +112,7 @@ A **Tabela 4** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 4 – Modelagem de Requisitos (Ágil)</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -157,7 +157,7 @@ A **Tabela 6** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 6 – Pós-Rastreabilidade</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -179,7 +179,7 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 
 <div align="center">
     <p><strong>Tabela 7 – Entrega da apresentação do projeto final</strong></p>
-    <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ---
@@ -204,3 +204,4 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.1`  | Criação da tabela do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.2`  |Criação das demais tabelas do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.3`  | Criação da tabela do cronograma de execução referente à entrega final, correção de erros e atualização dos dados. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.4`  | Correção de nomenclatura, atualização da lista de execução. | [Pedro Lopes](https://github.com/pLopess) | 12/11/2024 |  | |
