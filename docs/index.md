@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/meu-sus-digital-logo.png?raw=true" width="500">
     <p><strong>Figura 1 – Logo do app Meu SUS Digital</strong></p>
-    <p>Fonte: <a href="https://meususdigital.saude.gov.br">Meu SUS Digital</a>.</p>
+    <p>Autor: <a href="https://meususdigital.saude.gov.br">Meu SUS Digital</a>.</p>
 </div>
 
 O Meu SUS Digital é uma iniciativa que visa digitalizar e facilitar o acesso aos serviços de saúde pública no Brasil. O aplicativo permite que os cidadãos consultem informações sobre o Sistema Único de Saúde (SUS), agendem consultas, acessem resultados de exames e recebam orientações médicas diretamente pelo smartphone, promovendo maior eficiência e comodidade no atendimento à saúde.
@@ -52,7 +52,7 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
     </tr>
   </table>
   <p><strong>Tabela 1 – Integrantes da Equipe</strong></p>
-  <p>Fonte: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+  <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 
