@@ -56,7 +56,7 @@ A tabela 1 apresenta sobre o checklist com os dados obtidos a partir das verific
 
 <div align="center">
     <p><strong>Tabela 1 – Padronização</strong></p>
-    <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
 
@@ -106,7 +106,7 @@ Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project.
 
 <div align="center">
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
-    <p>Fonte: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
 
