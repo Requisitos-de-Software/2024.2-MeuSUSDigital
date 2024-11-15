@@ -25,10 +25,6 @@
 - Prazo para definir as técnicas 
 - Estruturação do mkdocs para a Etapa 2
 
-## Gravação da Reunião
-
-
-
 ## Compromissos
 
 | Tarefa | Responsável | Prazo |
@@ -37,13 +33,22 @@
 | Correção de ultimos erros da Etapa 1| Todos | 16/11/24 |
 | Estruturar mkdocs para a Etapa 2 | Artur Ricardo | 16/11/24 |
 
+
 <center>
 
+## Gravação da Reunião
+  
+</center>
+
+<div align="center">
+    <p><strong>Reunião 02 <em></em></strong></p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 
 ## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0`   | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 |  |  |
+|  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 |  |  |
 
