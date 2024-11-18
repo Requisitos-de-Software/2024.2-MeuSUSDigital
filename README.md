@@ -43,13 +43,13 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
       </td>
       <td align="center">
         <a href="https://github.com/MatheusHenrickSantos">
-          <img style="border-radius: 20%; border: 3px solid #ff0000 ;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
+          <img style="border-radius: 20%; border: 3px solid #00cf00 ;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
           <br /><sub><b>Matheus Henrick</b></sub>
         </a><br />
       </td>
       <td align="center">
         <a href="https://github.com/pLopess">
-          <img style="border-radius: 20%; border: 3px solid #00cf00;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
+          <img style="border-radius: 20%; border: 3px solid #ff0000;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
           <br /><sub><b>Pedro Lopes</b></sub>
         </a><br />
       </td>
