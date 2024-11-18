@@ -1,20 +1,20 @@
-# Avaliação Grupo + 1
+# Avaliação Grupo 5
 
-### Tabela 1: Questões do Planejamento Geral
+## Introdução
 
-| N° |                      Questão                          | Autor |
-|----|-------------------------------------------------------|-------|
-| 01 | O github pages possui uma página que apresente os integrantes da equipe com foto, nome, mas sem matrícula? | André Barros|
-| 02 | O cronograma do planejamento apresenta todas as atividades, de todas as etapas, para cada integrante, com as datas de início e fim das entregas dos artefatos, e com o período da revisão deles? | André Barros |
-| 03 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | André Barros |
-| 04 | O cronograma prevê um período de revisão e ajustes nos artefatos, devidos às considerações dos monitores ou do professor? | André Barros |
-| 05 | O github pages apresenta a motivação e os critérios para a escolha do App?  | André Barros |
-| 06 | O github pages apresenta uma cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | André Barros |
-| 07 | O github pages possui opção de contraste de cores? | André Barros |
+Conforme planejado, o Grupo 4 deve inspecionar os artefatos produzidos pelo [Grupo 5](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto), visando feedback para o grupo sobre artefatos que não atendem às especificações propostas pelos colegas de turma.
 
+## Objetivos
 
+O objetivo deste documento é relatar os resultados da avaliação da 1ª etapa do projeto do [Grupo 5](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto), em forma de inspeção, realizada sobre o artefato Rich Picture e sobre os artefatos relacionados ao planejamento e desenvolvimento do projeto. Será verificado se os artefatos produzidos nesta primeira etapa cumprem com as condições e padrões propostos pelo Grupo 4. É importante citar que essa verificação não tem como intuito diminuir os membros responsáveis por cada artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
 
-### Tabela 2: Respostas da Verificação do Planejamento Geral - Grupo 5
+## Inspeção
+
+A inspeção foi baseada na [lista de verificação da 1ª entrega](../../lista_verif/entrega1.md) produzida com a ajuda do professor e dos integrantes do Grupo 4.
+
+Para melhor organização, a Lista de Verificação é dividida em partes, correspondentes às tabelas que se seguem. Essa Lista de Verificação poderá ser aprimorada durante o desenvolvimento do projeto.
+
+### Tabela 1 ─ Resultado da Inspeção do Planejamento Geral - Grupo 5
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
@@ -26,26 +26,13 @@
 | 06 | Sim |  |  | 07/11/2024 | 17:15 |
 | 07 | Sim |  |  | 07/11/2024 | 17:15 |
 
+<center>
 
+Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
 
-## 2. Verificação do Desenvolvimento do Projeto
+<center>
 
-### Tabela 3: Questões do Desenvolvimento do Projeto
-
-| N° |                      Questão                          | Autor |
-|----|-------------------------------------------------------|-------|
-| 01 | O histórico de versão é padronizado? | André Barros |
-| 02 | Existe(m) autor(es) e revisor(es) para cada artefato? | André Barros |
-| 03 | Existem referências bibliográficas e/ou bibliografia em todos os artefatos? | André Barros |
-| 04 | As tabelas e imagens possuem legenda e fonte, e são referenciadas pelo texto? | André Barros |
-| 05 | Existe texto de introdução para os artefatos? | André Barros |
-| 06 | O cronograma executado apresenta quem realizou cada artefato/atividade com data de início e fim da construção/realização do mesmo? | André Barros |
-| 07 | As atas de reunião possuem data, horário de início e fim, participantes, objetivo, atividades definidas, etc.? | André Barros |
-| 08 | As reuniões de grupo foram gravadas? | André Barros |
-| 09 | O vídeo de apresentação tem categoria “não listado” no youtube? | André Barros |
-
-
-### Tabela 2.3: Respostas da Verificação do Desenvolvimento do Projeto - Grupo 5
+### Tabela 2 ─ Resultado da Inspeção do Desenvolvimento do Projeto - Grupo 5
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
@@ -59,21 +46,13 @@
 | 08 | Sim |  |  | 07/11/2024 | 17:15 |
 | 09 | Sim |  |  | 07/11/2024 | 17:15 |
 
-## 3. Verificação dos Rich Pictures
+<center>
 
-### Tabela 3.1: Questões do Rich Picture
+Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
 
-| N° |                      Questão                          | Autor |
-|----|-------------------------------------------------------|-------|
-| 01 | Os artefatos de Rich Picture possuem legenda explicando os símbolos utilizados no diagrama? | André Barros |
-| 02 | Todos os 5 componentes de um Rich Picture estão presentes no artefato apresentado pelo grupo? | André Barros |
-| 03 | O Rich Picture indica de alguma forma as motivações/intenções das pessoas envolvidas? | João Pedro |
-| 04 | O Rich Picture apresenta os limites do sistema? | Artur Ricardo |
-| 05 | O Rich Picture apresenta cada ator relacionado com pelo menos uma atividade? | Emivalto Júnior |
-| 06 | O Rich Picture apresenta o fluxo de dados entre atores e sistema, e entre os componentes do sistema? | Pedro Lopes |
-| 07 | O Rich Picture informa os dados que são transmitidos, e o sentido em que são transmitidos? | Matheus Henrick |
+<center>
 
-### Tabela 3.2: Respostas da Verificação do Desenvolvimento do Projeto - Grupo 5
+### Tabela 3 ─ Resultado da Inspeção do Desenvolvimento do Projeto - Grupo 5
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
 |----|----------|------------|--------------------|------|---------|
@@ -85,26 +64,23 @@
 | 06 | Sim |  |  | 07/11/2024 | 17:15 |
 | 07 | Sim |  |  | 07/11/2024 | 17:15 |
 
+<center>
+
+Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
 
 <center>
 
-## Gravação da Revisão Grupo+1
+<center>
+
+## Gravação da Revisão Grupo 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-_A9-g7_0M" frameborder="0" allowfullscreen></iframe>
 
 </center>
-
-
-<div align="center">
-    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
-    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
-</div>
-
-
 
 ## 📑 Histórico de versão
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess)| 05/11/2024   | [João Pedro](https://github.com/JoosPerro) | 06/11/2024 |
 |  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
-
+|  `1.2`  | Organização das tabelas e algumas correções | [João Pedro](https://github.com/JoosPerro) | 18/11/2024 |  |  |
