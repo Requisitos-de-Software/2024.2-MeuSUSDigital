@@ -34,6 +34,13 @@ nav:
     - Aplicativos Avaliados: planejamento/apps-avaliados.md
     - Aplicativo Selecionado: planejamento/app-selecionado.md
     - Termo de Uso: planejamento/termo-de-uso.md
+  - Elicitação:
+    - Perfil de Usuário: elicitacao/perfil-usuario.md
+    - Técnicas: 
+      - Questionário: elicitacao/tecnicas/questionario.md
+      - Observação: elicitacao/tecnicas/observacao.md
+    - Priorização: 
+      - $100: elicitacao/priorizacao/$100.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
