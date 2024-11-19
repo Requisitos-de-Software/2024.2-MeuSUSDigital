@@ -79,4 +79,4 @@ Autores: André Barros, [Grupo 4](https://github.com/Requisitos-de-Software/2024
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
-|  `1.1`  | Organização das tabelas e algumas correções | [João Pedro](https://github.com/JoosPerro) | 18/11/2024 |  |  |
+|  `1.1`  | Organização das tabelas e algumas correções | [João Pedro](https://github.com/JoosPerro) | 18/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 19/11/2024 |
