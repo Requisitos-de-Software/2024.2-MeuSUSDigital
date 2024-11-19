@@ -35,13 +35,12 @@ nav:
     - Aplicativo Selecionado: planejamento/app-selecionado.md
     - Termo de Uso: planejamento/termo-de-uso.md
   - Verificação:
-      - Grupo 4:
-        - Entrega 1:
-            - Planejamento da Verificação da Entrega 1: verificacao/grupo4/entrega1/entrega1.md
-            - Rich Picture: verificacao/grupo4/entrega1/verificacaoRichPicture.md
-      - Grupo 5:
-          - Entrega 1:
-              - Verificação grupo 5: verificacao/grupo5/entrega1/entrega1g5.md
+    - Lista de Verificação:
+      - Entrega 1: verificacao/lista_verif/entrega1.md
+    - Inspeções do Grupo 4:
+      - Entrega 1: verificacao/grupo4/entrega1/entrega1.md
+    - Inspeções do Grupo 5:
+      - Entrega 1: verificacao/grupo5/entrega1/entrega1g5.md
     
   
 
