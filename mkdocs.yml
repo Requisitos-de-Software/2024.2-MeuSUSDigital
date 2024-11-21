@@ -37,6 +37,7 @@ nav:
   - Elicitação:
     - Perfil de Usuário: elicitacao/perfil-usuario.md
     - Técnicas: 
+      - Análise de Documentos: elicitacao/tecnicas/analise-de-documentos.md
       - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
     - Priorização: 
