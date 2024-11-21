@@ -36,6 +36,9 @@ nav:
     - Termo de Uso: planejamento/termo-de-uso.md
   - Elicitação:
     - Perfil de Usuário: elicitacao/perfil-usuario.md
+    - Planejamento:
+      - Cronograma de Elicitação de Requisitos: elicitacao/cronograma-tecnicas.md
+      - Cronograma de Priorização de Requisitos: elicitacao/cronograma-priorizacao.md
     - Técnicas: 
       - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
