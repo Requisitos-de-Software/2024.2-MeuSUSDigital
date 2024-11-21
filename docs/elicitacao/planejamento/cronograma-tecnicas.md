@@ -19,6 +19,7 @@ Conforme podemos observar na **Tabela 1**, este cronograma serve como um guia pr
 | Técnica | Data | Horário | Ambiente/Local | Cliente/Persona | Responsável(eis) | 
 | ------- | :--: | :-----: | ----- | --------------- | ------------- |
 | Observação | 21/11/2024 | 20:00 | Microsoft Teams | | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Questionário | 20/11/2024 | 18:00 | Google Forms | - | [Pedro Lopes](https://github.com/pLopess) |
 
 </center>
 
@@ -39,4 +40,5 @@ Conforme podemos observar na **Tabela 1**, este cronograma serve como um guia pr
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de elicitação de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de elicitação de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |
+| `1.1`  |Adicionando questionário ao cronograma de elicitação de requisitos. | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |  |  |
