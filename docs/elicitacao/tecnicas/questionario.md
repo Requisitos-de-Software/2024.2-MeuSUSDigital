@@ -16,4 +16,4 @@ A técnica de questionário na elicitação de requisitos consiste em criar um c
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/11/2024 |  |  |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 |
