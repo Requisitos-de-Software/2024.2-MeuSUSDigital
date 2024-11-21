@@ -40,6 +40,7 @@ nav:
       - Cronograma de Elicitação de Requisitos: elicitacao/planejamento/cronograma-tecnicas.md
       - Cronograma de Priorização de Requisitos: elicitacao/planejamento/cronograma-priorizacao.md
     - Técnicas: 
+      - Análise de Documentos: elicitacao/tecnicas/analise-de-documentos.md
       - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
     - Priorização: 

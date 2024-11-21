@@ -20,6 +20,7 @@ Conforme podemos observar na **Tabela 1**, este cronograma serve como um guia pr
 | ------- | :--: | :-----: | ----- | --------------- | ------------- |
 | Observação | 21/11/2024 | 20:00 | Microsoft Teams | | [Artur Ricardo](https://github.com/algorithmorphic) |
 | Questionário | 20/11/2024 | 18:00 | Google Forms | - | [Pedro Lopes](https://github.com/pLopess) |
+| Análise de Documentos | 21/11/2024 | 17:00 | Visual Studio Code | - | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 </center>
 
@@ -42,3 +43,4 @@ Conforme podemos observar na **Tabela 1**, este cronograma serve como um guia pr
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de elicitação de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |
 | `1.1`  |Adicionando questionário ao cronograma de elicitação de requisitos. | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |  |  |
+| `1.2`  | Adicionando análise de documentos ao cronograma de elicitação de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 |  |  |
