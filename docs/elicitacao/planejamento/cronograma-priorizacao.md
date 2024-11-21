@@ -41,4 +41,4 @@ Conforme podemos observar na **Tabela 1**, este cronograma funciona como um guia
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de priorização de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de priorização de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |
