@@ -18,8 +18,8 @@ Essa técnica é especialmente útil em projetos complexos, como no desenvolvime
 
 <center>
 
-| **Termo** | **Significado** |
-| --------- | --------------- |
+| Termo | Significado |
+| ----- | ----------- |
 | Qx | Questão nºx |
 | ML.x | Memória de levantamento nºx |
 | RNDS | Rede Nacional de Dados em Saúde |
@@ -28,11 +28,15 @@ Essa técnica é especialmente útil em projetos complexos, como no desenvolvime
 | ANVISA | Agência Nacional de Vigilância Sanitária |
 | CGU | Controladoria-Geral da União |
 | TCU | Tribunal de Contas da união |
+| RFx | Requisito Funcional nºx |
+| RNFx | Requisito Não Funcional nºx |
+| ADx | Requisito nºx elicitado pela Análise de Documentos |
+| LGPD | Lei Geral de Proteção de Dados |
+| IMC | Índice de Massa Corporal |
 
 </center>
 
 <div align="center">
-    <p><strong>Tabela 1 – Glossário</strong></p>
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
@@ -151,6 +155,64 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 
 
 
+## Requisitos Elicitados
+
+---
+
+<div align="center">
+    <p><strong>Tabela 4 – Requisitos Funcionais</strong></p>
+</div>
+
+<center>
+
+| ID | Descrição | Código | Implementado |
+| -- | --------- | ------ | ------------ |
+| AD01 | O sistema deverá apresentar o termo de consentimento. | RF01 | Sim |
+| AD02 | O sistema deverá informar quais dados serão coletados. | RF02 | Sim |
+| AD03 | O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais. | RF03 | Sim |
+| AD04 | O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais. | RF04 | Sim |
+| AD05 | O sistema deverá pedir permissão de acesso à localização do dispositivo. | RF05 | Sim |
+| AD06 | O sistema deverá armazenar a localização do dispositivo. | RF06 | Sim |
+| AD07 | O sistema deverá pedir permissão de acesso à câmera do dispositivo. | RF07 | Sim |
+| AD08 | O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo. | RF08 | Sim |
+| AD09 | O sistema deverá permitir que o paciente realize login por meio de uma conta gov.br. | RF09 | Sim |
+| AD10 | O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta gov.br informada no login. | RF10 | Sim |
+| AD11 | O sistema deverá buscar no RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta gov.br informada no login. | RF11 | Sim |
+| AD12 | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | RF12 | Sim |
+| AD13 | O sistema deverá permitir que o paciente altere os seus dados. | RF13 | Sim |
+| AD17 | O sistema deverá permitir que o paciente informe dados pessoais adicionais, dentre os quais poderão ser: dados de saúde (alergias, IMC, pressão, glicose, doações de sangue) e contatos de emergência e de profissionais de saúde. | RF14 | Sim |
+| AD18 | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | RF15 | Sim |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+---
+
+<div align="center">
+    <p><strong>Tabela 4 – Requisitos Não Funcionais</strong></p>
+</div>
+
+<center>
+
+| ID | Descrição | Código | Implementado |
+| -- | --------- | ------ | ------------ |
+| AD14 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES de 256 bits. | RNF01 | Sim |
+| AD15 | O sistema deverá ser compatível com dispositivos Android e iOS. | RNF02 | Sim |
+| AD16 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | RNF03 | Sim |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+---
+
+
+
 ## 📚 Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016. 419 p.
@@ -167,5 +229,6 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 |  |  |
-| `1.1`  | Correção dos títulos das tabelas. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 | - | - |
+| `1.1`  | Correção dos títulos das tabelas. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 | - | - |
+| `1.2`  | Adição dos requisitos elicitados. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 22/11/2024 |  |  |
