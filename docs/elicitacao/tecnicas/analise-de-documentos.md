@@ -1,5 +1,7 @@
 # Análise de Documentos
 
+
+
 ## Introdução
 
 A Análise de Documentos é um importante método da Engenharia de Requisitos, empregado para obter informações pertinentes de fontes documentais que descrevem processos, normas, manuais, regulamentos ou qualquer outro tipo de documentação ligada ao domínio do sistema. De acordo com Vázquez e Simões (2016), essa abordagem é particularmente útil para reconhecer requisitos implícitos, tais como limitações de negócios, normas jurídicas e técnicas, ou requisitos já estabelecidos em projetos passados.
@@ -8,8 +10,11 @@ No contexto do desenvolvimento de software, a Análise de Documentos complementa
 
 Essa técnica é especialmente útil em projetos complexos, como no desenvolvimento de sistemas voltados à área da saúde pública, como o Meu SUS Digital. Nesse contexto, a análise de legislações, políticas de saúde e normas técnicas é imprescindível para garantir que o sistema esteja em conformidade com os requisitos legais e atenda às necessidades dos usuários. Assim, a Análise de Documentos contribui para um levantamento de requisitos mais robusto e consistente.
 
-## Glossário
+## Legenda
 
+<div align="center">
+    <p><strong>Tabela 1 – Legenda</strong></p>
+</div>
 
 <center>
 
@@ -31,6 +36,8 @@ Essa técnica é especialmente útil em projetos complexos, como no desenvolvime
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
+
+
 ## Metodologia
 
 A análise foi conduzida com base nas orientações descritas por Vazquez e Simões em seu livro *Engenharia de requisitos: software orientado ao negócio* (Rio de Janeiro: Brasport, 2016). Inicialmente, foi necessário compreender em que etapa do ciclo de vida de desenvolvimento o Meu SUS Digital se encontra. Como o aplicativo já está em sua fase de implantação e utilização, identificou-se que seria possível alcançar um nível de análise mais aprofundado, focando na revisão de documentos e funcionalidades existentes.
@@ -40,6 +47,8 @@ A partir disso, foram elaboradas perguntas norteadoras para a análise. Essas pe
 Na execução, foram analisados os documentos relevantes, como especificações técnicas, requisitos originais e relatórios de desempenho do aplicativo. Os resultados da análise foram organizados em tabelas, utilizando o modelo apresentado por Vazquez e Simões, contendo as respostas às perguntas formuladas e as observações derivadas do exame dos documentos.
 
 Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteriormente, visando validar as conclusões e identificar possíveis ajustes ou oportunidades de melhoria no Meu SUS Digital.
+
+
 
 ## Perguntas para a Análise de Documentos
 
@@ -52,15 +61,21 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 - Q07: Quais medidas de segurança estão implementadas para proteger os dados pessoais dos pacientes?
 - Q08: Por quanto tempo os dados pessoais dos pacientes são armazenados pela plataforma?
 
+
+
 ## Resumo da Análise
 
 ---
+
+<div align="center">
+    <p><strong>Tabela 2 – Resumo da Análise da Nota Informativa</strong></p>
+</div>
 
 <center>
 
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3; color: #000;">
       <th>Tipo</th>
       <th>Localização</th>
     </tr>
@@ -70,13 +85,13 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
       <td>Nota</td>
       <td><a href=https://meususdigital.saude.gov.br/publico/perfil/nota-informativa>https://meususdigital.saude.gov.br/publico/perfil/nota-informativa</a></td>
     </tr>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3; color: #000;">
       <td colspan="2"><strong>Nome</strong></td>
     </tr>
     <tr>
       <td colspan="2">Nota Informativa do Meu SUS Digital</td>
     </tr>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3; color: #000;">
       <td colspan="2"><strong>Memória de levantamento<strong></td>
     </tr>
     <tr>
@@ -88,17 +103,20 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 </center>
 
 <div align="center">
-    <p><strong>Tabela 2 – Resumo da Análise da Nota Informativa</strong></p>
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
 ---
 
+<div align="center">
+    <p><strong>Tabela 3 – Resumo da Análise da Política de Privacidade</strong></p>
+</div>
+
 <center>
 
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3;  color: #000;">
       <th>Tipo</th>
       <th>Localização</th>
     </tr>
@@ -108,13 +126,13 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
       <td>Política de Privacidade</td>
       <td><a href=https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade>https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade</a></td>
     </tr>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3;  color: #000;">
       <td colspan="2"><strong>Nome</strong></td>
     </tr>
     <tr>
       <td colspan="2">Política de Privacidade do Meu SUS Digital</td>
     </tr>
-    <tr style="background-color: #d3d3d3;">
+    <tr style="background-color: #d3d3d3; color: #000;">
       <td colspan="2"><strong>Memória de levantamento</strong></td>
     </tr>
     <tr>
@@ -126,11 +144,12 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 </center>
 
 <div align="center">
-    <p><strong>Tabela 3 – Resumo da Análise da Política de Privacidade</strong></p>
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
 ---
+
+
 
 ## 📚 Bibliografia
 
@@ -142,8 +161,11 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 >
 > BRASIL. Ministério da Saúde. Política de privacidade. Meu SUS Digital. Disponível em: [https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade](https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade). Acesso em: 21 nov. 2024.
 
+
+
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 |  |  |
+| `1.1`  | Correção dos títulos das tabelas. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 |  |  |
