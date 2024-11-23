@@ -44,6 +44,7 @@ nav:
     - Técnicas: 
       - Análise de Documentos: elicitacao/tecnicas/analise-de-documentos.md
       - Observação: elicitacao/tecnicas/observacao.md
+      - Introspecção: elicitacao/tecnicas/introspeccao.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
   - Verificação:
