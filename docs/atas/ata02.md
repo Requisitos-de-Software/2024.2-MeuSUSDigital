@@ -40,6 +40,9 @@
   
 </center>
 
+<iframe width="560" height="315" src="https://youtu.be/X7e1DROEh0g" frameborder="0" allowfullscreen></iframe>
+
+
 <div align="center">
     <p><strong>Reunião 02 <em></em></strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
@@ -50,5 +53,6 @@
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 |  |  |
+|  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 | [Emivalto](https://github.com/EmivaltoJrr)  | 23/11/2024 |
+|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 15/11/2024 |   |  |
 
