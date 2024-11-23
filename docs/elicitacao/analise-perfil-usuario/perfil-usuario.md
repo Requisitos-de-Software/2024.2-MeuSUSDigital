@@ -14,7 +14,7 @@ De acordo com o gráfico apresentado na figura 1, a maior parte dos usuários qu
 
 <div align="center">
     <p><strong>Figura 1 – Pergunta n°1.</strong></p>
-    <img src="../img/quest_etaria.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_etaria.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -22,7 +22,7 @@ De acordo com o gráfico apresentado na figura 2, as pessoas que se identificam 
 
 <div align="center">
     <p><strong>Figura 2 – Pergunta n°2.</strong></p>
-    <img src="../img/quest_genero.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_genero.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -30,7 +30,7 @@ De acordo com o gráfico apresentado na figura 3, o grau de escolaridade que mai
 
 <div align="center">
     <p><strong>Figura 3 – Pergunta n°3.</strong></p>
-    <img src="../img/quest_escolaridade.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_escolaridade.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -38,7 +38,7 @@ De acordo com o gráfico apresentado na figura 4, a grande maioria se considerou
 
 <div align="center">
     <p><strong>Figura 4 – Pergunta n°4.</strong></p>
-    <img src="../img/quest_facilidade-celular.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_facilidade-celular.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -46,15 +46,15 @@ De acordo com o gráfico apresentado na figura 5, se consideraram neutros em rel
 
 <div align="center">
     <p><strong>Figura 5 – Pergunta n°5.</strong></p>
-    <img src="../img/quest_uso-regular.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_uso-regular.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
-De acordo com o gráfico apresentado na figura 6, pouco mais das respostas foram de que raramente usam os recursos disponibilizados pelo MeuSUS Digital, com aproximadamente 52% em seguida de 26,9% para "às vezes".
+De acordo com o gráfico apresentado na figura 6, pouco mais das respostas foram de que raramente usam os recursos disponibilizados pelo Meu SUS Digital, com aproximadamente 52% em seguida de 26,9% para "às vezes".
 
 <div align="center">
     <p><strong>Figura 6 – Pergunta n°6.</strong></p>
-    <img src="../img/quest_uso-recursos.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_uso-recursos.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -62,14 +62,14 @@ De acordo com o gráfico apresentado na figura 7, que aceitava múltiplas respos
 
 <div align="center">
     <p><strong>Figura 7 – Pergunta n°7.</strong></p>
-    <img src="../img/quest_funcionalidades.png" width="500">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/elicitacao/analise-perfil-usuario/img/quest_funcionalidades.png?raw=true" width="500">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 
 
 ## Definição do Perfil
-Após a análise das respostas, o Perfil do Usuário do aplicativo MeuSUS Digital foi traçado com as seguintes características:
+Após a análise das respostas, o Perfil do Usuário do aplicativo Meu SUS Digital foi traçado com as seguintes características:
 
 - **Gênero**: Em sua maioria masculino;
     
@@ -88,4 +88,4 @@ Após a análise das respostas, o Perfil do Usuário do aplicativo MeuSUS Digita
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 23/11/2024 |  | |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 23/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 23/11/2024 |
