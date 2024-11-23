@@ -35,13 +35,14 @@ nav:
     - Aplicativo Selecionado: planejamento/app-selecionado.md
     - Termo de Uso: planejamento/termo-de-uso.md
   - Elicitação:
-    - Perfil de Usuário: elicitacao/perfil-usuario.md
+    - Análise de Perfil de Usuário:
+      - Perfil de Usuário: elicitacao/analise-perfil-usuario/perfil-usuario.md
+      - Questionário: elicitacao/analise-perfil-usuario/questionario.md
     - Planejamento:
       - Cronograma de Elicitação de Requisitos: elicitacao/planejamento/cronograma-tecnicas.md
       - Cronograma de Priorização de Requisitos: elicitacao/planejamento/cronograma-priorizacao.md
     - Técnicas: 
       - Análise de Documentos: elicitacao/tecnicas/analise-de-documentos.md
-      - Questionário: elicitacao/tecnicas/questionario.md
       - Observação: elicitacao/tecnicas/observacao.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
