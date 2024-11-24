@@ -1,8 +1,8 @@
  # 📱Meu SUS Digital
 
 <div align="center">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/meu-sus-digital-logo.png?raw=true" width="500">
     <p><strong>Figura 1 – Logo do app Meu SUS Digital</strong></p>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/meu-sus-digital-logo.png?raw=true" width="500">
     <p>Fonte: <a href="https://meususdigital.saude.gov.br">Meu SUS Digital</a>.</p>
 </div>
 
@@ -21,6 +21,7 @@ Somos o Grupo 04 da disciplina de Requisitos de Software da Universidade de Bras
 A equipe do projeto é composta por cinco integrantes dedicados, conforme apresentado na **Tabela 1**. Cada membro traz habilidades únicas que contribuem para o sucesso do projeto.
 
 <div align="center">
+  <p><strong>Tabela 1 – Integrantes da Equipe</strong></p>
   <table>
     <tr>
       <td align="center">
@@ -43,19 +44,18 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
       </td>
       <td align="center">
         <a href="https://github.com/MatheusHenrickSantos">
-          <img style="border-radius: 20%; border: 3px solid #ff0000 ;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
+          <img style="border-radius: 20%; border: 3px solid #00cf00 ;" src="https://github.com/MatheusHenrickSantos.png" width="160px" height="160px" alt=""/>
           <br /><sub><b>Matheus Henrick</b></sub>
         </a><br />
       </td>
       <td align="center">
         <a href="https://github.com/pLopess">
-          <img style="border-radius: 20%; border: 3px solid #00cf00;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
+          <img style="border-radius: 20%; border: 3px solid #ff0000;" src="https://github.com/pLopess.png" width="160px" height="160px" alt=""/>
           <br /><sub><b>Pedro Lopes</b></sub>
         </a><br />
       </td>
     </tr>
   </table>
-  <p><strong>Tabela 1 – Integrantes da Equipe</strong></p>
   <p>Autores: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -66,4 +66,5 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
-| `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess)  | 07/11/2024 |
+| `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 07/11/2024 |
+| `1.2`  | Formatação dos títulos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 |  |  |
