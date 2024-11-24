@@ -66,7 +66,7 @@ Após a validação do cliente, a lista priorizada foi consolidada, servindo com
 
 <p>Vídeo 1 – Reunião de priorização - Matriz GUT</p>
 
-<iframe width="560" height="315" src="https://youtu.be/zibTZaYq1c4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zibTZaYq1c4?si=fuzzpDuCDkOzvRHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 
