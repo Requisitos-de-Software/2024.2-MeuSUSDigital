@@ -6,7 +6,7 @@
 
 Requisitos são condições ou capacidades que um sistema (como um aplicativo, por exemplo) deve atender para resolver problemas ou alcançar objetivos, documentando necessidades e restrições. Os requisitos funcionais definem as funcionalidades específicas do sistema, enquanto os não funcionais abrangem qualidades como desempenho, segurança e usabilidade. Implementá-los adequadamente, após sua elicitação por meio de uma ou mais técnicas, é crucial para alinhar o desenvolvimento às expectativas, reduzir custos e retrabalho, garantir qualidade e minimizar falhas, criando sistemas eficazes e alinhados às necessidades dos usuários.
 
-Este documento reúne todos os requisitos, tanto funcionais quanto não funcionais, elicitados através das técnicas de [Análise de Documentos](tecnicas/analise-de-documentos.md), [Grupo de Foco](tecnicas/grupo-de-foco.md), [Introspecção](tecnicas/introspeccao.md), [Observação](tecnicas/observacao.md) e [Questionário](tecnicas/questionario.md).
+Este documento reúne todos os requisitos, tanto funcionais quanto não funcionais, elicitados através das técnicas de [Análise de Documentos](tecnicas/analise-de-documentos.md), [Grupo de Foco](tecnicas/grupo-de-foco.md), [Introspecção](tecnicas/introspeccao.md), [Observação](tecnicas/observacao.md) e [Questionário](analise-perfil-usuario/questionario.md).
 
 
 
@@ -74,4 +74,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
