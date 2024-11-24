@@ -50,6 +50,7 @@ nav:
       - Grupo de Foco: elicitacao/tecnicas/grupo-de-foco.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
+      - Análise de Impacto: elicitacao/priorizacao/analise-de-impacto.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
