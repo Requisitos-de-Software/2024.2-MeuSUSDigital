@@ -49,6 +49,7 @@ nav:
       - Grupo de Foco: elicitacao/tecnicas/grupo-de-foco.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
+    - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
@@ -56,7 +57,3 @@ nav:
       - Entrega 1: verificacao/grupo4/entrega1/entrega1.md
     - Inspeções do Grupo 5:
       - Entrega 1: verificacao/grupo5/entrega1/entrega1g5.md
-    
-  
-
-
