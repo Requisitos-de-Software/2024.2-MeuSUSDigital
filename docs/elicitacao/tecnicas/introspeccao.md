@@ -131,7 +131,7 @@ Afim de analisar as respostas que pode se obter atraves desse roteiro foi elabor
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
-
+</center>
 ## Requisitos elicitados
 
 Através da introspecção, também foi possível obter alguns requisitos funcionais e não funcionais que já existem no artefato que podem ser observados na tabela 3.
@@ -140,18 +140,66 @@ Legenda das Tabelas 3 e 4:
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- IS: Requisito elicitado pela introspecção.
 
 ### Requisitos Funcionais
 
+| Tipo |          Descrição              |      Implementado      |
+|:-----:|:------------------------------:|:----------------------:|
+| RF01  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br,etc.).| Sim | 
+| RF02  |Validar as credenciais do usuário contra o banco de dados do Gov.br. |  SIM  | 
+| RF03  |Redirecionar o usuário para a página inicial após o login bem-sucedido.|  SIM | 
+| RF04  |Permitir que o usuário recupere a senha esquecida.| SIM | 
+| RF05  |Diferenciar o acesso de usuários comuns e profissionais de saúde, liberando funcionalidades específicas para cada perfil. | SIM| 
+| RF06  |Exibir o número do CNS do usuário.| ??? | 
+| RF07  |Permitir o download da versão digital do cartão SUS em formato PDF. | SIM | 
+| RF08  |Permitir a visualização do histórico de atendimentos do usuário no SUS. | SIM | 
+| RF09  |Exibir o histórico de vacinação do usuário| SIM | 
+| RF10  |Emitir a carteira de vacinação digital. | SIM | 
+| RF11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável)| ???? | 
+| RF12  |Permitir o acesso à declaração de doador de órgãos.|????| 
+| RF13  |Permitir o acesso a resultados de exames. | SIM | 
+| RF14  |Fornecer informações sobre medicamentos e tratamentos. |????| 
+| RF15  |Permitir o agendamento de consultas (se aplicável).|NÃO| 
+
+
 ### Requisitos Não Funcionais
 
+| Tipo |          Descrição              |      Implementado     |
+|:-----:|:------------------------------:|:---------------------:|
+| RNF01  |O tempo de carregamento da página inicial não deve ultrapassar 5 segundos em conexões de banda larga.| NÃO | 
+| RNF02  |O sistema deve ser capaz de lidar com um grande número de acessos simultâneos sem perda significativa de desempenho.|SIM | 
+| RNF03  |O sistema deve garantir a segurança e privacidade dos dados dos usuários, utilizando criptografia e outros mecanismos de proteção.|SIM | 
+| RNF04  |O acesso às funcionalidades do sistema deve ser restrito por meio de autenticação e autorização.|NÃO| 
+| RNF05  |A interface do usuário deve ser intuitiva, fácil de usar e acessível em dispositivos móveis.|SIM| 
+| RNF06  |O sistema deve utilizar linguagem clara, objetiva e acessível ao público em geral.|SIM| 
+| RNF07  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM| 
+| RNF07  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
 
 
+<center>
+
+## Gravação da Reunião
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+    <p><strong>Reunião 01 <em></em></strong></p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+
+
+## 📚 Bibliografia
+>https://aprender3.unb.br/course/view.php?id=23736&section=6
+>https://meususdigital.saude.gov.br/inicio
+>https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital
 
 
 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | | |
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.1`  | Complementação da documentação|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
