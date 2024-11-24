@@ -21,6 +21,7 @@ Conforme podemos observar na **Tabela 1**, este cronograma funciona como um guia
 | Técnica | Data | Horário | Ambiente/Local | Cliente/Persona | Responsável(eis) | 
 | ------- | :--: | :-----: | ----- | --------------- | ------------- |
 | $100 | 22/11/2024 | 21:00 | Microsoft Teams | | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Matriz GUT | 23/11/2024 | 16:30 | Microsoft Teams | Washington da Macena | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 </center>
 
