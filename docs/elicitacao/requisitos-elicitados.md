@@ -74,4 +74,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| '1.0'  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 |  |  |
