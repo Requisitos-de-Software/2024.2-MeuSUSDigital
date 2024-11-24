@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A Matriz GUT é uma ferramenta de qualidade proposta por Charles H. Kepner e Benjamin B. Tregoe em 1981, utilizada para definir prioridades entre diversas alternativas de ação. Seu objetivo é priorizar ações de forma racional, considerando três critérios principais:
+A Matriz GUT é uma ferramenta de qualidade proposta por Charles H. Kepner e Benjamin B. Tregoe em 1981, utilizada para definir prioridades entre diversas alternativas de ação (SOTILLE, 2014). Seu objetivo é priorizar ações de forma racional, considerando três critérios principais:
 
 - **Gravidade (G)**: Avalia a intensidade ou profundidade dos danos que um problema pode causar se não for tratado.
 - **Urgência (U)**: Considera o tempo disponível ou necessário para resolver o problema, indicando a pressão temporal existente.
