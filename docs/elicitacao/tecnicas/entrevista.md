@@ -62,7 +62,7 @@ A segunda entrevista, diferente da primeira, considerou uma pequena interação 
     <p><strong>Vídeo 2 ─ Gravação da Entrevista</strong></p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X1yU5QGuCM4?si=VYTyUCi6dcJcXZU7" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaoBLobf0Bo?si=dDnX4-giqXhwFk96" frameborder="0" allowfullscreen></iframe>
     <p><strong>Entrevista com Veridiana<em></em></strong></p>
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
@@ -82,18 +82,17 @@ A partir da revisão da entrevista, requisitos foram elicitados e documentados. 
 
 | Tipo | Rastreamento | Descrição | Implementado |
 | :-:  | :----------: | :-------: | :----------: |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RF   | ENXX |  |  |
-| RNF  | ENXX |  |  |
-| RNF  | ENXX |  |  |
-| RNF  | ENXX |  |  |
-| RNF  | ENXX |  |  |
+| RNF  | EN01 | A aplicação pode receber informações do usuário através de biosensores | Não |
+| RF   | EN02 | A aplicação permite agendar consultas | Não |
+| RF   | EN03 | A aplicação permite agendar exames | Não |
+| RF   | EN04 | a aplicação permite ao servidor solicitar licença saúde | Não |
+| RF   | EN05 | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | Não |
+| RF   | EN06 | A aplicação permite acompanhar a vacinação | Sim |
+| RF   | EN07 | A aplicação permite consultar pedidos de medicamento | Não |
+| RF   | EN08 | A aplicação permite consultar recebimentos de medicamento | Sim |
+| RF   | EN09 | A aplicação permite consultar os agendamentos de exames | Sim |
+| RF   | EN10 | A aplicação permite consultar os resultados de exames | Sim |
+| RF   | EN11 | A aplicação notifica o cancelamento de agentamentos | Não |
 
 </center>
 
