@@ -38,8 +38,7 @@
 
 ## Gravação da Reunião
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X7e1DROEh0g?si=NUMBNXNU7Bto3gLL" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLõeso4VG8_Ksc" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -54,6 +53,6 @@
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0`   | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 30/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+|  `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 30/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 |  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
-|  `1.2`   | Correção do documento | [Pedro Lopes](https://github.com/pLopess) | 16/11/2024 |  | |
+|  `1.2`  | Correção do documento | [Pedro Lopes](https://github.com/pLopess) | 16/11/2024 |  | |

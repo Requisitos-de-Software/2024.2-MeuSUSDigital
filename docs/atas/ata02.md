@@ -38,8 +38,7 @@
 
 ## Gravação da Reunião
 
-<iframe width="560" height="315" src="https://youtu.be/X7e1DROEh0g?si=NUMBNXNU7Bto3gLL" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7e1DROEh0g?si=LEtak9__SBGLtuHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <div align="center">
@@ -53,5 +52,5 @@
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 | [Emivalto](https://github.com/EmivaltoJrr)  | 23/11/2024 |
-|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 15/11/2024 |   |  |
+|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 24/11/2024 |   |  |
 
