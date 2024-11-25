@@ -21,7 +21,7 @@ Conforme podemos observar na **Tabela 1**, este cronograma funciona como um guia
 | Técnica | Data | Horário | Ambiente/Local | Cliente/Persona | Responsável(eis) | 
 | ------- | :--: | :-----: | ----- | --------------- | ------------- |
 | $100 | 22/11/2024 | 21:00 | Microsoft Teams | | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Análise de Impacto | --/--/---- | --:-- | - | - | [João Pedro](https://github.com/JoosPerro) |
+| Matriz GUT | 23/11/2024 | 16:30 | Microsoft Teams | Washington da Macena | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 </center>
 
@@ -43,4 +43,4 @@ Conforme podemos observar na **Tabela 1**, este cronograma funciona como um guia
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de priorização de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |
-| `1.1`  | Adição da técnica de análise de impacto | [João Pedro](https://github.com/JoosPerro) | 24/11/2024 |  |  |
+| `1.1`  | Atualização da tabela de cronograma | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |  |  |

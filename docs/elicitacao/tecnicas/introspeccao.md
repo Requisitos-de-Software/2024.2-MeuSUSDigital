@@ -87,42 +87,42 @@ Afim de analisar as respostas que pode se obter atraves desse roteiro foi elabor
   <tbody>
     <tr>
       <td>Qual é a sua origem? </td>
-      <td>????????</td>
+      <td> O Ministério da Saúde, por meio da Portaria GM/MS nº 3.232, de 1º de março de 2024, publicada no DOU em 4 de março de 2024, instituiu o Programa SUS Digital, na forma do Anexo CVIII à Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, com o objetivo primordial de impulsionar a transformação digital no âmbito do Sistema Único de Saúde (SUS). </td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
     <tbody>
     <tr>
       <td> Qual era o propósito original? </td>
-      <td>????????</td>
+      <td> Renovar o sistema de saúde do Brasil a fim de levar saúde a todos, para melhor atender a população e garantir um atendimento mais humanizado. </td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
     <tbody>
     <tr>
       <td> Como esse artefato interfere em mim? </td>
-      <td>????????</td>
+      <td> É possível facilitar o acesso à saúde pública, incluindo o acesso à carteira de vacinação e a outras informações básicas de saúde.  </td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
     <tbody>
     <tr>
       <td> Como pode me ajudar no meu dia a dia?  </td>
-      <td>????????</td>
+      <td> É importante facilitar o acesso à informação sobre onde encontrar serviços de saúde, como postos de vacinação ou unidades de saúde mais próximas. Além disso, seria interessante a possibilidade de agendar consultas sem precisar ir pessoalmente ao hospital, utilizando a tecnologia para isso.</td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
     <tbody>
     <tr>
       <td> Que histórias ou mensagens ele pode transmitir? </td>
-      <td>????????</td>
+      <td> Um sistema de saúde universal e funcional, que garanta saúde para todos. </td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
     <tbody>
     <tr>
       <td> Qual é a sua relevância hoje? </td>
-      <td>????????</td>
+      <td>O Sistema Único de Saúde (SUS) possui um potencial enorme para atender a toda a sociedade brasileira. </td>
     </tr>
     <tr style="background-color: #d3d3d3;  color: #000;">
   </tbody>
@@ -131,7 +131,7 @@ Afim de analisar as respostas que pode se obter atraves desse roteiro foi elabor
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
-
+</center>
 ## Requisitos elicitados
 
 Através da introspecção, também foi possível obter alguns requisitos funcionais e não funcionais que já existem no artefato que podem ser observados na tabela 3.
@@ -140,18 +140,68 @@ Legenda das Tabelas 3 e 4:
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- IS: Requisito elicitado pela introspecção.
 
 ### Requisitos Funcionais
 
+| Tipo |          Descrição              |      Implementado      |
+|:-----:|:------------------------------:|:----------------------:|
+| RF01  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br,etc.).| Sim | 
+| RF02  |Validar as credenciais do usuário contra o banco de dados do Gov.br. |  SIM  | 
+| RF03  |Redirecionar o usuário para a página inicial após o login bem-sucedido.|  SIM | 
+| RF04  |Permitir que o usuário recupere a senha esquecida.| SIM | 
+| RF05  |Diferenciar o acesso de usuários comuns e profissionais de saúde, liberando funcionalidades específicas para cada perfil. | SIM| 
+| RF06  |Exibir o número do CNS do usuário.| NÃO | 
+| RF07  |Permitir o download da versão digital do cartão SUS em formato PDF. | SIM | 
+| RF08  |Permitir a visualização do histórico de atendimentos do usuário no SUS. | SIM | 
+| RF09  |Exibir o histórico de vacinação do usuário| SIM | 
+| RF10  |Emitir a carteira de vacinação digital. | SIM | 
+| RF11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável)| NÃO | 
+| RF12  |Permitir o acesso à declaração de doador de órgãos.| NÃO | 
+| RF13  |Permitir o acesso a resultados de exames. | SIM | 
+| RF14  |Fornecer informações sobre medicamentos e tratamentos. |SIM | 
+| RF15  |Permitir o agendamento de consultas (se aplicável).|NÃO| 
+
+
 ### Requisitos Não Funcionais
 
+| Tipo |          Descrição              |      Implementado     |
+|:-----:|:------------------------------:|:---------------------:|
+| RNF01  |O tempo de carregamento da página inicial não deve ultrapassar 5 segundos em conexões de banda larga.| NÃO | 
+| RNF02  |O sistema deve ser capaz de lidar com um grande número de acessos simultâneos sem perda significativa de desempenho.|SIM | 
+| RNF03  |O sistema deve garantir a segurança e privacidade dos dados dos usuários, utilizando criptografia e outros mecanismos de proteção.|SIM | 
+| RNF04  |O acesso às funcionalidades do sistema deve ser restrito por meio de autenticação e autorização.|NÃO| 
+| RNF05  |A interface do usuário deve ser intuitiva, fácil de usar e acessível em dispositivos móveis.|SIM| 
+| RNF06  |O sistema deve utilizar linguagem clara, objetiva e acessível ao público em geral.|SIM| 
+| RNF07  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM| 
+| RNF08  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
 
 
+<center>
+
+## Gravação da Introspecção
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+    <p><strong>Reunião 01 <em></em></strong></p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+
+
+## 📚 Bibliografia
+>https://aprender3.unb.br/course/view.php?id=23736&section=6
+>https://meususdigital.saude.gov.br/inicio
+>https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital
+>https://portalfns.saude.gov.br/instituicao-do-sus-digital/#:~:text=O%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20por,impulsionar%20a%20transforma%C3%A7%C3%A3o%20digital%20no
 
 
 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | | |
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.1`  | Complementação da documentação|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.2`  | Adição de Resposta faltantesão |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+
