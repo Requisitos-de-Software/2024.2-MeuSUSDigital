@@ -8,8 +8,6 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 ## Vídeo da apresentação 01
 
 
-# 1ªEntrega 
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cj8_GY2w_iM" frameborder="0" allowfullscreen></iframe>
 
@@ -17,7 +15,7 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 
 <div align="center">
-    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+    <p><strong>Apresentação Entrega 1</strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
