@@ -190,5 +190,5 @@ Através deste [link](https://www.youtube.com/watch?v=lyMJnsWt9oI), você será 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente à técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 20/11/2024 |  |  |
-| `1.1`  | Adição dos requisitos (funcionais e não funcionais) elicitados através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente à técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 20/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+| `1.1`  | Adição dos requisitos (funcionais e não funcionais) elicitados através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
