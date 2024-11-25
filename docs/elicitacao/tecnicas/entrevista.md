@@ -70,9 +70,7 @@ A segunda entrevista, diferente da primeira, considerou uma pequena interação 
 
 ## Requisitos Elicitados
 
-A partir da revisão da entrevista, requisitos foram elicitados e documentados. Eles também serão classificados como funcionais (**RF**) ou não funcionais (**RNF**) e ordenados quanto à prioridade, utilizando a [análise de impacto](../priorizacao/analise-de-impacto.md).
-
-### Requisitos Elicitados
+A partir da revisão da entrevista, requisitos foram elicitados e documentados. Eles também serão classificados como funcionais (**RF**) ou não funcionais (**RNF**) e ordenados quanto à prioridade.
 
 <div align="center">
     <p><strong>Tabela 2 – Requisitos Elicitados</strong></p>

@@ -8,15 +8,38 @@ Com o fim de controlar de forma proveitosa as interações dos participantes, o 
 
 A presença de mais de um mediador pode ser útil para que os papéis de diálogo com o grupo e de registro de informações não sejam exercidos pela mesma pessoa. Essas tarefas, caso realizadas pela mesma pessoa, podem atrapalhar a interação do grupo com o mediador.
 
-## Vídeo ─ Gravação da Sessão de Grupo de Foco
+## Execução do Grupo de Foco
+
+<div align="center">
+<p><strong>Vídeo 1 ─ Gravação do Grupo de Foco</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/70yGXwLnMz8?si=0mF9pw5b_7PiN5ih" frameborder="0" allowfullscreen></iframe>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+### Requisitos Elicitados
+
+A partir da sessão de grupo de foco, requisitos foram elicitados e documentados. Eles também serão classificados como funcionais (**RF**) ou não funcionais (**RNF**) e deverão ser ordenados com uma técnica de priorização.
+
+<div align="center">
+    <p><strong>Tabela 1 – Requisitos Elicitados</strong></p>
+</div>
+
+<center>
+
+| Tipo | Rastreamento | Descrição | Implementado |
+| :-:  | :----------: | :-------: | :----------: |
+| RF   | GF01 | O aplicativo mostra o histórico de vacinação pré-pandemia | Não |
+| RF   | GF02 | O aplicativo oferece agendamento | Não |
+| RF   | GF03 | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | Não |
+| RF   | GF04 | O aplicativo permite consultar receitas médicas | Não |
+| RF   | GF05 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados à patologias que eles venham a ter | Não |
+| RF   | GF06 | O aplicativo pode destacar conteúdos pertinentes à um estado para usuários desse estado | Não |
 
 </center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/70yGXwLnMz8?si=0mF9pw5b_7PiN5ih" frameborder="0" allowfullscreen></iframe>
-
-
 <div align="center">
-    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
 ## 📚 Referência Bibliográfica
@@ -30,3 +53,4 @@ Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | |  |
+|  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | |  |
