@@ -73,6 +73,6 @@ Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os term
 ## 📑 Histórico de versões 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
---------- | ------ | ------ | ---------- | ----------
+|------- | --------- | --------- | ---------------- | ------------|-----------------|
 `1.0` | Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/11/2024| [Pedro Lopes](https://github.com/pLopess) | 03/11/2024|
 `1.1` |  Adicionando data de acesso em cada print | [Pedro Lopes](https://github.com/pLopess) |02/11/2024| [Emivalto Júnior](https://github.com/EmivaltoJrr)  |03/11/2024|
