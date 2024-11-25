@@ -38,7 +38,8 @@
 
 ## Gravação da Reunião
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DLo4VG8_Ksc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7e1DROEh0g?si=NUMBNXNU7Bto3gLL" frameborder="0" allowfullscreen></iframe>
+
 
 </center>
 

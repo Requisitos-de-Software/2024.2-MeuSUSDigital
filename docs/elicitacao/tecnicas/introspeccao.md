@@ -193,8 +193,12 @@ Legenda das Tabelas 3 e 4:
 <center>
 
 ## Gravação da Introspecção
+<<<<<<< HEAD
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
+=======
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=70yGXwLnMz8" frameborder="0" allowfullscreen></iframe>
+>>>>>>> 8e3bc5c (correção)
 
 </center>
 
@@ -206,16 +210,29 @@ Legenda das Tabelas 3 e 4:
 
 
 ## 📚 Bibliografia
->https://aprender3.unb.br/course/view.php?id=23736&section=6
->https://meususdigital.saude.gov.br/inicio
+
 >https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital
->https://portalfns.saude.gov.br/instituicao-do-sus-digital/#:~:text=O%20Minist%C3%A9rio%20da%20Sa%C3%BAde%2C%20por,impulsionar%20a%20transforma%C3%A7%C3%A3o%20digital%20no
+>
+>https://aprender3.unb.br/course/view.php?id=23736&section=6
+>
+>https://meususdigital.saude.gov.br/inicio 
+>
+>https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single
 
 
 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+<<<<<<< HEAD
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
 |  `1.1`  | Complementação da documentação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
 |  `1.2`  | Adição de Resposta faltante |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
+=======
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.1`  | Complementação da documentação|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.2`  | Adição de Resposta faltantesão |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.3`  | correção de links|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+
+
+>>>>>>> 8e3bc5c (correção)
