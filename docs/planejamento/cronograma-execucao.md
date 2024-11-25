@@ -52,12 +52,12 @@ A **Tabela 2** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
-| Definir perfil dos usuários | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Escolher e documentar as técnicas de elicitação usadas e que serão usadas | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Escolher e documentar as técnicas de priorização usadas e que serão usadas | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Gravar a apresentação da Etapa 2 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
-| Inspecionar a entrega da apresentação da Etapa 2 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
-| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Definir perfil dos usuários | Início: 10/11/2024 <br>Fim 22/11/2024 | [Pedro Lopes](https://github.com/pLopess) e [Artur Ricardo](https://github.com/algorithmorphic) | Início: 22/11/2024 <br>Fim 24/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Escolher e documentar as técnicas de elicitação usadas e que serão usadas | Início: 10/11/2024 <br>Fim 22/11/2024 | [Pedro Lopes](https://github.com/pLopess), [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e  [João Pedro](https://github.com/JoosPerro)  | Início: 22/11/2024 <br>Fim 24/11/2024 |  |
+| Escolher e documentar as técnicas de priorização usadas e que serão usadas | Início: 10/11/2024 <br>Fim 22/11/2024 |  | Início: 22/11/2024 <br>Fim 24/11/2024 |  |
+| Gravar a apresentação da Etapa 2 do projeto | Início: 10/11/2024 <br>Fim 23/11/2024 | | Início: 22/11/2024 <br>Fim 24/11/2024 | |
+| Inspecionar a entrega da apresentação da Etapa 2 do projeto do Grupo 5 | Início: 10/11/2024 <br>Fim 24/11/2024 | | Início: 22/11/2024 <br>Fim 26/11/2024 | |
+| Correção pós entrega/apresentação da Etapa 2 do projeto | Início: 10/11/2024 <br>Fim  | | Início: <br>Fim: | |
 
 </center>
 
