@@ -52,5 +52,5 @@ Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | |  |
-|  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | |  |
+|  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
+|  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
