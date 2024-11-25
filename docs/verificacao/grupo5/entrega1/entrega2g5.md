@@ -62,6 +62,7 @@ _Autor: Pedro Lopes._
 
 ## 📑 Histórico de Versão
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess) | 24/11/2024  |  |  |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |  | 24/11/2024 |
+
