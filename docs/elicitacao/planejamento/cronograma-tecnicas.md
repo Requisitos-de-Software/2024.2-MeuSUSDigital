@@ -47,6 +47,6 @@ Conforme podemos observar na **Tabela 1**, este cronograma serve como um guia pr
 | `1.0`  | Criação inicial da estrutura do documento referente ao cronograma de elicitação de requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 |
 | `1.1`  | Adicionando questionário ao cronograma de elicitação de requisitos. | [Pedro Lopes](https://github.com/pLopess) | 21/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |
 | `1.2`  | Adicionando análise de documentos ao cronograma de elicitação de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 21/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |
-| `1.3`  | Atualização dos dados do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |  |  |
-| `1.4`  | Adicionando as técnicas de Entrevista e Grupo de Foco. | [João Pedro](https://github.com/JoosPerro) |  | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
+| `1.3`  | Atualização dos dados do cronograma. | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |[Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+| `1.4`  | Adicionando as técnicas de Entrevista e Grupo de Foco. | [João Pedro](https://github.com/JoosPerro) | 24/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
 
