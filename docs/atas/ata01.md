@@ -55,4 +55,4 @@
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 30/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 |  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
-|  `1.2`  | Correção do documento | [Pedro Lopes](https://github.com/pLopess) | 16/11/2024 |  | |
+|  `1.2`  | Correção do documento | [Pedro Lopes](https://github.com/pLopess) | 16/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
