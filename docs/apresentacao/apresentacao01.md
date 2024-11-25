@@ -23,6 +23,6 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
 
 
 ## 📑 Histórico de versão
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024  | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
