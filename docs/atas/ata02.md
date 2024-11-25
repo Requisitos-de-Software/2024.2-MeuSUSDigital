@@ -37,7 +37,9 @@
 <center>
 
 ## Gravação da Reunião
-  
+
+<iframe width="560" height="315" src="https://youtu.be/X7e1DROEh0g?si=NUMBNXNU7Bto3gLL" frameborder="0" allowfullscreen></iframe>
+
 </center>
 
 <div align="center">
@@ -50,5 +52,6 @@
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 |  |  |
+|  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 | [Emivalto](https://github.com/EmivaltoJrr)  | 23/11/2024 |
+|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 15/11/2024 |   |  |
 
