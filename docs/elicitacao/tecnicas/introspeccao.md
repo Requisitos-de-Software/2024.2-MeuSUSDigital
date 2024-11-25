@@ -4,7 +4,7 @@
 
 ## Introdução
 
-A tecnica de introspecção é um processo fundamental na engenharia de software que envolve a análise e a reflexão sobre os próprios requisitos de um sistema. Este conceito é crucial para garantir que os requisitos sejam compreendidos, documentados e implementados de forma eficaz.
+A técnica de introspecção é um processo fundamental na Engenharia de Software que envolve a análise e a reflexão sobre os próprios requisitos de um sistema. Este conceito é crucial para garantir que os requisitos sejam compreendidos, documentados e implementados de forma eficaz.
 
 ### O que é Introspecção?
 
@@ -12,7 +12,7 @@ A Definição de introspecção refere-se à prática de examinar e avaliar os p
 
 ## Metodologia
 
-Para esta etapa a introspecção é uma prática vital na definição e gestão de requisitos de software. Ao promover uma análise crítica e reflexiva, as equipes podem garantir que os sistemas desenvolvidos atendam às necessidades reais dos usuários e sejam entregues com qualidade e eficiência, com isso os métodos de introspecção em requisitos de software incluem revisões de requisitos, onde essa tecnica pode ser aplicadar somente por uma pessoa fazendo a auto avaliação do artefato ou por equipes e partes interessadas, onde se reúnem para discutir e avaliar os requisitos existentes, entrevistas, que permitem um diálogo aprofundado com os usuários para captar suas necessidades e expectativas.
+Para esta etapa, a introspecção é uma prática vital na definição e gestão de requisitos de software. Ao promover uma análise crítica e reflexiva, as equipes podem garantir que os sistemas desenvolvidos atendam às necessidades reais dos usuários e sejam entregues com qualidade e eficiência. Com isso os métodos de introspecção em requisitos de software incluem revisões de requisitos, onde essa técnica pode ser aplicada somente por uma pessoa fazendo a auto avaliação do artefato ou por equipes e partes interessadas, onde se reúnem para discutir e avaliar os requisitos existentes, entrevistas, que permitem um diálogo aprofundado com os usuários para captar suas necessidades e expectativas.
 
 Com isso, foi feita uma introspecção por um membro da equipe, que analisou o Meu SUS Digital para obter resultados da melhor forma possível, identificando lacunas nos requisitos e buscando alinhar as funcionalidades com as necessidades reais dos usuários.
 
@@ -20,9 +20,9 @@ Com isso, foi feita uma introspecção por um membro da equipe, que analisou o M
 
 - **Definição do objetivo principal**: garantir que os requisitos sejam compreendidos, claros e alinhados com as necessidades dos usuários do aplicativo Meu SUS Digital.
 
-- **Escolha do(a) participante**: Foi selecionado um membro da equipe do Grupo 04 que já usou o Meu SUS Digital, a fim de garantir maior fidelidade às interações reais e proporcionar uma visão crítica sobre onde poderia haver melhorias para atender melhor às expectativas dos usuários.
+- **Escolha do(a) participante**: Foi selecionado um membro da equipe do Grupo 04 que já usou o Meu SUS Digital, a fim de garantir mais fidelidade às interações reais e proporcionar uma visão crítica sobre onde poderia haver melhorias para atender melhor às expectativas dos usuários.
 
-- **Agendamento da sessão**: a atividade foi realizada no dia 23/11/2024, às 17:00 horas , com duração maxima de 30 minutos, por meio da ferramenta Microsoft Teams.
+- **Agendamento da sessão**: a atividade foi realizada no dia 23/11/2024, às 17:00 horas, com duração máxima de 30 minutos, por meio da ferramenta Microsoft Teams.
 
 
 ### Cronograma 
@@ -46,7 +46,7 @@ Com isso, foi feita uma introspecção por um membro da equipe, que analisou o M
 
 ### Introspecção realizada por Emivalto
 
-Afim de de obter os melhores resultados utilizando essa tecnica foi elaborado um roteiro afim de guiar e obter os resultados esperados.
+A fim de obter os melhores resultados utilizando essa técnica, foi elaborado um roteiro com o intuito de guiar e obter os resultados esperados.
 
 #### 1.Observação Detalhada:
 Examinar o artefato minuciosamente e analisar suas características físicas, como forma, cor, textura e material.
@@ -68,7 +68,7 @@ Explore o significado cultural, histórico ou simbólico do artefato. Considere:
 Avalie o impacto do artefato em sua vida ou na sociedade. Pergunte-se: Qual é a sua relevância hoje?
 
 
-Afim de analisar as respostas que pode se obter atraves desse roteiro foi elaborado uma tabela a tabela 2 afim de registrar as respostas.
+A fim de analisar as respostas que pode-se obter através desse roteiro, foi elaborado uma tabela, a **Tabela 2**, para registrar as respostas.
 
 <div align="center">
     <p><strong>Tabela 2 – Perguntas e Respostas</strong></p>
@@ -134,37 +134,48 @@ Afim de analisar as respostas que pode se obter atraves desse roteiro foi elabor
 </center>
 ## Requisitos elicitados
 
-Através da introspecção, também foi possível obter alguns requisitos funcionais e não funcionais que já existem no artefato que podem ser observados na tabela 3.
+Através da introspecção, também foi possível obter alguns requisitos funcionais e não funcionais que já existem no artefato que podem ser observados na **Tabela 3**.
 
 Legenda das Tabelas 3 e 4:
 
 - RFx: Requisito Funcional nºx
-- RNFx: Requisito Não-Funcional nºx
+- RNFx: Requisito Não Funcional nºx
 
 ### Requisitos Funcionais
 
-| Tipo |          Descrição              |      Implementado      |
+<div align="center">
+    <p><strong>Tabela 3 – Requisitos Funcionais</strong></p>
+</div>
+
+| Tipo  |         Descrição              |      Implementado      |
 |:-----:|:------------------------------:|:----------------------:|
-| RF01  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br,etc.).| Sim | 
+| RF01  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br, etc.).| Sim | 
 | RF02  |Validar as credenciais do usuário contra o banco de dados do Gov.br. |  SIM  | 
 | RF03  |Redirecionar o usuário para a página inicial após o login bem-sucedido.|  SIM | 
 | RF04  |Permitir que o usuário recupere a senha esquecida.| SIM | 
 | RF05  |Diferenciar o acesso de usuários comuns e profissionais de saúde, liberando funcionalidades específicas para cada perfil. | SIM| 
 | RF06  |Exibir o número do CNS do usuário.| NÃO | 
-| RF07  |Permitir o download da versão digital do cartão SUS em formato PDF. | SIM | 
+| RF07  |Permitir o *download* da versão digital do cartão SUS em formato PDF. | SIM | 
 | RF08  |Permitir a visualização do histórico de atendimentos do usuário no SUS. | SIM | 
-| RF09  |Exibir o histórico de vacinação do usuário| SIM | 
+| RF09  |Exibir o histórico de vacinação do usuário.| SIM | 
 | RF10  |Emitir a carteira de vacinação digital. | SIM | 
-| RF11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável)| NÃO | 
+| RF11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável).| NÃO | 
 | RF12  |Permitir o acesso à declaração de doador de órgãos.| NÃO | 
-| RF13  |Permitir o acesso a resultados de exames. | SIM | 
+| RF13  |Permitir o acesso aos resultados de exames. | SIM | 
 | RF14  |Fornecer informações sobre medicamentos e tratamentos. |SIM | 
 | RF15  |Permitir o agendamento de consultas (se aplicável).|NÃO| 
 
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 ### Requisitos Não Funcionais
 
-| Tipo |          Descrição              |      Implementado     |
+<div align="center">
+    <p><strong>Tabela 4 – Requisitos Não Funcionais</strong></p>
+</div>
+
+| Tipo  |         Descrição              |      Implementado     |
 |:-----:|:------------------------------:|:---------------------:|
 | RNF01  |O tempo de carregamento da página inicial não deve ultrapassar 5 segundos em conexões de banda larga.| NÃO | 
 | RNF02  |O sistema deve ser capaz de lidar com um grande número de acessos simultâneos sem perda significativa de desempenho.|SIM | 
@@ -175,10 +186,14 @@ Legenda das Tabelas 3 e 4:
 | RNF07  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM| 
 | RNF08  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
 
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 <center>
 
 ## Gravação da Introspecção
+
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
 
 </center>
@@ -201,7 +216,6 @@ Legenda das Tabelas 3 e 4:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
-|  `1.1`  | Complementação da documentação|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
-|  `1.2`  | Adição de Resposta faltantesão |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
-
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
+|  `1.1`  | Complementação da documentação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
+|  `1.2`  | Adição de Resposta faltante |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
