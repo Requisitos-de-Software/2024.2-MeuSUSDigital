@@ -65,6 +65,6 @@ A equipe do projeto é composta por cinco integrantes dedicados, conforme aprese
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
+| `1.0`  | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.1`  | Atualização do README, correção de erros etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 07/11/2024 |
-| `1.2`  | Formatação dos títulos. | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+| `1.2`  | Formatação dos títulos | [Artur Ricardo](https://github.com/algorithmorphic) | 21/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |

@@ -21,30 +21,37 @@ A inspeção foi baseada na [lista de verificação da 2ª entrega](../../lista_
 |        ID        | Descrição                                                                                                           | Avaliação  | Autor        | Data e hora |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | ------------ | ------------- |
 | **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |              |               |
-|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    -    | André Barros |         DATA/HORA       |
-|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | - | André Barros |     DATA/HORA           |
-|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    -    | André Barros |    DATA/HORA            |
-|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    -     | André Barros |        DATA/HORA        |
-|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    -     | André Barros |    DATA/HORA            |
-|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    -     | André Barros |      DATA/HORA          |
-|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    -    | André Barros |        DATA/HORA        |
-|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    -     | André Barros |       DATA/HORA         |
-|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    -     | André Barros |      DATA/HORA          |
+|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    Sim    | André Barros |         25/11/2024 - 15:10       |
+|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Incompleto | André Barros |     25/11/2024 - 15:10           |
+|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    Sim    | André Barros |    25/11/2024 - 15:10            |
+|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    Sim     | André Barros |        25/11/2024 - 15:10        |
+|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    Sim     | André Barros |    25/11/2024 - 15:10            |
+|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    Incompleto     | André Barros |      25/11/2024 - 15:10          |
+|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    Sim    | André Barros |        25/11/2024 - 15:10        |
+|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    Sim     | André Barros |       25/11/2024 - 15:10         |
+|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    Sim     | André Barros |      25/11/2024 - 15:10          |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
-|        <a id="REF1" href="#anchor_1">Q1</a>        |  Os participantes das técnicas, que tiveram dados utilizados, receberam e aprovaram um termo de consentimento?                                                                          |    -     | Pedro Lopes |  DATA/HORA       |
-|        <a id="REF2" href="#anchor_2">Q2</a>        |Os requisitos se referem tanto aos objetivos dos usuários quanto as características que um produto deve ter ou se comportar?  |    -     | Artur Ricardo |      DATA/HORA          |
-|        <a id="REF3" href="#anchor_3">Q3</a>        | O questionário aplicado leva em consideração características de comportamento do usuário? |    -     | João Pedro |      DATA/HORA          |
-|        <a id="REF4" href="#anchor_4">Q4</a>        | O perfil de usuário foi traçado com base nos dados coletados? |    -     | Matheus Henrick |      DATA/HORA          |
-|        <a id="REF5" href="#anchor_5">Q5</a>        | Foram elicitados requisitos funcionais e não funcionais? |    -     | Emivalto Junior |       DATA/HORA         |
+|        <a id="REF1" href="#anchor_1">Q1</a>        |  Os participantes das técnicas, que tiveram dados utilizados, receberam e aprovaram um termo de consentimento?                                                                          |    Sim     | Pedro Lopes |  25/11/2024 - 15:10       |
+|        <a id="REF2" href="#anchor_2">Q2</a>        |Os requisitos se referem tanto aos objetivos dos usuários quanto as características que um produto deve ter ou se comportar?  |    -     | Artur Ricardo |      25/11/2024 - 15:10          |
+|        <a id="REF3" href="#anchor_3">Q3</a>        | O questionário aplicado leva em consideração características de comportamento do usuário? |    Sim     | João Pedro |      25/11/2024 - 15:10          |
+|        <a id="REF4" href="#anchor_4">Q4</a>        | O perfil de usuário foi traçado com base nos dados coletados? |    Sim     | Matheus Henrick |      25/11/2024 - 15:10          |
+|        <a id="REF5" href="#anchor_5">Q5</a>        | Foram elicitados requisitos funcionais e não funcionais? |    Sim     | Emivalto Junior |       25/11/2024 - 15:10         |
 
 
 _Autor: Pedro Lopes._
 
 </center>  
 
+<center>
 ## Gravação da Inspeção do Grupo 5
+</center>
 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+<center>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O9Es7xJQU7o?si=FctRxHOz9rDxMWpr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+_Autor: Emivalto júnior_
+
+</center>
 
 ## 📚 Referências Bibliográficas
 
@@ -59,10 +66,12 @@ _Autor: Pedro Lopes._
 > - <a id="anchor_4" href="#REF4"><sup>P4</sup></a><br>![Referência 4](../../referencias/Q4.png)
 >****
 > - <a id="anchor_5" href="#REF5"><sup>P5</sup></a><br>![Referência 1](../../referencias/Q5.png)
+>
 
 ## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 |
+| `1.1`  | Respostas Questionario e adição de Gravação | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 25/11/2024 |
 
