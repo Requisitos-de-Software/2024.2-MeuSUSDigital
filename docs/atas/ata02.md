@@ -52,5 +52,5 @@
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 | [Emivalto](https://github.com/EmivaltoJrr)  | 23/11/2024 |
-|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 24/11/2024 |   |  |
+|  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 
