@@ -204,3 +204,5 @@ Legenda das Tabelas 3 e 4:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
 |  `1.1`  | Complementação da documentação|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.2`  | Adição de Resposta faltantesão |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+
