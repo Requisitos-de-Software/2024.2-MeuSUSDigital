@@ -22,4 +22,4 @@ Essa página tem como objetivo documentar a gravação de apresentação  refere
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento e Adição da Gravação | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024  | [Emivalto Júnior](https://github.com/EmivaltoJrr)  |  24/11/2024|
-|  `1.1õe`  | adição da Gravação | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024  | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |
+|  `1.1`  | adição da Gravação | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024  | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |

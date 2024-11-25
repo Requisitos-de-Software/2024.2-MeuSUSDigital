@@ -44,7 +44,7 @@ _Autor: Pedro Lopes._
 
 ## Gravação da Inspeção do Grupo 4
 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hmPALPK36dE?si=5p39o5Xm4DSlKxew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📚 Referências Bibliográficas
 
@@ -65,4 +65,5 @@ _Autor: Pedro Lopes._
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
+| `1.0`  | Criação do documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
 
