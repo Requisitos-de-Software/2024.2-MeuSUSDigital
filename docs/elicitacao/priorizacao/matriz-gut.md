@@ -106,7 +106,7 @@ Após a validação do cliente, a lista priorizada foi consolidada, servindo com
 
 ## 📚 Bibliografia
 
-> SOTILLE, Mauro Afonso. A Ferramenta GUT – Gravidade, Urgência e Tendência. Porto Alegre: PM Tech Capacitação em Projetos, 2014. Disponível em: https://www.gov.br/transportes/pt-br/pt-br/centrais-de-conteudo/dicas-pmp-matriz-gut-pdf. Acesso em: 23 nov. 2024.
+> SOTILLE, Mauro Afonso. A Ferramenta GUT – Gravidade, Urgência e Tendência. Porto Alegre: PM Tech Capacitação em Projetos, 2014. Disponível em: [https://www.gov.br/transportes/pt-br/pt-br/centrais-de-conteudo/dicas-pmp-matriz-gut-pdf](https://www.gov.br/transportes/pt-br/pt-br/centrais-de-conteudo/dicas-pmp-matriz-gut-pdf). Acesso em: 23 nov. 2024.
 
 ## 📑 Histórico de Versões
 
