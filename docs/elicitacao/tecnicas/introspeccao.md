@@ -173,13 +173,12 @@ Legenda das Tabelas 3 e 4:
 | RNF05  |A interface do usuário deve ser intuitiva, fácil de usar e acessível em dispositivos móveis.|SIM| 
 | RNF06  |O sistema deve utilizar linguagem clara, objetiva e acessível ao público em geral.|SIM| 
 | RNF07  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM| 
-| RNF07  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
+| RNF08  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
 
 
 <center>
 
-## Gravação da Reunião
-
+## Gravação da Introspecção
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
 
 </center>
