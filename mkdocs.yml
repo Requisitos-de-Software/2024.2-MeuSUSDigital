@@ -49,7 +49,7 @@ nav:
       - Grupo de Foco: elicitacao/tecnicas/grupo-de-foco.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
-    - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
+      - Matriz GUT: elicitacao/priorizacao/matriz-gut.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
