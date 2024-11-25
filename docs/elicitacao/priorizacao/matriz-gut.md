@@ -112,4 +112,4 @@ Após a validação do cliente, a lista priorizada foi consolidada, servindo com
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
