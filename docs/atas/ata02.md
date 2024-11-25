@@ -37,11 +37,10 @@
 <center>
 
 ## Gravação da Reunião
-  
+
+<iframe width="560" height="315" src="https://youtu.be/X7e1DROEh0g?si=NUMBNXNU7Bto3gLL" frameborder="0" allowfullscreen></iframe>
+
 </center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=X7e1DROEh0g&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
-
 
 <div align="center">
     <p><strong>Reunião 02 <em></em></strong></p>
