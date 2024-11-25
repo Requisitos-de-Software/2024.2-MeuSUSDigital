@@ -193,12 +193,9 @@ Legenda das Tabelas 3 e 4:
 <center>
 
 ## Gravação da Introspecção
-<<<<<<< HEAD
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=633YEDAQN3Q&feature=youtu.beões" frameborder="0" allowfullscreen></iframe>
-=======
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=70yGXwLnMz8" frameborder="0" allowfullscreen></iframe>
->>>>>>> 8e3bc5c (correção)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/70yGXwLnMz8?si=oXRSrIQU_w--hxIq" frameborder="0" allowfullscreen></iframe>
+
 
 </center>
 
