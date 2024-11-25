@@ -65,5 +65,5 @@
 
 | Versão | Descrição | Autor | Data | Revisor | Data de revisão |  
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 22/11/2024 |  |  |
-|  `1.1` | Adição de link | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 |  |  |
+|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 22/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+|  `1.1` | Adição de link | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
