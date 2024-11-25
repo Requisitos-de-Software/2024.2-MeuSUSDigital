@@ -208,23 +208,22 @@ Legenda das Tabelas 3 e 4:
 
 ## 📚 Bibliografia
 
->https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital
+> BRASIL. Meu SUS Digital. Disponível em: [https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital](https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital). Acesso em: 23 nov. 2024.
 >
->https://aprender3.unb.br/course/view.php?id=23736&section=6
+> UNIVERSIDADE DE BRASÍLIA. Curso disponível na plataforma Aprender 3. Disponível em: [https://aprender3.unb.br/course/view.php?id=23736&section=6](https://aprender3.unb.br/course/view.php?id=23736&section=6). Acesso em: 23 nov. 2024.
 >
->https://meususdigital.saude.gov.br/inicio 
+> BRASIL. Meu SUS Digital. Disponível em: [https://meususdigital.saude.gov.br/inicio](https://meususdigital.saude.gov.br/inicio). Acesso em: 23 nov. 2024. 
 >
->https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single
-
+> BRASIL. Instituição do SUS Digital. Disponível em: [https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single](https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single). Acesso em: 23 nov. 2024.
 
 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
-|  `1.1`  | Complementação da documentação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | - | - |
+|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+|  `1.1`  | Complementação da documentação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 |  `1.2`  | Adição de Resposta faltante |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
-|  `1.3`  | correção de links|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | | |
+|  `1.3`  | correção de links|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 
 
 
