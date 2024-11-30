@@ -6,7 +6,7 @@
 
 A técnica de observação (etnografia) é uma ferramenta essencial para compreender as necessidades reais dos usuários e identificar os requisitos de um software de maneira mais fidedigna. Originária da antropologia, essa abordagem é amplamente utilizada na análise de interações entre pessoas, sistemas e seus ambientes. Em projetos de software, a observação permite explorar aspectos implícitos que entrevistas ou outras técnicas de elicitação de requisitos nem sempre capturam. No entanto, é fundamental considerar a preparação cuidadosa para garantir que os objetivos sejam claros e que a execução não interfira de forma significativa na observação. Esta técnica foi empregada no presente projeto, com o objetivo de elicitar requisitos funcionais (encontrados na **Tabela 2**) e não funcionais (encontrados na **Tabela 3**) do aplicativo Meu SUS Digital, respeitando o que foi previamente estabelecido em cronograma.
 
-Conforme pode ser observado na **Tabela 1**, a observação foi composta por [Artur Ricardo](https://github.com/algorithmorphic), um dos integrantes da equipe do Grupo 04, que fará o papel de observador, e por [nome da pessoa], uma usuária do aplicativo e não pertencente à equipe, como pessoa observada.
+Conforme pode ser observado na **Tabela 1**, a observação foi composta por [Artur Ricardo](https://github.com/algorithmorphic), um dos integrantes da equipe do Grupo 04, que fará o papel de observador, e por Stefany Paraíso, uma usuária do aplicativo e não pertencente à equipe, como pessoa observada.
 
 
 
@@ -136,7 +136,7 @@ Através deste [link](https://www.youtube.com/watch?v=lyMJnsWt9oI), você será 
 
 <center>
 
-| ID    | Descrição | Implementado |
+| ID    | Descrição | Implementado | 
 | ----- | --------- | ------------ |
 | OBS45 | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | Sim |
 | OBS46 | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | Sim |
@@ -190,5 +190,5 @@ Através deste [link](https://www.youtube.com/watch?v=lyMJnsWt9oI), você será 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente à técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 20/11/2024 |  |  |
-| `1.1`  | Adição dos requisitos (funcionais e não funcionais) elicitados através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente à técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 20/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+| `1.1`  | Adição dos requisitos (funcionais e não funcionais) elicitados através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |

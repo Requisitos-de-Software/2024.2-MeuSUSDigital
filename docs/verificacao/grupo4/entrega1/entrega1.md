@@ -80,7 +80,7 @@ Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigita
 
 ## 📑 Histórico de Versão
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
 |  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
