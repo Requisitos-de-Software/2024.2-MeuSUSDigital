@@ -58,6 +58,15 @@ O [Meu SUS Digital](https://meususdigital.saude.gov.br/) é um aplicativo govern
 - **Complexidade**: O aplicativo possui uma estrutura que, embora não seja tão complexa quanto a de alguns dos apps avaliados por outros membros da equipe, envolve uma série de funcionalidades críticas e integrações com bancos de dados governamentais, o que torna a análise desafiadora.
 - **Público-alvo amplo**: Por ser um aplicativo de acesso público, destinado a toda a população brasileira que utiliza o SUS, o Meu SUS Digital atende a um público-alvo diversificado em termos de idade, escolaridade e familiaridade com tecnologia. Essa diversidade proporciona uma rica base para coleta de feedback e análise de usabilidade.
 
+## *Rich Picture* do aplicativo Meu SUS Digital
+
+Abaixo, podemos identificar a **Figura 1** contendo tanto o *Rich Picture* do aplicativo Meu SUS Digital quanto sua legenda.
+
+<div align="center">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
+    <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
 ---
 
 ### Steam
@@ -72,6 +81,17 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 
 - **Público-alvo amplo**: É utilizado por muitos usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
 
+
+### *Rich Picture* da Steam
+Abaixo, podemos identificar a **Figura 2** contendo tanto o *Rich Picture* da Steam quanto sua legenda.
+
+<div align="center">
+    <img src="link">
+    <p><strong>Figura 2 – <em>Rich Picture</em> da Steam</strong></p>
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
 ---
 
 ### Baratão Combustíveis
@@ -82,6 +102,15 @@ O [Baratão Combustíveis](https://barataocombustiveis.com.br/) é um aplicativo
 - **Novidade**: Este aplicativo ainda não foi trabalhado em semestres anteriores.
 - **Complexidade**: A plataforma possui complexidade adequada, com funcionalidades específicas voltadas para o público-alvo.
 - **Público-alvo relevante**: O aplicativo é voltado para indivíduos habilitados para conduzir veículos, representando uma alternativa atrativa para condutores de serviços de transporte por aplicativo e para aqueles que realizam frequentes deslocamentos.
+
+### *Rich Picture* do Baratão Combustíveis
+Abaixo, podemos identificar a **Figura 3** contendo tanto o *Rich Picture* do Baratão Combustíveis quanto sua legenda.
+
+<div align="center">
+    <img src="link">
+    <p><strong>Figura 3 – <em>Rich Picture</em> do Baratão Combustíveis</strong></p>
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
 
 ---
 
@@ -97,6 +126,18 @@ O [Office 365](https://www.office.com/) é uma plataforma da [Microsoft](https:/
 
 - **Público-alvo amplo**: É utilizado por muitos usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
 
+
+### *Rich Picture* do Officer 365
+
+Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Officer 365 quanto sua legenda.
+
+<div align="center">
+    <img src="link">
+    <p><strong>Figura 4 – <em>Rich Picture</em> do Oficer 365</strong></p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
+</div>
+
+
 ---
 
 ### Correios
@@ -107,6 +148,17 @@ O [Correios](https://www.correios.com.br/app-dos-correios) é um aplicativo ofic
 - **Novidade**: Este aplicativo ainda não foi analisado em semestres anteriores, oferecendo uma nova oportunidade de estudo.
 - **Complexidade**: Embora não seja extremamente complexo, o aplicativo oferece funcionalidades importantes e críticas, como rastreamento em tempo real e cálculo de prazos, tornando a análise relevante para um estudo de requisitos.
 - **Público-alvo amplo**: Destinado a uma ampla faixa da população brasileira, o aplicativo atende a diversos perfis de usuários que realizam envios ou recebem encomendas com frequência, sendo útil para análise de usabilidade e feedback de uma base diversificada de usuários.
+
+### *Rich Picture* do Correios
+
+Abaixo, podemos identificar a **Figura 5** contendo tanto o *Rich Picture* do Correios quanto sua legenda.
+
+<div align="center">
+    <img src="link">
+    <p><strong>Figura 5 – <em>Rich Picture</em> do Correios</strong></p>
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
 
 ---
 
@@ -132,5 +184,6 @@ O [Correios](https://www.correios.com.br/app-dos-correios) é um aplicativo ofic
 | `1.1`  | Atualização do documento. | [Pedro Lopes](https://github.com/pLopess) | 27/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.2`  | Atualização do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.3`  | Inserção e padronização de avaliações, correção de erros e adição das Referências Bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.3`  | Inserção e padronização dos Rich Picture, correção de erros. | [Emivalto Junio](https://github.com/EmivaltoJrr) | 30/11/2024 |  |  |
 
 
