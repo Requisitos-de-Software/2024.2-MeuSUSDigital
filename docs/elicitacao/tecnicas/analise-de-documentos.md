@@ -22,17 +22,9 @@ Essa técnica é especialmente útil em projetos complexos, como no desenvolvime
 | ----- | ----------- |
 | Qx | Questão nºx |
 | ML.x | Memória de levantamento nºx |
-| RNDS | Rede Nacional de Dados em Saúde |
-| SUS | Siatema Único de Saúde |
-| CADSUS | Cadastro Nacional de Usuários do SUS |
-| ANVISA | Agência Nacional de Vigilância Sanitária |
-| CGU | Controladoria-Geral da União |
-| TCU | Tribunal de Contas da união |
 | RFx | Requisito Funcional nºx |
 | RNFx | Requisito Não Funcional nºx |
 | ADx | Requisito nºx elicitado pela Análise de Documentos |
-| LGPD | Lei Geral de Proteção de Dados |
-| IMC | Índice de Massa Corporal |
 
 </center>
 
@@ -64,6 +56,12 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 - Q06: Como os dados são coletados?
 - Q07: Quais medidas de segurança estão implementadas para proteger os dados pessoais dos pacientes?
 - Q08: Por quanto tempo os dados pessoais dos pacientes são armazenados pela plataforma?
+- Q09: Como é feita a emissão de documentos de vacinação?
+- Q10: Em quanto tempo o certificado de vacinação estará disponível no aplicativo?
+- Q11: O aplicativo permite que o paciente altere os seus dados pessoais?
+- Q12: O aplicativo possui opção de agendamento de consulta?
+- Q13: Se houver, como é feito o agendamento de consulta pelo Meu SUS Digital?
+- Q14: O aplicativo oferece cartão digital?
 
 
 
@@ -99,7 +97,7 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
       <td colspan="2"><strong>Memória de levantamento<strong></td>
     </tr>
     <tr>
-      <td colspan="2">ML.01 - Resumo da análise da Nota Informativa <br> Objetivo: Entender como os dados são acessados <br> Pergunta/Resposta: <br> - Q01: informações relativas a medicamentos distribuídos, internações hospitalares, atendimentos ambulatoriais, de vacinação e resultados de exames. <br> - Q03: O Profissional de Saúde que, no exercício regular de sua profissão, esteja diretamente envolvido nas ações e serviços de saúde prestados a você, e tenha acesso à RNDS, do Ministério da Saúde, por meio do Conecte SUS Profissional. <br> - Q08: Os Dados de Saúde estarão disponíveis por trinta minutos ao Profissional de Saúde que esteja prestando atendimento. Os dados ficarão armazenados até que o paciente solicite a exclusão dos mesmos.</td>
+      <td colspan="2">ML.01 - Resumo da análise da Nota Informativa. <br><br> Objetivo: Entender como os dados são acessados. <br><br> Pergunta/Resposta: <br> - Q01: informações relativas a medicamentos distribuídos, internações hospitalares, atendimentos ambulatoriais, de vacinação e resultados de exames. <br><br> - Q03: O Profissional de Saúde que, no exercício regular de sua profissão, esteja diretamente envolvido nas ações e serviços de saúde prestados a você, e tenha acesso à Rede Nacional de Dados em Saúde (RNDS), do Ministério da Saúde, por meio do Conecte SUS Profissional. <br><br> - Q08: Os Dados de Saúde estarão disponíveis por trinta minutos ao Profissional de Saúde que esteja prestando atendimento. Os dados ficarão armazenados até que o paciente solicite a exclusão dos mesmos.</td>
     </tr>
   </tbody>
 </table>
@@ -140,7 +138,89 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
       <td colspan="2"><strong>Memória de levantamento</strong></td>
     </tr>
     <tr>
-      <td colspan="2">ML.02 - Resumo da análise da Política de Privacidade <br> Objetivo: Entender como é feita a coleta de dados <br> Pergunta/Resposta: <br> - Q05: Ao utilizar os serviços, o usuário confirma que leu e compreendeu as Políticas aplicáveis ao serviço Meu SUS Digital e concorda em ficar vinculado a eles. <br> - Q06: Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone são obtidos através do CADSUS; localização e foto do paciente são obtidos através do dispositivo do mesmo, após o seu consentimento; dados de Saúde e contatos de emergência são informados pelo paciente; vacinação de covid-19, resultado de exame de covid-19 e internações hospitalares são obtidos através do RNDS; Situação Cadastral no Sistema Nacional de Transplantes é obtida através do Sistema Nacional de Transplantes. <br> - Q07: O site utiliza criptografia para que os dados sejam transmitidos de forma segura e confidencial, de maneira que a transmissão dos dados entre o servidor e o usuário, e em retroalimentação, ocorra de maneira totalmente cifrada ou encriptada. <br> - Q04: profissionais de saúde com acesso ao Conecte SUS Profissional, Secretarias Estaduais e Municipais de Saúde, ANVISA, CGU, TCU, Operador que desenvolve o Meu SUS Digital e o serviço de nuvem que armazena os dados. <br> - Q02: Sim. O serviço possui leis e normativos que são aplicáveis, como a Lei nº 12.527: Lei de Acesso à Informação, de 18 de novembro de 2011, Lei nº 13.460, de 26 de junho de 2017 e a Lei nº 13.709, de 14 de agosto de 2018.</td>
+      <td colspan="2">ML.02 - Resumo da análise da Política de Privacidade. <br><br> Objetivo: Entender como é feita a coleta de dados. <br><br> Pergunta/Resposta: <br> - Q05: Ao utilizar os serviços, o usuário confirma que leu e compreendeu as Políticas aplicáveis ao serviço Meu SUS Digital e concorda em ficar vinculado a eles. <br><br> - Q06: Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone são obtidos através do Cadastro Nacional de Usuários do SUS (CADSUS); localização e foto do paciente são obtidos através do dispositivo do mesmo, após o seu consentimento; dados de Saúde e contatos de emergência são informados pelo paciente; vacinação de covid-19, resultado de exame de covid-19 e internações hospitalares são obtidos através do Rede Nacional de Dados em Saúde (RNDS); Situação Cadastral no Sistema Nacional de Transplantes é obtida através do Sistema Nacional de Transplantes. <br><br> - Q07: O site utiliza criptografia para que os dados sejam transmitidos de forma segura e confidencial, de maneira que a transmissão dos dados entre o servidor e o usuário, e em retroalimentação, ocorra de maneira totalmente cifrada ou encriptada. <br><br> - Q04: profissionais de saúde com acesso ao Conecte SUS Profissional, Secretarias Estaduais e Municipais de Saúde, Agência Nacional de Vigilância Sanitária (ANVISA), Controladoria-Geral da União (CGU), Tribunal de Contas da união (TCU), Operador que desenvolve o Meu SUS Digital e o serviço de nuvem que armazena os dados. <br><br> - Q02: Sim. O serviço possui leis e normativos que são aplicáveis, como a Lei nº 12.527: Lei de Acesso à Informação, de 18 de novembro de 2011, Lei nº 13.460, de 26 de junho de 2017 e a Lei nº 13.709, de 14 de agosto de 2018.</td>
+    </tr>
+  </tbody>
+</table>
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+---
+
+<div align="center">
+    <p><strong>Tabela 4 – Resumo da Análise do Documento de Suporte ao Usuário</strong></p>
+</div>
+
+<center>
+
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #d3d3d3;  color: #000;">
+      <th>Tipo</th>
+      <th>Localização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FAQ</td>
+      <td><a href=https://webatendimento.saude.gov.br/faq/meususdigital>https://webatendimento.saude.gov.br/faq/meususdigital</a></td>
+    </tr>
+    <tr style="background-color: #d3d3d3;  color: #000;">
+      <td colspan="2"><strong>Nome</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">Canal de Atendimento do Meu SUS Digital</td>
+    </tr>
+    <tr style="background-color: #d3d3d3; color: #000;">
+      <td colspan="2"><strong>Memória de levantamento</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">ML.03 - Resumo da análise do documento de suporte ao usuário. <br><br> Objetivo: Entender como é feita a emissão de documentos de vacinação. <br><br> Pergunta/Resposta: <br> - Q09: O paciente deverá acessar a opção "Vacinas" > "Documentos de Vacinação" > "Exportar documento" > ícone "PDF". <br><br> - Q10: Em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. <br><br> Obs.: A carteira de vacinação e o certificado de vacinação de Covid-19 estão disponíveis em três idiomas: Português, Inglês e Espanhol. Para alterar o idioma o paciente deverá clicar n a parte superior da tela onde aparece a sigla "BRA" junto à bandeira do Brasil, e será exibida uma lista com os idiomas Português, Inglês e Espanhol. <br><br> ML.04 - Resumo da análise do documento de suporte ao usuário. <br><br> Objetivo: Entender se o aplicativo permite alteração dos dados pessoais. <br><br> Pergunta/Resposta: <br> - Q11: É possível para o paciente alterar os seus dados pelo aplicativo Meu SUS Digital acessando a aba "Perfil" e clicando em "Editar Perfil". <br><br> Obs.: Apenas poderão ser alterados os dados que são autodeclarados. Existem três níveis de autodeclaração: raça/cor, nome social e endereço. <br><br> ML.05 - Resumo da análise do documento de suporte ao usuário. <br><br> Objetivo: Entender se o aplicativo possui função de agendamento de consulta. <br><br> Pergunta/Resposta: <br> - Q12: O aplicativo oferece opção de agendamento de consulta, mas para utilizar a funcionalidade no Meu SUS Digital, a Secretaria de Saúde do município deverá ativar no e-SUS APS (Sistema da Atenção Primária em Saúde) o agendamento de consultas. A partir dessa ação, os profissionais deverão disponibilizar o acesso a escala de trabalho para agendamento. A decisão de utilizar ou não a funcionalidade de agendamento de consultas cabe aos gestores de saúde no âmbito municipal, estadual/distrital.</td>
+    </tr>
+  </tbody>
+</table>
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+---
+
+<div align="center">
+    <p><strong>Tabela 5 – Resumo da Análise de Artigo sobre o Meu SUS Digital</strong></p>
+</div>
+
+<center>
+
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #d3d3d3; color: #000;">
+      <th>Tipo</th>
+      <th>Localização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Site</td>
+      <td><a href=https://cidesp.com.br/artigo/aplicativo-meu-sus-digital>https://cidesp.com.br/artigo/aplicativo-meu-sus-digital</a></td>
+    </tr>
+    <tr style="background-color: #d3d3d3; color: #000;">
+      <td colspan="2"><strong>Nome</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">Artigo sobre o Meu SUS Digital</td>
+    </tr>
+    <tr style="background-color: #d3d3d3; color: #000;">
+      <td colspan="2"><strong>Memória de levantamento<strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">ML.06 - Resumo da análise . <br><br> Objetivo: Endender sobre funcionalidade do aplicativo. <br><br> Pergunta/Resposta: <br> - Q13: Para agendar uma consulta, o paciente deverá acessar a área de agendamento, escolher o tipo de consulta, selecionar a unidade de saúde, definir data e horário e confirmar o agendamento. <br><br> - Q14: O Meu SUS Digital oferece a função de cartão digital, um documento necessário para acessar os serviços de saúde do sistema. É possível baixá-lo pelo aplicativo acessando "perfil" > "Cartão Nacional de Saúde" > ícone de <em>download</em>.  </td>
     </tr>
   </tbody>
 </table>
@@ -160,7 +240,7 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 ---
 
 <div align="center">
-    <p><strong>Tabela 4 – Requisitos Funcionais</strong></p>
+    <p><strong>Tabela 6 – Requisitos Funcionais</strong></p>
 </div>
 
 <center>
@@ -179,9 +259,13 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 | AD10 | O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login. | RF10 | Sim |
 | AD11 | O sistema deverá buscar no RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login. | RF11 | Sim |
 | AD12 | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | RF12 | Sim |
-| AD13 | O sistema deverá permitir que o paciente altere os seus dados. | RF13 | Sim |
-| AD17 | O sistema deverá permitir que o paciente informe dados pessoais adicionais, dentre os quais poderão ser: dados de saúde (alergias, IMC, pressão, glicose, doações de sangue) e contatos de emergência e de profissionais de saúde. | RF14 | Sim |
 | AD18 | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | RF15 | Sim |
+| AD24 | O sistema deverá permitir que o paciente baixe a Carteira Nacional de Vacinação em seu dispositivo. | RF16 | Sim |
+| AD25 | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | RF17 | Sim |
+| AD26 | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | RF18 | Sim |
+| AD27 | O sistema deverá permitir que o paciente agende uma consulta, informando o tipo de consulta, a unidade de saúde onde será realizada a consulta, a data e o horário da consulta. | RF19 | Sim |
+| AD30 | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | RF20 | Sim |
+
 
 </center>
 
@@ -192,7 +276,7 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 ---
 
 <div align="center">
-    <p><strong>Tabela 4 – Requisitos Não Funcionais</strong></p>
+    <p><strong>Tabela 7 – Requisitos Não Funcionais</strong></p>
 </div>
 
 <center>
@@ -202,11 +286,14 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 | AD14 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | RNF01 | Sim |
 | AD15 | O sistema deverá ser compatível com dispositivos Android e iOS. | RNF02 | Sim |
 | AD16 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | RNF03 | Sim |
-| AD19 | O termo de consentimento deverá ser exibido em até 2 segundos após a solicitação, em dispositivos com conexão padrão. | RNF04 | Não |
+| AD19 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão padrão. | RNF04 | Não |
 | AD20 | O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela. | RNF05 | Sim |
 | AD21 | As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário. | RNF06 | Sim |
 | AD22 | O sistema deverá garantir autenticação segura por meio do protocolo OAuth 2.0, usado pelo Gov.br. | RNF07 | Sim |
 | AD23 | O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS. | RNF08 | Sim |
+| AD28 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | RNF09 | Sim |
+| AD29 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar disponíveis em três idiomas: Português, Inglês e Espanhol. | RNF10 | Sim |
+| AD31 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | RNF11 | Sim |
 
 
 </center>
@@ -228,6 +315,14 @@ Os requisitos RNF01 e RNF08 estão implementados, porém não foi possível conf
 > BRASIL. Ministério da Saúde. Nota informativa. Meu SUS Digital. Disponível em: [https://meususdigital.saude.gov.br/publico/perfil/nota-informativa](https://meususdigital.saude.gov.br/publico/perfil/nota-informativa). Acesso em: 21 nov. 2024.
 >
 > BRASIL. Ministério da Saúde. Política de privacidade. Meu SUS Digital. Disponível em: [https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade](https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade). Acesso em: 21 nov. 2024.
+>
+> Ministério da Saúde. Meu SUS Digital – FAQ. Disponível em: [https://webatendimento.saude.gov.br/faq/meususdigital](https://webatendimento.saude.gov.br/faq/meususdigital). Acesso em: 30 nov. 2024.
+>
+> CIDESP. Aplicativo Meu SUS Digital. Disponível em: [https://cidesp.com.br/artigo/aplicativo-meu-sus-digital](https://cidesp.com.br/artigo/aplicativo-meu-sus-digital). Acesso em: 30 nov. 2024.
+>
+> Ministério da Saúde (Brasil). Secretaria de Gestão Estratégica e Participativa; Departamento de Informática do SUS. Manual de Operação do CADSUS WEB. Disponível em: [https://cadastrohm.saude.gov.br/cadsusweb/manual.pdf](https://cadastrohm.saude.gov.br/cadsusweb/manual.pdf). Acesso em: 30 nov. 2024.
+>
+> Ministério da Saúde (Brasil). Secretaria Executiva; Departamento de Informática do SUS; Coordenação de Interoperabilidade. Manual de Integração – RNDS: Rede Nacional de Dados em Saúde. Disponível em: [https://datasus.saude.gov.br/wp-content/uploads/2020/04/SOA-RNDS_ManualIntegracaoBarramento_vSite.pdf](https://datasus.saude.gov.br/wp-content/uploads/2020/04/SOA-RNDS_ManualIntegracaoBarramento_vSite.pdf). Acesso em: 30 nov. 2024.
 
 
 
@@ -240,3 +335,4 @@ Os requisitos RNF01 e RNF08 estão implementados, porém não foi possível conf
 | `1.2`  | Adição dos requisitos elicitados. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 22/11/2024 | - | - |
 | `1.3`  | Complementando a Tabela 4. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 22/11/2024 | - | - |
 | `1.4`  | Correção dos requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 23/11/2024 |  |  |
+| `1.5`  | Adição de novos documentos na análise e novos requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 30/11/2024 |  |  |
