@@ -294,6 +294,7 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 | AD28 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | RNF09 | Sim |
 | AD29 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar disponíveis em três idiomas: Português, Inglês e Espanhol. | RNF10 | Sim |
 | AD31 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | RNF11 | Sim |
+| AD32 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar em formato PDF ao serem salvos no dispositivo. | RNF12 | Sim |
 
 
 </center>
