@@ -101,6 +101,15 @@ Após a validação do cliente, a lista priorizada foi consolidada, servindo com
 | [AD21](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF06 | 5 | 5 | 3 | 75  | Média |
 | [AD22](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF07 | 5 | 5 | 5 | 125 | Alta  |
 | [AD23](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF08 | 5 | 5 | 5 | 125 | Alta  |
+| [AD24](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RF16 | 3 | 3 | 1 | 9 | Baixa |
+| [AD25](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RF17 | 2 | 3 | 1 | 6 | Baixa |
+| [AD26](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RF18 | 4 | 4 | 5 | 80 | Alta |
+| [AD27](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RF19 | 5 | 5 | 5 | 125 | Alta  |
+| [AD28](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF09 | 5 | 5 | 4 | 100 | Alta  |
+| [AD29](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF10 | 5 | 5 | 5 | 125 | Alta  |
+| [AD30](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RF20 | 5 | 5 | 5 | 125 | Alta  |
+| [AD31](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF11 | 5 | 5 | 4 | 100 | Alta  |
+| [AD32](../tecnicas/analise-de-documentos.md#requisitos-elicitados) | RNF12 | 5 | 4 | 2 | 40 | Média  |
 
 
 
@@ -113,3 +122,4 @@ Após a validação do cliente, a lista priorizada foi consolidada, servindo com
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+| `1.1`  | Adição de novos requisitos priorizados. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 30/11/2024 |  |  |
