@@ -54,11 +54,11 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 
 | Tipo | Descrição | Rastreabilidade | Implementado |
 | :--: | --------- | --------------- | :----------: |
-| RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br | OBS1 | Sim |
+| RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br | OBS1, [AD09](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF2   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas | OBS2 | Sim |
 | RF3   | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | OBS3 | Sim |
 | RF4   | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | OBS4 | Sim |
-| RF5   | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | OBS5 | Sim |
+| RF5   | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | OBS5, [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF6   | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | OBS6 | Sim |
 | RF7   | O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina | OBS7 | Sim |
 | RF8   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames | OBS8 | Sim |
@@ -75,13 +75,13 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RF19  | Caso o usuário atenda aos critérios do Programa, o aplicativo deve permitir que o usuário emita uma autorização para participar do Programa Dignidade Menstrual | OBS19 | Sim |
 | RF20  | O aplicativo deve permitir que o usuário exporte/baixe o documento referente à autorização de participação do Programa Dignidade Menstrual | OBS20 | Sim |
 | RF21  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Rede de Saúde | OBS21 | Sim |
-| RF22  | O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário | OBS22 | Sim |
-| RF23  | O aplicativo deve armazenar a localização do dispositivo do usuário | OBS23 | Sim |
+| RF22  | O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário | OBS22, [AD05](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF23  | O aplicativo deve armazenar a localização do dispositivo do usuário | OBS23, [AD06](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF24  | O aplicativo deve oferecer opções de estabelecimentos de saúde a fim de que o usuário possa identificar àqueles próximos à sua localização, de acordo com o tipo de serviço desejado | OBS24 | Sim |
 | RF25  | O aplicativo deve permitir que o usuário possa identificar os estabelecimentos de saúde recentes vinculados a ele | OBS25 | Sim |
 | RF26  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Agendamentos | OBS26 | Sim |
 | RF27  | O aplicativo deve exibir as consultas médicas ou exames de saúde do usuário | OBS27 | Sim |
-| RF28  | O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde | OBS28 | Sim |
+| RF28  | O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde | OBS28, [AD27](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF29  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Atendimento e Internação | OBS29 | Sim |
 | RF30  | O aplicativo deve exibir os registros de atendimentos ou internações do usuário | OBS30 | Sim |
 | RF31  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Contatos | OBS31 | Sim |
@@ -98,11 +98,24 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RF42  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Alergias | OBS42 | Sim |
 | RF43  | O aplicativo deve exibir as alergias que usuário possui | OBS43 | Sim |
 | RF44  | O aplicativo deve permitir que o usuário adicione uma alergia | OBS44 | Sim |
-| RNF1  | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | OBS45 | Sim |
+| RF45  | O sistema deverá apresentar o termo de consentimento. | [AD01](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF46  | O sistema deverá informar quais dados serão coletados. | [AD02](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF47  | O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais. | [AD03](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF48  | O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais. | [AD04](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF49  | O sistema deverá pedir permissão de acesso à câmera do dispositivo. | [AD07](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF50  | O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo. | [AD08](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF51  | O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login. | [AD10](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF52  | O sistema deverá buscar na RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login. | [AD11](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF53  | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | [AD12](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF54  | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | [AD18](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF55  | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | [AD25](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF56  | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | [AD26](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF57  | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | [AD30](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF1  | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | OBS45, [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF2  | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | OBS46 | Sim |
 | RNF3  | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | OBS47 | Sim |
-| RNF4  | O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação | OBS48 | Sim |
-| RNF5  | O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB | OBS49 | Sim |
+| RNF4  | O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação | OBS48, [AD29](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF5  | O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB | OBS49, [AD32](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF6  | O histórico de vacinas deve ser armazenado em servidores seguros, em conformidade com a LGPD | OBS50 | Sim |
 | RNF7  | O acesso aos detalhes de cada vacina deve ser protegido por criptografia ponta a ponta | OBS51 | Sim |
 | RNF8  | As informações de ajuda relacionadas a exames devem ser exibidas em uma interface amigável, seguindo padrões de usabilidade | OBS52 | Sim |
@@ -131,11 +144,21 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RNF31 | As informações sobre Pressão, Glicose e IMC devem ser armazenadas de forma criptografada para garantir a privacidade | OBS75 | Sim |
 | RNF32 | O aplicativo deve garantir alta disponibilidade, com no mínimo 99,5% de uptime | OBS76 | Sim |
 | RNF33 | Os dados relacionados a alergias devem ser carregados rapidamente e protegidos contra acesso não autorizado | OBS77 | Sim |
+| RNF34 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | [AD14](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF35 | O sistema deverá ser compatível com dispositivos Android e iOS. | [AD15](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF36 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | [AD16](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF37 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G. | [AD19](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF38 | O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela. | [AD20](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF39 | As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário. | [AD21](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF40 | O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS. | [AD23](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF41 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | [AD28](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF42 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | [AD31](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+
 
 </center>
 
 <div align="center">
-    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
 
@@ -151,4 +174,5 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
-| `1.1`  | Adição de parte dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 |  |  |
+| `1.1`  | Adição de parte dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |
+| `1.2`  | Adição dos requisitos da Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |  |  |
