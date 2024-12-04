@@ -286,7 +286,7 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 | AD14 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | RNF01 | Sim |
 | AD15 | O sistema deverá ser compatível com dispositivos Android e iOS. | RNF02 | Sim |
 | AD16 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | RNF03 | Sim |
-| AD19 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão padrão. | RNF04 | Não |
+| AD19 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G. | RNF04 | Não |
 | AD20 | O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela. | RNF05 | Sim |
 | AD21 | As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário. | RNF06 | Sim |
 | AD22 | O sistema deverá garantir autenticação segura por meio do protocolo OAuth 2.0, usado pelo Gov.br. | RNF07 | Sim |
