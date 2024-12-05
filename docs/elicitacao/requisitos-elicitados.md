@@ -6,7 +6,7 @@
 
 Requisitos são condições ou capacidades que um sistema (como um aplicativo, por exemplo) deve atender para resolver problemas ou alcançar objetivos, documentando necessidades e restrições. Os requisitos funcionais definem as funcionalidades específicas do sistema, enquanto os não funcionais abrangem qualidades como desempenho, segurança e usabilidade. Implementá-los adequadamente, após sua elicitação por meio de uma ou mais técnicas, é crucial para alinhar o desenvolvimento às expectativas, reduzir custos e retrabalho, garantir qualidade e minimizar falhas, criando sistemas eficazes e alinhados às necessidades dos usuários.
 
-Este documento reúne todos os requisitos, tanto funcionais quanto não funcionais, elicitados através das técnicas de [Análise de Documentos](tecnicas/analise-de-documentos.md), [Grupo de Foco](tecnicas/grupo-de-foco.md), [Introspecção](tecnicas/introspeccao.md), [Observação](tecnicas/observacao.md) e [Questionário](analise-perfil-usuario/questionario.md).
+Este documento reúne todos os requisitos, tanto funcionais quanto não funcionais, elicitados através das técnicas de [Análise de Documentos](tecnicas/analise-de-documentos.md), [Entrevista](tecnicas/entrevista.md), [Grupo de Foco](tecnicas/grupo-de-foco.md), [Introspecção](tecnicas/introspeccao.md), [Observação](tecnicas/observacao.md) e [Questionário](analise-perfil-usuario/questionario.md).
 
 
 
@@ -29,6 +29,7 @@ Já na **Tabela 1**, optamos por disponibilizar uma legenda para cada uma das si
 | RFn  | n-ésimo Requisito Funcional |
 | RNFn | n-ésimo Requisito Não Funcional |
 | ADn  | n-ésimo Requisito elicitado pela técnica de Análise de Documentos |
+| ENn  | n-ésimo Requisito elicitado pela técnica de Entrevista |
 | GFn  | n-ésimo Requisito elicitado pela técnica de Grupo de Foco         |
 | INTn | n-ésimo Requisito elicitado pela técnica de Introspecção          |
 | OBSn | n-ésimo Requisito elicitado pela técnica de Observação            |
@@ -153,6 +154,18 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RNF40 | O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS. | [AD23](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF41 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | [AD28](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF42 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | [AD31](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF43 | A aplicação pode receber informações do usuário através de biosensores | [EN 01](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF44  | A aplicação permite agendar consultas | [EN 02](tecnicas/entrevista.md#requisitos-elicitados) |  Não |
+| RF45  | A aplicação permite agendar exames | [EN 03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF46  | a aplicação permite ao servidor solicitar licença saúde | [EN 04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF47  | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | [EN 05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF48  | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF49  | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF50  | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF51  | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF52  | A aplicação permite consultar os resultados de exames | [EN 10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF53  | A aplicação notifica o cancelamento de agentamentos | [EN 11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+
 
 
 </center>
@@ -176,3 +189,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 | `1.1`  | Adição de parte dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |
 | `1.2`  | Adição dos requisitos da Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |  |  |
+| `1.3`  | Adição dos requisitos da Entrevista | [João Pedro](https://github.com/JoosPerro) | 05/12/2024 |  |  |
