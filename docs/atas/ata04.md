@@ -55,7 +55,7 @@
 
 ## Gravação da Reunião
 
-*link da reunião aqui*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbWMA70bGm0?si=KmfI39Ipj5IKnAZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -69,4 +69,5 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/11/2024 |  |  |
+|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |
+|  `1.1` | Adição de link e Correção | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |  |  |
