@@ -112,6 +112,16 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RF55  | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | [AD25](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF56  | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | [AD26](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF57  | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | [AD30](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF58  | A aplicação permite agendar consultas | [EN 02](tecnicas/entrevista.md#requisitos-elicitados) |  Não |
+| RF59  | A aplicação permite agendar exames | [EN 03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF60  | a aplicação permite ao servidor solicitar licença saúde | [EN 04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF61  | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | [EN 05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF62  | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF63  | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF64  | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF65  | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF66  | A aplicação permite consultar os resultados de exames | [EN 10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF67  | A aplicação notifica o cancelamento de agentamentos | [EN 11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | RNF1  | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | OBS45, [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF2  | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | OBS46 | Sim |
 | RNF3  | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | OBS47 | Sim |
@@ -155,18 +165,6 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RNF41 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | [AD28](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF42 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | [AD31](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF43 | A aplicação pode receber informações do usuário através de biosensores | [EN 01](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF44  | A aplicação permite agendar consultas | [EN 02](tecnicas/entrevista.md#requisitos-elicitados) |  Não |
-| RF45  | A aplicação permite agendar exames | [EN 03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF46  | a aplicação permite ao servidor solicitar licença saúde | [EN 04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF47  | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | [EN 05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF48  | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF49  | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF50  | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF51  | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF52  | A aplicação permite consultar os resultados de exames | [EN 10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF53  | A aplicação notifica o cancelamento de agentamentos | [EN 11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-
-
 
 </center>
 
