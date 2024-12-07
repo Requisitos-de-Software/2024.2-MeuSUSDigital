@@ -35,6 +35,9 @@ A partir da sessão de grupo de foco, requisitos foram elicitados e documentados
 | RF   | GF04 | O aplicativo permite consultar receitas médicas | Não |
 | RF   | GF05 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados à patologias que eles venham a ter | Não |
 | RF   | GF06 | O aplicativo pode destacar conteúdos pertinentes à um estado para usuários desse estado | Não |
+| RF   | GF07 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | Não |
+| RNF  | GF08 | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB | Não |
+| RNF  | GF09 | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica | Não |
 
 </center>
 
@@ -54,3 +57,4 @@ Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
 |  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
+| `1.2`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   |  |  |

@@ -84,13 +84,18 @@ A partir da revisão da entrevista, requisitos foram elicitados e documentados. 
 | RF   | EN02 | A aplicação permite agendar consultas | Não |
 | RF   | EN03 | A aplicação permite agendar exames | Não |
 | RF   | EN04 | a aplicação permite ao servidor solicitar licença saúde | Não |
-| RF   | EN05 | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | Não |
+| RF   | EN05 | A aplicação permite acompanhar o andamento de solicitações (licença, medicamentos) | Não |
 | RF   | EN06 | A aplicação permite acompanhar a vacinação | Sim |
 | RF   | EN07 | A aplicação permite consultar pedidos de medicamento | Não |
 | RF   | EN08 | A aplicação permite consultar recebimentos de medicamento | Sim |
 | RF   | EN09 | A aplicação permite consultar os agendamentos de exames | Sim |
 | RF   | EN10 | A aplicação permite consultar os resultados de exames | Sim |
 | RF   | EN11 | A aplicação notifica o cancelamento de agentamentos | Não |
+| RF   | EN12 | A aplicação permite realizar pedidos de medicamento | Não |
+| RF   | EN13 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento | Não |
+| RNF  | EN14 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas | Não |
+| RNF  | EN15 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos | Não |
+| RNF  | EN16 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica | Não |
 
 </center>
 
@@ -113,3 +118,4 @@ Barbosa. 2021. ISBN: 978-65-00-19677-1.
 | `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 |
 | `1.1`  | Listagem de Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr)  | 2/11/2024|
 | `1.2`  | Adição da segunda entrevista | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
+| `1.3`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   |  |  |

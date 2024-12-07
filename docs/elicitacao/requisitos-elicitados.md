@@ -55,50 +55,50 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 
 | Tipo | Descrição | Rastreabilidade | Implementado |
 | :--: | --------- | --------------- | :----------: |
-| RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br | OBS1, [AD09](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF2   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas | OBS2 | Sim |
-| RF3   | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | OBS3 | Sim |
-| RF4   | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | OBS4 | Sim |
-| RF5   | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | OBS5, [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF6   | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | OBS6 | Sim |
-| RF7   | O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina | OBS7 | Sim |
-| RF8   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames | OBS8 | Sim |
-| RF9   | O aplicativo deve permitir a visualização dos exames laboratoriais realizados | OBS9 | Sim |
-| RF10  | O aplicativo deve permitir a visualização dos resultados e demais informações a respeito dos exames laboratoriais realizados | OBS10 | Sim |
-| RF11  | O aplicativo deve permitir a exportação/download do documento contendo o resultado e demais informações a respeito de cada exame laboratorial realizado | OBS11 | Sim |
-| RF12  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Medicamentos | OBS12 | Sim |
-| RF13  | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de medicamentos recebidos | OBS13 | Sim |
-| RF14  | O aplicativo deve permitir que o usuário adicione um medicamento recebido por meio de programas de dispensação do Governo Federal através de um mecanismo de busca | OBS14 | Sim |
-| RF15  | O aplicativo deve permitir que o usuário possa realizar a busca por um medicamento através do nome e dosagem do mesmo | OBS15 | Sim |
-| RF16  | O aplicativo deve fornecer ao usuário, em adesão ao Programa Farmácia Popular, a opção de autorizar ou não a retirada de medicamentos em seu CPF | OBS16 | Sim |
-| RF17  | O aplicativo deve permitir que o usuário possa verificar os medicamentos recebidos pelo Programa Farmácia Popular | OBS17 | Sim |
-| RF18  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Dignidade Menstrual | OBS18 | Sim |
-| RF19  | Caso o usuário atenda aos critérios do Programa, o aplicativo deve permitir que o usuário emita uma autorização para participar do Programa Dignidade Menstrual | OBS19 | Sim |
-| RF20  | O aplicativo deve permitir que o usuário exporte/baixe o documento referente à autorização de participação do Programa Dignidade Menstrual | OBS20 | Sim |
-| RF21  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Rede de Saúde | OBS21 | Sim |
-| RF22  | O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário | OBS22, [AD05](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF23  | O aplicativo deve armazenar a localização do dispositivo do usuário | OBS23, [AD06](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF24  | O aplicativo deve oferecer opções de estabelecimentos de saúde a fim de que o usuário possa identificar àqueles próximos à sua localização, de acordo com o tipo de serviço desejado | OBS24 | Sim |
-| RF25  | O aplicativo deve permitir que o usuário possa identificar os estabelecimentos de saúde recentes vinculados a ele | OBS25 | Sim |
-| RF26  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Agendamentos | OBS26 | Sim |
-| RF27  | O aplicativo deve exibir as consultas médicas ou exames de saúde do usuário | OBS27 | Sim |
-| RF28  | O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde | OBS28, [AD27](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF29  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Atendimento e Internação | OBS29 | Sim |
-| RF30  | O aplicativo deve exibir os registros de atendimentos ou internações do usuário | OBS30 | Sim |
-| RF31  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Contatos | OBS31 | Sim |
-| RF32  | O aplicativo deve exibir contatos de profissionais de saúde | OBS32 | Sim |
-| RF33  | O aplicativo deve permitir que o usuário adicione o contato de um profissional de saúde em casos de emergência | OBS33 | Sim |
-| RF34  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Diário de Saúde | OBS34 | Sim |
-| RF35  | O aplicativo deve exibir todos os registros de saúde do usuário | OBS35 | Sim |
-| RF36  | O aplicativo deve exibir os registros de saúde do usuário referentes à sua Pressão | OBS36 | Sim |
-| RF37  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Pressão | OBS37 | Sim |
-| RF38  | O aplicativo deve exibir os registros de saúde do usuário referentes à sua Glicose | OBS38 | Sim |
-| RF39  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Glicose | OBS39 | Sim |
-| RF40  | O aplicativo deve exibir os registros de saúde do usuário referentes ao seu IMC | OBS40 | Sim |
-| RF41  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente ao seu IMC | OBS41 | Sim |
-| RF42  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Alergias | OBS42 | Sim |
-| RF43  | O aplicativo deve exibir as alergias que usuário possui | OBS43 | Sim |
-| RF44  | O aplicativo deve permitir que o usuário adicione uma alergia | OBS44 | Sim |
+| RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br | [OBS1](tecnicas/observacao.md#requisitos-elicitados), [AD09](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF2   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas | [OBS2](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF3   | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | [OBS3](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF4   | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS4](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF5   | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS5](tecnicas/observacao.md#requisitos-elicitados), [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF6   | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | [OBS6](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF7   | O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina | [OBS7](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF8   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames | [OBS8](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF9   | O aplicativo deve permitir a visualização dos exames laboratoriais realizados | [OBS9](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF10  | O aplicativo deve permitir a visualização dos resultados e demais informações a respeito dos exames laboratoriais realizados | [OBS10](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF11  | O aplicativo deve permitir a exportação/download do documento contendo o resultado e demais informações a respeito de cada exame laboratorial realizado | [OBS11](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF12  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Medicamentos | [OBS12](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF13  | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de medicamentos recebidos | [OBS13](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF14  | O aplicativo deve permitir que o usuário adicione um medicamento recebido por meio de programas de dispensação do Governo Federal através de um mecanismo de busca | [OBS14](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF15  | O aplicativo deve permitir que o usuário possa realizar a busca por um medicamento através do nome e dosagem do mesmo | [OBS15](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF16  | O aplicativo deve fornecer ao usuário, em adesão ao Programa Farmácia Popular, a opção de autorizar ou não a retirada de medicamentos em seu CPF | [OBS16](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF17  | O aplicativo deve permitir que o usuário possa verificar os medicamentos recebidos pelo Programa Farmácia Popular | [OBS17](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF18  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Dignidade Menstrual | [OBS18](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF19  | Caso o usuário atenda aos critérios do Programa, o aplicativo deve permitir que o usuário emita uma autorização para participar do Programa Dignidade Menstrual | [OBS19](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF20  | O aplicativo deve permitir que o usuário exporte/baixe o documento referente à autorização de participação do Programa Dignidade Menstrual | [OBS20](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF21  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Rede de Saúde | [OBS21](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF22  | O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário | [OBS22](tecnicas/observacao.md#requisitos-elicitados), [AD05](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF23  | O aplicativo deve armazenar a localização do dispositivo do usuário | [OBS23](tecnicas/observacao.md#requisitos-elicitados), [AD06](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RF24  | O aplicativo deve oferecer opções de estabelecimentos de saúde a fim de que o usuário possa identificar àqueles próximos à sua localização, de acordo com o tipo de serviço desejado | [OBS24](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF25  | O aplicativo deve permitir que o usuário possa identificar os estabelecimentos de saúde recentes vinculados a ele | [OBS25](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF26  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Agendamentos | [OBS26](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF27  | O aplicativo deve exibir as consultas médicas ou exames de saúde do usuário | [OBS27](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF28  | O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde | [OBS28](tecnicas/observacao.md#requisitos-elicitados), [AD27](tecnicas/analise-de-documentos.md#requisitos-elicitados), [EN02](tecnicas/entrevista.md#requisitos-elicitados), [GF02](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Sim |
+| RF29  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Atendimento e Internação | [OBS29](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF30  | O aplicativo deve exibir os registros de atendimentos ou internações do usuário | [OBS30](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF31  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Contatos | [OBS31](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF32  | O aplicativo deve exibir contatos de profissionais de saúde | [OBS32](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF33  | O aplicativo deve permitir que o usuário adicione o contato de um profissional de saúde em casos de emergência | [OBS33](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF34  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Diário de Saúde | [OBS34](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF35  | O aplicativo deve exibir todos os registros de saúde do usuário | [OBS35](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF36  | O aplicativo deve exibir os registros de saúde do usuário referentes à sua Pressão | [OBS36](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF37  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Pressão | [OBS37](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF38  | O aplicativo deve exibir os registros de saúde do usuário referentes à sua Glicose | [OBS38](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF39  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Glicose | [OBS39](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF40  | O aplicativo deve exibir os registros de saúde do usuário referentes ao seu IMC | [OBS40](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF41  | O aplicativo deve permitir que o usuário adicione um registro de saúde referente ao seu IMC | [OBS41](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF42  | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Alergias | [OBS42](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF43  | O aplicativo deve exibir as alergias que usuário possui | [OBS43](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RF44  | O aplicativo deve permitir que o usuário adicione uma alergia | [OBS44](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF45  | O sistema deverá apresentar o termo de consentimento. | [AD01](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF46  | O sistema deverá informar quais dados serão coletados. | [AD02](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF47  | O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais. | [AD03](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
@@ -112,49 +112,56 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RF55  | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | [AD25](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF56  | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | [AD26](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RF57  | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | [AD30](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF58  | A aplicação permite agendar consultas | [EN 02](tecnicas/entrevista.md#requisitos-elicitados) |  Não |
-| RF59  | A aplicação permite agendar exames | [EN 03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF60  | a aplicação permite ao servidor solicitar licença saúde | [EN 04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF61  | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | [EN 05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF62  | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF63  | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RF64  | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF65  | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF66  | A aplicação permite consultar os resultados de exames | [EN 10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| RF67  | A aplicação notifica o cancelamento de agentamentos | [EN 11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| RNF1  | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | OBS45, [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RNF2  | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | OBS46 | Sim |
-| RNF3  | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | OBS47 | Sim |
-| RNF4  | O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação | OBS48, [AD29](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RNF5  | O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB | OBS49, [AD32](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RNF6  | O histórico de vacinas deve ser armazenado em servidores seguros, em conformidade com a LGPD | OBS50 | Sim |
-| RNF7  | O acesso aos detalhes de cada vacina deve ser protegido por criptografia ponta a ponta | OBS51 | Sim |
-| RNF8  | As informações de ajuda relacionadas a exames devem ser exibidas em uma interface amigável, seguindo padrões de usabilidade | OBS52 | Sim |
-| RNF9  | Os resultados de exames laboratoriais devem ser apresentados em formato padronizado e visualmente acessível | OBS53 | Sim |
-| RNF10 | Os dados sobre exames laboratoriais devem ser carregados de maneira otimizada, mesmo em conexões lentas | OBS54 | Sim |
-| RNF11 | Os documentos de resultados de exames laboratoriais devem ser exportados em formatos amplamente compatíveis, como PDF ou JPEG | OBS55 | Sim |
-| RNF12 | O aplicativo deve exibir informações sobre medicamentos em uma interface responsiva e acessível | OBS56 | Sim |
-| RNF13 | O histórico de medicamentos deve ser armazenado em servidores redundantes para garantir alta disponibilidade | OBS57 | Sim |
-| RNF14 | A busca por medicamentos deve apresentar resultados relevantes em menos de 2 segundos | OBS58 | Sim |
-| RNF15 | A busca de medicamentos por nome e dosagem deve ser sensível a erros de digitação | OBS59 | Sim |
-| RNF16 | A autorização para retirada de medicamentos deve ser confirmada com autenticação segura do usuário | OBS60 | Sim |
-| RNF17 | Os medicamentos recebidos pelo Programa Farmácia Popular devem ser exibidos em ordem cronológica | OBS61 | Sim |
-| RNF18 | A seção de ajuda do Programa Dignidade Menstrual deve seguir diretrizes de acessibilidade (WCAG 2.1) | OBS62 | Não |
-| RNF19 | As autorizações para participação no Programa Dignidade Menstrual devem ser processadas em menos de 5 segundos | OBS63 | Não |
-| RNF20 | O documento referente à autorização do Programa Dignidade Menstrual deve ser exportado em formato PDF com validação digital | OBS64 | Sim |
-| RNF21 | A localização do dispositivo do usuário deve ser acessada apenas com consentimento explícito e armazenada temporariamente | OBS65 | Sim |
-| RNF22 | O aplicativo deve usar APIs de geolocalização eficientes e de baixo consumo de bateria | OBS66 | Sim |
-| RNF23 | As opções de estabelecimentos de saúde devem ser carregadas em menos de 2 segundos | OBS67 | Não |
-| RNF24 | A lista de estabelecimentos de saúde recentes deve ser atualizada automaticamente sem comprometer o desempenho | OBS68 | Sim |
-| RNF25 | O agendamento de consultas deve ser sincronizado em tempo real com os sistemas do SUS | OBS69 | Sim |
-| RNF26 | As informações sobre consultas médicas ou exames devem ser exibidas com visualização amigável e intuitiva | OBS70 | Sim |
-| RNF27 | O registro de atendimentos ou internações deve ser armazenado de forma segura em servidores certificados | OBS71 | Sim |
-| RNF28 | Os contatos de profissionais de saúde devem ser exibidos em uma lista organizada, de fácil navegação | OBS72 | Sim |
-| RNF29 | As informações de emergência devem ser acessíveis rapidamente, com opção de busca por nome ou especialidade | OBS73 | Não |
-| RNF30 | Os registros de saúde do usuário devem ser apresentados em gráficos interativos e de fácil interpretação | OBS74 | Sim |
-| RNF31 | As informações sobre Pressão, Glicose e IMC devem ser armazenadas de forma criptografada para garantir a privacidade | OBS75 | Sim |
-| RNF32 | O aplicativo deve garantir alta disponibilidade, com no mínimo 99,5% de uptime | OBS76 | Sim |
-| RNF33 | Os dados relacionados a alergias devem ser carregados rapidamente e protegidos contra acesso não autorizado | OBS77 | Sim |
+| RF58  | A aplicação permite agendar exames | [EN 03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF59  | a aplicação permite ao servidor solicitar licença saúde | [EN 04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF60  | A aplicação permite acompanhar o andamento de solicitações (licensa, medicamentos) | [EN 05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF61  | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF62  | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF63  | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF64  | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF65  | A aplicação permite consultar os resultados de exames | [EN 10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
+| RF66  | A aplicação notifica o cancelamento de agentamentos | [EN 11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF67  | A aplicação permite realizar pedidos de medicamento | [EN 12](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF68  | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento | [EN 13](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RF69  | O aplicativo mostra o histórico de vacinação pré-pandemia | [GF01](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RF70  | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | [GF03](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RF71  | O aplicativo permite consultar receitas médicas | [GF04](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RF72  | O aplicativo notifica aos usuários atualizações em conteúdos relacionados à patologias que eles venham a ter | [GF05](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RF73  | O aplicativo pode destacar conteúdos pertinentes à um estado para usuários desse estado | [GF06](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RF74  | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | [GF07](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RNF1  | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | [OBS45](tecnicas/observacao.md#requisitos-elicitados), [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF2  | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | [OBS46](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF3  | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | [OBS47](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF4  | O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação | [OBS48](tecnicas/observacao.md#requisitos-elicitados), [AD29](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF5  | O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB | [OBS49](tecnicas/observacao.md#requisitos-elicitados), [AD32](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| RNF6  | O histórico de vacinas deve ser armazenado em servidores seguros, em conformidade com a LGPD | [OBS50](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF7  | O acesso aos detalhes de cada vacina deve ser protegido por criptografia ponta a ponta | [OBS51](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF8  | As informações de ajuda relacionadas a exames devem ser exibidas em uma interface amigável, seguindo padrões de usabilidade | [OBS52](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF9  | Os resultados de exames laboratoriais devem ser apresentados em formato padronizado e visualmente acessível | [OBS53](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF10 | Os dados sobre exames laboratoriais devem ser carregados de maneira otimizada, mesmo em conexões lentas | [OBS54](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF11 | Os documentos de resultados de exames laboratoriais devem ser exportados em formatos amplamente compatíveis, como PDF ou JPEG | [OBS55](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF12 | O aplicativo deve exibir informações sobre medicamentos em uma interface responsiva e acessível | [OBS56](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF13 | O histórico de medicamentos deve ser armazenado em servidores redundantes para garantir alta disponibilidade | [OBS57](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF14 | A busca por medicamentos deve apresentar resultados relevantes em menos de 2 segundos | [OBS58](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF15 | A busca de medicamentos por nome e dosagem deve ser sensível a erros de digitação | [OBS59](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF16 | A autorização para retirada de medicamentos deve ser confirmada com autenticação segura do usuário | [OBS60](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF17 | Os medicamentos recebidos pelo Programa Farmácia Popular devem ser exibidos em ordem cronológica | [OBS61](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF18 | A seção de ajuda do Programa Dignidade Menstrual deve seguir diretrizes de acessibilidade (WCAG 2.1) | [OBS62](tecnicas/observacao.md#requisitos-elicitados) | Não |
+| RNF19 | As autorizações para participação no Programa Dignidade Menstrual devem ser processadas em menos de 5 segundos | [OBS63](tecnicas/observacao.md#requisitos-elicitados) | Não |
+| RNF20 | O documento referente à autorização do Programa Dignidade Menstrual deve ser exportado em formato PDF com validação digital | [OBS64](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF21 | A localização do dispositivo do usuário deve ser acessada apenas com consentimento explícito e armazenada temporariamente | [OBS65](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF22 | O aplicativo deve usar APIs de geolocalização eficientes e de baixo consumo de bateria | [OBS66](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF23 | As opções de estabelecimentos de saúde devem ser carregadas em menos de 2 segundos | [OBS67](tecnicas/observacao.md#requisitos-elicitados) | Não |
+| RNF24 | A lista de estabelecimentos de saúde recentes deve ser atualizada automaticamente sem comprometer o desempenho | [OBS68](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF25 | O agendamento de consultas deve ser sincronizado em tempo real com os sistemas do SUS | [OBS69](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF26 | As informações sobre consultas médicas ou exames devem ser exibidas com visualização amigável e intuitiva | [OBS70](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF27 | O registro de atendimentos ou internações deve ser armazenado de forma segura em servidores certificados | [OBS71](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF28 | Os contatos de profissionais de saúde devem ser exibidos em uma lista organizada, de fácil navegação | [OBS72](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF29 | As informações de emergência devem ser acessíveis rapidamente, com opção de busca por nome ou especialidade | [OBS73](tecnicas/observacao.md#requisitos-elicitados) | Não |
+| RNF30 | Os registros de saúde do usuário devem ser apresentados em gráficos interativos e de fácil interpretação | [OBS74](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF31 | As informações sobre Pressão, Glicose e IMC devem ser armazenadas de forma criptografada para garantir a privacidade | [OBS75](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF32 | O aplicativo deve garantir alta disponibilidade, com no mínimo 99,5% de uptime | [OBS76](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| RNF33 | Os dados relacionados a alergias devem ser carregados rapidamente e protegidos contra acesso não autorizado | [OBS77](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RNF34 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | [AD14](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF35 | O sistema deverá ser compatível com dispositivos Android e iOS. | [AD15](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF36 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | [AD16](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
@@ -165,6 +172,11 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RNF41 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | [AD28](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF42 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | [AD31](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | RNF43 | A aplicação pode receber informações do usuário através de biosensores | [EN 01](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RNF44 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas | [EN 14](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RNF45 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos | [EN 15](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RNF46 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica | [EN 16](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| RNF47  | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB | [GF08](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| RNF48  | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica | [GF09](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 
 </center>
 
@@ -186,5 +198,6 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente aos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 | `1.1`  | Adição de parte dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 23/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |
-| `1.2`  | Adição dos requisitos da Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 |  |  |
-| `1.3`  | Adição dos requisitos da Entrevista | [João Pedro](https://github.com/JoosPerro) | 05/12/2024 |  |  |
+| `1.2`  | Adição dos requisitos da Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 01/12/2024 | - | - |
+| `1.3`  | Adição dos requisitos da Entrevista | [João Pedro](https://github.com/JoosPerro) | 05/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
+| `1.4`  | Adição dos requisitos do Grupo de Foco | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |  |  |
