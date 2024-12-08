@@ -73,6 +73,26 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+### L02: Carteira Nacional de Vacinação
+
+<div align="center">
+    <p><strong>Tabela 2 – Carteira Nacional de Vacinação</strong></p>
+</div>
+
+<center>
+
+| **L02**              | **Descrição**                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------|
+| **Classificação**   | Objeto                                                                                            |
+| **Impacto**         | Serve como documento oficial, confirmando vacinações. Pode ter sua autenticidade validade através de QR Code ou código alfanumérico. Necessida de identificação de cidadão para ser gerada. É contruída com base nos dados de vacinação contidos no RNDS |
+| **Noção**           | Documento digital que contém informações básicas do cidadão (como nome, data de nascimento, CPF, nome da mãe, nacionalidade e sexo), junto de informações de vacinação. A seção de vacinação Covid-19 é destacada das demais. Apresenta data e hora da sua emissão |
+| **Dicionário**      | ─ |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 ## Bibliografia
 
