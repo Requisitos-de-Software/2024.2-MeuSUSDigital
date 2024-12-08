@@ -12,7 +12,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
     <p><strong>Tabela 1 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
 </div>
 
----
+<center>
 
 | **Campo**           | **Descrição** |
 | ------------------- | ------------- |
@@ -25,6 +25,8 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 | **Exceções**        | <ul><li> Não há Carteira Nacional de Vacinação Digital associada ao usuário. </li></ul> <ul><li> O sistema exibe uma mensagem informando que não há documento disponível. </li></ul> <ul><li> Ocorre uma falha no download do arquivo. </li></ul> <ul><li> O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </li></ul> |
 | **Data de Criação** | 08/12/2024 |
 | **Rastreabilidade** | [RF5](../elicitacao/requisitos-elicitados.md/#RF5) |
+
+</center>
 
 ---
 
@@ -40,6 +42,8 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
     <p><strong>Tabela 2 – Exportação/Download de Certificado de Vacinação Nacional de Covid-19</strong></p>
 </div>
 
+<center>
+
 | **Campo**           | **Descrição** |
 | ------------------- | ------------- |
 | **Título**          | Exportar Certificado de Vacinação Nacional de Covid-19 |
@@ -51,6 +55,8 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 | **Exceções**        | <ul><li> Não há Certificado de Vacinação Nacional de Covid-19 associado ao usuário. </li></ul> <ul><li> O sistema exibe uma mensagem informando que não há documento disponível. </li></ul> <ul><li> Ocorre uma falha no download do arquivo. </li></ul> <ul><li> O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </li></ul> |
 | **Data de Criação** | 08/12/2024 |
 | **Rastreabilidade** | [RF75](../elicitacao/requisitos-elicitados.md/#RF75) |
+
+</center>
 
 ---
 
@@ -66,6 +72,8 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
     <p><strong>Tabela 3 – Visualizar Histórico de Vacinas</strong></p>
 </div>
 
+<center>
+
 | **Campo**           | **Descrição**     |
 | ------------------- | ----------------- |
 | **Título**          | Visualizar Histórico de Vacinas |
@@ -78,23 +86,26 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 | **Data de Criação** | 08/12/2024 |
 | **Rastreabilidade** | [RF6](../elicitacao/requisitos-elicitados.md/#RF6) |
 
+</center>
+
 ---
 
 <div align="center">
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
----
+
 
 ## Cenário 4
 
+<div align="center">
+    <p><strong>Tabela 4 – Visualizar Consultas Marcadas</strong></p>
+</div>
+
 <center>
 
-
-Tabela 4: Visualizar Consultas Marcadas.
-
-| **Cenário 4**       |                                                                                  |
-|---------------------|----------------------------------------------------------------------------------|
+| **Campo**           | **Descrição**     |
+| ------------------- | ----------------- |
 | **Título**          | Visualizar Consultas Marcadas                                                   |
 | **Objetivo**        | Permitir que o usuário visualize a lista de consultas médicas previamente agendadas. |
 | **Contexto**        | O usuário deseja verificar informações sobre consultas já agendadas, como data, horário, local e especialidade. |
@@ -105,49 +116,21 @@ Tabela 4: Visualizar Consultas Marcadas.
 | **Data de Criação** | 08/12/2024 |
 | **Rastreabilidade** | [RF27](../elicitacao/requisitos-elicitados.md/#RF27) |
 
+</center>
+
+---
 
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
-
-
 </center>
 
----
 
 
 ## Cenário 5
 
-<center>
-
-Tabela 5: ???????.
-
-|**Cenário 5**  |
------------- ---|
-|**Titulo**     |
-| ???????????   |
-|**Objetivo**   |
-| ???????????   |
-|**Contexto**   |
-| ???????????   |
-|**Atores**     |
-| ???????????   |
-|**Recursos**   |
-| ???????????   |
-|**Episódios**  |
-| ???????????   |
-|**Restrição**  |
-| ???????????   |
-|**Exceção**    |
-| ???????????   |
-
-
-Fonte: [????????](????????).
-
-</center>
-
-
+---
 
 ## 📚 Bibliografia
 
