@@ -49,6 +49,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+---
 
 ## Léxicos
 
@@ -73,6 +74,8 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+---
+
 ### L02: Carteira Nacional de Vacinação
 
 <div align="center">
@@ -94,6 +97,35 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
+
+
+---
+
+<div align="center">
+    <p><strong>Tabela 3 – Consulta</strong></p>
+</div>
+
+<center>
+
+| **L02**              | **Descrição**                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------|
+| **Classificação**    | Objeto                                                                                            |
+| **Impacto**          | Permite que o usuário visualize e gerencie suas consultas médicas agendadas, garantindo acesso rápido a informações como data, horário, local e especialidade. Facilita a organização da rotina de saúde do cidadão. |
+| **Noção**            | Funcionalidade digital que apresenta ao usuário uma lista de consultas médicas previamente marcadas, com detalhes como data, horário, local, especialidade e profissional responsável. Pode incluir opções para reagendar ou cancelar. |
+| **Dicionário**       | ─                                                                                                |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+---
+
+
+
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>>. Acesso em: 08 de dezembro de 2024.
@@ -110,3 +142,5 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 |  `1.1`  | Adicionando metodologia e bibliografia| [Pedro Lopes](https://github.com/pLopess)   | 08/12/2024 |  | |
 |  `1.2`  | Adicionando Léxico 2 | [João Pedro](https://github.com/JoosPerro)   | 08/12/2024 |  |  |
+|  `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 08/12/2024 |  |  |
+

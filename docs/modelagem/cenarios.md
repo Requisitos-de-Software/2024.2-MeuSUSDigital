@@ -90,26 +90,29 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 <center>
 
-Tabela 4: ???????.
 
-|**Cenário 4**  |
------------- ---|
-|**Titulo**     |
-| ???????????   |
-|**Objetivo**   |
-| ???????????   |
-|**Contexto**   |
-| ???????????   |
-|**Atores**     |
-| ???????????   |
-|**Recursos**   |
-| ???????????   |
-|**Episódios**  |
-| ???????????   |
-|**Restrição**  |
-| ???????????   |
-|**Exceção**    |
-| ???????????   |
+Tabela 4: Visualizar Consultas Marcadas.
+
+| **Cenário 4**       |                                                                                  |
+|---------------------|----------------------------------------------------------------------------------|
+| **Título**          | Visualizar Consultas Marcadas                                                   |
+| **Objetivo**        | Permitir que o usuário visualize a lista de consultas médicas previamente agendadas. |
+| **Contexto**        | O usuário deseja verificar informações sobre consultas já agendadas, como data, horário, local e especialidade. |
+| **Atores**          | Usuário (paciente cadastrado no aplicativo).                                    |
+| **Recursos**        | Smartphone, aplicativo instalado e conta Gov.br autenticada.                   |
+| **Episódios**       | <ul><li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Consultas". </li><li> O sistema exibe as opções disponíveis, incluindo "Consultas Agendadas". </li><li> O usuário seleciona "Consultas Agendadas". </li><li> O sistema exibe a lista de consultas previamente marcadas, com detalhes como data, horário, local e especialidade. </li><li> O usuário pode selecionar uma consulta específica para ver mais informações. </li></ul> |
+| **Exceção**         | <ul><li> Não há consultas marcadas para o usuário. </li><li> Falha na conexão impede o carregamento da lista de consultas. </li></ul> |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF27](../elicitacao/requisitos-elicitados.md/#RF27) |
+</center>
+
+---
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+---
+
 
 
 Fonte: [????????](????????).
@@ -160,6 +163,13 @@ Fonte: [????????](????????).
 
 | Versão  | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----:  | --------- | --------- | :--------------: | ----------- | :-------------: |
+<<<<<<< HEAD
 | `1.0`   | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.1`   | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.1`   | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
+=======
+| `1.0`   | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |  |  |
+| `1.1`   | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.2`   | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
+| `1.3`   | Criação do cenário 4. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |  |  |
+>>>>>>> d68083b (adição de lexus e cenarios)
