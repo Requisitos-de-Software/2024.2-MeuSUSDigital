@@ -222,7 +222,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 
 
 <div align="center">
-    <p>Autor: <a href=""></a>.</p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 ---
 
