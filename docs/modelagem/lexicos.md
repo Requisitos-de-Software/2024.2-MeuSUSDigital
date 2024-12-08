@@ -122,6 +122,30 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 ---
 
+### L04: Certificado Nacional de Vacinação de Covid-19
+
+<div align="center">
+    <p><strong>Tabela 4 – Certificado Nacional de Vacinação de Covid-19</strong></p>
+</div>
+
+<center>
+
+| **L04**              | **Descrição**                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------|
+| **Classificação**   | Objeto                                                                                            |
+| **Impacto**         | Serve como documento oficial para comprovação da vacinação contra Covid-19, especialmente em contextos que exigem essa validação, como viagens internacionais ou acesso a eventos. Sua autenticidade pode ser validada por QR Code ou código alfanumérico. |
+| **Noção**           | Documento digital gerado a partir dos dados de vacinação contra Covid-19 registrados no RNDS (Rede Nacional de Dados em Saúde). Contém informações como o nome do cidadão, doses recebidas, fabricantes das vacinas, datas de aplicação e autenticidade digital. |
+| **Dicionário**      | Vacina, Covid-19, Data de vacinação, Lote, Fabricante, Dose, QR Code, Código Alfanumérico.          |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+
+---
+
 
 
 
@@ -143,4 +167,5 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | `1.1`  | Adicionando metodologia e bibliografia| [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.2`  | Adicionando Léxico 2 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.4`  | Adição do Léxico 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
 
