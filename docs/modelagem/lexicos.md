@@ -135,12 +135,12 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 
 
-## 📑 Histórico de Versão
+## 📑 Histórico de Versões
 
- Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-|  `1.1`  | Adicionando metodologia e bibliografia| [Pedro Lopes](https://github.com/pLopess)   | 08/12/2024 |  | |
-|  `1.2`  | Adicionando Léxico 2 | [João Pedro](https://github.com/JoosPerro)   | 08/12/2024 |  |  |
-|  `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 08/12/2024 |  |  |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.1`  | Adicionando metodologia e bibliografia| [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.2`  | Adicionando Léxico 2 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 
