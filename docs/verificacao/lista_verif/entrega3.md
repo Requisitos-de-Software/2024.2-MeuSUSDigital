@@ -40,17 +40,13 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 </center>
 
 > - <a id="term_anchor_1" href="#TERM1">**Ator**</a>: são entidades externas que interagem com o sistema modelado. Podem ser outros sistemas, pessoas, organizações, etc.
-</br>
-- <a id="term_anchor_2" href="#TERM2">**Caso de Uso**</a>: são tarefas realizadas por atores, cuja execução deve ser apoiada por funcionalidades contidas no sistema
-</br>
-- <a id="term_anchor_3" href="#TERM3">**Relacionamento**</a>: são as interações que um elemento do diagrama possui com outros elementos. Os tipos de relacionamentos são:
+> - <a id="term_anchor_2" href="#TERM2">**Caso de Uso**</a>: são tarefas realizadas por atores, cuja execução deve ser apoiada por funcionalidades contidas no sistema
+> - <a id="term_anchor_3" href="#TERM3">**Relacionamento**</a>: são as interações que um elemento do diagrama possui com outros elementos. Os tipos de relacionamentos são:
     - **Associação**: é uma interação entre um ator e uma tarefa que é realizada por ele
     - **Inclusão**: indica dependência entre casos de uso. Sempre que o *caso de uso base* é executado, o *caso de uso incluso* é executado como parte dele
     - **Extensão**: indica um *caso de uso base* que *pode* implicar na execução de outro caso de uso, chamado *estendido*, se cumpridas certas condições. **Pontos de extensão** podem ser informados para o caso de uso base quando ele possuir múltiplos casos de uso estendidos, a fim de especificar os caminhos alternativos
     - **Generalização**: estabelece um caso de teste geral, ou primário, e caso(s) de teste específico(s), ou secundário(s), que herdam todas as características do caso base, e ainda podem ter outras características distintas
-</br>
-- <a id="term_anchor_4" href="#TERM4">**Fluxo**</a>: é o caminho tomado pelo sistema, desde a ação de um ator, passando por casos de uso conectados por relacionamentos. O **fluxo básico** é o caminho esperado mais comum de ser tomado, geralmente composto por relacionamentos de inclusão. Um **fluxo alternativo** é um fluxo esperado diferente do fluxo básico, e geralmente são denotados por relacionamentos de extensão. Um **fluxo de exceção** é um fluxo que indica um erro ou um estado indesejado/inesperado, mas que foi previsto por ser possível de ocorrer.
-</br>
+> - <a id="term_anchor_4" href="#TERM4">**Fluxo**</a>: é o caminho tomado pelo sistema, desde a ação de um ator, passando por casos de uso conectados por relacionamentos. O **fluxo básico** é o caminho esperado mais comum de ser tomado, geralmente composto por relacionamentos de inclusão. Um **fluxo alternativo** é um fluxo esperado diferente do fluxo básico, e geralmente são denotados por relacionamentos de extensão. Um **fluxo de exceção** é um fluxo que indica um erro ou um estado indesejado/inesperado, mas que foi previsto por ser possível de ocorrer.
 
 <center>
 
@@ -59,26 +55,50 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | ID  | Descrição | Fonte | Autor |
 | :-: | :-------- | :---- | :---: |
 | 16  | A especificação apresenta os Requisitos Não-Funcionais no modelo FURPS (Funcionalidade, Usabilidade, Confiabilidade (Reliability), Desempenho (Performance) e Suportabilidade)? | <a id="REF3" href="#anchor_3">Modelo de Especificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+| 17 | É especificado o efeito das entradas na saída/resultado do caso de uso? | <a id="REF4" href="#anchor_4">Lista de Verificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+| 18 | São especificadas respostas para situações anormais, como recuperação de erros? | <a id="REF4" href="#anchor_4">Lista de Verificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+| 19 | A especificação apresenta as <a id="TERM5" href="#term_anchor_5">interfaces externas</a> do caso de uso? | <a id="REF4" href="#anchor_4">Lista de Verificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+| 20 | A especificação apresenta mantém rastreabilidade para requisitos derivados de padrões ou normas? | <a id="REF4" href="#anchor_4">Lista de Verificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+| 21 | Foram considerados velocidade, disponibilidade, tempo de resposta e tempo de recuperação das funcionalidades? | <a id="REF4" href="#anchor_4">Lista de Verificação Suplementar</a> | [João Pedro](https://github.com/JoosPerro) |
+
+</center>
+
+> - <a id="term_anchor_5" href="#TERM5">**Interface Externa**</a>: É a especificação de como um software interage com agentes externos, como usuários, hardware e outros softwares
+
+<center>
 
 **Tabela 3** ─ Cenários
 
 | ID  | Descrição | Fonte | Autor |
 | :-: | :-------- | :---- | :---: |
-|  | O cenário descreve uma situação de uso do sistema estudado? | <a id="REF4" href="#anchor_4">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
-|  | O cenário possui título? | <a id="REF5" href="#anchor_5">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
-|  | O cenário descreve o ambiente em que se passa o cenário? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
-|  | O cenário descreve o(s) ator(es) envolvidos e seus <a id="TERM5" href="#term_anchor_5">objetivos</a>? | <a id="REF7" href="#anchor_7">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
-|  | O cenário descreve o <a id="TERM6" href="#term_anchor_6">planejamento</a> de cada ator | <a id="REF8" href="#anchor_8">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
-|  | O cenário descreve a <a id="TERM7" href="#term_anchor_7">avaliação</a> do ator às situações experienciadas? | <a id="REF8" href="#anchor_8">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 22 | O cenário descreve uma situação concreta de uso do sistema? | <a id="REF5" href="#anchor_5">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 23 | O cenário possui título, descrição e referência à <a id="TERM6" href="#term_anchor_6">cenários alternativos</a>? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 24 | O cenário descreve o ambiente ou contexto em que ele se passa? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 25 | O cenário descreve o(s) ator(es) envolvidos e seus <a id="TERM7" href="#term_anchor_7">objetivos</a>? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 26 | O cenário descreve o <a id="TERM8" href="#term_anchor_8">planejamento</a> de cada ator? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 27 | O cenário descreve a <a id="TERM9" href="#term_anchor_9">avaliação</a> do ator às situações experienciadas? | <a id="REF6" href="#anchor_6">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
+| 28 | O cenário descerve um dos possíveis fluxos de um caso de uso? |  <a id="REF7" href="#anchor_7">Livro de IHC e UX</a> | [João Pedro](https://github.com/JoosPerro) |
 
-> - <a id="term_anchor_5" href="#TERM5">**Objetivo**</a>: é o efeito desejado, é o que motiva o usuário a tomar uma atitude (que pode não se limitar à interação com o sistema em questão)
-> - <a id="term_anchor_5" href="#TERM5">**Planejamento**</a>: é a atividade mental do ator para determinar a sequência ações que cumprem seu objetivo
-> - <a id="#term_anchor_6" href="TERM6">**Avaliação**</a>: é a atividade mental do ator para interpretar a situação
+</center>
+
+> - <a id="term_anchor_6" href="#TERM6">**Cenário Alternativo**</a>: um cenário alternativo narra uma maneira diferente de alcançar o mesmo objetivo que outro cenário
+> - <a id="term_anchor_7" href="#TERM7">**Objetivo**</a>: é o efeito desejado, é o que motiva o usuário a tomar uma atitude (que pode não se limitar à interação com o sistema em questão)
+> - <a id="term_anchor_8" href="#TERM8">**Planejamento**</a>: é a atividade mental do ator para determinar a sequência ações que cumprem seu objetivo
+> - <a id="term_anchor_9" href="#TERM9">**Avaliação**</a>: é a atividade mental do ator para interpretar a situação
+
+<center>
 
 **Tabela 4** ─ Léxico
 
 | ID  | Descrição | Fonte | Autor |
 | :-: | :-------- | :---- | :---: |
+| 29 | O léxico a apresenta a <a id="TERM10" href="#term_anchor_10">noção</a> de cada símbolo? | <a id="REFBIB2" href="#anchor_refbib2">Léxico Ampliado da Linguagem (resumo)</a> | [João Pedro](https://github.com/JoosPerro) |
+| 30 | O léxico apresenta o <a id="TERM11" href="#term_anchor_11">impacto</a> de cada símbolo? | <a id="REFBIB2" href="#anchor_refbib2">Léxico Ampliado da Linguagem (resumo)</a> | [João Pedro](https://github.com/JoosPerro) |
+| 31 | O léxico indica quais símbolos são sinônimos? | <a id="REFBIB2" href="#anchor_refbib2">Léxico Ampliado da Linguagem (resumo)</a> | [João Pedro](https://github.com/JoosPerro) |
+| 32 | Cada símbolo é caracterizado por um, e apenas um, dos seguintes tipos: sujeito, verbo, objeto ou estado? | <a id="REFBIB2" href="#anchor_refbib2">Léxico Ampliado da Linguagem (resumo)</a> | [João Pedro](https://github.com/JoosPerro) |
+
+<a id="term_anchor_10" href="#TERM10">**Noção**</a>: a noção, também chamada *denotação*, é a descrição do significado da expressão/símbolo
+<a id="term_anchor_11" href="#TERM11">**Impacto**</a>: o impacto, também chamado *conotação*, é a descrição das implicações/efeitos do seu uso na aplicação. Deve-se indicar os efeitos de um símbolo juntamente com os efeito que afetam/causam esse símbolo.
 
 </center>  
 
@@ -110,52 +130,46 @@ Fonte: [MCTIC](https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Especificaca
 
 ---
 
-<a id="anchor_4" href="#REF4">**Imagem 4** ─ </a><br>
+<a id="anchor_4" href="#REF4">**Imagem 4** ─ Lista de Verificação de Especificação Suplementar</a><br>
 
-![a](../referencias/a.png)
+![a](../referencias/entr3-lista-verif-esp-supl.png)
 
-Fonte: [a]()
-
----
-
-<a id="anchor_5" href="#REF5">**Imagem 5** ─ </a><br>
-
-![a](../referencias/a.png)
-
-Fonte: [a]()
+Fonte: [Centro de Informática UFPE](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/checklists/supplementary_specifications_13D7A7B2.html)
 
 ---
 
-<a id="anchor_6" href="#REF6">**Imagem 6** ─ </a><br>
+<a id="anchor_5" href="#REF5">**Imagem 5** ─ O que é um Cenário</a><br>
 
-![a](../referencias/a.png)
+![a](../referencias/entr3-cenarios1.png)
 
-Fonte: [a]()
-
----
-
-<a id="anchor_7" href="#REF7">**Imagem 7** ─ </a><br>
-
-![a](../referencias/a.png)
-
-Fonte: [a]()
+Fonte: <a id="REFBIB1" href="#anchor_refbib1">Interação Humano-Computador e Experiência de Usuário, p. 172</a>
 
 ---
 
-<a id="anchor_8" href="#REF8">**Imagem 8** ─ </a><br>
+<a id="anchor_6" href="#REF6">**Imagem 6** ─ Elementos de um Cenário</a><br>
 
-![a](../referencias/a.png)
+![a](../referencias/entr3-cenarios2.png)
 
-Fonte: [a]()
+Fonte: <a id="REFBIB1" href="#anchor_refbib1">Interação Humano-Computador e Experiência de Usuário, p. 172</a>
+
+---
+
+<a id="anchor_7" href="#REF7">**Imagem 7** ─ Cenário *versus* Caso de Uso</a><br>
+
+![a](../referencias/entr3-cenarios3.png)
+
+Fonte: <a id="REFBIB1" href="#anchor_refbib1">Interação Humano-Computador e Experiência de Usuário, p. 173</a>
 
 </center>
 
 ## 📚 Referências Bibliográficas
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021. 172-177. ISBN: 978-65-00-19677-1.
+> <a id="#anchor_refbib1" href="REFBIB1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. **Interação Humano-Computador e Experiência do usuário**. Autopublicação. 2021. 172-173. ISBN: 978-65-00-19677-1.
 
+> <a id="#anchor_refbib2" href="REFBIB2">2.</a> Leite, Julio C. S. P. **Léxico Ampliado da Linguagem**: Resumo. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acessado em: 08/12/2024.</a>
 ## 📑 Histórico de versão
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento  | [João Pedro](https://github.com/JoosPerro) | 06/12/2024 |  |  |
+| `1.1`  | Correções e adição de *hyperlinks*  | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 |  |  |
