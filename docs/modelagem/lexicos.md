@@ -97,9 +97,9 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
-
-
 ---
+
+### L03: Consulta
 
 <div align="center">
     <p><strong>Tabela 3 – Consulta</strong></p>
@@ -107,7 +107,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 <center>
 
-| **L02**              | **Descrição**                                                                                      |
+| **L03**              | **Descrição**                                                                                      |
 |----------------------|----------------------------------------------------------------------------------------------------|
 | **Classificação**    | Objeto                                                                                            |
 | **Impacto**          | Permite que o usuário visualize e gerencie suas consultas médicas agendadas, garantindo acesso rápido a informações como data, horário, local e especialidade. Facilita a organização da rotina de saúde do cidadão. |
@@ -130,12 +130,12 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 <center>
 
-| **L04**              | **Descrição**                                                                                      |
-|----------------------|----------------------------------------------------------------------------------------------------|
-| **Classificação**   | Objeto                                                                                            |
-| **Impacto**         | Serve como documento oficial para comprovação da vacinação contra Covid-19, especialmente em contextos que exigem essa validação, como viagens internacionais ou acesso a eventos. Sua autenticidade pode ser validada por QR Code ou código alfanumérico. |
-| **Noção**           | Documento digital gerado a partir dos dados de vacinação contra Covid-19 registrados no RNDS (Rede Nacional de Dados em Saúde). Contém informações como o nome do cidadão, doses recebidas, fabricantes das vacinas, datas de aplicação e autenticidade digital. |
-| **Dicionário**      | Vacina, Covid-19, Data de vacinação, Lote, Fabricante, Dose, QR Code, Código Alfanumérico.          |
+| **L04**           | **Descrição** |
+| ----------------- | ------------- |
+| **Classificação** | Objeto                                                                                            |
+| **Impacto**       | Serve como documento oficial para comprovação da vacinação contra Covid-19, especialmente em contextos que exigem essa validação, como viagens internacionais ou acesso a eventos. Sua autenticidade pode ser validada por QR Code ou código alfanumérico. |
+| **Noção**         | Documento digital gerado a partir dos dados de vacinação contra Covid-19 registrados no RNDS (Rede Nacional de Dados em Saúde). Contém informações como o nome do cidadão, doses recebidas, fabricantes das vacinas, datas de aplicação e autenticidade digital. |
+| **Dicionário**    | Vacina, Covid-19, Data de vacinação, Lote, Fabricante, Dose, QR Code, Código Alfanumérico.          |
 
 </center>
 
@@ -143,12 +143,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
-
 ---
-
-
-
-
 
 ## Bibliografia
 
@@ -156,8 +151,6 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 > 
 > Bilheteria Digital - Léxicos. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 08 de dezembro de 2024
 >
-
-
 
 ## 📑 Histórico de Versões
 
