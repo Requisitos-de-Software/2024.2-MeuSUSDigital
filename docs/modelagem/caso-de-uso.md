@@ -59,7 +59,7 @@ adicionar
 
 ## Especificação de Casos de Uso
 
-As tabelas de 2 a 5 mostram a especificação dos casos de uso.
+As tabelas abaixo mostram a especificação dos casos de uso.
 
 
 
@@ -306,6 +306,31 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 
 ---
 
+<div align="center">
+    <p><strong>Tabela 11 – Filtrar Notificações</strong></p>
+</div>
+
+<center>
+
+| **UC10**              | **Informações** |
+| --------------------- | --------------- |
+| **Descrição**         | O aplicativo deve filtrar notificações relevantes, baseado na região atual e alergias do paciente. |
+| **Ator**              | Paciente |
+| **Pré-condições**     | <ul> <li>O usuário deve estar autenticado no aplicativo (login realizado com sucesso via conta Gov.br). </li> <li>O paciente permite o acesso à sua localização pelo app</li> <li>O paciente tem alergias adicionadas</li></ul> |
+| **Ação**              | Notificações cuja categoria é compatível à região ou alergia do paciente são notificadas a ele |
+| **Fluxo principal**   | <ul> <li>O usuário acessa seção de "Conteúdo"</li> <li>O sistema solicita acesso à localização, se não possuir</li> <li>O paciente permite o acesso à localização, se for solicitado</li> <li>O sistema exibe a tela de conteúdos filtrados, baseado na localização e nas alergias declaradas</li> |
+| **Fluxos alternativos** | <ul> <li>O usuário acessa seção de "Conteúdo"</li> <li>O sistema pede acesso à localização do paciente</li> <li>O paciente nega o acesso à localização</li> <li>O sistema exibe a tela de conteúdos filtrados, baseado apenas nas alergias declaradas, se houver</li> </ul> |
+| **Fluxo de exceção**  | <ul> <li>O usuário acessa seção de "Conteúdo"</li> <li>O paciente permite o acesso à localização</li> <li>O sistema falha em acessar o serviço de localização, e notifica que não foi possível acessar localização e mostra conteúdos filtrados apenas pelas alergias declaradas</li> </ul> |
+| **Pós-condições**     | <ul> <li>O sistema apresenta uma lista de contúdos filtrados, a partir do conteúdo mais recente</li> <il>As permissões de acesso à localização são atualizadas, caso paciente aceite</il> <ul> |
+| **Data de Criação**   | 08/12/2024 |
+| **Rastreabilidade**   | [RF72](../elicitacao/requisitos-elicitados.md/#RF72) |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
 ## 📚 Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em:[https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 4 dez. 2024.
@@ -322,3 +347,4 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 | `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.4`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.5`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.6`  | Adicionando UC10 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 |  |  |
