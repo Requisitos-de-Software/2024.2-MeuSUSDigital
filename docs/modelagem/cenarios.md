@@ -104,20 +104,18 @@ Tabela 4: Visualizar Consultas Marcadas.
 | **Exceção**         | <ul><li> Não há consultas marcadas para o usuário. </li><li> Falha na conexão impede o carregamento da lista de consultas. </li></ul> |
 | **Data de Criação** | 08/12/2024 |
 | **Rastreabilidade** | [RF27](../elicitacao/requisitos-elicitados.md/#RF27) |
-</center>
 
----
+
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
----
 
-
-
-Fonte: [????????](????????).
 
 </center>
+
+---
+
 
 ## Cenário 5
 
