@@ -225,6 +225,33 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 
 ---
 
+<div align="center">
+    <p><strong>Tabela 8 – Vacinas</strong></p>
+</div>
+
+<center>
+
+| **UC06**         | **Informações**                                                                                     |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| **Descrição**     | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas.                |
+| **Ator**          | Usuário (paciente cadastrado no aplicativo).                                                      |
+| **Pré-condições** | <ul><li> O usuário deve estar autenticado no aplicativo (login realizado com sucesso via conta Gov.br). </ul></li> <ul><li> O sistema deve conter registros de vacinas para o usuário. </ul></li> |
+| **Ação**          | O usuário acessa o histórico de vacinas. |
+| **Fluxo principal** | 1. O usuário acessa o menu principal do aplicativo e seleciona a opção "Vacinas". <ul> 1.1 O sistema exibe diversas opções, como "Ajuda", "Documentos", "Histórico de vacinas", entre outras. <ul> 1.2 O usuário seleciona a opção "Histórico de vacinas". <ul> 1.3 O sistema exibe uma lista ou histórico com os registros de vacinação associados ao usuário. <ul> 1.4 Em "Mais detalhes", o usuário pode selecionar um registro específico para visualizar detalhes, como data, local de aplicação, fabricante, entre outros. </ul> </ul> </ul> </ul> |
+| **Fluxo alternativo** | 1. Não há registros de vacinas para o usuário. <ul> 1.1 O sistema exibe uma mensagem informando que não há vacinas registradas. </ul> 2. Ocorre uma falha na conexão com o servidor. <ul> 2.2 O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </ul> |
+| **Fluxo de exceção** | Não aplicável.                                                                                |
+| **Pós-condições** | 1. O usuário visualiza o histórico completo de vacinas (se disponível). <br> 2. Nenhuma alteração nos dados do sistema ocorre durante este processo. |
+| **Data de Criação** | 07/12/2024                                                                                      |
+| **Rastreabilidade** | [RF6](../elicitacao/requisitos-elicitados.md/#RF6) |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+---
+
 ## 📚 Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em:[https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 4 dez. 2024.
@@ -236,4 +263,5 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 |:------:|:---------:|:---------:|:----------------:|:-----------:|:---------------:|
 | `1.0`  | Criação do Documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
-| `1.1`  | Adição especificação de casos de uso da funcionalidade relacionada a medicamentos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |  |  |
+| `1.1`  | Adição da especificação de casos de uso da funcionalidade relacionada a medicamentos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
+| `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
