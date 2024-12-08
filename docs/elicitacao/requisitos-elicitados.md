@@ -60,7 +60,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | RF3   | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | [OBS3](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF4   | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS4](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF5   | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS5](tecnicas/observacao.md#requisitos-elicitados), [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| RF6   | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | [OBS6](tecnicas/observacao.md#requisitos-elicitados) | Sim |
+| <a id="RF6"></a>RF6 | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | [OBS6](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF7   | O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina | [OBS7](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF8   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames | [OBS8](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | RF9   | O aplicativo deve permitir a visualização dos exames laboratoriais realizados | [OBS9](tecnicas/observacao.md#requisitos-elicitados) | Sim |
