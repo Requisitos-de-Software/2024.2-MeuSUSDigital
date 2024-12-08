@@ -13,7 +13,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Léxicos do tipo LAL</p></font>
 
 | Tipo do símbolo | Noção | Impacto |
-|-----------------|-------|-------|
+| ----------------- | ------- | ------- |
 | Sujeito | Quem é o sujeito | Ações que executa |
 | Verbo | Quem realiza, quando acontece e quais os procedimentos | Quais os reflexos das ações no ambiente e novos estados decorrentes |
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
@@ -28,7 +28,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos</p></font>
 
 | ID | Descrição |
-|-----------------|-------|
+| ----------------- | ------- |
 | Classificação | Objeto/Verbo/Estado |
 | Impacto | Descrição de ações e de seus efeitos | 
 | Noção | Símbolo |
