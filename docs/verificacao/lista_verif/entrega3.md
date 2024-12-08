@@ -46,7 +46,10 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
     - **Inclusão**: indica dependência entre casos de uso. Sempre que o *caso de uso base* é executado, o *caso de uso incluso* é executado como parte dele
     - **Extensão**: indica um *caso de uso base* que *pode* implicar na execução de outro caso de uso, chamado *estendido*, se cumpridas certas condições. **Pontos de extensão** podem ser informados para o caso de uso base quando ele possuir múltiplos casos de uso estendidos, a fim de especificar os caminhos alternativos
     - **Generalização**: estabelece um caso de teste geral, ou primário, e caso(s) de teste específico(s), ou secundário(s), que herdam todas as características do caso base, e ainda podem ter outras características distintas
-> - <a id="term_anchor_4" href="#TERM4">**Fluxo**</a>: é o caminho tomado pelo sistema, desde a ação de um ator, passando por casos de uso conectados por relacionamentos. O **fluxo básico** é o caminho esperado mais comum de ser tomado, geralmente composto por relacionamentos de inclusão. Um **fluxo alternativo** é um fluxo esperado diferente do fluxo básico, e geralmente são denotados por relacionamentos de extensão. Um **fluxo de exceção** é um fluxo que indica um erro ou um estado indesejado/inesperado, mas que foi previsto por ser possível de ocorrer.
+> - <a id="term_anchor_4" href="#TERM4">**Fluxo**</a>: é um caminho tomado pelo ator em um sistema, passando por casos de uso conectados por relacionamentos. Existem três tipos básicos de fluxo:
+    - O **fluxo básico** é o caminho esperado mais comum de ser tomado, geralmente composto por relacionamentos de inclusão.
+    - Um **fluxo alternativo** é um fluxo esperado diferente do fluxo básico, e geralmente são denotados por relacionamentos de extensão.
+    - Um **fluxo de exceção** é um fluxo que indica um erro ou um estado indesejado/inesperado, mas que foi previsto por ser possível.
 
 <center>
 
@@ -164,9 +167,10 @@ Fonte: <a id="REFBIB1" href="#anchor_refbib1">Interação Humano-Computador e Ex
 
 ## 📚 Referências Bibliográficas
 
-> <a id="#anchor_refbib1" href="REFBIB1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. **Interação Humano-Computador e Experiência do usuário**. Autopublicação. 2021. 172-173. ISBN: 978-65-00-19677-1.
+> <a id="anchor_refbib1" href="#REFBIB1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. **Interação Humano-Computador e Experiência do usuário**. Autopublicação. 2021. 172-173. ISBN: 978-65-00-19677-1.
 
-> <a id="#anchor_refbib2" href="REFBIB2">2.</a> Leite, Julio C. S. P. **Léxico Ampliado da Linguagem**: Resumo. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acessado em: 08/12/2024.</a>
+> <a id="anchor_refbib2" href="#REFBIB2">2.</a> Leite, Julio C. S. P. **Léxico Ampliado da Linguagem**: Resumo. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acessado em: 08/12/2024.</a>
+
 ## 📑 Histórico de versão
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
