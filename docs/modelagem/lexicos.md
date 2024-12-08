@@ -22,6 +22,8 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 
+</center>
+
 <div align="center">
     <p>Fonte: SERRANO, Maurício e SERRANO, Milene<a id="anchor_1" href="#REF1"><sup>1</sup></a>.</p>
 </div>
@@ -51,6 +53,13 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 ## Léxicos
 
 ### L01: Histórico de Vacinação
+
+<div align="center">
+    <p><strong>Tabela 1 – Léxicos do tipo LAL</strong></p>
+</div>
+
+<center>
+
 | **L01**              | **Descrição**                                                                                      |
 |----------------------|----------------------------------------------------------------------------------------------------|
 | **Classificação**   | Objeto                                                                                            |
@@ -58,7 +67,12 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | **Noção**           | Registro sistemático das vacinas recebidas pelo paciente.                                          |
 | **Dicionário**      | Vacina, Data, Local de vacinação, Lote, Fabricante, Dose. 
 
-<p>Autor:<a href="https://github.com/pLopess"> Pedro Lopes</a>.</p>
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
 
 ## Bibliografia
 
