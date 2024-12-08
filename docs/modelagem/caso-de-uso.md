@@ -59,39 +59,10 @@ adicionar
 
 ## Especificação de Casos de Uso
 
-As tabelas de 2 a 5 mostram a especificação dos casos de uso.
-
-
+As tabelas de 2 a 9 mostram a especificação dos casos de uso.
 
 <div align="center">
-    <p><strong>Tabela 2 – Seção de vacinas.</strong></p>
-</div>
-
-<center>
-
-| **UC01** | **Informações** |
-| ------- | ------------- |
-| Descrição |  |
-| Ator |  |
-| Pré-condições |  |
-| Ação |  |
-| Fluxo principal |  |
-| Fluxo alternativo |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Data de Criação |  |
-| Rastreabilidade |  |
-
-</center>
-
-<div align="center">
-    <p>Autor: <a href=""></a>.</p>
-</div>
-
----
-
-<div align="center">
-    <p><strong>Tabela 3 – Histórico pré pandemia.</strong></p>
+    <p><strong>Tabela 2 – Histórico pré pandemia</strong></p>
 </div>
 
 <center>
@@ -118,7 +89,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 4 – Consultar receitas médicas.</strong></p>
+    <p><strong>Tabela 3 – Consultar receitas médicas</strong></p>
 </div>
 
 <center>
@@ -145,7 +116,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 5 – Fazer pedido de medicamento.</strong></p>
+    <p><strong>Tabela 4 – Fazer pedido de medicamento</strong></p>
 </div>
 
 <center>
@@ -172,7 +143,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 6 – Consultar pedido de medicamento.</strong></p>
+    <p><strong>Tabela 5 – Consultar pedido de medicamento</strong></p>
 </div>
 
 <center>
@@ -199,7 +170,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 7 – Agendamentos.</strong></p>
+    <p><strong>Tabela 6 – Agendamentos</strong></p>
 </div>
 
 
@@ -228,12 +199,12 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 
 
 <div align="center">
-    <p><strong>Tabela 8 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
+    <p><strong>Tabela 7 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
 </div>
 
 <center>
 
-| **UC08**              | **Informações** |
+| **UC07**              | **Informações** |
 | --------------------- | --------------- |
 | **Descrição**         | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital. |
 | **Ator**              | Usuário (paciente cadastrado no aplicativo). |
@@ -255,7 +226,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 9 – Exportar Certificado de vacinação nacional de Covid-19</strong></p>
+    <p><strong>Tabela 8 – Exportar Certificado de vacinação nacional de Covid-19</strong></p>
 </div>
 
 <center>
@@ -282,7 +253,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 10 – Visualizar histórico de vacinas</strong></p>
+    <p><strong>Tabela 9 – Visualizar histórico de vacinas</strong></p>
 </div>
 
 <center>
