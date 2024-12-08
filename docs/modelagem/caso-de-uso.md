@@ -47,7 +47,7 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
 
 <center>
  
-adicionar 
+<iframe frameborder="0" style="width:100%;height:1133px;" src="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&nav=1&title=use_case_dgram_-_Meus_SUS_Digital.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1P9X_m5Oynit55smT7AyenBk_km27mKQ4%26export%3Ddownload"></iframe>
 
 </center>
 
@@ -59,39 +59,8 @@ adicionar
 
 ## Especificação de Casos de Uso
 
-As tabelas abaixo mostram a especificação dos casos de uso.
-
-
-
 <div align="center">
-    <p><strong>Tabela 2 – Seção de vacinas.</strong></p>
-</div>
-
-<center>
-
-| **UC01** | **Informações** |
-| ------- | ------------- |
-| Descrição |  |
-| Ator |  |
-| Pré-condições |  |
-| Ação |  |
-| Fluxo principal |  |
-| Fluxo alternativo |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Data de Criação |  |
-| Rastreabilidade |  |
-
-</center>
-
-<div align="center">
-    <p>Autor: <a href=""></a>.</p>
-</div>
-
----
-
-<div align="center">
-    <p><strong>Tabela 3 – Histórico pré pandemia.</strong></p>
+    <p><strong>Tabela 2 – Histórico pré pandemia</strong></p>
 </div>
 
 <center>
@@ -118,7 +87,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 4 – Consultar receitas médicas.</strong></p>
+    <p><strong>Tabela 3 – Consultar receitas médicas</strong></p>
 </div>
 
 <center>
@@ -145,7 +114,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 5 – Fazer pedido de medicamento.</strong></p>
+    <p><strong>Tabela 4 – Fazer pedido de medicamento</strong></p>
 </div>
 
 <center>
@@ -172,7 +141,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 6 – Consultar pedido de medicamento.</strong></p>
+    <p><strong>Tabela 5 – Consultar pedido de medicamento</strong></p>
 </div>
 
 <center>
@@ -199,7 +168,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 7 – Agendamentos.</strong></p>
+    <p><strong>Tabela 6 – Agendamentos</strong></p>
 </div>
 
 
@@ -228,12 +197,12 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 
 
 <div align="center">
-    <p><strong>Tabela 8 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
+    <p><strong>Tabela 7 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
 </div>
 
 <center>
 
-| **UC08**              | **Informações** |
+| **UC07**              | **Informações** |
 | --------------------- | --------------- |
 | **Descrição**         | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital. |
 | **Ator**              | Usuário (paciente cadastrado no aplicativo). |
@@ -255,7 +224,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 9 – Exportar Certificado de vacinação nacional de Covid-19</strong></p>
+    <p><strong>Tabela 8 – Exportar Certificado de vacinação nacional de Covid-19</strong></p>
 </div>
 
 <center>
@@ -282,7 +251,7 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 10 – Visualizar histórico de vacinas</strong></p>
+    <p><strong>Tabela 9 – Visualizar histórico de vacinas</strong></p>
 </div>
 
 <center>
@@ -342,12 +311,10 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 ## 📑 Histórico de Versão
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
-|:------:|:---------:|:---------:|:----------------:|:-----------:|:---------------:|
+| :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação do Documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
 | `1.1`  | Adição da especificação de casos de uso da funcionalidade relacionada a medicamentos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
 | `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.4`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.5`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
-| `1.6`  | Atualização da especificação de casos de uso das funcionalidades Agendamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |  |  |
-| `1.6`  | Adicionando UC10 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 |  |  |

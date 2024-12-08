@@ -18,9 +18,13 @@ Os requisitos relacionados a cada uma dessas funcionalidades foram organizados e
 
 O "+" no modelo representa fatores adicionais, como requisitos técnicos, restrições de design, padrões e considerações legais. Essa abordagem sistemática permite uma análise abrangente e estruturada dos requisitos, assegurando que o sistema atenda tanto às necessidades funcionais quanto às características de qualidade esperadas.
 
+---
+
 ## Funcionalidade
 
 Os requisitos funcionais, que foram identificados durante a fase de elicitação, estão detalhados na [Tabela 2](../elicitacao/requisitos-elicitados.md/#requisitos) da seção de [Requisitos Elicitados](../elicitacao/requisitos-elicitados.md). Esta tabela apresenta uma lista de todos os requisitos que foram priorizados.
+
+---
 
 ## Usabilidade
 
@@ -44,7 +48,7 @@ Refere-se à facilidade com que o usuário pode executar uma tarefa utilizando o
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
-
+---
 
 ## Confiabilidade
 
@@ -69,6 +73,7 @@ Refere-se à capacidade do sistema de operar sem falhas, incluindo a frequência
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+---
 
 ## Desempenho
 
@@ -91,6 +96,7 @@ Refere-se aos critérios operacionais necessários para que os requisitos sejam 
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
+---
 
 ## Suportabilidade
 
@@ -115,7 +121,36 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 </div>
 
 
+---
+
 ## Restrições de Design
+
+Abrange os requisitos e limitações que influenciam o design do sistema, garantindo acessibilidade, conformidade com padrões técnicos e usabilidade para todos os usuários.
+
+<div align="center">
+    <p><strong>Tabela 5 – Restrições de Design</strong></p>
+</div>
+
+<center>
+
+| **ID**   | **Descrição**                                                                                 |
+|----------|-----------------------------------------------------------------------------------------------|
+| **RED01** | O design deve seguir as diretrizes de acessibilidade digital, como WCAG, para atender usuários com deficiência. |
+| **RED02** | O layout deve ser responsivo, garantindo uma experiência consistente em dispositivos móveis e desktops. |
+| **RED03** | A paleta de cores deve respeitar padrões de contraste para facilitar a leitura e melhorar a usabilidade. |
+| **RED04** | O sistema deve adotar elementos visuais padronizados, como fontes e ícones, para manter a identidade visual do governo. |
+| **RED05** | Deve-se evitar o uso de animações ou elementos gráficos que possam prejudicar a performance em dispositivos com hardware limitado. |
+| **RED06** | O design deve ser minimalista e intuitivo, priorizando a clareza das informações e a facilidade de navegação. |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+---
+
+
 
 
 
@@ -129,4 +164,6 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.3`  | Adição de especificações. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |  |  |
+
