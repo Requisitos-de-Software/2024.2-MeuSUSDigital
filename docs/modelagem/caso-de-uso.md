@@ -226,23 +226,50 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 ---
 
 <div align="center">
-    <p><strong>Tabela 8 – Vacinas</strong></p>
+    <p><strong>Tabela 8 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
 </div>
 
 <center>
 
-| **UC06**         | **Informações**                                                                                     |
-|-------------------|---------------------------------------------------------------------------------------------------|
-| **Descrição**     | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas.                |
-| **Ator**          | Usuário (paciente cadastrado no aplicativo).                                                      |
-| **Pré-condições** | <ul><li> O usuário deve estar autenticado no aplicativo (login realizado com sucesso via conta Gov.br). </ul></li> <ul><li> O sistema deve conter registros de vacinas para o usuário. </ul></li> |
-| **Ação**          | O usuário acessa o histórico de vacinas. |
-| **Fluxo principal** | 1. O usuário acessa o menu principal do aplicativo e seleciona a opção "Vacinas". <ul> 1.1 O sistema exibe diversas opções, como "Ajuda", "Documentos", "Histórico de vacinas", entre outras. <ul> 1.2 O usuário seleciona a opção "Histórico de vacinas". <ul> 1.3 O sistema exibe uma lista ou histórico com os registros de vacinação associados ao usuário. <ul> 1.4 Em "Mais detalhes", o usuário pode selecionar um registro específico para visualizar detalhes, como data, local de aplicação, fabricante, entre outros. </ul> </ul> </ul> </ul> |
-| **Fluxo alternativo** | 1. Não há registros de vacinas para o usuário. <ul> 1.1 O sistema exibe uma mensagem informando que não há vacinas registradas. </ul> 2. Ocorre uma falha na conexão com o servidor. <ul> 2.2 O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </ul> |
-| **Fluxo de exceção** | Não aplicável.                                                                                |
-| **Pós-condições** | 1. O usuário visualiza o histórico completo de vacinas (se disponível). <br> 2. Nenhuma alteração nos dados do sistema ocorre durante este processo. |
-| **Data de Criação** | 07/12/2024                                                                                      |
-| **Rastreabilidade** | [RF6](../elicitacao/requisitos-elicitados.md/#RF6) |
+| **UC08**              | **Informações** |
+| --------------------- | --------------- |
+| **Descrição**         | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital. |
+| **Ator**              | Usuário (paciente cadastrado no aplicativo). |
+| **Pré-condições**     | <li> O usuário deve estar autenticado no aplicativo (login realizado com sucesso via conta Gov.br). </li> <li> O sistema deve conter a Carteira Nacional de Vacinação Digital atualizada para o usuário. </li> |
+| **Ação**              | O usuário exporta ou realiza o download do documento referente à Carteira Nacional de Vacinação Digital. |
+| **Fluxo principal**   | <li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Vacinas". <ul><li> O sistema exibe diversas opções, como "Ajuda", "Documentos", "Histórico de vacinas", entre outras. <ul><li> O usuário seleciona a opção "Documentos". <ul><li> O usuário seleciona a opção "Suas vacinas". <ul><li> O usuário seleciona a opção "Exportar documento". <ul><li> O sistema gera o arquivo correspondente e o disponibiliza para o exportação/download no dispositivo do usuário. </li> </li></ul> </li></ul> </li></ul> </li></ul> </li></ul> |
+| **Fluxo alternativo** | <li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Vacinas". <ul><li> O sistema exibe, entre diversas outras, a opção "Acesse sua Carteira Nacional de Vacinação". <ul><li> O usuário seleciona a opção "Acessar", em "Acesse sua Carteira Nacional de Vacinação". <ul><li> O sistema gera o arquivo correspondente e o disponibiliza para o exportação/download no dispositivo do usuário. </li> </li></ul> </li></ul> </li></ul> </li></ul> </li></ul> <li> Não há Carteira Nacional de Vacinação Digital associada ao usuário. <ul><li> O sistema exibe uma mensagem informando que não há documento disponível para exportação/download. </li> </li></ul> <li> Ocorre uma falha no download do arquivo. <ul><li> O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </li> </li></ul> |
+| **Fluxo de exceção**  | Não aplicável. |
+| **Pós-condições**     | 1. O usuário obtém uma cópia do documento referente à Carteira Nacional de Vacinação Digital. <br></br> 2. Nenhuma alteração nos dados do sistema ocorre durante este processo. |
+| **Data de Criação**   | 07/12/2024 |
+| **Rastreabilidade**   | [RF5](../elicitacao/requisitos-elicitados.md/#RF5) |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+---
+
+<div align="center">
+    <p><strong>Tabela 9 – Visualizar histórico de vacinas</strong></p>
+</div>
+
+<center>
+
+| **UC09**              | **Informações** |
+| --------------------- | --------------- |
+| **Descrição**         | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas. |
+| **Ator**              | Usuário (paciente cadastrado no aplicativo). |
+| **Pré-condições**     | <ul><li> O usuário deve estar autenticado no aplicativo (login realizado com sucesso via conta Gov.br). </ul></li> <ul><li> O sistema deve conter registros de vacinas para o usuário. </ul></li> |
+| **Ação**              | O usuário acessa o histórico de vacinas. |
+| **Fluxo principal**   | <li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Vacinas". <ul><li> O sistema exibe diversas opções, como "Ajuda", "Documentos", "Histórico de vacinas", entre outras. <ul><li> O usuário seleciona a opção "Histórico de vacinas". <ul><li> O sistema exibe uma lista ou histórico com os registros de vacinação associados ao usuário. <ul><li> Em "Mais detalhes", o usuário pode selecionar um registro específico para visualizar detalhes, como data, local de aplicação, fabricante, entre outros. </li></ul> </li></ul> </li></ul> </li></ul> </li> |
+| **Fluxo alternativo** | <li> Não há registros de vacinas para o usuário. <ul><li> O sistema exibe uma mensagem informando que não há vacinas registradas. </li></ul> </li> <li> Ocorre uma falha na conexão com o servidor. <ul><li> O sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente mais tarde. </li></ul> </li> |
+| **Fluxo de exceção**  | Não aplicável. |
+| **Pós-condições**     | 1. O usuário visualiza o histórico completo de vacinas (se disponível). <br></br> 2. Nenhuma alteração nos dados do sistema ocorre durante este processo. |
+| **Data de Criação**   | 07/12/2024 |
+| **Rastreabilidade**   | [RF6](../elicitacao/requisitos-elicitados.md/#RF6) |
 
 </center>
 
