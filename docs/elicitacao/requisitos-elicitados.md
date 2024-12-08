@@ -130,6 +130,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF73"></a>RF73 | O aplicativo pode destacar conteúdos pertinentes a um estado para usuários desse estado | [GF06](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF74"></a>RF74 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | [GF07](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF75"></a>RF75 | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19 | [OBS45](tecnicas/observacao.md#OBS45) | Sim |
+| <a id="RF76"></a>RF76 | O aplicativo deve oferece agendamento de consultas e exames| [GF02](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RNF1"></a>RNF1 | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | [OBS45](tecnicas/observacao.md#requisitos-elicitados), [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RNF2"></a>RNF2 | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | [OBS46](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RNF3"></a>RNF3 | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | [OBS47](tecnicas/observacao.md#requisitos-elicitados) | Sim |

@@ -202,28 +202,30 @@ As tabelas abaixo mostram a especificação dos casos de uso.
     <p><strong>Tabela 7 – Agendamentos.</strong></p>
 </div>
 
+
 <center>
 
 | **UC06** | **Informações** |
 | ------- | ------------- |
-| Descrição |  |
-| Ator |  |
-| Pré-condições |  |
-| Ação |  |
-| Fluxo principal |  |
-| Fluxo alternativo |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Data de Criação |  |
-| Rastreabilidade |  |
+| **Descrição** | O paciente pode agendar consultas médicas de forma online pelo sistema Meu SUS Digital. |
+| **Ator** | Paciente |
+| **Pré-condições** | <ul><li> O paciente deve estar autenticado no sistema por meio de login no Gov.br. </li><li> O paciente deve estar conectado à Internet. </li></ul> |
+| **Ação** | O paciente realiza o agendamento de uma consulta médica. |
+| **Fluxo principal** | <ul><li> O paciente acessa o sistema Meu SUS Digital. <ul><li> O paciente seleciona a opção "Agendamentos". <ul><li> O paciente escolhe a especialidade médica desejada. <ul><li> O sistema exibe as datas e horários disponíveis. <ul><li> O paciente seleciona uma data e horário. <ul><li> O sistema confirma o agendamento. </li></ul></li></ul></li></ul></li></ul></li></ul></li></ul> |
+| **Fluxo alternativo** | <ul><li> O paciente acessa o sistema Meu SUS Digital. <ul><li> O paciente seleciona a opção "Agendamentos". <ul><li> O sistema exibe uma lista de consultas disponíveis próximas à localização do paciente. <ul><li> O paciente escolhe uma consulta disponível. <ul><li> O sistema confirma o agendamento. </li></ul></li></ul></li></ul></li></ul></li></ul> |
+| **Fluxo de exceção** | 1. O paciente não encontra horários disponíveis: <ul><li> O sistema informa que não há horários disponíveis para a especialidade escolhida. </li></ul> 2. Falha técnica no sistema: <ul><li> O sistema exibe uma mensagem informando que não foi possível realizar o agendamento no momento. </li></ul> |
+| **Pós-condições** | O agendamento da consulta médica é registrado no sistema e o paciente recebe uma confirmação. |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF02](../elicitacao/requisitos-elicitados.md/#requisitos) |
 
 </center>
 
-<div align="center">
-    <p>Autor: <a href=""></a>.</p>
-</div>
 
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 ---
+
 
 <div align="center">
     <p><strong>Tabela 8 – Exportar Carteira Nacional de Vacinação Digital</strong></p>
@@ -346,5 +348,6 @@ As tabelas abaixo mostram a especificação dos casos de uso.
 | `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.4`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-| `1.5`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.5`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
+| `1.6`  | Atualização da especificação de casos de uso das funcionalidades Agendamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |  |  |
 | `1.6`  | Adicionando UC10 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 |  |  |

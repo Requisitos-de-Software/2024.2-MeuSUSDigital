@@ -34,7 +34,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 
 
-## Cenário 02
+## Cenário 2
 
 <div align="center">
     <p><strong>Tabela 2 – Exportação/Download de Certificado de Vacinação Nacional de Covid-19</strong></p>
@@ -148,7 +148,7 @@ Fonte: [????????](????????).
 
 
 
-## Bibliografia
+## 📚 Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 4 dez. 2024.
 >
@@ -160,6 +160,6 @@ Fonte: [????????](????????).
 
 | Versão  | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----:  | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`   | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |  |  |
-| `1.1`   | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.0`   | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.1`   | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.1`   | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
