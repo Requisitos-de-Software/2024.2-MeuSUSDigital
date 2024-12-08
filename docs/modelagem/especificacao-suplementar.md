@@ -129,4 +129,4 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
