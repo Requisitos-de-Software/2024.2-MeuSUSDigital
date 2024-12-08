@@ -59,7 +59,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF2"></a>RF2 | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas | [OBS2](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RF3"></a>RF3 | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | [OBS3](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RF4"></a>RF4 | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS4](tecnicas/observacao.md#requisitos-elicitados) | Sim |
-| <a id="RF5"></a>RF5 | O aplicativo deve permitir que o usuário exporte/baixe o certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS5](tecnicas/observacao.md#requisitos-elicitados), [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| <a id="RF5"></a>RF5 | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital | [OBS5](tecnicas/observacao.md#requisitos-elicitados), [AD24](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF6"></a>RF6 | O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas | [OBS6](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RF7"></a>RF7 | O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina | [OBS7](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RF8"></a>RF8 | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames | [OBS8](tecnicas/observacao.md#requisitos-elicitados) | Sim |
@@ -129,6 +129,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF72"></a>RF72 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados a patologias que eles venham a ter | [GF05](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF73"></a>RF73 | O aplicativo pode destacar conteúdos pertinentes a um estado para usuários desse estado | [GF06](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF74"></a>RF74 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | [GF07](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| <a id="RF75"></a>RF75 | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19 | [OBS45](tecnicas/observacao.md#OBS45) | Sim |
 | <a id="RNF1"></a>RNF1 | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | [OBS45](tecnicas/observacao.md#requisitos-elicitados), [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RNF2"></a>RNF2 | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | [OBS46](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RNF3"></a>RNF3 | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | [OBS47](tecnicas/observacao.md#requisitos-elicitados) | Sim |
@@ -202,3 +203,5 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | `1.3`  | Adição dos requisitos da Entrevista | [João Pedro](https://github.com/JoosPerro) | 05/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
 | `1.4`  | Adição dos requisitos do Grupo de Foco | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
 | `1.5`  | Inserção das âncoras nos tipos dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
+| `1.6`  | Correção da descrição referente ao requisito de tipo RF5 elicitado e inserção de novo requisito (de tipo RF75) elicitado. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
+
