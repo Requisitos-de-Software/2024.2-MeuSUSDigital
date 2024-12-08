@@ -98,21 +98,21 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 
 | **UC02** | **Informações** |
 | ------- | ------------- |
-| Descrição |  |
-| Ator |  |
-| Pré-condições |  |
-| Ação |  |
-| Fluxo principal |  |
-| Fluxo alternativo |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Data de Criação |  |
-| Rastreabilidade |  |
+| Descrição | O paciente é capaz de visualizar seu histórico de vacinação antes da pandemia (pré 2020) |
+| Ator | Paciente |
+| Pré-condições | <ul><li> O paciente deverá estar conectado à Internet. </li> <li> O paciente deverá ter feito autenticação no sistema. </li></ul> |
+| Ação | O paciente vai acessar seu histórico de vacinação |
+| Fluxo principal |  <ul><li> O paciente acessa o aplicativo. <ul><li> O paciente seleciona a opção "Vacinas" na página inicial. <ul><li> Dentro da aba "Histórico de Vacinas" o  paciente visualiza seu histórico de vacinação. <ul><li> O paciente seleciona a opção "Mais Detalhes". <ul><li> O aplicativo disponibiliza mais detalhes da vacina. </li></ul> </li></ul> </li></ul> </li></ul> </li></ul> |
+| Fluxo alternativo | <ul><li> O paciente acessa o aplicativo. <ul><li> O paciente seleciona a opção "Vacinas" na página inicial. <ul><li> O paciente seleciona "Suas vacinas". <ul><li> O aplicativo exibe o histórico de vacinação completo. </li></ul> </li></ul> </li></ul> </li></ul>  |
+| Fluxo de exceção | 1. O paciente não possui vacinas registradas. <ul><li> O paciente acessa a opção "Vacinas", mas não há registros no sistema. <ul><li> O sistema exibe uma mensagem informando que não há vacinas registradas. </li></ul> </li></ul> 2. Erro na atualização do histórico de vacinação. <ul><li> O sistema não consegue recuperar o histórico de vacinação do paciente devido a uma falha técnica. <ul><li> O sistema exibe uma mensagem informando que o histórico de vacinação não esta disponível no momento. </li></ul> </li></ul>  </li></ul> |
+| Pós-condições | O histórico de vacinação completo é exibido ao paciente |
+| Data de Criação | 08/12/2024 |
+| Rastreabilidade | [RF69](../elicitacao/requisitos-elicitados.md/#requisitos) |
 
 </center>
 
 <div align="center">
-    <p>Autor: <a href=""></a>.</p>
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 ---
@@ -318,6 +318,7 @@ As tabelas de 2 a 5 mostram a especificação dos casos de uso.
 |:------:|:---------:|:---------:|:----------------:|:-----------:|:---------------:|
 | `1.0`  | Criação do Documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
 | `1.1`  | Adição da especificação de casos de uso da funcionalidade relacionada a medicamentos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
-| `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
-| `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
-| `1.4`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
+| `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.4`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.5`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
