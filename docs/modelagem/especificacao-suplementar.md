@@ -1,134 +1,132 @@
 # Especificação Suplementar
 
-
 ## Introdução
-A Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos de um sistema. No contexto do site Meu SUS Digital, ela complementa os casos de uso ao capturar requisitos que não foram identificados por meio desse método. Entre os requisitos capturados estão: requisitos legais e de regulamentação relacionados à saúde pública, padrões de aplicativos utilizados no setor de saúde, atributos de qualidade, confiabilidade, desempenho, suportabilidade, além de outros requisitos como compatibilidade com sistemas e ambientes operacionais, e restrições de design específicas para o ambiente digital do SUS. A metodologia mais amplamente utilizada para a produção de uma especificação suplementar é a FURPS+.
 
-## Finalidade
-A finalidade deste artefato é definir os requisitos do sistema Meu SUS Digital, garantindo que ele atenda às necessidades dos usuários e cumpra as regulamentações do setor de saúde pública no Brasil.
-
-## Escopo
-O objetivo do Meu SUS Digital é proporcionar uma plataforma integrada que facilite o acesso a informações de saúde pelos cidadãos, profissionais da saúde e gestores do SUS. O sistema busca oferecer funcionalidades como consulta de histórico médico, registro de vacinas, resultados de exames e agendamento de serviços, promovendo maior eficiência e acessibilidade no acompanhamento da saúde pública.
-
+A Especificação Suplementar é um documento que detalha requisitos adicionais de um sistema, complementando as informações descritas no Documento de Requisitos. Enquanto o foco principal do Documento de Requisitos está nas funcionalidades que o sistema deve oferecer, a Especificação Suplementar aborda aspectos não funcionais, como desempenho, usabilidade, confiabilidade, suporte e segurança. Além disso, inclui restrições técnicas, padrões a serem seguidos e quaisquer condições específicas que não sejam tratadas diretamente no levantamento inicial de requisitos. Esse documento é essencial para garantir que o sistema atenda às expectativas do cliente e aos padrões necessários para sua operação eficiente.
 
 ## Metodologia
 
-Para a elaboração deste artefato, será utilizada uma versão adaptada do FURPS+, uma metodologia que organiza os requisitos em diferentes categorias: F para Functionality (Funcionalidade), U para Usability (Usabilidade), R para Reliability (Confiabilidade), P para Performance (Desempenho), S para Supportability (Suportabilidade) e o +, que inclui outros requisitos não-funcionais, como requisitos de design, implementação, interface e físicos. No contexto do site Meu SUS Digital, os requisitos de interface e a seção de componentes adquiridos serão omitidos, já que esses aspectos estão detalhados em outros artefatos, como os requisitos não-funcionais identificados por meio de técnicas como Análise de Documetnos, Observação, introspecção, Entrevista e Grupo de Foco. Essa abordagem garante foco nas características mais relevantes para o desenvolvimento do sistema.
+Para a criação deste artefato, foram consideradas funcionalidades ainda não implementadas, identificadas por meio das técnicas de elicitação de requisitos realizadas durante o desenvolvimento do projeto. Essas técnicas permitiram coletar informações essenciais diretamente dos *stakeholders*, garantindo que todos os aspectos importantes para o sistema fossem considerados.
+
+Os requisitos relacionados a cada uma dessas funcionalidades foram organizados e classificados de acordo com o modelo **FURPS+**, que é uma estrutura amplamente utilizada para categorizar requisitos de software. Esse modelo divide os requisitos em cinco categorias principais:
+
+- **Funcionalidade (F)**: requisitos relacionados às funções específicas que o sistema deve realizar.
+- **Usabilidade (U)**: aspectos ligados à experiência do usuário, como interface e facilidade de uso.
+- **Confiabilidade (R)**: atributos que garantem o funcionamento consistente do sistema, como disponibilidade e tolerância a falhas.
+- **Desempenho (P)**: requisitos relacionados à velocidade, capacidade de resposta e eficiência do sistema.
+- **Suportabilidade (S)**: características que facilitam a manutenção, extensibilidade e portabilidade do sistema.  
+
+O "+" no modelo representa fatores adicionais, como requisitos técnicos, restrições de design, padrões e considerações legais. Essa abordagem sistemática permite uma análise abrangente e estruturada dos requisitos, assegurando que o sistema atenda tanto às necessidades funcionais quanto às características de qualidade esperadas.
 
 ## Funcionalidade
 
+Os requisitos funcionais, que foram identificados durante a fase de elicitação, estão detalhados na [Tabela 2](../elicitacao/requisitos-elicitados.md/#requisitos) da seção de [Requisitos Elicitados](../elicitacao/requisitos-elicitados.md). Esta tabela apresenta uma lista de todos os requisitos que foram priorizados.
+
 ## Usabilidade
-Diz respeito ao quão fácil é para o usuário realizar uma tarefa com a aplicação.
 
-Para essa categoria os requisitos identificados estão representados na tabela 1 a seguir.
+Refere-se à facilidade com que o usuário pode executar uma tarefa utilizando o aplicativo.
 
-<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
+<div align="center">
+    <p><strong>Tabela 1 – Requisitos de Usabilidade</strong></p>
+</div>
 
 <center>
 
-| ID    | Descrição                                                                                                                                |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-
+| ID    | Descrição |
+| ----- | --------- |
+| USA01 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas |
+| USA02 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica |
+| USA03 | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [?????? ](?????????).</p></font>
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+
 
 ## Confiabilidade
 
-Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+Refere-se à capacidade do sistema de operar sem falhas, incluindo a frequência com que ocorrem falhas, a eficácia dos mecanismos de recuperação e prevenção, e o intervalo médio entre falhas.
 
-Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
-
-<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
+<div align="center">
+    <p><strong>Tabela 2 – Requisitos de Confiabilidade</strong></p>
+</div>
 
 <center>
 
-| ID    | Descrição                                                                                                                         |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ID    | Descrição |
+| ----- | --------- |
+| CON01 | O aplicativo deve seguir a Lei Geral de Proteção de Dados (LGPD) |
+| CON02 | O aplicativo deve ser acessível 7 dias por semana, 24 horas por dia |
+| CON03 | As informações a respeito dos medicamentos devem estar sempre atualizadas |
 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [?????? ](?????????).</p></font>
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 
 ## Desempenho
 
-Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
+Refere-se aos critérios operacionais necessários para que os requisitos sejam atendidos, incluindo a velocidade de processamento, os limites máximos e mínimos aceitáveis, o tempo de resposta esperado, bem como as restrições relacionadas às interfaces e funcionalidades do sistema.
 
-Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
+<div align="center">
+    <p><strong>Tabela 3 – Requisitos de Desempenho</strong></p>
+</div>
 
-<font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
+<center>
 
-| ID    | Descrição                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------- |
-
+| ID    | Descrição |
+| ----- | --------- |
+| DES01 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos |
+| DES02 | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [?????? ](?????????).</p></font>
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
 
 ## Suportabilidade
 
-Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso inclui requisitos relacionados à facilidade de manutenção, capacidade de ser modificado e atualizado, documentação adequada, facilidade de teste e diagnóstico de problemas.
+Abrange os requisitos associados ao suporte e à manutenção do sistema, incluindo aspectos como facilidade de manutenção, possibilidade de modificações e atualizações, documentação completa, além de recursos que promovam a realização de testes e o diagnóstico de problemas de forma eficiente.
 
-Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
+<div align="center">
+    <p><strong>Tabela 4 – Requisitos de Suportabilidade</strong></p>
+</div>
 
-<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+<center>
 
-| ID    |Descrição                                                                      |
-| ----- | ----------------------------------------------------------------------------- |
+| ID    | Descrição |
+| ----- | --------- |
+| SUP01 | Deve possuir um canal de suporte ao usuário |
+| SUP02 | O aplicativo deve ser disponibilizado nas lojas oficiais dos dispositivos móveis |
+| SUP03 | Deve existir responsividade para celulares e tablets |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [?????? ](?????????).</p></font>
-
-
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 
 ## Restrições de Design
 
-O design do sistema deve adotar as melhores práticas amplamente utilizadas na indústria atualmente, incluindo padrões de interface para dispositivos móveis iOS e Android, arquitetura limpa, uso de microserviços e abordagem de componentização. Além disso, as cores escolhidas devem garantir acessibilidade para pessoas com limitações visuais, como daltonismo, permitindo a distinção clara dos elementos, sem comprometer a identidade visual da marca.
 
 
-## Requisitos de Implementação
+## 📚 Bibliografia
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 4 dez. 2024. 
 
+## 📑 Histórico de Versões
 
-## Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
-
-Para essa categoria os requisitos identificados estão representados na tabela 5 a seguir.
-
-<font><p style="text-align: center">**Tabela 5** - Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line.</p></font>
-
-<center>
-
-| ID    | Descrição                                                                                                                                            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [?????? ](?????????).</p></font>
-
-
-## Requisitos de Licenciamento
-
-O sistema deve restringir o uso através de termos de uso.
-
-
-
-
-
-## Bibliografia
-
-
-
-
-
-
-## 📑 Histórico de Versão
-
- Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   |  |  |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
+| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |

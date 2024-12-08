@@ -9,8 +9,11 @@ O Léxico é uma técnica que, por meio da descrição de termos, busca detalhar
 
 Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL)¹, com os conceitos detalhados na Tabela 1. O modelo utilizado pode ser consultado na Tabela 2.
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Léxicos do tipo LAL</p></font>
+<div align="center">
+    <p><strong>Tabela 1 – Léxicos do tipo LAL</strong></p>
+</div>
+
+<center>
 
 | Tipo do símbolo | Noção | Impacto |
 | ----------------- | ------- | ------- |
@@ -19,13 +22,19 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 
-<font size="3"><p style="text-align: center">Fonte: SERRANO, Maurício e SERRANO, Milene<a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+</center>
 
-</figure>
+<div align="center">
+    <p>Fonte: SERRANO, Maurício e SERRANO, Milene<a id="anchor_1" href="#REF1"><sup>1</sup></a>.</p>
+</div>
 
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos</p></font>
+
+<div align="center">
+    <p><strong>Tabela 2 – Template Léxicos</strong></p>
+</div>
+
+<center>
 
 | ID | Descrição |
 | ----------------- | ------- |
@@ -34,8 +43,35 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | Noção | Símbolo |
 | Dicionário | Sinônimos |
 
-<font size="3"><p style="text-align: center">Autor: [Pedro Lopes](https://github.com/pLopess).</p></font>
-</figure>
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+## Léxicos
+
+### L01: Histórico de Vacinação
+
+<div align="center">
+    <p><strong>Tabela 1 – Léxicos do tipo LAL</strong></p>
+</div>
+
+<center>
+
+| **L01**              | **Descrição**                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------|
+| **Classificação**   | Objeto                                                                                            |
+| **Impacto**         | Ajuda o usuário a manter o controle sobre sua saúde, evitando doses duplicadas ou esquecimentos.   |
+| **Noção**           | Registro sistemático das vacinas recebidas pelo paciente.                                          |
+| **Dicionário**      | Vacina, Data, Local de vacinação, Lote, Fabricante, Dose. 
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 
 ## Bibliografia
