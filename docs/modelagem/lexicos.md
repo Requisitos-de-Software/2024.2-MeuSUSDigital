@@ -148,7 +148,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 ### L05: Receita Médica
 
 <div align="center">
-    <p><strong>Tabela 5 – Receita Médica/strong></p>
+    <p><strong>Tabela 5 – Receita Médica</strong></p>
 </div>
 
 <center>
