@@ -51,6 +51,19 @@ A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_
   Autores: Todos
 </center>
 
+
+## Gravação da Inspeção do Grupo 5
+</center>
+
+<center>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbvZlsSixCM?si=FWJP4H5jncavabrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+_Autor: Pedro Lopes_
+
+
+## 📑 Histórico de Versão
+
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [João Pedro](https://github.com/JoosPerro) | 09/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 |
