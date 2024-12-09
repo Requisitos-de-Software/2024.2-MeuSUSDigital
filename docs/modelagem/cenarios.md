@@ -217,6 +217,29 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 </div>
 
 
+## Cenário 8
+<div align="center">
+<p><strong>Tabela 8 – Visualizar Histórico de Vacinas</strong></p>
+</div>
+
+| **Campo** | **Descrição** |
+| --------- | ------------- |
+| **Título**          | Acessar conteúdo filtrado com falha no acesso à localização |
+| **Atores**          | Paulo |
+| **Objetivo**        | Paulo deseja se informar sobre doenças respiratórias em sua região |
+| **Contexto**        | Paulo vive na região sul do Brasil, é professor e quer saber mais sobre prevenção de doenças respiratórias, principalmente pela proximidade do inverno. Ele se informar sobre algum possível surto em sua região e conscientizar seu alunos sobre o assunto. |
+| **Recursos**        | Paulo possui um computador com navegador web moderno e atualizado, além de acesso à internet via Wi-Fi. |
+| **Episódios**       | <ul> <li>Paulo entra com o gov.br no site do Meu SUS Digital. Um pop-up pedindo acesso à sua localização surge. Ele inicialmente nega, pois pensa ser desnecessário que o Meu SUS Digital tenha acesso à sua localização</li> <li>O sistema exibe a tela "Início". Mas uma caixa de diálogo sobre autodeclaração aparece logo em seguida. Paulo fica um pouco impaciente com isso, pois ela aparece sempre há um redirecionamento para a tela "Início"</li> <li>Paulo clica fora da caixa de diálogo para que ela suma, tornando a tela "Início" totalmente visível</li> <li>Paulo clica em "Conteúdos".  Há algum tempo ele já havia dado uma olhada nessa seção do site e ficou interessado desde então</li> <li>O site apresenta o conteúdo logo abaixo da barra de pesquisa e alguns filtros. Paulo escolhe filtrar o conteúdo pertinente para sua região</li> <li>O site informa que é necessário habilidar o acesso à localização, e dessa vez Paulo permite</li> <li>Adicionalmente, ele também ativa o filtro "Doenças", com a intenção de ver assuntos mais recentes relacionados a doenças em sua região</li> <li>O sistema apresenta o conteúdo filtrado, a partir do conteúdo mais recente, mas nenhum dos conteúdos estava relacionado à doenças respiratórias contagiosas, como Paulo desejava encontrar</li> <li>Paulo então fecha o site e procura pelo assunto em outros sites pela internet</li> </ul> |
+| **Exceções**        | <ul> <li>Serviço de localização está indisponível</li> </ul> |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF72](../elicitacao/requisitos-elicitados.md/#RF72) |
+
+<div align="center">
+<p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
+---
+
 
 ## 📚 Bibliografia
 
