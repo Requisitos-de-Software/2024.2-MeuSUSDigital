@@ -130,11 +130,99 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 ## Cenário 5
 
+<div align="center">
+    <p><strong>Tabela 5 – Consultar receitas médicas</strong></p>
+</div>
+
+<center>
+
+| **Campo**           | **Descrição**     |
+| ------------------- | ----------------- |
+| **Título**          | Consultar receitas médicas |
+| **Objetivo**        | Permitir que o paciente consulte o histórico completo de suas receitas médicas no aplicativo. |
+| **Contexto**        | O paciente deseja verificar informações sobre receitas médicas prescritas, como identificação do profissional de saúde, data da prescrição, nome do(s) medicamento(s), dosagem, posologia e duração do tratamento. |
+| **Atores**          | Usuário (paciente cadastrado no aplicativo). |
+| **Recursos**        | Smartphone, aplicativo instalado e conta Gov.br autenticada. |
+| **Episódios**       | <ul><li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Consultas". </li></ul> <ul><li> O sistema exibe as opções disponíveis, incluindo "Receitas médicas". </li></ul> <ul><li> O paciente seleciona "Receitas médicas". </li></ul> <ul><li> O sistema exibe a lista de receitas médicas. </li></ul> <ul><li> O paciente pode selecionar um registro específico para ver detalhes, como nome do(s) medicamento(s), dosagem e posologia. </li></ul> |
+| **Exceções**        | <ul><li> Não há registros de receitas médicas associadas ao paciente. </li></ul> <ul><li> Falha na conexão impede o carregamento do histórico. </li></ul> |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF71](../elicitacao/requisitos-elicitados.md/#RF71) |
+
+</center>
+
 ---
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+
+
+## Cenário 6
+
+<div align="center">
+    <p><strong>Tabela 6 – Fazer pedido de medicamento</strong></p>
+</div>
+
+<center>
+
+| **Campo**           | **Descrição**     |
+| ------------------- | ----------------- |
+| **Título**          | Fazer pedido de medicamento |
+| **Objetivo**        | Permitir que o paciente faça o pedido do medicamento prescrito pelo aplicativo. |
+| **Contexto**        | O paciente deseja verificar informações sobre o pedido de medicamento, como o estado do processamento do pedido, por exemplo, "Em processamento", "A caminho" ou "Entregue". |
+| **Atores**          | Usuário (paciente cadastrado no aplicativo). |
+| **Recursos**        | Smartphone, aplicativo instalado e conta Gov.br autenticada. |
+| **Episódios**       | <ul><li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Consultas". </li><li> O sistema exibe as opções disponíveis, incluindo "Acompanhar pedidos". </li><li> O usuário seleciona "Acompanhar pedidos". </li><li> O sistema exibe a lista de pedidos realizados, com detalhes como data, horário, medicamentos e estado do pedido. </li><li> O usuário pode selecionar um pedido específico para ver mais informações. </li></ul> |
+| **Exceções**        | <ul><li> Não há registros de pedidos feitos pelo paciente. </li></ul> <ul><li> Falha na conexão impede a finalização do pedido. </li></ul> |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF67](../elicitacao/requisitos-elicitados.md/#RF67) |
+
+</center>
+
+---
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+
+
+## Cenário 7
+
+<div align="center">
+    <p><strong>Tabela 7 – Consultar pedido de medicamento</strong></p>
+</div>
+
+<center>
+
+| **Campo**           | **Descrição**     |
+| ------------------- | ----------------- |
+| **Título**          | Consultar pedido de medicamento |
+| **Objetivo**        | Permitir que o paciente consulte o estado de um pedido do medicamento feito pelo aplicativo. |
+| **Contexto**        | O paciente deseja pedir um medicamento pelo aplicativo para que ele possa retirar na farmácia de sua escolha ou receber em domicílio. |
+| **Atores**          | Usuário (paciente cadastrado no aplicativo). |
+| **Recursos**        | Smartphone, aplicativo instalado e conta Gov.br autenticada. |
+| **Episódios**       | <ul><li> O usuário acessa o menu principal do aplicativo e seleciona a opção "Pedidos". </li></ul> <ul><li> O sistema exibe as opções disponíveis, incluindo "Receitas médicas". </li></ul> <ul><li> O paciente seleciona "Receitas médicas". </li></ul> <ul><li> O sistema exibe a lista de receitas médicas. </li></ul> <ul><li> O paciente pode selecionar uma receita médica e escolher os remédios que ele deseja. Por padrão os medicamentos estarão todos marcados, mas o paciente poderá desmarcar os que ele não deseja. </li></ul> <ul><li> O paciente confirma o pedido, que será analisado pela farmácia. </li></ul> |
+| **Exceções**        | <ul><li> Não há registros de receitas médicas associadas ao paciente. </li></ul> <ul><li> Falha na conexão impede a finalização do pedido. </li></ul> <ul><li> A farmácia não possui o medicamento. </li></ul> |
+| **Data de Criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF62](../elicitacao/requisitos-elicitados.md/#RF62) |
+
+</center>
+
+---
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+
 
 ## 📚 Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 4 dez. 2024.
+>
+> SILVA, Lyrene Fernandes da; LEITE, Julio Cesar Sampaio do Prado; BREITMAN, Karin Koogan. C&L: uma ferramenta de apoio à engenharia de requisitos. PUC-Rio, Departamento de Informática. MCC25/04, Julho de 2004. Disponível em: [https://www.dbd.puc-rio.br/depto_informatica/04_25_silva.pdf](https://www.dbd.puc-rio.br/depto_informatica/04_25_silva.pdf). Acesso em: 7 dez. 2024.
 >
 > CAMPELLO, Gabriel; ALVES, Douglas. Cenários. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/). Acesso em: 4 dez. 2024.
 
@@ -148,7 +236,8 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 | `1.1`  | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.2`  | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
 | `1.3`  | Criação do cenário 4. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
-| `1.4`  | coreção de historico de versão | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.4`  | Coreção de historico de versão | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.5'  | Criação dos cenários 5, 6 e 7. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 |  |  |
 
 
 
