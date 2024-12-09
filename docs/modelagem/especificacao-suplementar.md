@@ -117,7 +117,7 @@ Abrange os requisitos associados ao suporte e à manutenção do sistema, inclui
 </center>
 
 <div align="center">
-    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+    <p>Autores: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
 
@@ -164,6 +164,6 @@ Abrange os requisitos e limitações que influenciam o design do sistema, garant
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 02/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.1`  | Adição de requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-| `1.2`  | Adição de especificações. | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
-| `1.3`  | Adição de especificações. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |  |  |
+| `1.2`  | Adição de especificações. | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.3`  | Adição de especificações. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 
