@@ -278,7 +278,7 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
 ---
 
 <div align="center">
-    <p><strong>Tabela 11 – Filtrar Notificações</strong></p>
+    <p><strong>Tabela 10 – Filtrar Notificações</strong></p>
 </div>
 
 <center>

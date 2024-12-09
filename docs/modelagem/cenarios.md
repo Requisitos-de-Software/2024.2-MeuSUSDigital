@@ -252,6 +252,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 
 ## 📑 Histórico de Versões
+Amazon Q collects a
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
