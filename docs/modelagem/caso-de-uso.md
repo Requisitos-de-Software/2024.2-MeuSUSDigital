@@ -51,6 +51,8 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
 
 </center>
 
+
+<center>
 <div align="center">
     <p>Autor: 
         <a href="https://github.com/pLopess">Pedro Lopes</a>, 
@@ -61,6 +63,7 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
     </p>
 </div>
 
+</center>
 
 
 
