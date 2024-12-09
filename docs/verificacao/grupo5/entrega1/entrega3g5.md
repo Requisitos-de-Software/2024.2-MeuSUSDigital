@@ -52,3 +52,20 @@ A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_
 Autores: [Pedro Lopes](https://github.com/pLopess), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e André Barros
 
 </center>
+
+<center>
+## Gravação da Inspeção do Grupo 5
+</center>
+
+<center>
+  
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+_Autor: ?_
+
+</center>
+
+## 📑 Histórico de Versão
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 |  |  |
