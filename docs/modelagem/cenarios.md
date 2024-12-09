@@ -260,7 +260,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 | `1.2`  | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
 | `1.3`  | Criação do cenário 4. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.4`  | Coreção de historico de versão | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
-| `1.5'  | Criação dos cenários 5, 6 e 7. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 |  |  |
+| `1.5`  | Criação dos cenários 5, 6 e 7. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 |  |  |
 
 
 
