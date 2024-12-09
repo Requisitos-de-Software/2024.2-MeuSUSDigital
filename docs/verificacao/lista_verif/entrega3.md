@@ -126,4 +126,4 @@ Fonte: <a id="REFBIB1" href="#anchor_refbib1">Interação Humano-Computador e Ex
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento  | [João Pedro](https://github.com/JoosPerro) | 06/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.1`  | Correções e adição de *hyperlinks*  | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
-| `1.2`  | Correções | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |  |  |
+| `1.2`  | Correções | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 |
