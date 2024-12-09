@@ -145,12 +145,38 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 ---
 
+### L05: Receita Médica
+
+<div align="center">
+    <p><strong>Tabela 5 – Receita Médica/strong></p>
+</div>
+
+<center>
+
+| **L05**           | **Descrição** |
+| ----------------- | ------------- |
+| **Classificação** | Objeto                                                                                            |
+| **Impacto**       | Serve como documento oficial para comprovação de consulta médica. Pode ter sua autenticidade validade através da assinatura digital ou carimbo do profissional de saúde. |
+| **Noção**         | Documento digital que contém informações básicas do cidadão (como nome, CPF e endereço), junto de informações da receita (como nome do(s) medicamento(s), dosagem e posologia) e do profissional de saúde que a prescreveu. |
+| **Dicionário**    | Receita médica, medicamento, dosagem, posologia. |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+---
+
+
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>>. Acesso em: 08 de dezembro de 2024.
 > 
-> Bilheteria Digital - Léxicos. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 08 de dezembro de 2024
->
+> Bilheteria Digital - Léxicos. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 08 de dezembro de 2024.
+> 
+> SILVA, Lyrene Fernandes da; LEITE, Julio Cesar Sampaio do Prado; BREITMAN, Karin Koogan. C&L: uma ferramenta de apoio à engenharia de requisitos. PUC-Rio, Departamento de Informática. MCC25/04, Julho de 2004. Disponível em: [https://www.dbd.puc-rio.br/depto_informatica/04_25_silva.pdf](https://www.dbd.puc-rio.br/depto_informatica/04_25_silva.pdf). Acesso em: 7 dez. 2024.
 
 ## 📑 Histórico de Versões
 
@@ -161,4 +187,5 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | `1.2`  | Adicionando Léxico 2 | [João Pedro](https://github.com/JoosPerro) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.4`  | Adição do Léxico 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
+| `1.5`  | Adição do Léxico 5. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 |  |  |
 
