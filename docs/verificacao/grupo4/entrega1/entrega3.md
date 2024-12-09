@@ -1,4 +1,22 @@
-**Tabela 1** - Lista de Verificação.
+# Autoavaliação do Grupo 4
+
+## Introdução
+
+Conforme planejado, o Grupo 4 deve inspecionar os artefatos que produziu, visando a correção futura de artefatos que não atendem aos seus requisitos especificados.
+
+## Objetivos
+
+O objetivo deste documento é relatar os resultados da autoavaliação da 3ª etapa do projeto do [Grupo 4](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/), em forma de inspeção. Será verificado se os artefatos produzidos nesta segunda etapa cumprem com as condições e padrões exigidos. É importante citar que essa verificação não tem como intuito diminuir os membros responsáveis por cada artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
+
+## Inspeção
+
+A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_verif/entrega3.md) produzida com a ajuda do professor e dos integrantes do grupo.
+
+### Tabela 1 ─ Resultado da Inspeção de Modelagem.
+
+<center> 
+
+**Tabela 1** – Resultados da Verificação de Modelagem: Cenários, Léxico, Caso de Uso e Especificação Suplementar
 
 |        ID        | Descrição                                                                                                                                                                  | Avaliação   | Autor            | Data e Hora         |
 | :--------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | ----------------- | ------------------- |
@@ -29,3 +47,10 @@
 |       P3         |  Estão anotadas, junto às extensões, as observações que descrevem as condições para que elas ocorram? | Sim | Emivalto Junior      | 12/08/2024 23:50       |
 |       P4         |  O cenário descreve uma situação concreta de uso do sistema? | Sim | Artur Ricardo      | 12/08/2024 23:50       |
 |       P5         |      Cada símbolo é caracterizado por um, e apenas um, dos seguintes tipos: sujeito, verbo, objeto ou estado?         | Sim | Matheus Henrick      | 12/08/2024 23:50       |
+
+  Autores: Todos
+</center>
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento. | [João Pedro](https://github.com/JoosPerro) | 09/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 |
