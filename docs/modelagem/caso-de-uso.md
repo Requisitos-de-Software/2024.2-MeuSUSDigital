@@ -52,8 +52,17 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
 </center>
 
 <div align="center">
-    <p>Autor: <a href=""></a>[Pedro Lopes](https://github.com/pLopess), [Artur Ricardo](https://github.com/algorithmorphic), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos), [Emivalto Júnior](https://github.com/EmivaltoJrr)</p>
+    <p>Autor: 
+        <a href="https://github.com/pLopess">Pedro Lopes</a>, 
+        <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, 
+        <a href="https://github.com/JoosPerro">João Pedro</a>, 
+        <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>, 
+        <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>
+    </p>
 </div>
+
+
+
 
 
 
