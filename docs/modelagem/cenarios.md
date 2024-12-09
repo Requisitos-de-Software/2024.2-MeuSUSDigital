@@ -3,7 +3,7 @@
 ## Introdução 
 
 
-Os cenários são descrições detalhadas, geralmente em linguagem natural, que ilustram situações ou eventos envolvendo determinados atores. No contexto do site Meu SUS Digital, eles são úteis para analisar como os usuários interagem com a plataforma e como ela responde a diferentes situações. Esses cenários ajudam a compreender o funcionamento do sistema, seus comportamentos e fluxos em diversas situações práticas. As interações e funcionalidades analisadas estão organizadas nas tabelas de 1 a 5.
+Os cenários são descrições detalhadas, geralmente em linguagem natural, que ilustram situações ou eventos envolvendo determinados atores. No contexto do site Meu SUS Digital, eles são úteis para analisar como os usuários interagem com a plataforma e como ela responde a diferentes situações. Esses cenários ajudam a compreender o funcionamento do sistema, seus comportamentos e fluxos em diversas situações práticas. As interações e funcionalidades analisadas estão organizadas nas tabelas de 1 a 8.
 
 
 ## Cenário 1
