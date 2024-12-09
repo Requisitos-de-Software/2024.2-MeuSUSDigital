@@ -49,7 +49,7 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 |       P4         |  O cenário descreve uma situação concreta de uso do sistema? | - | Artur Ricardo      |  -  |
 |       P5         |      Cada símbolo é caracterizado por um, e apenas um, dos seguintes tipos: sujeito, verbo, objeto ou estado?         | - | Matheus Henrick      | -     |
 
-
+Autores: [Pedro Lopes](https://github.com/pLopess), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e André Barros
 
 </center>
 
