@@ -56,7 +56,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 ### L01: Histórico de Vacinação
 
 <div align="center">
-    <p><strong>Tabela 1 – Léxicos do tipo LAL</strong></p>
+    <p><strong>Tabela 1 – Histórico de Vacinação</strong></p>
 </div>
 
 <center>
@@ -76,10 +76,10 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 ---
 
-### L02: Carteira Nacional de Vacinação
+### L02: Carteira Nacional de Vacinação Digital
 
 <div align="center">
-    <p><strong>Tabela 2 – Carteira Nacional de Vacinação</strong></p>
+    <p><strong>Tabela 2 – Carteira Nacional de Vacinação Digital</strong></p>
 </div>
 
 <center>
@@ -87,9 +87,9 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | **L02**              | **Descrição**                                                                                      |
 |----------------------|----------------------------------------------------------------------------------------------------|
 | **Classificação**   | Objeto                                                                                            |
-| **Impacto**         | Serve como documento oficial, confirmando vacinações. Pode ter sua autenticidade validade através de QR Code ou código alfanumérico. Necessida de identificação de cidadão para ser gerada. É contruída com base nos dados de vacinação contidos no RNDS |
+| **Impacto**         | Serve como documento oficial, confirmando vacinações. Pode ter sua autenticidade <u>validada por QR Code</u> ou código alfanumérico. É gerada a partir de dados de vacinação contidos no <u>RNDS</u>. Se omite alguma vacina, precisa ser atualizada levando a caderneta física do paciente a um profissional da saúde em uma <u>Unidade Básica de Saúde</u> |
 | **Noção**           | Documento digital que contém informações básicas do cidadão (como nome, data de nascimento, CPF, nome da mãe, nacionalidade e sexo), junto de informações de vacinação. A seção de vacinação Covid-19 é destacada das demais. Apresenta data e hora da sua emissão |
-| **Dicionário**      | ─ |
+| **Dicionário**      | *Sinônimos*: Certidão Nacional de Vacinação. *Termos relacionados*: Valida QRCode, Valida Certidão, RNDS, Exportar documento, Padrão do Documento, Cartilha de Vacinas |
 
 </center>
 
