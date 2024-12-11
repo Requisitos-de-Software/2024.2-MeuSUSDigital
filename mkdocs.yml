@@ -61,6 +61,10 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Caso de Uso: modelagem/caso-de-uso.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
+  - Modelagem ─ Ágil:
+    - Histórias de Usuário: modelagem-agil/historias-de-usuario.md
+    - NFR Framework: modelagem-agil/nfr-framework.md
+    - Backlog: modelagem-agil/backlog.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
