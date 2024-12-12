@@ -38,15 +38,15 @@
 |--------|-------------|-------|
 | Adicionar gravação da apresentação da entrega passada na página de apresentação | Emivalto | 11/12/2024 |
 | Criar arquivo e estrutura do cronograma | Artur | 11/12/2024 |
-| Criar pelo menos um item para a lista de verificação desta entrega | Todos | 12/12/24 |
+| Criar pelo menos um item para a lista de verificação desta entrega | Todos | 12/12/2024 |
 | **História de Usuário**: Definir modelo, estrutura e padrões do artefato, incluindo os seguintes padrões: <ul> <li>Connextra, para declaração ("Como um <tipo de usuário\>, desejo <fazer algo\> para <algum resultado ou benefício\>)"</li> <li>"Given/When/Then" ou checklist (um dos dois), para critérios de aceitação</li> <li>INVEST, para verificação</li> </ul> | Matheus | 12/12/2024 |
 | **NFR Framework**: definir modelo, estrutura e padrões do artefato. | João Pedro e Artur | 12/12/2024 |
 | **Backlog**: definir modelo, estrutura e padrões do artefato. | Emivalto e Pedro | 12/12/2024 |
 | Apresentar figura(s) e referência(s) para cada conceito/modelo do seu artefato | Todos | 12/12/2024 |
 | Criar pelo menos um elemento em cada artefato | Todos | 13/12/2024 |
-| Validar suas Histórias de Usuário com pelo menos um usuário | Todos | 13/12/24 |
+| Validar suas Histórias de Usuário com pelo menos um usuário | Todos | 13/12/2024 |
 | Revisar e padronizar, no seu artefato, os elementos dos outros colegas | Todos | 14/12/2024 |
-| Preencher, no cronograma de execução, os campos de cada atividade que finalizar | Todos | 14/12/24 |
+| Preencher, no cronograma de execução, os campos de cada atividade que finalizar | Todos | 14/12/2024 |
 
 <center>
 
@@ -74,4 +74,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 10/11/2024 |  |  |
+|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 10/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 12/12/2024 |
