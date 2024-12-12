@@ -74,4 +74,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 10/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 12/12/2024 |
+|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 10/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 12/12/2024 |

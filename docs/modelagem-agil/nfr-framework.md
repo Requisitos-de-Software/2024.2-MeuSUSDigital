@@ -8,7 +8,7 @@ Segundo <a id="anchor_1" href="#REF1">()</a>, o papel do NFR Framework é prover
 
 Outro aspecto do Framework é sua abordagem qualitativa. Essa escolha se deve pela percepção do autor sobre da criticidade e complexidade das técnicas qualitativas. Essas duas características, orientação a processo e abordagem qualitativa, são consideradas bastante adequadas para os primeiros estágios da Análise de Requisitos. Por outro lado, uma abordagem complementar, orientada à produto e quantitativa, mostra-se eficaz na Definição de Requisitos, quando as ideias sobre a solução já são mais sólidas e mensuráveis.
 
---------------contiuar na página 4-------------------
+--------------continuar na página 4-------------------
 
 As atividades consideradas no NFR Framework incluem:
 
