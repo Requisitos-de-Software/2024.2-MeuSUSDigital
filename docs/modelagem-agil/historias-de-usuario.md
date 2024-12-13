@@ -8,13 +8,13 @@
 
 A metodologia adotada para a elaboração deste documento foi baseada na divisão colaborativa do trabalho entre os membros da equipe, de forma a assegurar o equilíbrio entre eficiência no desenvolvimento e o aprendizado individual de cada integrante.
 
-**Divisão de Requisitos**
+**Divisão de Requisitos**  
 Os requisitos funcionais foram distribuídos entre os integrantes da equipe, com cada membro sendo responsável por desenvolver dez histórias de usuário. Esse modelo permitiu distribuir a carga de trabalho equitativamente e promover um entendimento mais profundo de diferentes aspectos do sistema por parte de cada integrante.
 
-**Definição de Critérios de Aceitação**
+**Definição de Critérios de Aceitação**  
 Como forma de assegurar a qualidade das histórias de usuário sem comprometer o ritmo de trabalho, foi estipulado que ao menos cinco critérios de aceitação fossem definidos por integrante. Essa flexibilização visa atender ao cronograma de desenvolvimento enquanto mantém um padrão mínimo de detalhamento e clareza nas histórias de usuário.
 
-**Documentação das Histórias de Usuário**
+**Documentação das Histórias de Usuário**  
 As histórias de usuário foram documentadas no formato:
 
 <center>
@@ -50,7 +50,7 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 </div>
 
 
-### US0n - 
+### USn - 
 
 
 
