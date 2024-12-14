@@ -24,7 +24,7 @@ As histórias de usuário foram documentadas no formato:
 | Declaração | Eu, *como* (tipo de usuário), *desejo* (ação) *para* (objetivo/benefício) |
 | Critério de Aceitação | *Dado que* (contexto ou lista de condições (em html)), *Quando* (evento/ação/gatilho), *Então* (resultado esperado) |
 | Prioridade | (Muito Alta, Alta, Média, Baixa) |
-| Rastreabilidade | [RFXX]() |
+| Rastreabilidade | [RFn]() |
 
 </center>
 
@@ -85,5 +85,5 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | - | - |
-| `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 |  |  |
+| `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
+| `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
