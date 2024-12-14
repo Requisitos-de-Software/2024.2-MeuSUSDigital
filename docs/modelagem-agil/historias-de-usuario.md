@@ -58,7 +58,7 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 </div>
 
 
-### US01 - xxx
+### US01 - Exportação de Resultado de Exame
 
 <details>
   <summary>Tabela 3 - História de Usuário Exportação de Resultado de Exame
