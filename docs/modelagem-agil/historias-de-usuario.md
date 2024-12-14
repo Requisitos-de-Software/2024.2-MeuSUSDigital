@@ -61,25 +61,41 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 ### US01 - xxx
 
 <details>
-  <summary>Tabela 3 - História de Usuário </summary>
+  <summary>Tabela 3 - História de Usuário Exportação de Resultado de Exame
+Declaração</summary>
 
-  <p align="center"><strong>Tabela 3 – História de Usuário </strong></p>
+  <p align="center"><strong>Tabela 3 – História de Usuário Exportação de Resultado de Exame
+Declaração</strong></p>
 
   <table>
     <thead>
       <tr>
-        <th><em>USn</em></th>
-        <th><em>Título</em></th>
+        <th><em>US1</em></th>
+        <th><em>Exportação de Resultado de Exame
+Declaração</em></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>Declaração</td>
-        <td>Eu, <em>como</em> (tipo de usuário), <em>desejo</em> (ação) <em>para</em> (objetivo/benefício)</td>
+        <td>Eu, como usuário do aplicativo, desejo exportar/download do documento contendo o resultado e informações de cada exame laboratorial realizado para guardar ou compartilhar com outros profissionais de saúde.</td>
       </tr>
       <tr>
         <td>Critério de Aceitação</td>
-        <td><em>Dado que</em> (contexto ou lista de condições (em html)), <em>Quando</em> (evento/ação/gatilho), <em>Então</em> (resultado esperado)</td>
+        <td>
+  <ul>
+    <li><strong>Dado que</strong> o usuário tenha acessado os detalhes de um exame laboratorial,</li>
+    <li><strong>Quando</strong> o usuário clicar no botão "Exportar" ou "Fazer Download",</li>
+    <li><strong>Então</strong> o aplicativo deve:
+      <ul>
+        <li>Gerar o documento no formato PDF,</li>
+        <li>Iniciar o download automaticamente no dispositivo do usuário,</li>
+        <li>Exibir uma mensagem de confirmação de sucesso.</li>
+      </ul>
+    </li>
+  </ul>
+</td>
+
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -87,7 +103,7 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="#">RFXX</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/">RF11</a></td>
       </tr>
     </tbody>
   </table>
@@ -113,3 +129,4 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 | `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
 | `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
 | `1.2` | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  |  |
+| `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  |  |
