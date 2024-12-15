@@ -154,6 +154,6 @@ Declaração</em></th>
 | `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
 | `1.2` | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
-| `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
-| `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
+| `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
