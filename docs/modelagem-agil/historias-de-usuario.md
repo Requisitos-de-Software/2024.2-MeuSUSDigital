@@ -26,10 +26,10 @@ Na **Tabela 1**, podemos identificar a legenda para cada uma das siglas utilizad
 
 <center>
 
-| Tipo | Descrição                   |
-| :--: | --------------------------- |
-| HUn  | n-ésima História de Usuário |
-| RFn  | n-ésimo Requisito Funcional |
+| Sigla | Descrição                   |
+| :---: | --------------------------- |
+| HUn   | n-ésima História de Usuário |
+| RFn   | n-ésimo Requisito Funcional |
 
 </center>
 
