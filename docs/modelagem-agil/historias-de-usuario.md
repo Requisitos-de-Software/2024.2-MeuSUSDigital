@@ -275,7 +275,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | **Declaração**            | Eu, como usuário do aplicativo, desejo exportar/download do documento contendo o resultado e informações de cada exame laboratorial realizado para guardar ou compartilhar com outros profissionais de saúde. |
     | **Critério de Aceitação** | <ul> <li>Dado que o usuário tenha acessado os detalhes de um exame laboratorial</li> <li>E o documento com o resultado e informações do exame esteja disponível</li> <li>Quando o usuário clicar no botão "Exportar" ou "Fazer Download"</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF,</li> <li>Iniciar o download automaticamente no dispositivo do usuário,</li> <li>Exibir uma mensagem de confirmação de sucesso.</li> </ul> </li> </ul> |
     | **Prioridade**            | Alta |
-    | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
+    | **Rastreabilidade**       | [RF11](../elicitacao/requisitos-elicitados.md#RF11) |
 
     <div align="center">
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
