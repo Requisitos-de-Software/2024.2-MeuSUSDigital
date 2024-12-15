@@ -118,7 +118,25 @@ Declaração</em></th>
 
 </details>
 
+---
 
+### HU1 - Login via Gov.br
+
+??? note "Tabela 1 - História de Usuário referente ao login via Gov.br"
+    <div align="center">
+        <p><strong>Tabela 1 – História de Usuário referente ao login via Gov.br</strong></p>
+    </div>
+
+    | **HU1**                   | Login via Gov.br |
+    | ------------------------- | ---------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar login por meio de uma conta Gov.br _para_ acessar meus dados no aplicativo. |
+    | **Critério de Aceitação** | _Dado que_ o paciente possui uma conta Gov.br, _quando_ acessar a página de login pelo aplicativo, _então_ será possível autenticar-se usando as credenciais Gov.br. |
+    | **Prioridade**            | Muito Alta |
+    | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
 
 
 
@@ -138,3 +156,4 @@ Declaração</em></th>
 | `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
 | `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
+| `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
