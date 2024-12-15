@@ -449,6 +449,188 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 
 
+### HU22 - Informativa a Respeito da Seção de Rede de Saúde 
+
+??? note "Tabela 24 - informativa a respeito da seção de Rede de Saúde  "
+    <div align="center">
+        <p><strong>Tabela 24 – História de Usuário referente à informativa a respeito da seção de Rede de Saúde  </strong></p>
+    </div>
+
+    | **HU22**               | informativa a respeito da seção de Rede de Saúde     |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Rede de Saúde para entender melhor suas funções. |
+    | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Rede de Saúde,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul> |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+
+### HU23 - Permissão Para Acessar Minha Localização
+
+??? note "Tabela 25 - Permissão para acessar minha localização "
+    <div align="center">
+        <p><strong>Tabela 25 – História de Usuário referente à permissão para acessar minha localização </strong></p>
+    </div>
+
+    | **HU23**               | Permissão para acessar minha localização |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo que o aplicativo peça permissão para acessar minha localização para garantir segurança e privacidade. |
+    | **Critério de Aceitação** | <ul><li>Dado que o aplicativo precise acessar a localização,</li><li>Quando o usuário abrir o app pela primeira vez ou acessar funcionalidades relacionadas,</li><li>Então o sistema deve solicitar permissão de acesso à localização.</li></ul>  |
+    | **Prioridade**         | Média                                   |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+   
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+
+### HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos
+
+??? note "Tabela 26 - Armazena Localização Para Personalizar os Serviços Oferecidos "
+    <div align="center">
+        <p><strong>Tabela 26 – História de Usuário referente à Armazena Localização Para Personalizar os Serviços Oferecidos </strong></p>
+    </div>
+
+    | **HU24**               | Armazena Localização Para Personalizar os Serviços Oferecidos |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo que o aplicativo armazene minha localização para personalizar os serviços oferecidos.  |
+    | **Critério de Aceitação** |<ul><li>Dado que o aplicativo tenha permissão de localização,</li><li>Quando o usuário utilizar o app,</li><li>Então o sistema deve armazenar a localização de forma segura e em conformidade com as leis de privacidade.</li></ul>  |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+### HU25 - Visualizar Opções de Estabelecimentos de Saúde Próximos
+
+??? note "Tabela 27 - Visualizar opções de estabelecimentos de saúde próximos "
+    <div align="center">
+        <p><strong>Tabela 27 – História de Usuário referente à visualizar opções de estabelecimentos de saúde próximos </strong></p>
+    </div>
+
+    | **HU25**               | Visualizar opções de estabelecimentos de saúde próximos |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo visualizar opções de estabelecimentos de saúde próximos à minha localização para facilitar o acesso. |
+    | **Critério de Aceitação** | <ul><li>Dado que o aplicativo tenha acesso à localização,</li><li>Quando o usuário buscar por estabelecimentos,</li><li>Então o sistema deve exibir opções próximas com base no tipo de serviço desejado.</li></ul> |
+    | **Prioridade**         | Média                                   |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+### HU26 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim 
+
+??? note "Tabela 28 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim  "
+    <div align="center">
+        <p><strong>Tabela 28 – Identificar os Estabelecimentos de Saúde Já Utilizados por mim   </strong></p>
+    </div>
+
+    | **HU26**               | Identificar os Estabelecimentos de Saúde Já Utilizados por mim     |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo identificar os estabelecimentos de saúde recentes vinculados a mim para facilitar o acompanhamento. |
+    | **Critério de Aceitação** | <ul><li>Dado que o usuário tenha histórico de estabelecimentos vinculados,</li><li>Quando ele acessar a seção de históricos,</li><li>Então o sistema deve exibir os estabelecimentos recentes de forma clara e organizada.</li></ul> |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+### HU27 - Visualização de Consultas
+
+??? note "Tabela 29 - Visualização de Consultas "
+    <div align="center">
+        <p><strong>Tabela 29 – História de Usuário referente à Visualização de Consultas </strong></p>
+    </div>
+
+    | **HU27**               | Visualização de Consultas      |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Agendamentos para saber como utilizá-la.  |
+    | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Agendamentos,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre como agendar consultas ou exames.</li></ul> |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+### HU28 - Visualizar Consultas Médicas ou Exames
+
+??? note "Tabela 30 - Visualizar Consultas Médicas ou Exames"
+    <div align="center">
+        <p><strong>Tabela 30 – Visualizar Consultas Médicas ou Exames</strong></p>
+    </div>
+
+    | **HU28**               | Visualizar Consultas Médicas ou Exames       |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo visualizar minhas consultas médicas ou exames de saúde para acompanhar meu histórico. |
+    | **Critério de Aceitação** |<ul><li>Dado que o usuário tenha consultas ou exames registrados,</li><li>Quando ele acessar a seção de histórico,</li><li>Então o sistema deve exibir as consultas ou exames de forma clara e organizada.</li></ul>  |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+
+### HU29 - Agendar Consultas Médicas ou Exames 
+
+??? note "Tabela 31 - Agendar Consultas Médicas ou Exames "
+    <div align="center">
+        <p><strong>Tabela 31 – História de Usuário referente à Agendar Consultas Médicas ou Exames  </strong></p>
+    </div>
+
+    | **HU29**               | Agendar Consultas Médicas ou Exames              |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo agendar consultas médicas ou exames de saúde para organizar meu cuidado médico.      |
+    | **Critério de Aceitação** | < <ul><li>Dado que o usuário deseje agendar um atendimento,</li><li>Quando ele acessar a funcionalidade de agendamento,</li><li>Então o sistema deve permitir a escolha de datas, horários e serviços disponíveis.</li></ul>               |
+    | **Prioridade**         | Média                                   |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+
+
+### HU30 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação
+
+??? note "Tabela 31 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação "
+    <div align="center">
+        <p><strong>Tabela 31 – História de Usuário referente à ajuda informativa a respeito da seção de Atendimento e Internação </strong></p>
+    </div>
+
+    | **HU30**               |  Ajuda a Informativa a Respeito da Seção de Atendimento e Internação |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Atendimento e Internação para saber como usá-la.  |
+    | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Atendimento e Internação,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul>             |
+    | **Prioridade**         | Alta                                    |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+### HU31 - Registros de Saúde
+
+??? note "Tabela 32 -  Gráficos de Registros de Saúde "
+    <div align="center">
+        <p><strong>Tabela 32 – História de Usuário referente à Gráficos de Registros de Saúde </strong></p>
+    </div>
+
+    |   **HU31**               | Gráficos de Registros de Saúde |
+    | ------------------------- | ---------------- |
+    | **Declaração**         | Eu, como usuário, desejo que meus registros de saúde sejam apresentados em gráficos interativos para facilitar a interpretação das informações e o acompanhamento do meu histórico médico. |
+    | **Critério de Aceitação** | <ul> <li>Dado que o usuário tenha registros de saúde armazenados,</li> <li>Quando ele acessar a funcionalidade de gráficos,</li> <li>Então os gráficos devem ser interativos, fáceis de interpretar e atualizados em tempo real.</li> </ul> |
+    | **Prioridade**         | Média                                   |
+     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    <div align="center">
+        <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    </div>
+
+
+
+
+
+
 
 ## 📚 Bibliografia
 
@@ -466,4 +648,6 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
 | `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
 | `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
+| `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
+| `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
+
