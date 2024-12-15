@@ -64,14 +64,11 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 
 Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:
 
-
----
-
 ### HU1 - Login via Gov.br
 
-??? note "Tabela 1 - História de Usuário referente ao login via Gov.br"
+??? note "Tabela 3 - História de Usuário referente ao login via Gov.br"
     <div align="center">
-        <p><strong>Tabela 1 – História de Usuário referente ao login via Gov.br</strong></p>
+        <p><strong>Tabela 3 – História de Usuário referente ao login via Gov.br</strong></p>
     </div>
 
     | **HU1**                   | Login via Gov.br |
@@ -85,14 +82,195 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
     </div>
 
-### HU11 - Exportação de Resultado de Exame
+### HU2 - Ajuda informativa sobre a seção de Vacinas
 
-??? note "Tabela 13 - História de Usuário referente à Exportação de Resultado de Exame"
+??? note "Tabela 4 - História de Usuário referente à ajuda informativa sobre a seção de Vacinas"
     <div align="center">
-        <p><strong>Tabela 13 – História de Usuário referente à Exportação de Resultado de Exame</strong></p>
+        <p><strong>Tabela 4 – História de Usuário referente à ajuda informativa sobre a seção de Vacinas</strong></p>
     </div>
 
-    | **HU11**                   | Exportação de Resultado de Exame |
+
+    | **HU2**                   | Ajuda informativa sobre a seção de Vacinas |
+    | ------------------------- | ------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de vacinas _para_ esclarecer minhas dúvidas. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Vacinas, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre vacinas. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF2](../elicitacao/requisitos-elicitados.md#RF2) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU3 - Acesso à Carteira Nacional de Vacinação Digital
+
+??? note "Tabela 5 - História de Usuário referente ao acesso à Carteira Nacional de Vacinação Digital"
+    <div align="center">
+        <p><strong>Tabela 5 – História de Usuário referente ao acesso à Carteira Nacional de Vacinação Digital</strong></p>
+    </div>
+
+    | **HU3**                   | Acesso à Carteira Nacional de Vacinação Digital |
+    | ------------------------- | ----------------------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar minha Carteira Nacional de Vacinação Digital _para_ visualizar minhas vacinas. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de vacinação e clicar em "Acessar", _então_ será exibida sua Carteira Nacional de Vacinação Digital. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF3](../elicitacao/requisitos-elicitados.md#RF3) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU4 - Seleção de idioma da Carteira Nacional de Vacinação Digital
+
+??? note "Tabela 6 - História de Usuário referente à seleção de idioma da Carteira Nacional de Vacinação Digital"
+    <div align="center">
+        <p><strong>Tabela 6 – História de Usuário referente à seleção de idioma da Carteira Nacional de Vacinação Digital</strong></p>
+    </div>
+
+    | **HU4**                   | Seleção de idioma da Carteira Nacional de Vacinação Digital |
+    | ------------------------- | ----------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ selecionar o idioma da minha Carteira Nacional de Vacinação Digital _para_ facilitar sua compreensão em outros países. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ escolher o idioma desejado, _então_ o documento será exibido no idioma selecionado. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF4](../elicitacao/requisitos-elicitados.md#RF4) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU5 - Download da Carteira Nacional de Vacinação Digital
+
+??? note "Tabela 7 - História de Usuário referente ao download da Carteira Nacional de Vacinação Digital"
+    <div align="center">
+        <p><strong>Tabela 7 – História de Usuário referente ao download da Carteira Nacional de Vacinação Digital</strong></p>
+    </div>
+
+    | **HU5**                   | Download da Carteira Nacional de Vacinação Digital |
+    | ------------------------- | -------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ realizar o download da minha Carteira Nacional de Vacinação Digital _para_ mantê-la armazenado no meu dispositivo celular. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ clicar no botão de "Exportar documento", _então_ o documento será baixado no formato PDF. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF5](../elicitacao/requisitos-elicitados.md#RF5) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU6 - Exportação do Certificado de Vacinação Nacional de Covid-19
+
+??? note "Tabela 8 - História de Usuário referente à exportação do Certificado de Vacinação Nacional de Covid-19"
+    <div align="center">
+        <p><strong>Tabela 8 – História de Usuário referente à exportação do Certificado de Vacinação Nacional de Covid-19</strong></p>
+    </div>
+
+    | **HU6**                   | Exportação do Certificado de Vacinação Nacional de Covid-19 |
+    | ------------------------- | ----------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ exportar meu Certificado de Vacinação Nacional de Covid-19 _para_ mantê-lo armazenado no meu dispositivo celular. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Certificado de Vacinação Nacional de Covid-19, _quando_ clicar no botão de exportação, _então_ o certificado será exportado no formato escolhido. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF75](../elicitacao/requisitos-elicitados.md#RF75) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU7 - Histórico de vacinas
+
+??? note "Tabela 9 - História de Usuário referente ao histórico de vacinas"
+    <div align="center">
+        <p><strong>Tabela 9 – História de Usuário referente ao histórico de vacinas</strong></p>
+    </div>
+
+    | **HU7**                   | Histórico de vacinas |
+    | ------------------------- | -------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar meu histórico de vacinas _para_ verificar quais já tomei. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Histórico de vacinas, _então_ será exibida a lista de vacinas recebidas. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF6](../elicitacao/requisitos-elicitados.md#RF6) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU8 - Detalhes de vacinas
+
+??? note "Tabela 10 - História de Usuário referente aos detalhes de vacinas"
+    <div align="center">
+        <p><strong>Tabela 10 – História de Usuário referente aos detalhes de vacinas</strong></p>
+    </div>
+
+    | **HU8**                   | Detalhes de vacinas |
+    | ------------------------- | ------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar os detalhes de cada vacina que tomei _para_ entender mais sobre elas. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Histórico de vacinas, _quando_ clicar em uma vacina específica, _então_ os detalhes dessa vacina serão exibidos. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF7](../elicitacao/requisitos-elicitados.md#RF7) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU9 - Ajuda informativa sobre a seção de Exames
+
+??? note "Tabela 11 - História de Usuário referente à ajuda informativa sobre a seção de Exames"
+    <div align="center">
+        <p><strong>Tabela 11 – História de Usuário referente à ajuda informativa sobre a seção de Exames</strong></p>
+    </div>
+
+    | **HU9**                   | Ajuda informativa sobre a seção de Exames |
+    | ------------------------- | ----------------------------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de Exames _para_ esclarecer dúvidas sobre meus exames. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Exames, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre tal seção. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF8](../elicitacao/requisitos-elicitados.md#RF8) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU10 - Visualização de exames
+
+??? note "Tabela 12- História de Usuário referente à visualização de exames"
+    <div align="center">
+        <p><strong>Tabela 12 – História de Usuário referente à visualização de exames</strong></p>
+    </div>
+
+    | **HU10**                  | Visualização de exames |
+    | ------------------------- | ---------------------- |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar meus exames laboratoriais realizados _para_ acompanhar os resultados. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Exames, _então_ será exibida a lista de exames realizados. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF9](../elicitacao/requisitos-elicitados.md#RF9) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU11 - Detalhes de exames
+
+??? note "Tabela 13 - História de Usuário referente aos detalhes de exames"
+    <div align="center">
+        <p><strong>Tabela 13 – História de Usuário referente aos detalhes de exames</strong></p>
+    </div>
+
+    | **HU11**                  | Detalhes de exames |
+    | ------------------------- | ------------------ |
+    | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar os detalhes de cada exame _para_ entender os resultados e informações associadas. |
+    | **Critério de Aceitação** | _Dado que_ o usuário esteja na lista de exames, _quando_ clicar em um exame específico, _então_ os detalhes desse exame serão exibidos. |
+    | **Prioridade**            |  |
+    | **Rastreabilidade**       | [RF10](../elicitacao/requisitos-elicitados.md#RF10)                                                      |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+    </div>
+
+### HU12 - Exportação de Resultado de Exame
+
+??? note "Tabela 14 - História de Usuário referente à Exportação de Resultado de Exame"
+    <div align="center">
+        <p><strong>Tabela 14 – História de Usuário referente à Exportação de Resultado de Exame</strong></p>
+    </div>
+
+    | **HU12**                   | Exportação de Resultado de Exame |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo realizar a busca por um medicamento utilizando seu nome e dosagem para localizar rapidamente as informações desejadas. |
     | **Critério de Aceitação** | <ul> <li>Dado que o usuário esteja na seção de busca de medicamentos</li>  <li>Quando o usuário inserir o nome completo ou parcial do medicamento</li> <li>E a dosagem desejada </li> <li>Então o aplicativo deve:</li> <ul> <li>Retornar uma lista de medicamentos correspondentes à busca,</li> <li>Exibir informações relevantes, como nome completo, dosagem disponível e descrição,</li> <li>Permitir que o usuário selecione o medicamento para visualizar mais detalhes ou realizar ações adicionais. </ul> </li> </ul>|
@@ -103,14 +281,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
     </div>
 
-### HU12 - Ajuda Informativa sobre a Seção de Medicamentos
+### HU13 - Ajuda Informativa sobre a Seção de Medicamentos
 
-??? note "Tabela 14 - História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos"
+??? note "Tabela 15 - História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos"
     <div align="center">
-        <p><strong>Tabela 14 – História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos</strong></p>
+        <p><strong>Tabela 15 – História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos</strong></p>
     </div>
 
-    | **HU12**                   | Ajuda Informativa sobre a Seção de Medicamentos |
+    | **HU13**                   | Ajuda Informativa sobre a Seção de Medicamentos |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo obter ajuda informativa sobre a seção de Medicamentos para entender melhor as funcionalidades e informações disponíveis nessa seção. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja navegando na seção de Medicamentos</li> <li>E deseje mais informações ou orientações</li> <li>Quando o paciente clicar na opção "Ajuda" ou no ícone correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir um guia informativo ou FAQ relacionado à seção de Medicamentos,</li> <li>Permitir que o paciente visualize detalhes sobre as funcionalidades e o uso da seção,</li> <li>Oferecer exemplos ou links para mais informações, se aplicável.</li> </ul> </li> </ul> |
@@ -122,14 +300,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     </div>
 
 
-### HU13 - Acesso ao Histórico de Medicamentos Recebidos
+### HU14 - Acesso ao Histórico de Medicamentos Recebidos
 
-??? note "Tabela 15 - História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos"
+??? note "Tabela 16 - História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos"
     <div align="center">
-        <p><strong>Tabela 15 – História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos</strong></p>
+        <p><strong>Tabela 16 – História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos</strong></p>
     </div>
 
-    | **HU13**                   | Acesso ao Histórico de Medicamentos Recebidos |
+    | **HU14**                   | Acesso ao Histórico de Medicamentos Recebidos |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo acessar meu histórico de medicamentos recebidos para consultar informações sobre tratamentos realizados anteriormente. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E tenha um histórico de medicamentos registrados</li> <li>Quando o paciente acessar a opção "Histórico de Medicamentos" no menu ou seção correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista detalhada com os medicamentos recebidos,</li> <li>Apresentar informações como nome do medicamento, data de recebimento e dosagem,</li> <li>Permitir a ordenação ou filtragem por data ou tipo de medicamento.</li> </ul> </li> </ul> |
@@ -140,14 +318,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
     </div>
 
-### HU14 - Adicionar Medicamento Recebido via Programas do Governo Federal
+### HU15 - Adicionar Medicamento Recebido via Programas do Governo Federal
 
-??? note "Tabela 16 - História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal"
+??? note "Tabela 17 - História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal"
     <div align="center">
-        <p><strong>Tabela 16 – História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal</strong></p>
+        <p><strong>Tabela 17 – História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal</strong></p>
     </div>
 
-    | **HU14**                   | Adicionar Medicamento Recebido via Programas do Governo Federal |
+    | **HU15**                   | Adicionar Medicamento Recebido via Programas do Governo Federal |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo adicionar um medicamento recebido por meio de programas de dispensação do Governo Federal utilizando um mecanismo de busca para manter meu histórico de medicamentos atualizado de forma prática e precisa. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E esteja na seção para adicionar medicamentos</li> <li>Quando o paciente acessar o mecanismo de busca</li> <li>E inserir o nome ou informações relacionadas ao medicamento</li> <li>Então o aplicativo deve:</li> <ul> <li>Apresentar sugestões de medicamentos com base na busca,</li> <li>Permitir que o usuário selecione o medicamento correto,</li> <li>Solicitar a confirmação das informações (como data de recebimento e quantidade),</li> <li>Registrar o medicamento no histórico do usuário após a confirmação.</li> </ul> </li> </ul> |
@@ -159,14 +337,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     </div>
 
 
-### HU15 - Buscar Medicamento por Nome e Dosagem
+### HU16 - Buscar Medicamento por Nome e Dosagem
 
-??? note "Tabela 17 - História de Usuário referente à Busca de Medicamento por Nome e Dosagem"
+??? note "Tabela 18 - História de Usuário referente à Busca de Medicamento por Nome e Dosagem"
     <div align="center">
-        <p><strong>Tabela 17 – História de Usuário referente à Busca de Medicamento por Nome e Dosagem</strong></p>
+        <p><strong>Tabela 18 – História de Usuário referente à Busca de Medicamento por Nome e Dosagem</strong></p>
     </div>
 
-    | **HU15**                   | Buscar Medicamento por Nome e Dosagem |
+    | **HU16**                   | Buscar Medicamento por Nome e Dosagem |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo realizar a busca por um medicamento utilizando seu nome e dosagem para localizar rapidamente as informações desejadas. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja na seção de busca de medicamentos</li> <li>Quando o paciente inserir o nome completo ou parcial do medicamento</li> <li>E a dosagem desejada</li> <li>Então o aplicativo deve:</li> <ul> <li>Retornar uma lista de medicamentos correspondentes à busca,</li> <li>Exibir informações relevantes, como nome completo, dosagem disponível e descrição,</li> <li>Permitir que o paciente selecione o medicamento para visualizar mais detalhes ou realizar ações adicionais.</li> </ul> </li> </ul> |
@@ -177,14 +355,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
     </div>
 
-### HU16 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular
+### HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular
 
-??? note "Tabela 18 - História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF"
+??? note "Tabela 19 - História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF"
     <div align="center">
-        <p><strong>Tabela 18 – História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF</strong></p>
+        <p><strong>Tabela 19 – História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF</strong></p>
     </div>
 
-    | **HU16**                   | Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular |
+    | **HU17**                   | Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo ter a opção de autorizar ou não a retirada de medicamentos em meu CPF para garantir o controle sobre quem pode acessar meus benefícios do Programa Farmácia Popular. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção relacionada ao Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção clara para autorizar ou não a retirada de medicamentos pelo CPF,</li> <li>Permitir que o paciente altere sua escolha a qualquer momento,</li> <li>Registrar a autorização ou recusa de forma segura e acessível para futuras consultas.</li> </ul> </li> </ul> |
@@ -195,14 +373,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
     </div>
 
-### HU17 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular
+### HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular
 
-??? note "Tabela 19 - História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular"
+??? note "Tabela 20 - História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular"
     <div align="center">
-        <p><strong>Tabela 19 – História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular</strong></p>
+        <p><strong>Tabela 20 – História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular</strong></p>
     </div>
 
-    | **HU17**                   | Verificar Medicamentos Recebidos pelo Programa Farmácia Popular |
+    | **HU18**                   | Verificar Medicamentos Recebidos pelo Programa Farmácia Popular |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo poder verificar os medicamentos recebidos pelo Programa Farmácia Popular para acompanhar meu histórico de utilização e garantir a organização do tratamento. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de histórico no Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista com os medicamentos recebidos, incluindo a data e local da retirada,</li> <li>Organizar as informações de forma clara e ordenada por data,</li> <li>Permitir ao paciente filtrar os registros por período ou tipo de medicamento.</li> </ul> </li> </ul> |
@@ -214,14 +392,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     </div>
 
 
-### HU18 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual
+### HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual
 
-??? note "Tabela 20 - História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual"
+??? note "Tabela 21 - História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual"
     <div align="center">
-        <p><strong>Tabela 20 – História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual</strong></p>
+        <p><strong>Tabela 21 – História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual</strong></p>
     </div>
 
-    | **HU18**                   | Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual |
+    | **HU19**                   | Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo obter ajuda informativa sobre a seção de Dignidade Menstrual para compreender melhor os recursos e serviços disponíveis nessa seção. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de ajuda informativa na seção de Dignidade Menstrual</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir informações claras e relevantes sobre os recursos disponíveis,</li> <li>Incluir orientações sobre como acessar os serviços ou benefícios relacionados,</li> <li>Permitir ao paciente navegar para links ou documentos adicionais para mais detalhes.</li> </ul> </li> </ul> |
@@ -232,14 +410,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
     </div>
 
-### HU19 - Emissão de Autorização para Participar do Programa Dignidade Menstrual
+### HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual
 
-??? note "Tabela 21 - História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual"
+??? note "Tabela 22 - História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual"
     <div align="center">
-        <p><strong>Tabela 21 – História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual</strong></p>
+        <p><strong>Tabela 22 – História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual</strong></p>
     </div>
 
-    | **HU19**                   | Emissão de Autorização para Participar do Programa Dignidade Menstrual |
+    | **HU20**                   | Emissão de Autorização para Participar do Programa Dignidade Menstrual |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo emitir uma autorização para participar do Programa Dignidade Menstrual caso atenda aos critérios do programa, para garantir minha participação e acessar os benefícios oferecidos. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E atenda aos critérios do Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção relacionada ao programa no aplicativo</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção para emitir a autorização de participação no programa,</li> <li>Confirmar a elegibilidade do paciente antes de permitir a emissão da autorização,</li> <li>Registrar a autorização emitida e fornecer um documento ou comprovante para o paciente.</li> </ul> </li> </ul> |
@@ -251,14 +429,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     </div>
 
 
-### HU20 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual
+### HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual
 
-??? note "Tabela 22 - História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual"
+??? note "Tabela 23 - História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual"
     <div align="center">
-        <p><strong>Tabela 22 – História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</strong></p>
+        <p><strong>Tabela 23 – História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</strong></p>
     </div>
 
-    | **HU20**                   | Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual |
+    | **HU21**                   | Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual |
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo exportar ou baixar o documento referente à autorização de participação no Programa Dignidade Menstrual, para ter uma cópia em formato digital ou imprimir para meus registros. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente tenha emitido a autorização para o Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção de exportar ou baixar o documento</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF ou outro formato apropriado,</li> <li>Iniciar o download automaticamente no dispositivo do paciente,</li> <li>Exibir uma mensagem de confirmação de sucesso ao concluir o processo de download.</li> </ul> </li> </ul> |
@@ -287,3 +465,5 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
 | `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
 | `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
