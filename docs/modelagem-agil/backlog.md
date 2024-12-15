@@ -10,7 +10,8 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 
 <center>
 
-*Tabela X* -  Backlog do Produto.
+**Tabela X** - Backlog do Produto.
+
 <table>
 <thead>
   <tr>
@@ -22,34 +23,107 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 </thead>
 <tbody>
   <tr>
-    <td rowspan="x">Épico 1 - </td>
-    <td rowspan="x">Feature 1 - </td>
-    <td></td>
-    <td></td>
+    <td rowspan="4">Épico 1 - Acesso a Serviços</td>
+    <td rowspan="2">Feature 1 - Login e Registro</td>
+    <td>US01 - Usuário pode se registrar no sistema usando Gov.br</td>
+    <td>Alta</td>
   </tr>
   <tr>
-    <td rowspan="x">Épico 2 - </td>
-    <td rowspan="x">Feature 2 - </td>
-    <td></td>
-    <td></td>
+    <td>US02 - Usuário pode fazer login para acessar serviços</td>
+    <td>Alta</td>
   </tr>
   <tr>
-    <td rowspan="x">Épico 3 - </td>
-    <td rowspan="x">Feature 3 - </td>
-    <td></td>
-    <td></td>
+    <td rowspan="2">Feature 2 - Consulta de Medicamentos</td>
+    <td>US03 - Usuário pode consultar medicamentos cadastrados</td>
+    <td>Alta</td>
   </tr>
   <tr>
-    <td rowspan="x">Épico 4 - </td>
-    <td rowspan="x">Feature 4 - </td>
-    <td></td>
-    <td></td>
+    <td>US04 - Usuário pode adicionar novos medicamentos à sua lista</td>
+    <td>Alta</td>
   </tr>
   <tr>
-    <td rowspan="x">Épico 5 - </td>
-    <td rowspan="x">Feature 5 - </td>
-    <td></td>
-    <td></td>
+    <td rowspan="4">Épico 2 - Notificações e Alertas</td>
+    <td rowspan="2">Feature 3 - Notificações de Saúde</td>
+    <td>US05 - Usuário recebe notificações sobre vacinas disponíveis</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US06 - Usuário é alertado sobre exames pendentes</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 4 - Dicas de Saúde</td>
+    <td>US07 - Usuário recebe dicas de saúde personalizadas</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td>US08 - Sugestões de atividades físicas baseadas no perfil do usuário</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Épico 3 - Acessibilidade</td>
+    <td rowspan="2">Feature 5 - Acessibilidade Digital</td>
+    <td>US09 - Interface acessível para deficientes visuais</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US10 - Opções de navegação simplificadas</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 6 - Suporte ao Usuário</td>
+    <td>US11 - Chatbot para dúvidas frequentes</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td>US12 - Suporte por telefone para usuários com dificuldade</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Épico 4 - Segurança e Privacidade</td>
+    <td rowspan="3">Feature 7 - Proteção de Dados</td>
+    <td>US15 - Garantia de privacidade dos dados do usuário</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US16 - Controle de acesso aos dados pessoais</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US17 - Autenticação em duas etapas</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 8 - Prevenção de Erros</td>
+    <td>US20 - Confirmação de dados antes do envio</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US24 - Alertas sobre inconsistências nos dados</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Épico 5 - Padronização e Usabilidade</td>
+    <td rowspan="3">Feature 9 - Interface Intuitiva</td>
+    <td>US25 - Histórico de ações do usuário</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td>US26 - Navegação simplificada entre serviços</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td>US27 - Lista de serviços disponíveis</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 10 - Ferramentas Necessárias</td>
+    <td>US31 - Criação de conta e login com e-mail</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>US32 - Opção de cancelamento de agendamento</td>
+    <td>Alta</td>
   </tr>
 </tbody>
 </table>
@@ -66,12 +140,39 @@ Após analisar as Historias de Usuário identificamos os seguintes temas:
 
 Com o objetivo de reduzir a abstração, exemplificamos melhor os temas dentro dos épicos. Os épicos são blocos de trabalho  que representam  objetivos ou funcionalidades do projeto, servindo como base para detalhamentos posteriores.
 
-### Épico 1
-### Épico 2
-### Épico 3
-### Épico 4
-### Épico 5
+### Épico 1 - Acesso a Serviços
 
+
+"Eu, como usuário, desejo acessar serviços e informações de saúde de forma simples e segura para gerenciar minha saúde com facilidade."
+
+Este épico abrange funcionalidades que permitem ao usuário registrar-se, fazer login e consultar medicamentos, garantindo acesso rápido e eficiente aos serviços de saúde.
+
+### Épico 2 - Notificações e Alertas
+
+"Eu, como usuário, desejo receber notificações e alertas sobre minha saúde para me manter informado e não perder prazos importantes."
+
+Esse épico inclui o envio de notificações sobre vacinas, exames e dicas de saúde, ajudando o usuário a estar sempre atualizado com informações relevantes.
+
+### Épico 3 - Acessibilidade
+
+"Eu, como usuário com necessidades específicas, desejo contar com uma interface acessível para utilizar o sistema sem barreiras."
+
+Este épico foca na inclusão, garantindo que pessoas com deficiência visual ou dificuldades de navegação possam acessar o sistema de maneira intuitiva e eficiente.
+
+### Épico 4 - Segurança e Privacidade
+
+
+"Eu, como usuário, desejo que meus dados estejam protegidos e sejam usados de forma segura para garantir minha privacidade."
+
+Este épico prioriza a proteção de dados, autenticação segura e prevenção de erros, assegurando que o usuário confie no sistema.
+
+
+### Épico 5 - Padronização e Usabilidade
+
+
+"Eu, como usuário, desejo acessar uma interface intuitiva e organizada para encontrar facilmente os serviços que preciso."
+
+Esse épico visa melhorar a usabilidade do sistema, com ferramentas e funcionalidades que tornam a navegação mais simples e eficiente, além de oferecer histórico de ações e opções práticas.
 
 
 
@@ -90,4 +191,5 @@ As features são divisões mais específicas dos épicos, representando funciona
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
-| `1.0`  | Criação do Documento. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  |  |
+| `1.0`  | Criação do Documento. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
+| `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
