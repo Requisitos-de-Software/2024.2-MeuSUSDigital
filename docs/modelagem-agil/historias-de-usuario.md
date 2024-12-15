@@ -18,10 +18,29 @@ Como forma de assegurar a qualidade das histórias de usuário sem comprometer o
 
 #### Documentação das Histórias de Usuário
 
-As histórias de usuário foram documentadas no formato:
+Na **Tabela 1**, podemos identificar a legenda para cada uma das siglas utilizadas por todo o documento, principalmente nas tabelas.
 
 <div align="center">
-    <p><strong>Tabela 1 – Modelo para Histórias de Usuário</strong></p>
+    <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
+</div>
+
+<center>
+
+| Tipo | Descrição                   |
+| :--: | --------------------------- |
+| HUn  | n-ésima História de Usuário |
+| RFn  | n-ésimo Requisito Funcional |
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+Quanto ao formato das histórias de usuário, estas foram documentadas no formato disposto na **Tabela 2**. 
+
+<div align="center">
+    <p><strong>Tabela 2 – Modelo para Histórias de Usuário</strong></p>
 </div>
 
 <center>
@@ -43,23 +62,7 @@ Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço con
 
 ## Histórias de Usuário
 
-<div align="center">
-    <p><strong>Tabela 2 – Legenda para cada sigla utilizada</strong></p>
-</div>
-
-<center>
-
-| Tipo | Descrição                   |
-| :--: | --------------------------- |
-| HUn  | n-ésima História de Usuário |
-| RFn  | n-ésimo Requisito Funcional |
-
-</center>
-
-<div align="center">
-    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
-</div>
-
+Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:
 
 ### HU01 - Exportação de Resultado de Exame
 
@@ -134,3 +137,4 @@ Declaração</em></th>
 | `1.2` | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
+| `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |  |  |
