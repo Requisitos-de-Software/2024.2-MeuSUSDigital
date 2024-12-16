@@ -104,7 +104,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar login por meio de uma conta Gov.br _para_ acessar meus dados no aplicativo. |
     | **Critério de Aceitação** | _Dado que_ o paciente possui uma conta Gov.br, _quando_ acessar a página de login pelo aplicativo, _então_ será possível autenticar-se usando as credenciais Gov.br. |
-    | **Prioridade**            | Muito Alta |
+    | **Prioridade**            |  |
     | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
 
     <div align="center">
