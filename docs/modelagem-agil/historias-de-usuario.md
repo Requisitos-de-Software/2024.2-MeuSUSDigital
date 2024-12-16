@@ -572,16 +572,16 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
 
-### HU28 - Visualizar Consultas Médicas ou Exames
+### HU28 - Visualizar Exames Já realizados
 
-??? note "Tabela 30 - Visualizar Consultas Médicas ou Exames"
+??? note "Tabela 30 - Visualizar Exames Já realizados"
     <div align="center">
-        <p><strong>Tabela 30 – Visualizar Consultas Médicas ou Exames</strong></p>
+        <p><strong>Tabela 30 – Visualizar Exames Já realizados</strong></p>
     </div>
 
     | **HU28**               | Visualizar Consultas Médicas ou Exames       |
     | ------------------------- | ---------------- |
-    | **Declaração**         | Eu, como usuário, desejo visualizar minhas consultas médicas ou exames de saúde para acompanhar meu histórico. |
+    | **Declaração**         | Eu, como usuário, desejo visualizar exames já realizados de saúde para acompanhar meu histórico. |
     | **Critério de Aceitação** |<ul><li>Dado que o usuário tenha consultas ou exames registrados,</li><li>Quando ele acessar a seção de histórico,</li><li>Então o sistema deve exibir as consultas ou exames de forma clara e organizada.</li></ul>  |
     | **Prioridade**         | Alta                                    |
      | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
@@ -672,4 +672,6 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
 | `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
 | `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
+| `2.2` | coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
+
 
