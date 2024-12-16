@@ -15,6 +15,11 @@ theme:
         icon: material/weather-sunny
         name: Trocar para modo claro
   logo: imagens/meu-sus-digital-icone.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - tables
  
 nav:
 
