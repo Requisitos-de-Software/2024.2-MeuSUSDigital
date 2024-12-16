@@ -2,7 +2,11 @@
 
 ## Introdução
 
+As histórias de usuário representam um dos pilares na modelagem ágil, oferecendo uma maneira prática e centrada no usuário para capturar os requisitos de um sistema.
 
+Diferentemente de métodos tradicionais de levantamento de requisitos, as histórias de usuário priorizam a colaboração, a adaptabilidade e a entrega contínua de valor. Baseadas em uma estrutura simples — "Como [tipo de usuário], desejo [ação] para [objetivo]" —, elas permitem que os requisitos sejam compreendidos tanto por especialistas técnicos quanto por profissionais sem formação técnica.
+
+Este documento organiza e apresenta as histórias de usuário elicitadas para o Meu SUS Digital, estruturando-as com base nos requisitos funcionais do aplicativo. Cada história busca refletir os objetivos e problemas reais enfrentados pelos usuários, considerando o impacto prático que o sistema deve oferecer, como o acesso facilitado a informações de saúde e a digitalização de documentos importantes.
 
 ## Metodologia
 
@@ -667,4 +671,5 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
 | `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
 | `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
+| `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
 
