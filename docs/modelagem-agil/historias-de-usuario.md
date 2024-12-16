@@ -648,6 +648,8 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 ## 📚 Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
+>
+> REINEHR, Sheila. Engenharia de requisitos [recurso eletrônico]. Revisão técnica: Marco Antônio Paludo. Porto Alegre: SAGAH, 2020.
 
 ## 📑 Histórico de Versões
 
@@ -663,5 +665,6 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
 | `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
-| `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |  |  |
+| `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
+| `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
 
