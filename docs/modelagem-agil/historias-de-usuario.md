@@ -16,6 +16,7 @@ Os requisitos funcionais foram distribuídos entre os integrantes da equipe, com
 
 Como forma de assegurar a qualidade das histórias de usuário sem comprometer o ritmo de trabalho, foi estipulado que ao menos cinco critérios de aceitação fossem definidos por integrante. Essa flexibilização visa atender ao cronograma de desenvolvimento enquanto mantém um padrão mínimo de detalhamento e clareza nas histórias de usuário.
 
+
 #### Documentação das Histórias de Usuário
 
 Na **Tabela 1**, podemos identificar a legenda para cada uma das siglas utilizadas por todo o documento, principalmente nas tabelas.
@@ -59,6 +60,18 @@ Quanto ao formato das histórias de usuário, estas foram documentadas no format
 </div>
 
 Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço contínuo do projeto.
+
+
+<center>
+
+**Vídeo 1** - Validação e Priorização da HU12 a HU21.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Pedro Lopes](https://github.com/pLopess).
+
+</center>
+
 
 ## Histórias de Usuário
 
@@ -594,9 +607,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU30 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação
 
-??? note "Tabela 31 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação "
+??? note "Tabela 32 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação "
     <div align="center">
-        <p><strong>Tabela 31 – História de Usuário referente à ajuda informativa a respeito da seção de Atendimento e Internação </strong></p>
+        <p><strong>Tabela 32 – História de Usuário referente à ajuda informativa a respeito da seção de Atendimento e Internação </strong></p>
     </div>
 
     | **HU30**               |  Ajuda a Informativa a Respeito da Seção de Atendimento e Internação |
@@ -611,9 +624,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU31 - Registros de Saúde
 
-??? note "Tabela 32 -  Gráficos de Registros de Saúde "
+??? note "Tabela 33 -  Gráficos de Registros de Saúde "
     <div align="center">
-        <p><strong>Tabela 32 – História de Usuário referente à Gráficos de Registros de Saúde </strong></p>
+        <p><strong>Tabela 33 – História de Usuário referente à Gráficos de Registros de Saúde </strong></p>
     </div>
 
     |   **HU31**               | Gráficos de Registros de Saúde |
@@ -650,4 +663,5 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
 | `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
 | `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
+| `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |  |  |
 
