@@ -77,6 +77,18 @@ Fonte: [Pedro Lopes](https://github.com/pLopess).
 </center>
 
 
+
+<center>
+
+**Vídeo 2** - Validação e Priorização da HU22 a HU31.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Emivalto Júnior](https://github.com/EmivaltoJrr).
+
+</center>
+
+
 ## Histórias de Usuário
 
 Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:
@@ -92,7 +104,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar login por meio de uma conta Gov.br _para_ acessar meus dados no aplicativo. |
     | **Critério de Aceitação** | _Dado que_ o paciente possui uma conta Gov.br, _quando_ acessar a página de login pelo aplicativo, _então_ será possível autenticar-se usando as credenciais Gov.br. |
-    | **Prioridade**            | Muito Alta |
+    | **Prioridade**            |  |
     | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
 
     <div align="center">
@@ -477,8 +489,8 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Rede de Saúde para entender melhor suas funções. |
     | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Rede de Saúde,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul> |
-    | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Média                                    |
+     | **Rastreabilidade**       | [RF21](../elicitacao/requisitos-elicitados.md#RF21) |
     
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
@@ -497,7 +509,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | **Declaração**         | Eu, como usuário, desejo que o aplicativo peça permissão para acessar minha localização para garantir segurança e privacidade. |
     | **Critério de Aceitação** | <ul><li>Dado que o aplicativo precise acessar a localização,</li><li>Quando o usuário abrir o app pela primeira vez ou acessar funcionalidades relacionadas,</li><li>Então o sistema deve solicitar permissão de acesso à localização.</li></ul>  |
     | **Prioridade**         | Média                                   |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+     | **Rastreabilidade**       | [RF22](../elicitacao/requisitos-elicitados.md#RF22) |
    
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
@@ -515,8 +527,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo que o aplicativo armazene minha localização para personalizar os serviços oferecidos.  |
     | **Critério de Aceitação** |<ul><li>Dado que o aplicativo tenha permissão de localização,</li><li>Quando o usuário utilizar o app,</li><li>Então o sistema deve armazenar a localização de forma segura e em conformidade com as leis de privacidade.</li></ul>  |
-    | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Baixa                      |
+    | **Rastreabilidade**       | [RF23](../elicitacao/requisitos-elicitados.md#RF23) |
+   
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -532,8 +545,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo visualizar opções de estabelecimentos de saúde próximos à minha localização para facilitar o acesso. |
     | **Critério de Aceitação** | <ul><li>Dado que o aplicativo tenha acesso à localização,</li><li>Quando o usuário buscar por estabelecimentos,</li><li>Então o sistema deve exibir opções próximas com base no tipo de serviço desejado.</li></ul> |
-    | **Prioridade**         | Média                                   |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Alta                                   |
+    | **Rastreabilidade**       | [RF24](../elicitacao/requisitos-elicitados.md#RF24) |
+
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -549,8 +563,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo identificar os estabelecimentos de saúde recentes vinculados a mim para facilitar o acompanhamento. |
     | **Critério de Aceitação** | <ul><li>Dado que o usuário tenha histórico de estabelecimentos vinculados,</li><li>Quando ele acessar a seção de históricos,</li><li>Então o sistema deve exibir os estabelecimentos recentes de forma clara e organizada.</li></ul> |
-    | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Baixa                             |
+    | **Rastreabilidade**       | [RF25](../elicitacao/requisitos-elicitados.md#RF25) |
+    
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -566,8 +581,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Agendamentos para saber como utilizá-la.  |
     | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Agendamentos,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre como agendar consultas ou exames.</li></ul> |
-    | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Média          |
+    | **Rastreabilidade**       | [RF29](../elicitacao/requisitos-elicitados.md#RF29) |
+   
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -579,12 +595,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p><strong>Tabela 30 – Visualizar Exames Já realizados</strong></p>
     </div>
 
-    | **HU28**               | Visualizar Consultas Médicas ou Exames       |
+    | **HU28**               | Visualizar Exames Já realizados       |
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo visualizar exames já realizados de saúde para acompanhar meu histórico. |
     | **Critério de Aceitação** |<ul><li>Dado que o usuário tenha consultas ou exames registrados,</li><li>Quando ele acessar a seção de histórico,</li><li>Então o sistema deve exibir as consultas ou exames de forma clara e organizada.</li></ul>  |
     | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Rastreabilidade**       | [RF30](../elicitacao/requisitos-elicitados.md#RF30) |
+    
+    
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -601,27 +619,31 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo agendar consultas médicas ou exames de saúde para organizar meu cuidado médico.      |
     | **Critério de Aceitação** | < <ul><li>Dado que o usuário deseje agendar um atendimento,</li><li>Quando ele acessar a funcionalidade de agendamento,</li><li>Então o sistema deve permitir a escolha de datas, horários e serviços disponíveis.</li></ul>               |
-    | **Prioridade**         | Média                                   |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Muito Alta     |
+    | **Rastreabilidade**       | [RF28](../elicitacao/requisitos-elicitados.md#RF28) |
+    
+    
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
 
 
 
-### HU30 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação
+### HU30 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação
 
-??? note "Tabela 32 - Ajuda a Informativa a Respeito da Seção de Atendimento e Internação "
+??? note "Tabela 32 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação "
     <div align="center">
         <p><strong>Tabela 32 – História de Usuário referente à ajuda informativa a respeito da seção de Atendimento e Internação </strong></p>
     </div>
 
-    | **HU30**               |  Ajuda a Informativa a Respeito da Seção de Atendimento e Internação |
+    | **HU30**               |  Ajuda Informativa a Respeito da Seção de Atendimento e Internação |
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Atendimento e Internação para saber como usá-la.  |
     | **Critério de Aceitação** | <ul><li>Dado que o usuário esteja na seção de Atendimento e Internação,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul>             |
-    | **Prioridade**         | Alta                                    |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Baixa                        |
+    | **Rastreabilidade**       | [RF30](../elicitacao/requisitos-elicitados.md#RF30) |
+    
+ 
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -637,8 +659,10 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**         | Eu, como usuário, desejo que meus registros de saúde sejam apresentados em gráficos interativos para facilitar a interpretação das informações e o acompanhamento do meu histórico médico. |
     | **Critério de Aceitação** | <ul> <li>Dado que o usuário tenha registros de saúde armazenados,</li> <li>Quando ele acessar a funcionalidade de gráficos,</li> <li>Então os gráficos devem ser interativos, fáceis de interpretar e atualizados em tempo real.</li> </ul> |
-    | **Prioridade**         | Média                                   |
-     | **Rastreabilidade**       | [RF??](../elicitacao/requisitos-elicitados.md#RF??) |
+    | **Prioridade**         | Baixa                      |
+    | **Rastreabilidade**       | [RF30](../elicitacao/requisitos-elicitados.md#RF30) |
+    
+    
     <div align="center">
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
@@ -849,7 +873,8 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
 | `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
 | `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.2` | coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
-| `2.3` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
+| `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
+| `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
+| `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
 
 
