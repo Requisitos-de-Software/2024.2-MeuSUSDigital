@@ -274,7 +274,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como usuário do aplicativo, desejo exportar/download do documento contendo o resultado e informações de cada exame laboratorial realizado para guardar ou compartilhar com outros profissionais de saúde. |
     | **Critério de Aceitação** | <ul> <li>Dado que o usuário tenha acessado os detalhes de um exame laboratorial</li> <li>E o documento com o resultado e informações do exame esteja disponível</li> <li>Quando o usuário clicar no botão "Exportar" ou "Fazer Download"</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF,</li> <li>Iniciar o download automaticamente no dispositivo do usuário,</li> <li>Exibir uma mensagem de confirmação de sucesso.</li> </ul> </li> </ul> |
-    | **Prioridade**            | Alta |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF11](../elicitacao/requisitos-elicitados.md#RF11) |
 
     <div align="center">
@@ -292,7 +292,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo obter ajuda informativa sobre a seção de Medicamentos para entender melhor as funcionalidades e informações disponíveis nessa seção. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja navegando na seção de Medicamentos</li> <li>E deseje mais informações ou orientações</li> <li>Quando o paciente clicar na opção "Ajuda" ou no ícone correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir um guia informativo ou FAQ relacionado à seção de Medicamentos,</li> <li>Permitir que o paciente visualize detalhes sobre as funcionalidades e o uso da seção,</li> <li>Oferecer exemplos ou links para mais informações, se aplicável.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF12](../elicitacao/requisitos-elicitados.md#RF12) |
 
     <div align="center">
@@ -311,7 +311,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo acessar meu histórico de medicamentos recebidos para consultar informações sobre tratamentos realizados anteriormente. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E tenha um histórico de medicamentos registrados</li> <li>Quando o paciente acessar a opção "Histórico de Medicamentos" no menu ou seção correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista detalhada com os medicamentos recebidos,</li> <li>Apresentar informações como nome do medicamento, data de recebimento e dosagem,</li> <li>Permitir a ordenação ou filtragem por data ou tipo de medicamento.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF13](../elicitacao/requisitos-elicitados.md#RF13) |
 
     <div align="center">
@@ -329,7 +329,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo adicionar um medicamento recebido por meio de programas de dispensação do Governo Federal utilizando um mecanismo de busca para manter meu histórico de medicamentos atualizado de forma prática e precisa. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E esteja na seção para adicionar medicamentos</li> <li>Quando o paciente acessar o mecanismo de busca</li> <li>E inserir o nome ou informações relacionadas ao medicamento</li> <li>Então o aplicativo deve:</li> <ul> <li>Apresentar sugestões de medicamentos com base na busca,</li> <li>Permitir que o usuário selecione o medicamento correto,</li> <li>Solicitar a confirmação das informações (como data de recebimento e quantidade),</li> <li>Registrar o medicamento no histórico do usuário após a confirmação.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF14](../elicitacao/requisitos-elicitados.md#RF14) |
 
     <div align="center">
@@ -348,7 +348,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo realizar a busca por um medicamento utilizando seu nome e dosagem para localizar rapidamente as informações desejadas. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja na seção de busca de medicamentos</li> <li>Quando o paciente inserir o nome completo ou parcial do medicamento</li> <li>E a dosagem desejada</li> <li>Então o aplicativo deve:</li> <ul> <li>Retornar uma lista de medicamentos correspondentes à busca,</li> <li>Exibir informações relevantes, como nome completo, dosagem disponível e descrição,</li> <li>Permitir que o paciente selecione o medicamento para visualizar mais detalhes ou realizar ações adicionais.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF15](../elicitacao/requisitos-elicitados.md#RF15) |
 
     <div align="center">
@@ -366,7 +366,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo ter a opção de autorizar ou não a retirada de medicamentos em meu CPF para garantir o controle sobre quem pode acessar meus benefícios do Programa Farmácia Popular. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção relacionada ao Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção clara para autorizar ou não a retirada de medicamentos pelo CPF,</li> <li>Permitir que o paciente altere sua escolha a qualquer momento,</li> <li>Registrar a autorização ou recusa de forma segura e acessível para futuras consultas.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF16](../elicitacao/requisitos-elicitados.md#RF16) |
 
     <div align="center">
@@ -384,7 +384,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo poder verificar os medicamentos recebidos pelo Programa Farmácia Popular para acompanhar meu histórico de utilização e garantir a organização do tratamento. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de histórico no Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista com os medicamentos recebidos, incluindo a data e local da retirada,</li> <li>Organizar as informações de forma clara e ordenada por data,</li> <li>Permitir ao paciente filtrar os registros por período ou tipo de medicamento.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF17](../elicitacao/requisitos-elicitados.md#RF17) |
 
     <div align="center">
@@ -403,7 +403,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo obter ajuda informativa sobre a seção de Dignidade Menstrual para compreender melhor os recursos e serviços disponíveis nessa seção. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de ajuda informativa na seção de Dignidade Menstrual</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir informações claras e relevantes sobre os recursos disponíveis,</li> <li>Incluir orientações sobre como acessar os serviços ou benefícios relacionados,</li> <li>Permitir ao paciente navegar para links ou documentos adicionais para mais detalhes.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF18](../elicitacao/requisitos-elicitados.md#RF18) |
 
     <div align="center">
@@ -421,7 +421,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo emitir uma autorização para participar do Programa Dignidade Menstrual caso atenda aos critérios do programa, para garantir minha participação e acessar os benefícios oferecidos. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E atenda aos critérios do Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção relacionada ao programa no aplicativo</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção para emitir a autorização de participação no programa,</li> <li>Confirmar a elegibilidade do paciente antes de permitir a emissão da autorização,</li> <li>Registrar a autorização emitida e fornecer um documento ou comprovante para o paciente.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Muito Alta |
     | **Rastreabilidade**       | [RF19](../elicitacao/requisitos-elicitados.md#RF19) |
 
     <div align="center">
@@ -440,7 +440,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, como paciente, desejo exportar ou baixar o documento referente à autorização de participação no Programa Dignidade Menstrual, para ter uma cópia em formato digital ou imprimir para meus registros. |
     | **Critério de Aceitação** | <ul> <li>Dado que o paciente tenha emitido a autorização para o Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção de exportar ou baixar o documento</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF ou outro formato apropriado,</li> <li>Iniciar o download automaticamente no dispositivo do paciente,</li> <li>Exibir uma mensagem de confirmação de sucesso ao concluir o processo de download.</li> </ul> </li> </ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF20](../elicitacao/requisitos-elicitados.md#RF20) |
 
     <div align="center">
