@@ -858,15 +858,19 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ---
 
-<center>
+<div align="center">
+  <p><strong>Vídeo 3 – Validação e Priorização da História de Usuário 22 (HU22) até a História de Usuário 31 (HU31)</strong></p>
+</div>
 
-**Vídeo 3** - Validação e Priorização da HU22 a HU31.
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Emivalto Júnior](https://github.com/EmivaltoJrr).
-
 </center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 ## 📚 Bibliografia
 
