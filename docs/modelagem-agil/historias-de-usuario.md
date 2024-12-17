@@ -679,7 +679,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ obter ajuda a respeito da seção de "Alergias" _para_ entender como utilizar essa funcionalidade. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente esteja na seção de "Atendimento e Internação",</li><li>_Quando_ ele clicar em "Ajuda",</li><li>_Então_ o aplicativo deve exibir informações que expliquem a funcionalidade desta seção.</li></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF42](../elicitacao/requisitos-elicitados.md/#RF42) |
 
     <div align="center">
@@ -697,7 +697,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar as alergias que eu declarei, _para_ garantir que eu evite substâncias ou medicamentos que possam causar reações alérgicas. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente possua alergias cadastradas,</li><li>_Quando_ ele acessar a sessão "Alergias",</li><li>_Então_ o aplicativo deve oferecer a lista de alergias que o paciente declarou.</li></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF43](../elicitacao/requisitos-elicitados.md/#RF43) |
 
     <div align="center">
@@ -715,7 +715,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ adicionar as alergias que eu possuo, _para_ que os profissionais de saúde tenham acesso à minha condição alérgica. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a sessão de "Alergias",</li><li>_Quando_ o paciente clicar em "Adicionar Alergia",</li><li>_Então_ o aplicativo deve oferecer uma lista de alergias para o paciente escolher, dentre as quais poderão ser:<ul><li>Alimentar: leite e derivados, ovos, carne bovina, peixe, crustáceos.</li><li>Animais: gato, cachorro, insetos, animais peçonhentos.</li><li>Medicamentos: dipirona, AAS, Paracetamol.</li></ul></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF44](../elicitacao/requisitos-elicitados.md/#RF44) |
 
     <div align="center">
@@ -733,7 +733,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------------------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar a posição e a situação em que eu me encontro na fila de espera para transplante de órgãos e tecidos, _para_ que eu não perca a chamada quando chegar minha vez. |
     | **Critério de Aceitação** | - |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Muito Alta |
     | **Rastreabilidade**       | [RF54](../elicitacao/requisitos-elicitados.md/#RF54) |
 
     <div align="center">
@@ -751,7 +751,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ informar meu nome social, cor e endereço, _para_ que os profissionais de saúde me atendam de forma respeitosa e personalizada. |
     | **Critério de Aceitação** | - |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF56](../elicitacao/requisitos-elicitados.md/#RF56) |
 
     <div align="center">
@@ -769,7 +769,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | --------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meus pedidos de medicamentos, _para_ que eu possa acompanhar meu histórico de medicação e planejar melhor meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Pedidos",</li><li>_Então_ o aplicativo deve exibir uma lista com os pedidos ativos de medicamentos feitos por esse paciente.</li></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF62](../elicitacao/requisitos-elicitados.md/#RF62) |
 
     <div align="center">
@@ -787,7 +787,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ filtrar meus pedidos de medicamentos, _para_ que eu tenha uma visualização melhor dos meus pedidos de medicamentos. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos" e clicou em "Pedidos",</li><li>_Quando_ ele clicar em "Filtrar",</li><li>_Então_ o aplicativo deve exibir os filtros aplicáveis, dentre os quais poderão ser:<ul><li>"Em processamento".</li><li>"A caminho".</li></ul></ul></li></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF68](../elicitacao/requisitos-elicitados.md/#RF68) |
 
     <div align="center">
@@ -805,7 +805,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar pedidos de medicamentos, _para_ que eu possa garantir a continuidade do meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Fazer Pedido",</li><li>_Então_ o aplicativo deve exibir um formulário para que o paciente possa realizar um novo pedido de medicamentos. O formulário deverá apresentar as seguintes opções:<ul><li>Um campo com uma lista de farmácias cadastradas.</li><li>Um campo com uma lista de medicamentos e a quantidade.</li><li>Um campo com a forma de entrega (retirar na farmácia ou entrega em domicílio).</li></ul></li></ul> |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF67](../elicitacao/requisitos-elicitados.md/#RF67) |
 
     <div align="center">
@@ -823,7 +823,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meu histórico de vacinação pré-pandemia, _para_ que eu possa ter um registro das vacinas que eu tomei antes desse período. |
     | **Critério de Aceitação** | - |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF69](../elicitacao/requisitos-elicitados.md/#RF69) |
 
     <div align="center">
@@ -841,7 +841,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar minhas receitas médicas, _para_ que eu possa verificar os detalhes da minha prescrição. |
     | **Critério de Aceitação** | - |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF71](../elicitacao/requisitos-elicitados.md/#RF71) |
 
     <div align="center">
@@ -876,5 +876,6 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
 | `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
 | `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
+| `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
 
 
