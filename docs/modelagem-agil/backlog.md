@@ -22,7 +22,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
 
 </center>
 
-### Validação e Priorização Backlog do Produto
+### Gravações com PO para o Backlog do Produto
 
 <div align="center">
   <p><strong>Vídeo 1 – Backlog</strong></p>
@@ -30,6 +30,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
 
 <center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JA8smITk82I?si=HIuZznPrYRuHAuuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -44,6 +45,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
 
 <center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ICqp2kGOPAY?si=wv12NX8fJrJbLrtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -252,7 +254,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular</td>
-      <td>Médio</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU38 - Visualizar Alergias</td>
@@ -344,4 +346,6 @@ As features são divisões mais específicas dos épicos, representando funciona
 | `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.3`  | Correção da tabela de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+| `1.5`  | Alterando priorizações após entrevista. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+| `1.6`  | Adicionando gravações. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
 
