@@ -324,7 +324,7 @@ A **Figura 1** demonstra o diagrama de casos de uso do aplicativo Meu SUS Digita
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
-| `1.0`  | Criação do Documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
+| `1.0`  | Criação do Documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 |
 | `1.1`  | Adição da especificação de casos de uso da funcionalidade relacionada a medicamentos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
 | `1.2`  | Adição da especificação de casos de uso da funcionalidade relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
 | `1.3`  | Atualização da especificação de casos de uso das funcionalidades relacionada às vacinas. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 |
