@@ -827,7 +827,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 ## Validação/Priorização das Histórias de Usuário
 
 <div align="center">
-  <p><strong>Vídeo 1 – Validação e Priorização da História de Usuário 1 (HU1) até a História de Usuário 11 (HU11)</strong></p>
+  <p><strong>Vídeo 1 – Validação e Priorização da HU1 até a HU11</strong></p>
 </div>
 
 <center>
@@ -843,7 +843,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 ---
 
 <div align="center">
-  <p><strong>Vídeo 2 – Validação e Priorização da História de Usuário 12 (HU12) até a História de Usuário 21 (HU21)</strong></p>
+  <p><strong>Vídeo 2 – Validação e Priorização da HU12 até a HU21</strong></p>
 </div>
 
 <center>
@@ -859,7 +859,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 ---
 
 <div align="center">
-  <p><strong>Vídeo 3 – Validação e Priorização da História de Usuário 22 (HU22) até a História de Usuário 31 (HU31)</strong></p>
+  <p><strong>Vídeo 3 – Validação e Priorização da HU22 até a HU31</strong></p>
 </div>
 
 <center>
