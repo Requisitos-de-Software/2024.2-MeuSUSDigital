@@ -87,7 +87,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     <tr>
       <td rowspan="4">Feature 2 - Consulta de Medicamentos</td>
       <td>HU14 - Acesso ao Histórico de Medicamentos Recebidos</td>
-      <td>Média</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>HU42 - Consultar Pedidos de Medicamentos</td>
@@ -106,7 +106,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
       <td rowspan="5">Épico 2 - Notificações e Alertas</td>
       <td rowspan="3">Feature 3 - Notificações de Saúde</td>
       <td>HU23 - Permissão para acessar minha localização</td>
-      <td>Média</td>
+      <td>Baixa</td>
     </tr>
     <tr>
       <td>HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos</td>
@@ -139,15 +139,15 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     <tr>
       <td rowspan="4">Feature 6 - Suporte ao Usuário</td>
       <td>HU2 - Ajuda informativa sobre a seção de Vacinas</td>
-      <td>Baixo</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU9 - Ajuda informativa sobre a seção de Exames</td>
-      <td>Baixa</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU13 - Ajuda Informativa sobre a Seção de Medicamentos</td>
-      <td>Baixa</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual</td>
@@ -158,7 +158,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
       <td rowspan="5">Épico 4 - Segurança e Privacidade</td>
       <td rowspan="3">Feature 7 - Proteção de Dados</td>
       <td>HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual</td>
-      <td>Muito Alta</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</td>
@@ -166,7 +166,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular</td>
-      <td>Alta</td>
+      <td>Muito Alta</td>
     </tr>
     <tr>
       <td rowspan="2">Feature 8 - Prevenção de Erros</td>
@@ -182,11 +182,11 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
       <td rowspan="21">Épico 5 - Padronização e Usabilidade</td>
       <td rowspan="5">Feature 9 - Interface Intuitiva</td>
       <td>HU3 - Acesso à Carteira Nacional de Vacinação Digital</td>
-      <td>Alta</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU5 - Download da Carteira Nacional de Vacinação Digital</td>
-      <td>Alta</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>HU28 - Visualizar Exames Já realizados</td>
@@ -211,7 +211,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU10 - Visualização de exames</td>
-      <td>Média</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>HU32 - Consultar e atualizar contatos de profissionais de saúde</td>
@@ -223,7 +223,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU27 - Visualização de Consultas</td>
-      <td>Média</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td rowspan="10">Feature 11 - Serviços Complementares</td>
@@ -244,7 +244,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU46 - Consultar Receitas Médicas</td>
-      <td>Média</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>HU22 - Informativa a respeito da seção de Rede de Saúde</td>
@@ -252,7 +252,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
     </tr>
     <tr>
       <td>HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular</td>
-      <td>Baixa</td>
+      <td>Médio</td>
     </tr>
     <tr>
       <td>HU38 - Visualizar Alergias</td>
