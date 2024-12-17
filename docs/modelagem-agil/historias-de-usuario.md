@@ -888,6 +888,22 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
   <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
+---
+
+<div align="center">
+  <p><strong>Vídeo 5 – Validação e Priorização da HU42 até a HU51</strong></p>
+</div>
+
+<center>
+
+<incorporar>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
 ## 📚 Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
