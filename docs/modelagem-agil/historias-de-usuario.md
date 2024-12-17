@@ -986,7 +986,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 <center>
 
-<incorporar>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hMQ_uk0s5Uc?si=cMZWyYzXpoaJjLjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -1025,4 +1025,5 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `2.7`  | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `2.8`  | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `2.9`  | Adição, validação e priorização da HU32 até a HU36. | [João Pedro](https://github.com/JoosPerro) | 17/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |
-| `3.0`  | Correções e revisões | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |
+| `3.0`  | Correções e revisões | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
+| `3.1`  | Adição do vídeo 5. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |
