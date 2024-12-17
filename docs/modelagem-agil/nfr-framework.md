@@ -2,9 +2,9 @@
 
 ## Introdução
 
-## Metodologia
-
 Segundo seu criador <a id="anchor_bib_1" href="#REFBIB1">(CHUNG *et al*, 2000)</a>, o NFR *Framework* visa representar e analisar Requisitos Não-Funcionais (RNFs) para conduzir o desenvolvimento de uma solução adequada para um domínio particular. O papel da NFR *Framework* é prover alternativas de design e resgatar conhecimento adquirido sobre cada passo do processo de desenvolvimento de um software<a id="anchor_1" href="#REF1"><sup>1</sup></a>.
+
+## Metodologia
 
 A *Framework* possui uma abordagem **orientada à processo** e **qualitativa**. Esses aspectos foram adotados pelo autor por dois motivos principais:
 
@@ -80,4 +80,4 @@ O tipo de catálogo escolhido foi o de tipos de RNF, onde os RNFs são organizad
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do Documento |[João Pedro](https://github.com/JoosPerro) | 11/12/2024 |  |  |
+| `1.0`  | Criação do Documento. | [João Pedro](https://github.com/JoosPerro) | 11/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
