@@ -44,10 +44,13 @@
 | Criar 10 a 12 Histórias de Usuário | Todos | 12/12/2024 |
 | Na validação com o usuário, limitar a priorização das Histórias de Usuário: <ul> <li>Muito alta - máx. 1 História</li> <li>Alta - máx. 2 Histórias</li> <li>Média - 4 Histórias</li> <li>Baixa - *sem limite* Histórias</li> | Todos | 15/12/2024 |
 | **Backlog**: adotar o <a id="anchor_1" href="#REF1">User Story Mapping</a> (USM) | Emivalto e Pedro | 13/12/2024 |
+| Na validação com o usuário, limitar a priorização das Histórias de Usuário: <ul> <li>Muito alta - máx. 1 História</li> <li>Alta - máx. 2 Histórias</li> <li>Média - máx. 4 Histórias</li> <li>Baixa - *sem número limite*</li> | Todos | 15/12/2024 |
 
 ## Pautas Planejadas para a Próxima Reunião
 
 - Acompanhamento de cada integrante no desenvolvimento do projeto
+- Estimativa de esforço para cada História de Usuário, realizada em grupo
+- Rastreabilidade entre os requisitos elicitados anteriormente e as Histórias de Usuário
 
 ## 📚 Referência Bibliográfica
 
