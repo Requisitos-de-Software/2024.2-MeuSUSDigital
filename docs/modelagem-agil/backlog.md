@@ -236,7 +236,8 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 ## Temas
 
 Após analisar as Historias de Usuário identificamos os seguintes temas:
-
+- **Funcionalidades**: Refere-se aos recursos que o sistema precisa oferecer para que o usuário possa desempenhar suas atividades de forma eficiente.  
+- **Perfil**: Trata das características voltadas à adaptação do sistema às preferências e demandas específicas de cada usuário.
 
 ## Épicos
 
@@ -294,6 +295,7 @@ As features são divisões mais específicas dos épicos, representando funciona
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação do Documento. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
-| `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
-| `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |
-| `1.3`  | Correção da tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |
+| `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.3`  | Correção da tabela de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
