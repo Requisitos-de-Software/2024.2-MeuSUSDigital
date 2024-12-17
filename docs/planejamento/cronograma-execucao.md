@@ -101,10 +101,10 @@ A **Tabela 4** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
-| Histórias de Usuário | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Backlogs | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| NFR Framework | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Gravar a apresentação da Etapa 4 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Histórias de Usuário | Início: 12/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 14/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Backlogs | Início: 14/12/2024<br>Fim: 17/12/2024 | [Emivalto junior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) | Início: 15/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| NFR Framework | Início: 11/12/2024<br>Fim: 17/12/2024 | [João Pedro](https://github.com/JoosPerro) | Início: 17/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Gravar a apresentação da Etapa 4 do projeto | Início: 17/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 17/12/2024<br>Fim: 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
 | Inspecionar a entrega da apresentação da Etapa 4 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
 | Correção pós entrega/apresentação da Etapa 4 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 
@@ -205,3 +205,4 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.2`  |Criação das demais tabelas do cronograma de execução referente à Etapa 1. | [Artur Ricardo](https://github.com/algorithmorphic) | 28/10/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.3`  | Criação da tabela do cronograma de execução referente à entrega final, correção de erros e atualização dos dados. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.4`  | Correção de nomenclatura, atualização da lista de execução. | [Pedro Lopes](https://github.com/pLopess) | 12/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
+| `1.5`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
