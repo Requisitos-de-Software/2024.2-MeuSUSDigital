@@ -848,6 +848,8 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
+## Validação/Priorização das Histórias de Usuário
+
 
 
 ## 📚 Bibliografia
@@ -878,4 +880,5 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 | `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 | `2.6` | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `2.7` | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
 
