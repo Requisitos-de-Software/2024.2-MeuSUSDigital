@@ -225,6 +225,11 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 </table>
 
 
+<div align="center">
+    <p><strong>Apresentação Entrega 2</strong></p>
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
 </center>
 
 
