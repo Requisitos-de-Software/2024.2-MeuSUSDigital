@@ -8,19 +8,22 @@ O Backlog do Produto é uma lista organizada e priorizada que reúne todas as ta
 
 Após a elicitação das histórias de usuário, foram definidos os critérios de aceitação e as prioridades de cada uma delas, classificadas pelo PO como baixa, média, alta ou muito alta. Em seguida, temas, épicos e features foram estabelecidos para organizar e categorizar as histórias de usuário. A Tabela 2 ilustra o backlog do produto, o restante deste documento aprofunda o processo de definição de temas, épicos e features, bem como o significado de cada um desses termos. Os detalhes de cada história de usuário podem ser encontrados pela rastreabilidade na tabela que levará ao artefato específico de Histórias de Usuários.
 
+<div align="center">
+    <p><strong>Tabela 1 – Participantes da entrevista</strong></p>
+</div>
+
 <center>
 
-**Tabela 1** - Participantes da entrevista.
-
-| **Participante**                                        | **Função**     |
-| :------------------------------------------------------ | :------------- |
-| <span style = "color: orange"> Rosane</span>          | Product Owner  |
-| [Pedro Lopes](https://github.com/pLopess)            | Desenvolvedor  |
-
-
-Autor: [Pedro Lopes](https://github.com/pLopess).
+| **Participante**                             | **Função**    |
+| :------------------------------------------- | :------------ |
+| <span style = "color: orange"> Rosane</span> | Product Owner |
+| [Pedro Lopes](https://github.com/pLopess)    | Desenvolvedor |
 
 </center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 ### Gravações com PO para o Backlog do Produto
 
@@ -38,6 +41,7 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
   <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+---
 
 <div align="center">
   <p><strong>Vídeo 2 – Validação e Priorização do Backlog</strong></p>
@@ -55,12 +59,9 @@ Autor: [Pedro Lopes](https://github.com/pLopess).
 
 
 
-<center>
-
- **Tabela 2** - Backlog do Produto.
-
-</center>
-
+<div align="center">
+    <p><strong>Tabela 1 – Backlog do Produto</strong></p>
+</div>
 
 <center>
 
@@ -331,11 +332,14 @@ Esse épico visa melhorar a usabilidade do sistema, com ferramentas e funcionali
 As features são divisões mais específicas dos épicos, representando funcionalidades ou capacidades menores que ajudam a atingir os objetivos gerais definidos nos épicos. No contexto de desenvolvimento ágil, as features facilitam o planejamento, a priorização e a entrega incremental de valor, permitindo que as equipes tenham uma compreensão clara das funcionalidades específicas que precisam ser implementadas.
 
 
+
 ## 📚 Bibliografia
 
 > Patton, J. (2014). *User Story Mapping: Discover the Whole Story, Build the Right Product*. O'Reilly Media.
-
+>
 > Backlog. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/). Acesso em: 14 dez. 2024.
+
+
 
 ## 📑 Histórico de Versão
 
@@ -345,7 +349,7 @@ As features são divisões mais específicas dos épicos, representando funciona
 | `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.3`  | Correção da tabela de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
-| `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
-| `1.5`  | Alterando priorizações após entrevista. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
-| `1.6`  | Adicionando gravações. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+| `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `1.5`  | Alterando priorizações após entrevista. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `1.6`  | Adicionando gravações. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 
