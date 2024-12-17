@@ -65,30 +65,6 @@ Quanto ao formato das histórias de usuário, estas foram documentadas no format
 
 Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço contínuo do projeto.
 
-
-<center>
-
-**Vídeo 1** - Validação e Priorização da HU12 a HU21.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Fonte: [Pedro Lopes](https://github.com/pLopess).
-
-</center>
-
-
-
-<center>
-
-**Vídeo 2** - Validação e Priorização da HU22 a HU31.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Fonte: [Emivalto Júnior](https://github.com/EmivaltoJrr).
-
-</center>
-
-
 ## Histórias de Usuário
 
 Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:
@@ -850,7 +826,41 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ## Validação/Priorização das Histórias de Usuário
 
+<div align="center">
+  <p><strong>Vídeo 1 – Validação e Priorização das Histórias de Usuário de 1 a 11</strong></p>
+</div>
 
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZIy-lQZ9Gs?si=f8pAnfdA6hKfQMYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+<center>
+
+**Vídeo 2** - Validação e Priorização da HU12 a HU21.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Pedro Lopes](https://github.com/pLopess).
+
+</center>
+
+
+
+<center>
+
+**Vídeo 3** - Validação e Priorização da HU22 a HU31.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Emivalto Júnior](https://github.com/EmivaltoJrr).
+
+</center>
 
 ## 📚 Bibliografia
 
