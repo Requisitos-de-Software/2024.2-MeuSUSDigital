@@ -827,7 +827,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 ## Validação/Priorização das Histórias de Usuário
 
 <div align="center">
-  <p><strong>Vídeo 1 – Validação e Priorização das Histórias de Usuário de 1 a 11</strong></p>
+  <p><strong>Vídeo 1 – Validação e Priorização da História de Usuário 1 (HU1) até a História de Usuário 11 (HU11)</strong></p>
 </div>
 
 <center>
@@ -840,17 +840,23 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
   <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
-<center>
+---
 
-**Vídeo 2** - Validação e Priorização da HU12 a HU21.
+<div align="center">
+  <p><strong>Vídeo 2 – Validação e Priorização da História de Usuário 12 (HU12) até a História de Usuário 21 (HU21)</strong></p>
+</div>
+
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fonte: [Pedro Lopes](https://github.com/pLopess).
-
 </center>
 
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
+---
 
 <center>
 
