@@ -914,23 +914,23 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
-| `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
-| `1.2` | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
-| `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
-| `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
-| `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
-| `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
-| `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
-| `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
-| `2.6` | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
-| `2.7` | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
-| `2.8` | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
+| `1.1`  | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
+| `1.2`  | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.3`  | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.4`  | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.5`  | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.6`  | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.7`  | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.8`  | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
+| `1.8`  | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
+| `1.9`  | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
+| `2.0`  | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
+| `2.1`  | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
+| `2.2`  | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.3`  | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.4`  | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.5`  | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.6`  | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `2.7`  | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `2.8`  | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
