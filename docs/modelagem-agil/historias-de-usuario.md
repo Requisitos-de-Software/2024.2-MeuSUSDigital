@@ -4,7 +4,7 @@
 
 As histórias de usuário representam um dos pilares na modelagem ágil, oferecendo uma maneira prática e centrada no usuário para capturar os requisitos de um sistema.
 
-Diferentemente de métodos tradicionais de levantamento de requisitos, as histórias de usuário priorizam a colaboração, a adaptabilidade e a entrega contínua de valor. Baseadas em uma estrutura simples — "Como [tipo de usuário], desejo [ação] para [objetivo]" —, elas permitem que os requisitos sejam compreendidos tanto por especialistas técnicos quanto por profissionais sem formação técnica.
+Diferentemente de métodos tradicionais de levantamento de requisitos, as histórias de usuário priorizam a colaboração, a adaptabilidade e a entrega contínua de valor. Baseadas em uma estrutura simples – "Como [tipo de usuário], desejo [ação] para [objetivo]" –, elas permitem que os requisitos sejam compreendidos tanto por especialistas técnicos quanto por profissionais sem formação técnica.
 
 Este documento organiza e apresenta as histórias de usuário elicitadas para o Meu SUS Digital, estruturando-as com base nos requisitos funcionais do aplicativo. Cada história busca refletir os objetivos e problemas reais enfrentados pelos usuários, considerando o impacto prático que o sistema deve oferecer, como o acesso facilitado a informações de saúde e a digitalização de documentos importantes.
 
@@ -65,30 +65,6 @@ Quanto ao formato das histórias de usuário, estas foram documentadas no format
 
 Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço contínuo do projeto.
 
-
-<center>
-
-**Vídeo 1** - Validação e Priorização da HU12 a HU21.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Fonte: [Pedro Lopes](https://github.com/pLopess).
-
-</center>
-
-
-
-<center>
-
-**Vídeo 2** - Validação e Priorização da HU22 a HU31.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Fonte: [Emivalto Júnior](https://github.com/EmivaltoJrr).
-
-</center>
-
-
 ## Histórias de Usuário
 
 Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:
@@ -104,7 +80,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar login por meio de uma conta Gov.br _para_ acessar meus dados no aplicativo. |
     | **Critério de Aceitação** | _Dado que_ o paciente possui uma conta Gov.br, _quando_ acessar a página de login pelo aplicativo, _então_ será possível autenticar-se usando as credenciais Gov.br. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Muito Alta |
     | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
 
     <div align="center">
@@ -123,7 +99,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de vacinas _para_ esclarecer minhas dúvidas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Vacinas, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre vacinas. |
-    | **Prioridade**            | Alta |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF2](../elicitacao/requisitos-elicitados.md#RF2) |
 
     <div align="center">
@@ -141,7 +117,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar minha Carteira Nacional de Vacinação Digital _para_ visualizar minhas vacinas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de vacinação e clicar em "Acessar", _então_ será exibida sua Carteira Nacional de Vacinação Digital. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF3](../elicitacao/requisitos-elicitados.md#RF3) |
 
     <div align="center">
@@ -159,7 +135,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ selecionar o idioma da minha Carteira Nacional de Vacinação Digital _para_ facilitar sua compreensão em outros países. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ escolher o idioma desejado, _então_ o documento será exibido no idioma selecionado. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF4](../elicitacao/requisitos-elicitados.md#RF4) |
 
     <div align="center">
@@ -177,7 +153,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ realizar o download da minha Carteira Nacional de Vacinação Digital _para_ mantê-la armazenado no meu dispositivo celular. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ clicar no botão de "Exportar documento", _então_ o documento será baixado no formato PDF. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF5](../elicitacao/requisitos-elicitados.md#RF5) |
 
     <div align="center">
@@ -195,7 +171,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ exportar meu Certificado de Vacinação Nacional de Covid-19 _para_ mantê-lo armazenado no meu dispositivo celular. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Certificado de Vacinação Nacional de Covid-19, _quando_ clicar no botão de exportação, _então_ o certificado será exportado no formato escolhido. |
-    | **Prioridade**            | Alta |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF75](../elicitacao/requisitos-elicitados.md#RF75) |
 
     <div align="center">
@@ -213,7 +189,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar meu histórico de vacinas _para_ verificar quais já tomei. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Histórico de vacinas, _então_ será exibida a lista de vacinas recebidas. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF6](../elicitacao/requisitos-elicitados.md#RF6) |
 
     <div align="center">
@@ -231,7 +207,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar os detalhes de cada vacina que tomei _para_ entender mais sobre elas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Histórico de vacinas, _quando_ clicar em uma vacina específica, _então_ os detalhes dessa vacina serão exibidos. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF7](../elicitacao/requisitos-elicitados.md#RF7) |
 
     <div align="center">
@@ -249,7 +225,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de Exames _para_ esclarecer dúvidas sobre meus exames. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Exames, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre tal seção. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF8](../elicitacao/requisitos-elicitados.md#RF8) |
 
     <div align="center">
@@ -267,7 +243,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar meus exames laboratoriais realizados _para_ acompanhar os resultados. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Exames, _então_ será exibida a lista de exames realizados. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF9](../elicitacao/requisitos-elicitados.md#RF9) |
 
     <div align="center">
@@ -285,7 +261,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------ |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar os detalhes de cada exame _para_ entender os resultados e informações associadas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na lista de exames, _quando_ clicar em um exame específico, _então_ os detalhes desse exame serão exibidos. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF10](../elicitacao/requisitos-elicitados.md#RF10)                                                      |
 
     <div align="center">
@@ -667,15 +643,105 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
 
+### HU32 - Consultar e atualizar contatos de profissionais de saúde
 
-### HU42 - Obter Ajuda sobre Alergias
-
-??? note "Tabela 44 – História de Usuário Obter Ajuda sobre Alergias"
+??? note "Tabela 34 - História de Usuário referente à consulta e atualização de contatos de profissionais de saúde"
     <div align="center">
-        <p><strong>Tabela 44 – História de Usuário Obter Ajuda sobre Alergias</strong></p>
+        <p><strong>Tabela 34 – História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</strong></p>
     </div>
 
-    | **HU42**                  | Obter Ajuda sobre Alergias |
+    | **HU32**                  | Consultar e atualizar contatos de profissionais de saúde |
+    | ------------------------- | -------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver e adicionar contatos de profissionais de saúde _para_ que eu possa contactá-los. |
+    | **Critério de Aceitação** | _Dado que_: <ul> <li>o contato do profissional tem um CNS (Cartão Nacional de Saúde),</li> <li>o profissional tem um número de registro no órgão regulador (CRM, CRE, CRO),</li> <li>o profissional tem e-mail e opcionalmente um número de telefone,</li> <li>o paciente preenche corretamente os dados de contato.</li></ul> _Quando_ o preenchimento dos dados for confirmado, _então_ um novo contato deve ser adicionado. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF32](../elicitacao/requisitos-elicitados.md#RF32), [RF33](../elicitacao/requisitos-elicitados.md#RF33) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU33 - Consultar e atualizar registros de pressão arterial
+
+??? note "Tabela 35 - História de Usuário referente à consulta e atualização de registros de pressão arterial"
+    <div align="center">
+        <p><strong>Tabela 35 – História de Usuário referente à consulta e atualização de registros de pressão arterial</strong></p>
+    </div>
+
+    | **HU33**                  | Consultar e atualizar registros de pressão arterial |
+    | ------------------------- | --------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar ou editar meus registros de pressão arterial _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>a pressão é composta por dois números inteiros positivos (máxima e mínima),</li> <li>é obrigatoriamente registrada com data,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído, desde que as condições sejam respeitadas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista de registros será atualizada, informando se a pressão está normal, alta ou baixa. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF36](../elicitacao/requisitos-elicitados.md#RF36), [RF37](../elicitacao/requisitos-elicitados.md#RF37) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU34 - Consultar e atualizar registros de glicose
+
+??? note "Tabela 36 - História de Usuário referente à consulta e atualização de registros de glicose"
+    <div align="center">
+        <p><strong>Tabela 36 – História de Usuário referente à consulta e atualização de registros de glicose</strong></p>
+    </div>
+
+    | **HU34**                  | Consultar e atualizar registros de glicose |
+    | ------------------------- | ----------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar ou editar meus registros de glicose _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>o nível de glicose é um número inteiro positivo registrado com data,</li> <li>deve-se informar se a aferição foi feita em jejum,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído desde que as condições sejam respeitadas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista será atualizada, informando se o nível está adequado, alto ou baixo. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF38](../elicitacao/requisitos-elicitados.md#RF38), [RF39](../elicitacao/requisitos-elicitados.md#RF39) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU35 - Atualizar registros de IMC
+
+??? note "Tabela 37 - História de Usuário referente à atualização de registros de IMC"
+    <div align="center">
+        <p><strong>Tabela 37 – História de Usuário referente à atualização de registros de IMC</strong></p>
+    </div>
+
+    | **HU35**                  | Atualizar registros de IMC |
+    | ------------------------- | -------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar e atualizar meus registros de IMC _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>o IMC é calculado com altura (em metros) e peso (em quilogramas),</li> <li>os valores são números reais positivos com até 3 casas decimais,</li> <li>é registrado com data,</li> <li>não se pode ter mais de um registro por dia,</li> <li>o IMC é calculado e exibido com duas casas decimais e classificado conforme tabelas médicas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista de registros será atualizada com as informações calculadas e classificadas. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF40](../elicitacao/requisitos-elicitados.md#RF40), [RF41](../elicitacao/requisitos-elicitados.md#RF41) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU36 - Obter ajuda nas seções de contato e indicadores de saúde
+
+??? note "Tabela 38 - História de Usuário referente à ajuda nas seções de contato e registros de saúde"
+    <div align="center">
+        <p><strong>Tabela 38 – História de Usuário referente à ajuda nas seções de contato e registros de saúde</strong></p>
+    </div>
+
+    | **HU36**                  | Obter ajuda nas seções de contato e indicadores de saúde |
+    | ------------------------- | -------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ obter ajuda sobre contato com profissionais de saúde e registros de indicadores de saúde (pressão arterial, glicose e IMC) _para_ entender a utilidade e o uso de cada funcionalidade. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>cada funcionalidade (contato, pressão arterial, glicose e IMC) possui informações de ajuda específicas,</li> <li>o paciente pode acessar apenas uma funcionalidade por vez.</li></ul> _Quando_ o paciente solicitar ajuda, _então_ as informações correspondentes à funcionalidade selecionada serão exibidas. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF26](../elicitacao/requisitos-elicitados.md#RF26), [RF29](../elicitacao/requisitos-elicitados.md#RF29), [RF31](../elicitacao/requisitos-elicitados.md#RF31) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+
+### HU37 - Obter Ajuda sobre Alergias
+
+??? note "Tabela 39 – História de Usuário Obter Ajuda sobre Alergias"
+    <div align="center">
+        <p><strong>Tabela 39 – História de Usuário Obter Ajuda sobre Alergias</strong></p>
+    </div>
+
+    | **HU37**                  | Obter Ajuda sobre Alergias |
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ obter ajuda a respeito da seção de "Alergias" _para_ entender como utilizar essa funcionalidade. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente esteja na seção de "Atendimento e Internação",</li><li>_Quando_ ele clicar em "Ajuda",</li><li>_Então_ o aplicativo deve exibir informações que expliquem a funcionalidade desta seção.</li></ul> |
@@ -686,14 +752,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU43 - Visualizar Alergias
+### HU38 - Visualizar Alergias
 
-??? note "Tabela 45 – História de Usuário Visualizar Alergias"
+??? note "Tabela 40 – História de Usuário Visualizar Alergias"
     <div align="center">
-        <p><strong>Tabela 45 – História de Usuário Visualizar Alergias</strong></p>
+        <p><strong>Tabela 40 – História de Usuário Visualizar Alergias</strong></p>
     </div>
 
-    | **HU43**                  | Visualizar Alergias |
+    | **HU38**                  | Visualizar Alergias |
     | ------------------------- | ------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar as alergias que eu declarei, _para_ garantir que eu evite substâncias ou medicamentos que possam causar reações alérgicas. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente possua alergias cadastradas,</li><li>_Quando_ ele acessar a sessão "Alergias",</li><li>_Então_ o aplicativo deve oferecer a lista de alergias que o paciente declarou.</li></ul> |
@@ -704,14 +770,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU44 - Adicionar Alergias
+### HU39 - Adicionar Alergias
 
-??? note "Tabela 46 – História de Usuário Adicionar Alergias"
+??? note "Tabela 41 – História de Usuário Adicionar Alergias"
     <div align="center">
-        <p><strong>Tabela 46 – História de Usuário Adicionar Alergias</strong></p>
+        <p><strong>Tabela 41 – História de Usuário Adicionar Alergias</strong></p>
     </div>
 
-    | **HU44**                  | Adicionar Alergias |
+    | **HU39**                  | Adicionar Alergias |
     | ------------------------- | ------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ adicionar as alergias que eu possuo, _para_ que os profissionais de saúde tenham acesso à minha condição alérgica. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a sessão de "Alergias",</li><li>_Quando_ o paciente clicar em "Adicionar Alergia",</li><li>_Então_ o aplicativo deve oferecer uma lista de alergias para o paciente escolher, dentre as quais poderão ser:<ul><li>Alimentar: leite e derivados, ovos, carne bovina, peixe, crustáceos.</li><li>Animais: gato, cachorro, insetos, animais peçonhentos.</li><li>Medicamentos: dipirona, AAS, Paracetamol.</li></ul></ul> |
@@ -722,14 +788,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU45 - Visualizar Posição na Fila de Transplantes
+### HU40 - Visualizar Posição na Fila de Transplantes
 
-??? note "Tabela 47 – História de Usuário Visualizar Posição na Fila de Transplantes"
+??? note "Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes"
     <div align="center">
-        <p><strong>Tabela 47 – História de Usuário Visualizar Posição na Fila de Transplantes</strong></p>
+        <p><strong>Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes</strong></p>
     </div>
 
-    | **HU45**                  | Visualizar Posição na Fila de Transplantes |
+    | **HU40**                  | Visualizar Posição na Fila de Transplantes |
     | ------------------------- | ------------------------------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar a posição e a situação em que eu me encontro na fila de espera para transplante de órgãos e tecidos, _para_ que eu não perca a chamada quando chegar minha vez. |
     | **Critério de Aceitação** | - |
@@ -740,14 +806,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU46 - Autodeclaração de Informações Pessoais
+### HU41 - Autodeclaração de Informações Pessoais
 
-??? note "Tabela 48 – História de Usuário Autodeclaração de Informações Pessoais"
+??? note "Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais"
     <div align="center">
-        <p><strong>Tabela 48 – História de Usuário Autodeclaração de Informações Pessoais</strong></p>
+        <p><strong>Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais</strong></p>
     </div>
 
-    | **HU46**                  | Autodeclaração de Informações Pessoais |
+    | **HU41**                  | Autodeclaração de Informações Pessoais |
     | ------------------------- | -------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ informar meu nome social, cor e endereço, _para_ que os profissionais de saúde me atendam de forma respeitosa e personalizada. |
     | **Critério de Aceitação** | - |
@@ -758,14 +824,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU47 - Consultar Pedidos de Medicamentos
+### HU42 - Consultar Pedidos de Medicamentos
 
-??? note "Tabela 49 – História de Usuário Consultar Pedidos de Medicamentos"
+??? note "Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos"
     <div align="center">
-        <p><strong>Tabela 49 – História de Usuário Consultar Pedidos de Medicamentos</strong></p>
+        <p><strong>Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos</strong></p>
     </div>
 
-    | **HU47**                  | Consultar Pedidos de Medicamentos |
+    | **HU42**                  | Consultar Pedidos de Medicamentos |
     | ------------------------- | --------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meus pedidos de medicamentos, _para_ que eu possa acompanhar meu histórico de medicação e planejar melhor meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Pedidos",</li><li>_Então_ o aplicativo deve exibir uma lista com os pedidos ativos de medicamentos feitos por esse paciente.</li></ul> |
@@ -776,14 +842,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU48 - Aplicar Filtro de Pesquisa
+### HU43 - Aplicar Filtro de Pesquisa
 
-??? note "Tabela 50 – História de Usuário Aplicar Filtro de Pesquisa"
+??? note "Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa"
     <div align="center">
-        <p><strong>Tabela 50 – História de Usuário Aplicar Filtro de Pesquisa</strong></p>
+        <p><strong>Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa</strong></p>
     </div>
 
-    | **HU48**                  | Aplicar Filtro de Pesquisa |
+    | **HU43**                  | Aplicar Filtro de Pesquisa |
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ filtrar meus pedidos de medicamentos, _para_ que eu tenha uma visualização melhor dos meus pedidos de medicamentos. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos" e clicou em "Pedidos",</li><li>_Quando_ ele clicar em "Filtrar",</li><li>_Então_ o aplicativo deve exibir os filtros aplicáveis, dentre os quais poderão ser:<ul><li>"Em processamento".</li><li>"A caminho".</li></ul></ul></li></ul> |
@@ -794,14 +860,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU49 - Realizar Pedidos de Medicamentos
+### HU44 - Realizar Pedidos de Medicamentos
 
-??? note "Tabela 51 – História de Usuário Realizar Pedidos de Medicamentos"
+??? note "Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos"
     <div align="center">
-        <p><strong>Tabela 51 – História de Usuário Realizar Pedidos de Medicamentos</strong></p>
+        <p><strong>Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos</strong></p>
     </div>
 
-    | **HU49**                  | Realizar Pedidos de Medicamentos |
+    | **HU44**                  | Realizar Pedidos de Medicamentos |
     | ------------------------- | -------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar pedidos de medicamentos, _para_ que eu possa garantir a continuidade do meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Fazer Pedido",</li><li>_Então_ o aplicativo deve exibir um formulário para que o paciente possa realizar um novo pedido de medicamentos. O formulário deverá apresentar as seguintes opções:<ul><li>Um campo com uma lista de farmácias cadastradas.</li><li>Um campo com uma lista de medicamentos e a quantidade.</li><li>Um campo com a forma de entrega (retirar na farmácia ou entrega em domicílio).</li></ul></li></ul> |
@@ -812,14 +878,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU50 - Visualizar Histórico de Vacinação Pré-Pandemia
+### HU45 - Visualizar Histórico de Vacinação Pré-Pandemia
 
-??? note "Tabela 52 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia"
+??? note "Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia"
     <div align="center">
-        <p><strong>Tabela 52 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</strong></p>
+        <p><strong>Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</strong></p>
     </div>
 
-    | **HU50**                  | Visualizar Histórico de Vacinação Pré-Pandemia |
+    | **HU45**                  | Visualizar Histórico de Vacinação Pré-Pandemia |
     | ------------------------- | ---------------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meu histórico de vacinação pré-pandemia, _para_ que eu possa ter um registro das vacinas que eu tomei antes desse período. |
     | **Critério de Aceitação** | - |
@@ -830,11 +896,11 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU51 - Consultar Receitas Médicas
+### HU46 - Consultar Receitas Médicas
 
-??? note "Tabela 53 – História de Usuário Consultar Receitas Médicas"
+??? note "Tabela 48 – História de Usuário Consultar Receitas Médicas"
     <div align="center">
-        <p><strong>Tabela 53 – História de Usuário Consultar Receitas Médicas</strong></p>
+        <p><strong>Tabela 48 – História de Usuário Consultar Receitas Médicas</strong></p>
     </div>
 
     | **HU51**                  | Consultar Receitas Médicas |
@@ -848,7 +914,85 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
+## Validação e Priorização das Histórias de Usuário
 
+<div align="center">
+  <p><strong>Vídeo 1 – Validação e Priorização da HU1 até a HU11</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZIy-lQZ9Gs?si=f8pAnfdA6hKfQMYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Vídeo 2 – Validação e Priorização da HU12 até a HU21</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Vídeo 3 – Validação e Priorização da HU22 até a HU31</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Vídeo 4 – Validação e Priorização da HU32 até a HU41</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2Q8gUGI6bM?si=ypLjNc9L33GKzR5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Vídeo 5 – Validação e Priorização da HU42 até a HU51</strong></p>
+</div>
+
+<center>
+
+<incorporar>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
 
 ## 📚 Bibliografia
 
@@ -860,22 +1004,25 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
-| `1.1` | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
-| `1.2` | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.3` | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.4` | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.5` | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.6` | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
-| `1.7` | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
-| `1.8` | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
-| `1.8` | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
-| `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
-| `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
-| `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
-| `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
-| `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
-
-
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 12/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
+| `1.1`  | Adição da metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 13/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |
+| `1.2`  | Correção de titulos das tabelas e novo modelo de tabela expansiva. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.3`  | Criando Histórias de Usuário. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.4`  | Atualização de siglas, títulos e formatação das tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.5`  | Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.6`  | Adição de história de usuário e adoção de padrão. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 |
+| `1.7`  | Adição de histórias de usuário. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 |
+| `1.8`  | Adição de histórias de usuário e ajuste na ordem das HUs e tabelas. | [Artur Ricardo](https://github.com/algorithmorphic) | 15/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
+| `1.8`  | Adição de histórias de usuário e ajuste |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
+| `1.9`  | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
+| `2.0`  | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.1`  | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.2`  | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.3`  | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.4`  | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.5`  | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.6`  | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.7`  | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.8`  | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.9`  | Adição, validação e priorização da HU32 até a HU36. | [João Pedro](https://github.com/JoosPerro) | 17/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |
+| `3.0`  | Correções e revisões | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |

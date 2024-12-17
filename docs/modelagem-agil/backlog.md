@@ -6,127 +6,275 @@ O Backlog do Produto é uma lista organizada e priorizada que reúne todas as ta
 
 ## Metodologia
 
-Após a elicitação das histórias de usuário, foram definidos os critérios de aceitação e as prioridades de cada uma delas, classificadas pelo PO como baixa, média, alta ou muito alta. Em seguida, temas, épicos e features foram estabelecidos para organizar e categorizar as histórias de usuário. A Tabela X ilustra o backlog do produto, o restante deste documento aprofunda o processo de definição de temas, épicos e features, bem como o significado de cada um desses termos. Os detalhes de cada história de usuário podem ser encontrados pela rastreabilidade na tabela que levará ao artefato específico de Histórias de Usuários.
+Após a elicitação das histórias de usuário, foram definidos os critérios de aceitação e as prioridades de cada uma delas, classificadas pelo PO como baixa, média, alta ou muito alta. Em seguida, temas, épicos e features foram estabelecidos para organizar e categorizar as histórias de usuário. A Tabela 2 ilustra o backlog do produto, o restante deste documento aprofunda o processo de definição de temas, épicos e features, bem como o significado de cada um desses termos. Os detalhes de cada história de usuário podem ser encontrados pela rastreabilidade na tabela que levará ao artefato específico de Histórias de Usuários.
 
 <center>
 
-**Tabela X** - Backlog do Produto.
+**Tabela 1** - Participantes da entrevista.
+
+| **Participante**                                        | **Função**     |
+| :------------------------------------------------------ | :------------- |
+| <span style = "color: orange"> Rosane</span>          | Product Owner  |
+| [Pedro Lopes](https://github.com/pLopess)            | Desenvolvedor  |
+
+
+Autor: [Pedro Lopes](https://github.com/pLopess).
+
+</center>
+
+### Gravações com PO para o Backlog do Produto
+
+<div align="center">
+  <p><strong>Vídeo 1 – Backlog</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JA8smITk82I?si=HIuZznPrYRuHAuuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+<div align="center">
+  <p><strong>Vídeo 2 – Validação e Priorização do Backlog</strong></p>
+</div>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ICqp2kGOPAY?si=wv12NX8fJrJbLrtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+
+<center>
+
+ **Tabela 2** - Backlog do Produto.
+
+</center>
+
+
+<center>
+
 
 <table>
-<thead>
-  <tr>
-    <th>Épico</th>
-    <th>Feature</th>
-    <th>História de usuário</th>
-    <th>Priorização</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="4">Épico 1 - Acesso a Serviços</td>
-    <td rowspan="2">Feature 1 - Login e Registro</td>
-    <td>US01 - Usuário pode se registrar no sistema usando Gov.br</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US02 - Usuário pode fazer login para acessar serviços</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 2 - Consulta de Medicamentos</td>
-    <td>US03 - Usuário pode consultar medicamentos cadastrados</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US04 - Usuário pode adicionar novos medicamentos à sua lista</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Épico 2 - Notificações e Alertas</td>
-    <td rowspan="2">Feature 3 - Notificações de Saúde</td>
-    <td>US05 - Usuário recebe notificações sobre vacinas disponíveis</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US06 - Usuário é alertado sobre exames pendentes</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 4 - Dicas de Saúde</td>
-    <td>US07 - Usuário recebe dicas de saúde personalizadas</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td>US08 - Sugestões de atividades físicas baseadas no perfil do usuário</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Épico 3 - Acessibilidade</td>
-    <td rowspan="2">Feature 5 - Acessibilidade Digital</td>
-    <td>US09 - Interface acessível para deficientes visuais</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US10 - Opções de navegação simplificadas</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 6 - Suporte ao Usuário</td>
-    <td>US11 - Chatbot para dúvidas frequentes</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td>US12 - Suporte por telefone para usuários com dificuldade</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Épico 4 - Segurança e Privacidade</td>
-    <td rowspan="3">Feature 7 - Proteção de Dados</td>
-    <td>US15 - Garantia de privacidade dos dados do usuário</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US16 - Controle de acesso aos dados pessoais</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US17 - Autenticação em duas etapas</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 8 - Prevenção de Erros</td>
-    <td>US20 - Confirmação de dados antes do envio</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US24 - Alertas sobre inconsistências nos dados</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Épico 5 - Padronização e Usabilidade</td>
-    <td rowspan="3">Feature 9 - Interface Intuitiva</td>
-    <td>US25 - Histórico de ações do usuário</td>
-    <td>Baixa</td>
-  </tr>
-  <tr>
-    <td>US26 - Navegação simplificada entre serviços</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td>US27 - Lista de serviços disponíveis</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 10 - Ferramentas Necessárias</td>
-    <td>US31 - Criação de conta e login com e-mail</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>US32 - Opção de cancelamento de agendamento</td>
-    <td>Alta</td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Épico</th>
+      <th>Feature</th>
+      <th>História de usuário</th>
+      <th>Priorização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Épico 1 -->
+    <tr>
+      <td rowspan="6">Épico 1 - Acesso a Serviços</td>
+      <td rowspan="2">Feature 1 - Login e Registro</td>
+      <td>HU1 - Login via Gov.br</td>
+      <td>Muito Alta</td>
+    </tr>
+    <tr>
+      <td>HU41 - Autodeclaração de Informações Pessoais</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Feature 2 - Consulta de Medicamentos</td>
+      <td>HU14 - Acesso ao Histórico de Medicamentos Recebidos</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU42 - Consultar Pedidos de Medicamentos</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU15 - Adicionar Medicamento Recebido via Programas do Governo Federal</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU44 - Realizar Pedidos de Medicamentos</td>
+      <td>Alta</td>
+    </tr>
+    <!-- Épico 2 -->
+    <tr>
+      <td rowspan="5">Épico 2 - Notificações e Alertas</td>
+      <td rowspan="3">Feature 3 - Notificações de Saúde</td>
+      <td>HU23 - Permissão para acessar minha localização</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU25 - Visualizar opções de estabelecimentos de saúde próximos</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 4 - Dicas de Saúde</td>
+      <td>HU36 - Obter ajuda nas seções de contato e indicadores de saúde</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU37 - Obter Ajuda sobre Alergias</td>
+      <td>Média</td>
+    </tr>
+    <!-- Épico 3 -->
+    <tr>
+      <td rowspan="6">Épico 3 - Acessibilidade</td>
+      <td rowspan="2">Feature 5 - Acessibilidade Digital</td>
+      <td>HU4 - Seleção de idioma da Carteira Nacional de Vacinação Digital</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU30 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Feature 6 - Suporte ao Usuário</td>
+      <td>HU2 - Ajuda informativa sobre a seção de Vacinas</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU9 - Ajuda informativa sobre a seção de Exames</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU13 - Ajuda Informativa sobre a Seção de Medicamentos</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual</td>
+      <td>Baixa</td>
+    </tr>
+    <!-- Épico 4 -->
+    <tr>
+      <td rowspan="5">Épico 4 - Segurança e Privacidade</td>
+      <td rowspan="3">Feature 7 - Proteção de Dados</td>
+      <td>HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular</td>
+      <td>Muito Alta</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Feature 8 - Prevenção de Erros</td>
+      <td>HU6 - Exportação do Certificado de Vacinação Nacional de Covid-19</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU12 - Exportação de Resultado de Exame</td>
+      <td>Média</td>
+    </tr>
+    <!-- Épico 5 -->
+    <tr>
+      <td rowspan="21">Épico 5 - Padronização e Usabilidade</td>
+      <td rowspan="5">Feature 9 - Interface Intuitiva</td>
+      <td>HU3 - Acesso à Carteira Nacional de Vacinação Digital</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU5 - Download da Carteira Nacional de Vacinação Digital</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU28 - Visualizar Exames Já realizados</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU33 - Consultar e atualizar registros de pressão arterial</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU34 - Consultar e atualizar registros de glicose</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Feature 10 - Ferramentas Necessárias</td>
+      <td>HU7 - Histórico de vacinas</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU8 - Detalhes de vacinas</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU10 - Visualização de exames</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU32 - Consultar e atualizar contatos de profissionais de saúde</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU35 - Atualizar registros de IMC</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU27 - Visualização de Consultas</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td rowspan="10">Feature 11 - Serviços Complementares</td>
+      <td>HU29 - Agendar Consultas Médicas ou Exames</td>
+      <td>Muito Alta</td>
+    </tr>
+    <tr>
+      <td>HU40 - Visualizar Posição na Fila de Transplantes</td>
+      <td>Muito Alta</td>
+    </tr>
+    <tr>
+      <td>HU39 - Adicionar Alergias</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU45 - Visualizar Histórico de Vacinação Pré-Pandemia</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU46 - Consultar Receitas Médicas</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>HU22 - Informativa a respeito da seção de Rede de Saúde</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>HU38 - Visualizar Alergias</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU31 - Gráficos de Registros de Saúde</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>HU26 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim</td>
+      <td>Baixa</td>
+    </tr>
+  </tbody>
 </table>
+
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 </center>
 
@@ -135,6 +283,8 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 
 Após analisar as Historias de Usuário identificamos os seguintes temas:
 
+- **Funcionalidades**: Refere-se aos recursos que o sistema precisa oferecer para que o usuário possa desempenhar suas atividades de forma eficiente.  
+- **Perfil**: Trata das características voltadas à adaptação do sistema às preferências e demandas específicas de cada usuário.
 
 ## Épicos
 
@@ -192,4 +342,10 @@ As features são divisões mais específicas dos épicos, representando funciona
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação do Documento. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
-| `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
+| `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.3`  | Correção da tabela de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+| `1.5`  | Alterando priorizações após entrevista. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+| `1.6`  | Adicionando gravações. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+
