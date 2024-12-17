@@ -643,6 +643,96 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
     </div>
 
+### HU32 - Consultar e atualizar contatos de profissionais de saúde
+
+??? note "Tabela 14 - História de Usuário referente à consulta e atualização de contatos de profissionais de saúde"
+    <div align="center">
+        <p><strong>Tabela 14 – História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</strong></p>
+    </div>
+
+    | **HU32**                  | Consultar e atualizar contatos de profissionais de saúde |
+    | ------------------------- | -------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver e adicionar contatos de profissionais de saúde _para_ que eu possa contactá-los. |
+    | **Critério de Aceitação** | _Dado que_: <ul> <li>o contato do profissional tem um CNS (Cartão Nacional de Saúde),</li> <li>o profissional tem um número de registro no órgão regulador (CRM, CRE, CRO),</li> <li>o profissional tem e-mail e opcionalmente um número de telefone,</li> <li>o paciente preenche corretamente os dados de contato.</li></ul> _Quando_ o preenchimento dos dados for confirmado, _então_ um novo contato deve ser adicionado. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF32](../elicitacao/requisitos-elicitados.md#RF32), [RF33](../elicitacao/requisitos-elicitados.md#RF33) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU33 - Consultar e atualizar registros de pressão arterial
+
+??? note "Tabela 15 - História de Usuário referente à consulta e atualização de registros de pressão arterial"
+    <div align="center">
+        <p><strong>Tabela 15 – História de Usuário referente à consulta e atualização de registros de pressão arterial</strong></p>
+    </div>
+
+    | **HU33**                  | Consultar e atualizar registros de pressão arterial |
+    | ------------------------- | --------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar ou editar meus registros de pressão arterial _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>a pressão é composta por dois números inteiros positivos (máxima e mínima),</li> <li>é obrigatoriamente registrada com data,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído, desde que as condições sejam respeitadas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista de registros será atualizada, informando se a pressão está normal, alta ou baixa. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF36](../elicitacao/requisitos-elicitados.md#RF36), [RF37](../elicitacao/requisitos-elicitados.md#RF37) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU34 - Consultar e atualizar registros de glicose
+
+??? note "Tabela 16 - História de Usuário referente à consulta e atualização de registros de glicose"
+    <div align="center">
+        <p><strong>Tabela 16 – História de Usuário referente à consulta e atualização de registros de glicose</strong></p>
+    </div>
+
+    | **HU34**                  | Consultar e atualizar registros de glicose |
+    | ------------------------- | ----------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar ou editar meus registros de glicose _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>o nível de glicose é um número inteiro positivo registrado com data,</li> <li>deve-se informar se a aferição foi feita em jejum,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído desde que as condições sejam respeitadas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista será atualizada, informando se o nível está adequado, alto ou baixo. |
+    | **Prioridade**            | Alta |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF38](../elicitacao/requisitos-elicitados.md#RF38), [RF39](../elicitacao/requisitos-elicitados.md#RF39) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU35 - Atualizar registros de IMC
+
+??? note "Tabela 17 - História de Usuário referente à atualização de registros de IMC"
+    <div align="center">
+        <p><strong>Tabela 17 – História de Usuário referente à atualização de registros de IMC</strong></p>
+    </div>
+
+    | **HU35**                  | Atualizar registros de IMC |
+    | ------------------------- | -------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ ver, adicionar e atualizar meus registros de IMC _para_ acompanhar meu estado de saúde. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>o IMC é calculado com altura (em metros) e peso (em quilogramas),</li> <li>os valores são números reais positivos com até 3 casas decimais,</li> <li>é registrado com data,</li> <li>não se pode ter mais de um registro por dia,</li> <li>o IMC é calculado e exibido com duas casas decimais e classificado conforme tabelas médicas.</li></ul> _Quando_ o paciente confirmar o registro, _então_ a lista de registros será atualizada com as informações calculadas e classificadas. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF35](../elicitacao/requisitos-elicitados.md#RF35), [RF40](../elicitacao/requisitos-elicitados.md#RF40), [RF41](../elicitacao/requisitos-elicitados.md#RF41) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
+### HU36 - Obter ajuda nas seções de contato e indicadores de saúde
+
+??? note "Tabela 18 - História de Usuário referente à ajuda nas seções de contato e registros de saúde"
+    <div align="center">
+        <p><strong>Tabela 18 – História de Usuário referente à ajuda nas seções de contato e registros de saúde</strong></p>
+    </div>
+
+    | **HU36**                  | Obter ajuda nas seções de contato e indicadores de saúde |
+    | ------------------------- | -------------------------------------------------------- |
+    | **Declaração**            | Eu, _como_ paciente, _desejo_ obter ajuda sobre contato com profissionais de saúde e registros de indicadores de saúde (pressão arterial, glicose e IMC) _para_ entender a utilidade e o uso de cada funcionalidade. |
+    | **Critério de Aceitação** | _Dado que_: <ul><li>cada funcionalidade (contato, pressão arterial, glicose e IMC) possui informações de ajuda específicas,</li> <li>o paciente pode acessar apenas uma funcionalidade por vez.</li></ul> _Quando_ o paciente solicitar ajuda, _então_ as informações correspondentes à funcionalidade selecionada serão exibidas. |
+    | **Prioridade**            | Média |
+    | **Rastreabilidade**       | [RF26](../elicitacao/requisitos-elicitados.md#RF26), [RF29](../elicitacao/requisitos-elicitados.md#RF29), [RF31](../elicitacao/requisitos-elicitados.md#RF31) |
+
+    <div align="center">
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    </div>
+
 
 ### HU42 - Obter Ajuda sobre Alergias
 
@@ -934,3 +1024,4 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `2.6`  | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `2.7`  | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `2.8`  | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
+| `2.9`  | Adição, validação e priorização da HU32 até a HU36. | [João Pedro](https://github.com/JoosPerro) | 17/12/2024 |  |  |
