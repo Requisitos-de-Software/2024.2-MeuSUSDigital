@@ -81,8 +81,8 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td colspan="3" style="text-align: center; font-weight: bold;">Itens do conteúdo da disciplina</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>As Histórias de Usuário?<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando a história de usuário.<br>Autor:</td>
+      <td><a id="REF1" href="#anchor_1">1</a></td>
+      <td>As Histórias de Usuário?</a></sup></td>
       <td>André Barros</td>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as histórias de usuárioos podem ser testadas?</td>
+      <td>Todas as histórias de usuários podem ser testadas?</td>
       <td>André Barros</td>
     </tr>
     <tr>
@@ -167,17 +167,17 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
     </tr>
     <tr>
       <td>1</td>
-      <td></td>
+      <td>As histórias de usuário possuem rastreabilidade?</td>
       <td>Artur Ricardo</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>As histórias de usuário no backlog estão priorizadas de acordo com a importância para o negócio e o usuário?</td>
       <td>Emivalto Júnior</td>
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Os épicos derivam mais de uma <em>feature</em>?</td>
       <td>João Pedro</td>
     </tr>
     <tr>
@@ -203,8 +203,15 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 
 ## 📚 Referências Bibliográficas
 
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
+>
+> - <a id="anchor_1" href="#REF1"><sup>[1]</sup></a><br>![Referência 1](../referencias/entr4-historia-de-usuario.png)
+>****
+>
+
 ## 📑 Histórico de versão
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |
+| `1.1`  | Adição da referência. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |

@@ -99,8 +99,8 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
       <td colspan="5" style="text-align: center; font-weight: bold;">Itens do conteúdo da disciplina</td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>As Histórias de Usuário?<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando a história de usuário.<br>Autor:</td>
+      <td><a id="REF1" href="#anchor_1">1</td>
+      <td>As Histórias de Usuário?</td>
       <td></td>
       <td>André Barros</td>
       <td></td>
@@ -142,7 +142,7 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     </tr>
     <tr>
       <td>7</td>
-      <td>Todas as histórias de usuárioos podem ser testadas?</td>
+      <td>Todas as histórias de usuários podem ser testadas?</td>
       <td></td>
       <td>André Barros</td>
       <td></td>
@@ -217,21 +217,21 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     </tr>
     <tr>
       <td>1</td>
-      <td></td>
+      <td>As histórias de usuário possuem rastreabilidade?</td>
       <td></td>
       <td>Artur Ricardo</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>As histórias de usuário no backlog estão priorizadas de acordo com a importância para o negócio e o usuário?</td>
       <td></td>
       <td>Emivalto Júnior</td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Os épicos derivam mais de uma <em>feature</em>?</td>
       <td></td>
       <td>João Pedro</td>
       <td></td>
@@ -278,6 +278,11 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 ## 📚 Referências Bibliográficas
 
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
+>
+> - <a id="anchor_1" href="#REF1"><sup>[1]</sup></a><br>![Referência 1](../../referencias/entr4-historia-de-usuario.png)
+>****
+>
 
 
 ## 📑 Histórico de versão
@@ -285,3 +290,4 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |
+| `1.1`  | Adição da referência. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |
