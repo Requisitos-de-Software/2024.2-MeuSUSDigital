@@ -52,7 +52,7 @@ A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_
 </center>
 
 
-## Gravação da Inspeção do Grupo 5
+## Gravação da Inspeção do Grupo 4
 </center>
 
 <center>
