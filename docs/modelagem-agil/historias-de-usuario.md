@@ -645,9 +645,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU32 - Consultar e atualizar contatos de profissionais de saúde
 
-??? note "Tabela 14 - História de Usuário referente à consulta e atualização de contatos de profissionais de saúde"
+??? note "Tabela 34 - História de Usuário referente à consulta e atualização de contatos de profissionais de saúde"
     <div align="center">
-        <p><strong>Tabela 14 – História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</strong></p>
+        <p><strong>Tabela 34 – História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</strong></p>
     </div>
 
     | **HU32**                  | Consultar e atualizar contatos de profissionais de saúde |
@@ -663,9 +663,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU33 - Consultar e atualizar registros de pressão arterial
 
-??? note "Tabela 15 - História de Usuário referente à consulta e atualização de registros de pressão arterial"
+??? note "Tabela 35 - História de Usuário referente à consulta e atualização de registros de pressão arterial"
     <div align="center">
-        <p><strong>Tabela 15 – História de Usuário referente à consulta e atualização de registros de pressão arterial</strong></p>
+        <p><strong>Tabela 35 – História de Usuário referente à consulta e atualização de registros de pressão arterial</strong></p>
     </div>
 
     | **HU33**                  | Consultar e atualizar registros de pressão arterial |
@@ -681,9 +681,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU34 - Consultar e atualizar registros de glicose
 
-??? note "Tabela 16 - História de Usuário referente à consulta e atualização de registros de glicose"
+??? note "Tabela 36 - História de Usuário referente à consulta e atualização de registros de glicose"
     <div align="center">
-        <p><strong>Tabela 16 – História de Usuário referente à consulta e atualização de registros de glicose</strong></p>
+        <p><strong>Tabela 36 – História de Usuário referente à consulta e atualização de registros de glicose</strong></p>
     </div>
 
     | **HU34**                  | Consultar e atualizar registros de glicose |
@@ -699,9 +699,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU35 - Atualizar registros de IMC
 
-??? note "Tabela 17 - História de Usuário referente à atualização de registros de IMC"
+??? note "Tabela 37 - História de Usuário referente à atualização de registros de IMC"
     <div align="center">
-        <p><strong>Tabela 17 – História de Usuário referente à atualização de registros de IMC</strong></p>
+        <p><strong>Tabela 37 – História de Usuário referente à atualização de registros de IMC</strong></p>
     </div>
 
     | **HU35**                  | Atualizar registros de IMC |
@@ -717,9 +717,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 
 ### HU36 - Obter ajuda nas seções de contato e indicadores de saúde
 
-??? note "Tabela 18 - História de Usuário referente à ajuda nas seções de contato e registros de saúde"
+??? note "Tabela 38 - História de Usuário referente à ajuda nas seções de contato e registros de saúde"
     <div align="center">
-        <p><strong>Tabela 18 – História de Usuário referente à ajuda nas seções de contato e registros de saúde</strong></p>
+        <p><strong>Tabela 38 – História de Usuário referente à ajuda nas seções de contato e registros de saúde</strong></p>
     </div>
 
     | **HU36**                  | Obter ajuda nas seções de contato e indicadores de saúde |
@@ -734,14 +734,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     </div>
 
 
-### HU42 - Obter Ajuda sobre Alergias
+### HU37 - Obter Ajuda sobre Alergias
 
-??? note "Tabela 44 – História de Usuário Obter Ajuda sobre Alergias"
+??? note "Tabela 39 – História de Usuário Obter Ajuda sobre Alergias"
     <div align="center">
-        <p><strong>Tabela 44 – História de Usuário Obter Ajuda sobre Alergias</strong></p>
+        <p><strong>Tabela 39 – História de Usuário Obter Ajuda sobre Alergias</strong></p>
     </div>
 
-    | **HU42**                  | Obter Ajuda sobre Alergias |
+    | **HU37**                  | Obter Ajuda sobre Alergias |
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ obter ajuda a respeito da seção de "Alergias" _para_ entender como utilizar essa funcionalidade. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente esteja na seção de "Atendimento e Internação",</li><li>_Quando_ ele clicar em "Ajuda",</li><li>_Então_ o aplicativo deve exibir informações que expliquem a funcionalidade desta seção.</li></ul> |
@@ -752,14 +752,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
         <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU43 - Visualizar Alergias
+### HU38 - Visualizar Alergias
 
-??? note "Tabela 45 – História de Usuário Visualizar Alergias"
+??? note "Tabela 40 – História de Usuário Visualizar Alergias"
     <div align="center">
-        <p><strong>Tabela 45 – História de Usuário Visualizar Alergias</strong></p>
+        <p><strong>Tabela 40 – História de Usuário Visualizar Alergias</strong></p>
     </div>
 
-    | **HU43**                  | Visualizar Alergias |
+    | **HU38**                  | Visualizar Alergias |
     | ------------------------- | ------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar as alergias que eu declarei, _para_ garantir que eu evite substâncias ou medicamentos que possam causar reações alérgicas. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente possua alergias cadastradas,</li><li>_Quando_ ele acessar a sessão "Alergias",</li><li>_Então_ o aplicativo deve oferecer a lista de alergias que o paciente declarou.</li></ul> |
@@ -770,14 +770,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU44 - Adicionar Alergias
+### HU39 - Adicionar Alergias
 
-??? note "Tabela 46 – História de Usuário Adicionar Alergias"
+??? note "Tabela 41 – História de Usuário Adicionar Alergias"
     <div align="center">
-        <p><strong>Tabela 46 – História de Usuário Adicionar Alergias</strong></p>
+        <p><strong>Tabela 41 – História de Usuário Adicionar Alergias</strong></p>
     </div>
 
-    | **HU44**                  | Adicionar Alergias |
+    | **HU39**                  | Adicionar Alergias |
     | ------------------------- | ------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ adicionar as alergias que eu possuo, _para_ que os profissionais de saúde tenham acesso à minha condição alérgica. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a sessão de "Alergias",</li><li>_Quando_ o paciente clicar em "Adicionar Alergia",</li><li>_Então_ o aplicativo deve oferecer uma lista de alergias para o paciente escolher, dentre as quais poderão ser:<ul><li>Alimentar: leite e derivados, ovos, carne bovina, peixe, crustáceos.</li><li>Animais: gato, cachorro, insetos, animais peçonhentos.</li><li>Medicamentos: dipirona, AAS, Paracetamol.</li></ul></ul> |
@@ -788,14 +788,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU45 - Visualizar Posição na Fila de Transplantes
+### HU40 - Visualizar Posição na Fila de Transplantes
 
-??? note "Tabela 47 – História de Usuário Visualizar Posição na Fila de Transplantes"
+??? note "Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes"
     <div align="center">
-        <p><strong>Tabela 47 – História de Usuário Visualizar Posição na Fila de Transplantes</strong></p>
+        <p><strong>Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes</strong></p>
     </div>
 
-    | **HU45**                  | Visualizar Posição na Fila de Transplantes |
+    | **HU40**                  | Visualizar Posição na Fila de Transplantes |
     | ------------------------- | ------------------------------------------ |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar a posição e a situação em que eu me encontro na fila de espera para transplante de órgãos e tecidos, _para_ que eu não perca a chamada quando chegar minha vez. |
     | **Critério de Aceitação** | - |
@@ -806,14 +806,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU46 - Autodeclaração de Informações Pessoais
+### HU41 - Autodeclaração de Informações Pessoais
 
-??? note "Tabela 48 – História de Usuário Autodeclaração de Informações Pessoais"
+??? note "Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais"
     <div align="center">
-        <p><strong>Tabela 48 – História de Usuário Autodeclaração de Informações Pessoais</strong></p>
+        <p><strong>Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais</strong></p>
     </div>
 
-    | **HU46**                  | Autodeclaração de Informações Pessoais |
+    | **HU41**                  | Autodeclaração de Informações Pessoais |
     | ------------------------- | -------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ informar meu nome social, cor e endereço, _para_ que os profissionais de saúde me atendam de forma respeitosa e personalizada. |
     | **Critério de Aceitação** | - |
@@ -824,14 +824,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU47 - Consultar Pedidos de Medicamentos
+### HU42 - Consultar Pedidos de Medicamentos
 
-??? note "Tabela 49 – História de Usuário Consultar Pedidos de Medicamentos"
+??? note "Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos"
     <div align="center">
-        <p><strong>Tabela 49 – História de Usuário Consultar Pedidos de Medicamentos</strong></p>
+        <p><strong>Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos</strong></p>
     </div>
 
-    | **HU47**                  | Consultar Pedidos de Medicamentos |
+    | **HU42**                  | Consultar Pedidos de Medicamentos |
     | ------------------------- | --------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meus pedidos de medicamentos, _para_ que eu possa acompanhar meu histórico de medicação e planejar melhor meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Pedidos",</li><li>_Então_ o aplicativo deve exibir uma lista com os pedidos ativos de medicamentos feitos por esse paciente.</li></ul> |
@@ -842,14 +842,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU48 - Aplicar Filtro de Pesquisa
+### HU43 - Aplicar Filtro de Pesquisa
 
-??? note "Tabela 50 – História de Usuário Aplicar Filtro de Pesquisa"
+??? note "Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa"
     <div align="center">
-        <p><strong>Tabela 50 – História de Usuário Aplicar Filtro de Pesquisa</strong></p>
+        <p><strong>Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa</strong></p>
     </div>
 
-    | **HU48**                  | Aplicar Filtro de Pesquisa |
+    | **HU43**                  | Aplicar Filtro de Pesquisa |
     | ------------------------- | -------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ filtrar meus pedidos de medicamentos, _para_ que eu tenha uma visualização melhor dos meus pedidos de medicamentos. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos" e clicou em "Pedidos",</li><li>_Quando_ ele clicar em "Filtrar",</li><li>_Então_ o aplicativo deve exibir os filtros aplicáveis, dentre os quais poderão ser:<ul><li>"Em processamento".</li><li>"A caminho".</li></ul></ul></li></ul> |
@@ -860,14 +860,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU49 - Realizar Pedidos de Medicamentos
+### HU44 - Realizar Pedidos de Medicamentos
 
-??? note "Tabela 51 – História de Usuário Realizar Pedidos de Medicamentos"
+??? note "Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos"
     <div align="center">
-        <p><strong>Tabela 51 – História de Usuário Realizar Pedidos de Medicamentos</strong></p>
+        <p><strong>Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos</strong></p>
     </div>
 
-    | **HU49**                  | Realizar Pedidos de Medicamentos |
+    | **HU44**                  | Realizar Pedidos de Medicamentos |
     | ------------------------- | -------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar pedidos de medicamentos, _para_ que eu possa garantir a continuidade do meu tratamento. |
     | **Critério de Aceitação** | <ul><li>_Dado que_ o paciente acessou a seção de "Medicamentos",</li><li>_Quando_ ele clicar em "Fazer Pedido",</li><li>_Então_ o aplicativo deve exibir um formulário para que o paciente possa realizar um novo pedido de medicamentos. O formulário deverá apresentar as seguintes opções:<ul><li>Um campo com uma lista de farmácias cadastradas.</li><li>Um campo com uma lista de medicamentos e a quantidade.</li><li>Um campo com a forma de entrega (retirar na farmácia ou entrega em domicílio).</li></ul></li></ul> |
@@ -878,14 +878,14 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU50 - Visualizar Histórico de Vacinação Pré-Pandemia
+### HU45 - Visualizar Histórico de Vacinação Pré-Pandemia
 
-??? note "Tabela 52 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia"
+??? note "Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia"
     <div align="center">
-        <p><strong>Tabela 52 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</strong></p>
+        <p><strong>Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</strong></p>
     </div>
 
-    | **HU50**                  | Visualizar Histórico de Vacinação Pré-Pandemia |
+    | **HU45**                  | Visualizar Histórico de Vacinação Pré-Pandemia |
     | ------------------------- | ---------------------------------------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ visualizar meu histórico de vacinação pré-pandemia, _para_ que eu possa ter um registro das vacinas que eu tomei antes desse período. |
     | **Critério de Aceitação** | - |
@@ -896,11 +896,11 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-### HU51 - Consultar Receitas Médicas
+### HU46 - Consultar Receitas Médicas
 
-??? note "Tabela 53 – História de Usuário Consultar Receitas Médicas"
+??? note "Tabela 46 – História de Usuário Consultar Receitas Médicas"
     <div align="center">
-        <p><strong>Tabela 53 – História de Usuário Consultar Receitas Médicas</strong></p>
+        <p><strong>Tabela 48 – História de Usuário Consultar Receitas Médicas</strong></p>
     </div>
 
     | **HU51**                  | Consultar Receitas Médicas |
