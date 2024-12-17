@@ -104,7 +104,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------- |
     | **Declaração**            | Eu, _como_ paciente, _desejo_ realizar login por meio de uma conta Gov.br _para_ acessar meus dados no aplicativo. |
     | **Critério de Aceitação** | _Dado que_ o paciente possui uma conta Gov.br, _quando_ acessar a página de login pelo aplicativo, _então_ será possível autenticar-se usando as credenciais Gov.br. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Muito Alta |
     | **Rastreabilidade**       | [RF1](../elicitacao/requisitos-elicitados.md#RF1) |
 
     <div align="center">
@@ -123,7 +123,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de vacinas _para_ esclarecer minhas dúvidas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Vacinas, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre vacinas. |
-    | **Prioridade**            | Alta |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF2](../elicitacao/requisitos-elicitados.md#RF2) |
 
     <div align="center">
@@ -141,7 +141,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar minha Carteira Nacional de Vacinação Digital _para_ visualizar minhas vacinas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de vacinação e clicar em "Acessar", _então_ será exibida sua Carteira Nacional de Vacinação Digital. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF3](../elicitacao/requisitos-elicitados.md#RF3) |
 
     <div align="center">
@@ -159,7 +159,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ selecionar o idioma da minha Carteira Nacional de Vacinação Digital _para_ facilitar sua compreensão em outros países. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ escolher o idioma desejado, _então_ o documento será exibido no idioma selecionado. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF4](../elicitacao/requisitos-elicitados.md#RF4) |
 
     <div align="center">
@@ -177,7 +177,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ realizar o download da minha Carteira Nacional de Vacinação Digital _para_ mantê-la armazenado no meu dispositivo celular. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, _quando_ clicar no botão de "Exportar documento", _então_ o documento será baixado no formato PDF. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Alta |
     | **Rastreabilidade**       | [RF5](../elicitacao/requisitos-elicitados.md#RF5) |
 
     <div align="center">
@@ -195,7 +195,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ exportar meu Certificado de Vacinação Nacional de Covid-19 _para_ mantê-lo armazenado no meu dispositivo celular. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Certificado de Vacinação Nacional de Covid-19, _quando_ clicar no botão de exportação, _então_ o certificado será exportado no formato escolhido. |
-    | **Prioridade**            | Alta |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF75](../elicitacao/requisitos-elicitados.md#RF75) |
 
     <div align="center">
@@ -213,7 +213,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | -------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar meu histórico de vacinas _para_ verificar quais já tomei. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Histórico de vacinas, _então_ será exibida a lista de vacinas recebidas. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF6](../elicitacao/requisitos-elicitados.md#RF6) |
 
     <div align="center">
@@ -231,7 +231,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ acessar os detalhes de cada vacina que tomei _para_ entender mais sobre elas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Histórico de vacinas, _quando_ clicar em uma vacina específica, _então_ os detalhes dessa vacina serão exibidos. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF7](../elicitacao/requisitos-elicitados.md#RF7) |
 
     <div align="center">
@@ -249,7 +249,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ----------------------------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ obter ajuda informativa sobre a seção de Exames _para_ esclarecer dúvidas sobre meus exames. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na seção de Exames, _quando_ clicar no botão de ajuda, _então_ será exibida uma página com informações relevantes e úteis sobre tal seção. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF8](../elicitacao/requisitos-elicitados.md#RF8) |
 
     <div align="center">
@@ -267,7 +267,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ---------------------- |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar meus exames laboratoriais realizados _para_ acompanhar os resultados. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja autenticado, _quando_ acessar a seção de Exames, _então_ será exibida a lista de exames realizados. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Média |
     | **Rastreabilidade**       | [RF9](../elicitacao/requisitos-elicitados.md#RF9) |
 
     <div align="center">
@@ -285,7 +285,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
     | ------------------------- | ------------------ |
     | **Declaração**            | Eu, _como_ usuário, _desejo_ visualizar os detalhes de cada exame _para_ entender os resultados e informações associadas. |
     | **Critério de Aceitação** | _Dado que_ o usuário esteja na lista de exames, _quando_ clicar em um exame específico, _então_ os detalhes desse exame serão exibidos. |
-    | **Prioridade**            |  |
+    | **Prioridade**            | Baixa |
     | **Rastreabilidade**       | [RF10](../elicitacao/requisitos-elicitados.md#RF10)                                                      |
 
     <div align="center">
@@ -873,9 +873,9 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `1.9` | Validação, Priorização e adicionando video das HU 12 a 21. | [Pedro Lopes](https://github.com/pLopess) | 15/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |
 | `2.0` | Adição de bibliografias utilizadas como base para confecção do documento. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
 | `2.1` | Adição de breve introdução. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/12/2024 |  |  |
-| `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
-| `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 |  |  |
-| `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
-| `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 |  |  |
-
+| `2.2` | Coreções e ajuste de historias de usuarios |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.3` | coreções, Validação, Priorização e adicionando video das HU 22 a 31. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.4` | Adição das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `2.6` | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
 
