@@ -10,7 +10,13 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 
 <center>
 
-**Tabela X** - Backlog do Produto.
+ Backlog do Produto.
+
+</center>
+
+
+<center>
+
 
 <table>
   <thead>
@@ -128,7 +134,7 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
     </tr>
     <!-- Épico 5 -->
     <tr>
-      <td rowspan="11">Épico 5 - Padronização e Usabilidade</td>
+      <td rowspan="21">Épico 5 - Padronização e Usabilidade</td>
       <td rowspan="5">Feature 9 - Interface Intuitiva</td>
       <td>HU3 - Acesso à Carteira Nacional de Vacinação Digital</td>
       <td>Alta</td>
@@ -175,6 +181,7 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
       <td>Média</td>
     </tr>
     <tr>
+      <td rowspan="10">Feature 11 - Serviços Complementares</td>
       <td>HU29 - Agendar Consultas Médicas ou Exames</td>
       <td>Muito Alta</td>
     </tr>
@@ -216,6 +223,7 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
     </tr>
   </tbody>
 </table>
+
 
 </center>
 
@@ -283,3 +291,4 @@ As features são divisões mais específicas dos épicos, representando funciona
 | `1.0`  | Criação do Documento. | [Pedro Lopes](https://github.com/pLopess) | 14/12/2024 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |
 | `1.1`  | Adição de tabelas e epicos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 15/12/2024 |  |  |
 | `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |
+| `1.3`  | Correção da tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 |  |  |
