@@ -824,7 +824,7 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
       <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
     </div>
 
-## Validação/Priorização das Histórias de Usuário
+## Validação e Priorização das Histórias de Usuário
 
 <div align="center">
   <p><strong>Vídeo 1 – Validação e Priorização da HU1 até a HU11</strong></p>
@@ -872,6 +872,22 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
   <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
+---
+
+<div align="center">
+  <p><strong>Vídeo 4 – Validação e Priorização da HU32 até a HU41</strong></p>
+</div>
+
+<center>
+
+<incorporar>
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
 ## 📚 Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
@@ -901,4 +917,4 @@ Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas po
 | `2.5` | Priorização das histórias de usuário 42 a 51. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 16/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 | `2.6` | Priorização das histórias de usuário de 1 a 11. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
 | `2.7` | Criação da seção referente à validação/priorização das histórias de usuário. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
-
+| `2.8` | Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
