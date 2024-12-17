@@ -6,11 +6,56 @@ O Backlog do Produto é uma lista organizada e priorizada que reúne todas as ta
 
 ## Metodologia
 
-Após a elicitação das histórias de usuário, foram definidos os critérios de aceitação e as prioridades de cada uma delas, classificadas pelo PO como baixa, média, alta ou muito alta. Em seguida, temas, épicos e features foram estabelecidos para organizar e categorizar as histórias de usuário. A Tabela X ilustra o backlog do produto, o restante deste documento aprofunda o processo de definição de temas, épicos e features, bem como o significado de cada um desses termos. Os detalhes de cada história de usuário podem ser encontrados pela rastreabilidade na tabela que levará ao artefato específico de Histórias de Usuários.
+Após a elicitação das histórias de usuário, foram definidos os critérios de aceitação e as prioridades de cada uma delas, classificadas pelo PO como baixa, média, alta ou muito alta. Em seguida, temas, épicos e features foram estabelecidos para organizar e categorizar as histórias de usuário. A Tabela 2 ilustra o backlog do produto, o restante deste documento aprofunda o processo de definição de temas, épicos e features, bem como o significado de cada um desses termos. Os detalhes de cada história de usuário podem ser encontrados pela rastreabilidade na tabela que levará ao artefato específico de Histórias de Usuários.
 
 <center>
 
- Backlog do Produto.
+**Tabela 1** - Participantes da entrevista.
+
+| **Participante**                                        | **Função**     |
+| :------------------------------------------------------ | :------------- |
+| <span style = "color: orange"> Rosane</span>          | Product Owner  |
+| [Pedro Lopes](https://github.com/pLopess)            | Desenvolvedor  |
+
+
+Autor: [Pedro Lopes](https://github.com/pLopess).
+
+</center>
+
+### Validação e Priorização Backlog do Produto
+
+<div align="center">
+  <p><strong>Vídeo 1 – Backlog</strong></p>
+</div>
+
+<center>
+
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+<div align="center">
+  <p><strong>Vídeo 2 – Validação e Priorização do Backlog</strong></p>
+</div>
+
+<center>
+
+
+</center>
+
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+
+<center>
+
+ **Tabela 2** - Backlog do Produto.
 
 </center>
 
@@ -226,7 +271,6 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 
 
 <div align="center">
-    <p><strong>Apresentação Entrega 2</strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
@@ -236,6 +280,7 @@ Após a elicitação das histórias de usuário, foram definidos os critérios d
 ## Temas
 
 Após analisar as Historias de Usuário identificamos os seguintes temas:
+
 - **Funcionalidades**: Refere-se aos recursos que o sistema precisa oferecer para que o usuário possa desempenhar suas atividades de forma eficiente.  
 - **Perfil**: Trata das características voltadas à adaptação do sistema às preferências e demandas específicas de cada usuário.
 
@@ -299,3 +344,4 @@ As features são divisões mais específicas dos épicos, representando funciona
 | `1.2`  | Adição de HUs na tabelaba de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.3`  | Correção da tabela de Backlog. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.4`  | Criação de Temas. | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |  |  |
+
