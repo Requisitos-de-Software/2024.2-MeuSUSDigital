@@ -8,7 +8,7 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 ## Vídeo da apresentação 04
 
 
-<incorporar>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q13c6_0DwYc?si=rlncZcPsK0x29f8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <div align="center">
@@ -23,3 +23,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `1.1`  | Disponibilização do vídeo da apresentação referente à Etapa 4.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
