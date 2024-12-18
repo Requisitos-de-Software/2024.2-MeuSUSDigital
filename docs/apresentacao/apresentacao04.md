@@ -22,4 +22,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 ## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento.  | [Emivalto Júnior](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |  |  |
