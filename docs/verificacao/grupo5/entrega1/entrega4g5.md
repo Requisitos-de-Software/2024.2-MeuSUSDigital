@@ -33,65 +33,65 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     <tr>
       <td>1</td>
       <td>O histórico de versão padronizado?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>2</td>
       <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>4</td>
       <td>As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Um texto fazendo uma introdução dos artefatos?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>6</td>
       <td>O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção realização do artefato/atividade?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)?</td>
-      <td></td>
+      <td>Não</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>8</td>
       <td>A gravação da reunião do grupo?</td>
-      <td></td>
+      <td>Não</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Vídeo de apresentação na categoria “não listado” no youtube?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
   </tbody>
   <tbody>
@@ -101,114 +101,114 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     <tr>
       <td><a id="REF1" href="#anchor_1">1</a></td>
       <td>As Histórias de Usuário?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Os títulos das histórias de usuário são auto-explicativo?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>3</td>
       <td>O “quem”, “o que” e o “por que” estão definidos na história de usuário?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>4</td>
       <td>A participação do cliente e/ou persona na validação das histórias de usuário?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF2" href="#anchor_2">5</a></td>
       <td>A história possui critérios de aceitação?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>6</td>
       <td>A participação do cliente e/ou persona na elicitação de requisitos?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Todas as histórias de usuários podem ser testadas?</td>
-      <td></td>
+      <td>Incompleto, alguns critérios de aceitação são pouco descritivos dificultando o teste.</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF3" href="#anchor_3">8</a></td>
       <td>O backlog?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>9</td>
       <td>O backlog possui épicos e temas bem definidos e descritos?</td>
-      <td></td>
+      <td>Incompleto, temas não estão definidos.</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>10</td>
       <td>As Histórias de Usuário seguem algum modelo ou padrão?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF5" href="#anchor_5">11</a></td>
       <td>NFR Framework?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>12</td>
       <td>A definição do RNF e as fontes de evidência na literatura?</td>
-      <td></td>
+      <td>Incompleto, faltam as fontes de evidência.</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>13</td>
       <td>O cartão de especificação do RNF?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF7" href="#anchor_7">14</a></td>
       <td>Os softgoals condizem com o contexto?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Softgoals representam metas bem definidas?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>16</td>
       <td>Os impactos foram corretamente propagados?</td>
-      <td></td>
+      <td>Sim</td>
       <td>André Barros</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
   </tbody>
   <tbody>
@@ -218,37 +218,37 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     <tr>
       <td>Q1</td>
       <td>As histórias de usuário possuem rastreabilidade?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Artur Ricardo</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>Q2</td>
       <td>As histórias de usuário no backlog estão priorizadas de acordo com a importância para o negócio e o usuário?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Emivalto Júnior</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td>Q3</td>
       <td>Os épicos derivam mais de uma <em>feature</em>?</td>
-      <td></td>
+      <td>Sim</td>
       <td>João Pedro</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF8" href="#anchor_8">Q4</a></td>
       <td>O NFR Framework possui os 3 tipos de <em>softgoals</em>?</td>
-      <td></td>
+      <td>Incompleto, falta o soft goal de afirmação (foi apenas citado e não aplicado).</td>
       <td>Matheus Henrick</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
     <tr>
       <td><a id="REF9" href="#anchor_9">Q5</a></td>
       <td>Os refinamentos do NFR Framework estão descritos da forma correta?</td>
-      <td></td>
+      <td>Incompleto, faltaram as linhas contínuas para os refinamentos.</td>
       <td>Pedro Lopes</td>
-      <td></td>
+      <td>18/12/2024 17:10</td>
     </tr>
   </tbody>
 </table>
@@ -266,7 +266,10 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 ## Gravação da Inspeção do Grupo 5
 
-<incorporar>
+</center>
+
+<center>
+  
 
 </center>
 
@@ -305,3 +308,4 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
+| `1.1`  | Respostas da lista de verificação e gravação. | [Pedro Lopes](https://github.com/pLopess)  | 18/12/2024 |  |  |
