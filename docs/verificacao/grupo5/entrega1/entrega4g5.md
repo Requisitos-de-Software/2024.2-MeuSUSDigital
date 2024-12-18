@@ -266,8 +266,6 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 ## Gravação da Inspeção do Grupo 5
 
-</center>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7R85CIQk0js?si=-vYHtl49iRIKFzCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
@@ -308,4 +306,4 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 | `1.1`  | Respostas da lista de verificação. | [Pedro Lopes](https://github.com/pLopess)  | 18/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 18/12/2024 |
-| `1.2`  | Disponibilização do vídeo referente à avaliação do Grupo 5. | [Artur Ricardo](https://github.com/algorithmorphic) | 18/12/2024 |  |  |
+| `1.2`  | Disponibilização do vídeo referente à avaliação do Grupo 5. | [Artur Ricardo](https://github.com/algorithmorphic) | 18/12/2024 | [João Pedro](https://github.com/JoosPerro) | 18/12/2024 |
