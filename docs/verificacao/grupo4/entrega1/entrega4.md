@@ -266,7 +266,7 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 ## Gravação da Inspeção do Grupo 4
 
-<incorporar>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BL9Bo6t--vI?si=fq4w1d2qdOcIQYRm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
