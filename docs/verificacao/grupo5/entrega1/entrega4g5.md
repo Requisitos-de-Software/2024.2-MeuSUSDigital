@@ -268,13 +268,12 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 </center>
 
-<center>
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7R85CIQk0js?si=-vYHtl49iRIKFzCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
 <div align="center">
-  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></p>
+  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick.</a></p>
 </div>
 
 
@@ -308,4 +307,5 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
-| `1.1`  | Respostas da lista de verificação e gravação. | [Pedro Lopes](https://github.com/pLopess)  | 18/12/2024 |  |  |
+| `1.1`  | Respostas da lista de verificação. | [Pedro Lopes](https://github.com/pLopess)  | 18/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 18/12/2024 |
+| `1.2`  | Disponibilização do vídeo referente à avaliação do Grupo 5. | [Artur Ricardo](https://github.com/algorithmorphic) |  |  |
