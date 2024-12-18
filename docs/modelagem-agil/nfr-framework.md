@@ -74,8 +74,6 @@ O tipo de catálogo escolhido foi o de tipos de RNF, onde os RNFs são organizad
 > <a id="REFBIB1" href="#anchor_bib_1">1.</a>  CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MYLOPOULOS, Jhon. **Non-Functional Requirements in Software Engineering**. 1st ed. New York: Springer Science+Business Media. 2000.
 > 
 
-## 📚 Bibliografia
-
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
