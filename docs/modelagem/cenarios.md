@@ -255,7 +255,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.0`  | Criação do Documento | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.1`  | Adicionando Bibliografia | [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.2`  | Criação dos cenários 1, 2 e 3. | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
 | `1.3`  | Criação do cenário 4. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |

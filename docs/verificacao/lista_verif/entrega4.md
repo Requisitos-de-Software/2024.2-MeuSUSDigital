@@ -231,4 +231,4 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
 | `1.1`  | Adição da referência. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 17/12/2024 |
-| `1.2`  | Adição das âncoras. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |  |  |
+| `1.2`  | Adição das âncoras. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |

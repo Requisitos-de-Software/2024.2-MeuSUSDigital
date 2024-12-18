@@ -68,4 +68,4 @@ _Autor: Pedro Lopes_
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 |  |  |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |

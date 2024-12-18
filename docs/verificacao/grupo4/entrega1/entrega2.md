@@ -70,5 +70,5 @@ _Autor: Pedro Lopes._
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
 | `1.1`  | Criação do documento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
-| `1.2`  | Correção de erros. | [Emivalto Junio](https://github.com/EmivaltoJrr) | 30/11/2024 |  |  |
+| `1.2`  | Correção de erros. | [Emivalto Junio](https://github.com/EmivaltoJrr) | 30/11/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 |
 
