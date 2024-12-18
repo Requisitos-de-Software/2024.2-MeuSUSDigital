@@ -52,13 +52,13 @@
 
 ## Gravação da Reunião
 
-*adicionar gravação aqui.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09LSuPpvnE8?si=14lHGTvdW5X1w235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
 <div align="center">
     <p><strong>Reunião 05 <em></em></strong></p>
-    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
 ## Pautas Planejadas para a Próxima Reunião
