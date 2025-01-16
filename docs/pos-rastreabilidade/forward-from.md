@@ -43,14 +43,16 @@ A tabela 1 representa a legenda para as siglas que serão utilizadas.
 
 | Tipo | Descrição |
 | :--: | --------- |
-| RF   |  Requisito Funcional |
-| RNF  |  Requisito Não Funcional |
-| ADn  | n-ésimo Requisito elicitado pela técnica de Análise de Documentos |
-| ENn  | n-ésimo Requisito elicitado pela técnica de Entrevista |
-| GFn  | n-ésimo Requisito elicitado pela técnica de Grupo de Foco         |
-| INTn | n-ésimo Requisito elicitado pela técnica de Introspecção          |
-| OBSn | n-ésimo Requisito elicitado pela técnica de Observação            |
-| QUEn | n-ésimo Requisito elicitado pela técnica de Questionário          |
+| RFn   | n-ésimo Requisito Funcional |
+| RNFn  | n-ésimo Requisito Não Funcional |
+| EPn | n-ésimo Épico |
+| FTn | n-ésima Feature |
+| HSn | n-ésima História de usuário |
+| Ln | n-ésimo Léxico |
+| UCn | n-ésimo Caso de Uso |
+| CENn | n-ésimo Cenário |
+| F, U, R, AD | Especificação de Uso |
+| NFRn | n-ésimo NFR |
 | FFn  | n-ésimo item referente ao Foward From                             |
 | ELOFn | n-ésimo item referente ao elo do Foward From                     |
 
@@ -68,9 +70,9 @@ A tabela 2 representa a matriz de rastreabilidade em que as linhas representam o
     <p><strong>Tabela 2 – Matriz de Rastreabilidade Foward From</strong></p>
 </div>
 
-| ID  | Tipo | Implementado | Épico | Tema | História de usuário | Léxico | Caso de Uso | Cenário | Especificação Suplementar | NFR Framework |
-| :-: | :--: | ------------ | ----- | ---- | ------------------- | ------ | ----------- | ------- | ------------------------- | ------------- |
-| FF1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| ID  | Código | Implementado | Épico | Feature | História de usuário | Léxico | Caso de Uso | Cenário | Especificação Suplementar | NFR Framework |
+| :-: | :--: | ------------ | ----- | ------- | ------------------- | ------ | ----------- | ------- | ------------------------- | ------------- |
+| FF1 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Sim | [EP4]() | [FT8]() | [HU12](../modelagem-agil/historias-de-usuario.md#hu12---exportação-de-resultado-de-exame) | 7 | 8 | 9 | 10 | 11 |
 
 <div align="center">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
