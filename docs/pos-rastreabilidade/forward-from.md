@@ -32,10 +32,11 @@ Para consolidar o meta-modelo de Toranzo, as Tabelas 1 e 2 apresentam os element
 
 ## Matriz de rastreabilidade Forward-From
 
-A tabela 1 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representa o artefato criado a partir do requisito.
+A tabela 1 representa a legenda para as siglas que serão utilizadas.
+
 
 <div align="center">
-    <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
+    <p><strong>Tabela 1 – Legenda para cada sigla utilizada nas tabelas 2 e 3.</strong></p>
 </div>
 
 <center>
@@ -51,6 +52,7 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
 | OBSn | n-ésimo Requisito elicitado pela técnica de Observação            |
 | QUEn | n-ésimo Requisito elicitado pela técnica de Questionário          |
 | FFn  | n-ésimo item referente ao Foward From                             |
+| ELOFn | n-ésimo item referente ao elo do Foward From                     |
 
 </center>
 
@@ -58,6 +60,38 @@ A tabela 1 representa a matriz de rastreabilidade em que as linhas representam o
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
+
+
+A tabela 2 representa a matriz de rastreabilidade em que as linhas representam os requisitos e cada coluna representa o artefato criado a partir do requisito.
+
+<div align="center">
+    <p><strong>Tabela 2 – Matriz de Rastreabilidade Foward From</strong></p>
+</div>
+
+| ID  | Tipo | Implementado | Épico | Tema | História de usuário | Léxico | Caso de Uso | Cenário | Especificação Suplementar | NFR Framework |
+| :-: | :--: | ------------ | ----- | ---- | ------------------- | ------ | ----------- | ------- | ------------------------- | ------------- |
+| FF1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+
+## Elos
+
+A tabela 3 apresenta os elos entre os requisitos elicitados e os artefatos definidos nos forward-from.
+
+<div align="center">
+    <p><strong>Tabela 3 – Elos de rastreabilidade Foward From</strong></p>
+</div>
+
+| Elo  | ID | Satisfação | Recurso | Representação | Alocado | Agregação |
+| :-: | :--:| ---------- | ------- | ------------- | ------- | --------- |
+| ELOF1 |  |  |  |  |  |  |
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
 
 
 ## Referências Bibliográficas
