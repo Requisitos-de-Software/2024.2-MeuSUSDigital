@@ -37,6 +37,7 @@
 |--------|-------------|-------|
 | Adicionar Matriz de Rastreabilidade Forward-from | Todos: Artur, Emivalto, Matheus, Pedro e João  | 17/01/2025 |
 | Adicionar Matriz de Rastreabilidade Backward-from | Todos: Artur, Emivalto, Matheus, Pedro e João | 17/01/2025 |
+| Criar uma lista de verificação com pelo menos três questões | Todos: Artur, Emivalto, Matheus, Pedro e João | 17/01/2025 |
 | Criar a Matriz de Rastreabilidade que reúne as duas anteriores | Todos: Artur, Emivalto, Matheus, Pedro e João | 18/01/2025 |
 
 ## Pautas Planejadas para a Próxima Reunião
