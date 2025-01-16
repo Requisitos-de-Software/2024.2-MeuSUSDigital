@@ -107,3 +107,4 @@ A tabela 3 apresenta os elos entre os requisitos elicitados e os artefatos defin
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 | | |
+| `1.1`  | Adicionando tabelas |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 | | |
