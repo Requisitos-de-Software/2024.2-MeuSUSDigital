@@ -69,9 +69,11 @@ A tabela 2 representa a matriz de rastreabilidade em que as linhas representam o
     <p><strong>Tabela 2 – Matriz de Rastreabilidade Foward From</strong></p>
 </div>
 
-| ID  | Código | Implementado | Épico | Feature | História de usuário | Léxico | Caso de Uso | Cenário | Especificação Suplementar |
-| :-: | :--: | ------------ | ----- | ------- | ------------------- | ------ | ----------- | ------- | ------------------------- |
-| FF1 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Sim | [EP4](../modelagem-agil/backlog.md#epico-4-seguranca-e-privacidade) | [FT8](../modelagem-agil/backlog.md) | [HU12](../modelagem-agil/historias-de-usuario.md) | - | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| ID  | Código | Implementado | Épico | Feature | História de usuário | Caso de Uso | Cenário | Especificação Suplementar |
+| :-: | :--: | ------------ | ----- | ------- | ------------------- | ----------- | ------- | ------------------------- |
+| FF1 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Sim | [EP4](../modelagem-agil/backlog.md#epico-4-seguranca-e-privacidade) | [FT8](../modelagem-agil/backlog.md) | [HU12](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF2 | [RF12](../elicitacao/requisitos-elicitados.md#RF12) | Sim | [EP3](../modelagem-agil/backlog.md#épico-3---acessibilidade) | [FT6](../modelagem-agil/backlog.md) | [HU13](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md#especificação-de-casos-de-uso) | [CEN7](../modelagem/cenarios.md#cenário-7) | [F, U](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF3 | [RF13](../elicitacao/requisitos-elicitados.md#RF13) | Sim | [EP1](../modelagem-agil/backlog.md#épico-1---acesso-a-serviços) | [FT2](../modelagem-agil/backlog.md) | [HU14](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md#especificação-de-casos-de-uso) | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
 
 <div align="center">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
