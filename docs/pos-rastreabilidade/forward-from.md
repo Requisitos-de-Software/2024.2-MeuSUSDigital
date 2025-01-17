@@ -51,7 +51,7 @@ A tabela 1 representa a legenda para as siglas que serão utilizadas.
 | Ln | n-ésimo Léxico |
 | UCn | n-ésimo Caso de Uso |
 | CENn | n-ésimo Cenário |
-| F, U, R, AD | Especificação de Uso |
+| F, U, R, AD | Tipos de Especificação de Uso |
 | FFn  | n-ésimo item referente ao Foward From                             |
 | ELOFn | n-ésimo item referente ao elo do Foward From                     |
 
@@ -69,11 +69,21 @@ A tabela 2 representa a matriz de rastreabilidade em que as linhas representam o
     <p><strong>Tabela 2 – Matriz de Rastreabilidade Foward From</strong></p>
 </div>
 
-| ID  | Código | Implementado | Épico | Feature | História de usuário | Caso de Uso | Cenário | Especificação Suplementar |
+| ID  | Requisito | Implementado | Épico | Feature | História de usuário | Caso de Uso | Cenário | Especificação Suplementar |
 | :-: | :--: | ------------ | ----- | ------- | ------------------- | ----------- | ------- | ------------------------- |
-| FF1 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Sim | [EP4](../modelagem-agil/backlog.md#epico-4-seguranca-e-privacidade) | [FT8](../modelagem-agil/backlog.md) | [HU12](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
-| FF2 | [RF12](../elicitacao/requisitos-elicitados.md#RF12) | Sim | [EP3](../modelagem-agil/backlog.md#épico-3---acessibilidade) | [FT6](../modelagem-agil/backlog.md) | [HU13](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md#especificação-de-casos-de-uso) | [CEN7](../modelagem/cenarios.md#cenário-7) | [F, U](../modelagem/especificacao-suplementar.md#funcionalidade) |
-| FF3 | [RF13](../elicitacao/requisitos-elicitados.md#RF13) | Sim | [EP1](../modelagem-agil/backlog.md#épico-1---acesso-a-serviços) | [FT2](../modelagem-agil/backlog.md) | [HU14](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md#especificação-de-casos-de-uso) | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF1 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Sim | [EP4](../modelagem-agil/backlog.md) | [FT8](../modelagem-agil/backlog.md) | [HU12](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF2 | [RF12](../elicitacao/requisitos-elicitados.md#RF12) | Sim | [EP3](../modelagem-agil/backlog.md) | [FT6](../modelagem-agil/backlog.md) | [HU13](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md) | [CEN7](../modelagem/cenarios.md) | [F, U](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF3 | [RF13](../elicitacao/requisitos-elicitados.md#RF13) | Sim | [EP1](../modelagem-agil/backlog.md) | [FT2](../modelagem-agil/backlog.md) | [HU14](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md) | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF4 | [RF14](../elicitacao/requisitos-elicitados.md#RF14) | Sim | [EP1](../modelagem-agil/backlog.md) | [FT2](../modelagem-agil/backlog.md) | [HU15](../modelagem-agil/historias-de-usuario.md) | - | [CEN6](../modelagem/cenarios.md) | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF5 | [RF15](../elicitacao/requisitos-elicitados.md#RF15) | Sim | - | - | [HU16](../modelagem-agil/historias-de-usuario.md) | [UC3](../modelagem/caso-de-uso.md) | [CEN6](../modelagem/cenarios.md) | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF6 | [RF16](../elicitacao/requisitos-elicitados.md#RF16) | Sim | [EP4](../modelagem-agil/backlog.md) | [FT7](../modelagem-agil/backlog.md) | [HU17](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF7 | [RF17](../elicitacao/requisitos-elicitados.md#RF17) | Sim | [EP5](../modelagem-agil/backlog.md) | [FT11](../modelagem-agil/backlog.md) | [HU18](../modelagem-agil/historias-de-usuario.md) | [UC5](../modelagem/caso-de-uso.md) | [CEN7](../modelagem/cenarios.md) | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF8 | [RF18](../elicitacao/requisitos-elicitados.md#RF18) | Sim | [EP3](../modelagem-agil/backlog.md) | [FT6](../modelagem-agil/backlog.md) | [HU19](../modelagem-agil/historias-de-usuario.md) | - | - | [F, U](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF9 | [RF19](../elicitacao/requisitos-elicitados.md#RF19) | Sim | [EP4](../modelagem-agil/backlog.md) | [FT7](../modelagem-agil/backlog.md) | [HU20](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+| FF10 | [RF20](../elicitacao/requisitos-elicitados.md#RF20) | Sim | [EP4](../modelagem-agil/backlog.md) | [FT7](../modelagem-agil/backlog.md) | [HU21](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
+
+
+<div align="center">
 
 <div align="center">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
@@ -111,3 +121,4 @@ A tabela 3 apresenta os elos entre os requisitos elicitados e os artefatos defin
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 | | |
 | `1.1`  | Adicionando tabelas |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 | | |
+| `1.1`  | Preenchendo tabela FF |[Pedro Lopes](https://github.com/pLopess) | 17/01/2025 | | |
