@@ -83,11 +83,12 @@ A tabela 2 representa a matriz de rastreabilidade em que as linhas representam o
 | FF10 | [RF20](../elicitacao/requisitos-elicitados.md#RF20) | Sim | [EP4](../modelagem-agil/backlog.md) | [FT7](../modelagem-agil/backlog.md) | [HU21](../modelagem-agil/historias-de-usuario.md) | - | - | [F](../modelagem/especificacao-suplementar.md#funcionalidade) |
 
 
-<div align="center">
 
 <div align="center">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
+
+
 
 
 ## Elos
