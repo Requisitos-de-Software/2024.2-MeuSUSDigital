@@ -83,4 +83,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação da estrutura inicial do documento referente ao Backward From. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 |  |  |
-| `1.1`  | Atualização da bibliografia. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 |  |  |
+| `1.1`  | Atualização da bibliografia. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/01/2025 |  |  |
