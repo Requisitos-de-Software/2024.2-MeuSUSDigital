@@ -71,7 +71,11 @@
 ## Conclusão
 
 
-## 📚 Referência Bibliográfica
+## 📚 Bibliografia
+
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. _Engenharia de Requisitos: software orientado ao negócio_. Rio de Janeiro: Brasport, 2016.
+>
+> WIEGERS, Karl; BEATTY, Joy. _Software Requirements. Third Edition_. Redmond, WA: Microsoft Press, 2013.
 
 
 ## 📑 Histórico de Versões
@@ -79,3 +83,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação da estrutura inicial do documento referente ao Backward From. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 |  |  |
+| `1.1`  | Atualização da bibliografia. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 |  |  |
