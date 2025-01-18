@@ -29,15 +29,15 @@ A partir da sessão de grupo de foco, requisitos foram elicitados e documentados
 
 | Tipo | Rastreamento | Descrição | Implementado |
 | :-:  | :----------: | :-------: | :----------: |
-| RF 01 | GF01 | O aplicativo mostra o histórico de vacinação pré-pandemia | Não |
-| RF 02 | GF02 | O aplicativo deve oferece agendamento de consultas e exames | Não |
-| RF 03 | GF03 | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | Não |
-| RF 04 | GF04 | O aplicativo permite consultar receitas médicas | Não |
-| RF 05 | GF05 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados à patologias que eles venham a ter | Não |
-| RF 06 | GF06 | O aplicativo pode destacar conteúdos pertinentes à um estado para usuários desse estado | Não |
-| RF 07 | GF07 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | Não |
-| RNF 08 | GF08 | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB | Não |
-| RNF 09 | GF09 | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica | Não |
+| RF 01 | <a id="GF01"></a>GF01 | O aplicativo mostra o histórico de vacinação pré-pandemia | Não |
+| RF 02 | <a id="GF02"></a>GF02 | O aplicativo deve oferece agendamento de consultas e exames | Não |
+| RF 03 | <a id="GF03"></a>GF03 | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | Não |
+| RF 04 | <a id="GF04"></a>GF04 | O aplicativo permite consultar receitas médicas | Não |
+| RF 05 | <a id="GF05"></a>GF05 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados à patologias que eles venham a ter | Não |
+| RF 06 | <a id="GF06"></a>GF06 | O aplicativo pode destacar conteúdos pertinentes à um estado para usuários desse estado | Não |
+| RF 07 | <a id="GF07"></a>GF07 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | Não |
+| RNF 08 | <a id="GF08"></a>GF08 | A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB | Não |
+| RNF 09 | <a id="GF09"></a>GF09 | O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica | Não |
 
 </center>
 

@@ -81,21 +81,21 @@ A partir da revisão da entrevista, requisitos foram elicitados e documentados. 
 | Tipo | Rastreamento | Descrição | Implementado |
 | :-:  | :----------: | :-------: | :----------: |
 | RNF  | <a id="EN01"></a>EN01 | A aplicação pode receber informações do usuário através de biosensores | Não |
-| RF   | <a id="EN02">EN02 | A aplicação permite agendar consultas | Não |
-| RF   | <a id="EN03">EN03 | A aplicação permite agendar exames | Não |
-| RF   | <a id="EN04">EN04 | a aplicação permite ao servidor solicitar licença saúde | Não |
-| RF   | <a id="EN05">EN05 | A aplicação permite acompanhar o andamento de solicitações (licença, medicamentos) | Não |
-| RF   | <a id="EN06">EN06 | A aplicação permite acompanhar a vacinação | Sim |
-| RF   | <a id="EN07">EN07 | A aplicação permite consultar pedidos de medicamento | Não |
-| RF   | <a id="EN08">EN08 | A aplicação permite consultar recebimentos de medicamento | Sim |
-| RF   | <a id="EN09">EN09 | A aplicação permite consultar os agendamentos de exames | Sim |
-| RF   | <a id="EN10">EN10 | A aplicação permite consultar os resultados de exames | Sim |
-| RF   | <a id="EN11">EN11 | A aplicação notifica o cancelamento de agentamentos | Não |
-| RF   | <a id="EN12">EN12 | A aplicação permite realizar pedidos de medicamento | Não |
-| RF   | <a id="EN13">EN13 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento | Não |
-| RNF  | <a id="EN14">EN14 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas | Não |
-| RNF  | <a id="EN15">EN15 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos | Não |
-| RNF  | <a id="EN16">EN16 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica | Não |
+| RF   | <a id="EN02"></a>EN02 | A aplicação permite agendar consultas | Não |
+| RF   | <a id="EN03"></a>EN03 | A aplicação permite agendar exames | Não |
+| RF   | <a id="EN04"></a>EN04 | a aplicação permite ao servidor solicitar licença saúde | Não |
+| RF   | <a id="EN05"></a>EN05 | A aplicação permite acompanhar o andamento de solicitações (licença, medicamentos) | Não |
+| RF   | <a id="EN06"></a>EN06 | A aplicação permite acompanhar a vacinação | Sim |
+| RF   | <a id="EN07"></a>EN07 | A aplicação permite consultar pedidos de medicamento | Não |
+| RF   | <a id="EN08"></a>EN08 | A aplicação permite consultar recebimentos de medicamento | Sim |
+| RF   | <a id="EN09"></a>EN09 | A aplicação permite consultar os agendamentos de exames | Sim |
+| RF   | <a id="EN10"></a>EN10 | A aplicação permite consultar os resultados de exames | Sim |
+| RF   | <a id="EN11"></a>EN11 | A aplicação notifica o cancelamento de agentamentos | Não |
+| RF   | <a id="EN12"></a>EN12 | A aplicação permite realizar pedidos de medicamento | Não |
+| RF   | <a id="EN13"></a>EN13 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento | Não |
+| RNF  | <a id="EN14"></a>EN14 | O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas | Não |
+| RNF  | <a id="EN15"></a>EN15 | A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos | Não |
+| RNF  | <a id="EN16"></a>EN16 | O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica | Não |
 
 </center>
 
