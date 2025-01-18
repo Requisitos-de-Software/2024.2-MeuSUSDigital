@@ -247,24 +247,24 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 
 | ID | Descrição | Código | Implementado |
 | -- | --------- | ------ | ------------ |
-| AD01 | O sistema deverá apresentar o termo de consentimento. | RF01 | Sim |
-| AD02 | O sistema deverá informar quais dados serão coletados. | RF02 | Sim |
-| AD03 | O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais. | RF03 | Sim |
-| AD04 | O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais. | RF04 | Sim |
-| AD05 | O sistema deverá pedir permissão de acesso à localização do dispositivo. | RF05 | Sim |
-| AD06 | O sistema deverá armazenar a localização do dispositivo. | RF06 | Sim |
-| AD07 | O sistema deverá pedir permissão de acesso à câmera do dispositivo. | RF07 | Sim |
-| AD08 | O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo. | RF08 | Sim |
-| AD09 | O sistema deverá permitir que o paciente realize login por meio de uma conta Gov.br. | RF09 | Sim |
-| AD10 | O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login. | RF10 | Sim |
-| AD11 | O sistema deverá buscar no RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login. | RF11 | Sim |
-| AD12 | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | RF12 | Sim |
-| AD18 | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | RF15 | Sim |
-| AD24 | O sistema deverá permitir que o paciente baixe a Carteira Nacional de Vacinação em seu dispositivo. | RF16 | Sim |
-| AD25 | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | RF17 | Sim |
-| AD26 | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | RF18 | Sim |
-| AD27 | O sistema deverá permitir que o paciente agende uma consulta, informando o tipo de consulta, a unidade de saúde onde será realizada a consulta, a data e o horário da consulta. | RF19 | Sim |
-| AD30 | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | RF20 | Sim |
+| <a id="AD01"></a>AD01 | O sistema deverá apresentar o termo de consentimento. | RF01 | Sim |
+| <a id="AD02"></a>AD02 | O sistema deverá informar quais dados serão coletados. | RF02 | Sim |
+| <a id="AD03"></a>AD03 | O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais. | RF03 | Sim |
+| <a id="AD04"></a>AD04 | O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais. | RF04 | Sim |
+| <a id="AD05"></a>AD05 | O sistema deverá pedir permissão de acesso à localização do dispositivo. | RF05 | Sim |
+| <a id="AD06"></a>AD06 | O sistema deverá armazenar a localização do dispositivo. | RF06 | Sim |
+| <a id="AD07"></a>AD07 | O sistema deverá pedir permissão de acesso à câmera do dispositivo. | RF07 | Sim |
+| <a id="AD08"></a>AD08 | O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo. | RF08 | Sim |
+| <a id="AD09"></a>AD09 | O sistema deverá permitir que o paciente realize login por meio de uma conta Gov.br. | RF09 | Sim |
+| <a id="AD10"></a>AD10 | O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login. | RF10 | Sim |
+| <a id="AD11"></a>AD11 | O sistema deverá buscar no RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login. | RF11 | Sim |
+| <a id="AD12"></a>AD12 | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | RF12 | Sim |
+| <a id="AD18"></a>AD18 | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | RF15 | Sim |
+| <a id="AD24"></a>AD24 | O sistema deverá permitir que o paciente baixe a Carteira Nacional de Vacinação em seu dispositivo. | RF16 | Sim |
+| <a id="AD25"></a>AD25 | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | RF17 | Sim |
+| <a id="AD26"></a>AD26 | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | RF18 | Sim |
+| <a id="AD27"></a>AD27 | O sistema deverá permitir que o paciente agende uma consulta, informando o tipo de consulta, a unidade de saúde onde será realizada a consulta, a data e o horário da consulta. | RF19 | Sim |
+| <a id="AD30"></a>AD30 | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | RF20 | Sim |
 
 
 </center>
@@ -283,18 +283,18 @@ Por fim, o resultado dessa análise será apresentado aos *stakeholders* posteri
 
 | ID | Descrição | Código | Implementado |
 | -- | --------- | ------ | ------------ |
-| AD14 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | RNF01 | Sim |
-| AD15 | O sistema deverá ser compatível com dispositivos Android e iOS. | RNF02 | Sim |
-| AD16 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | RNF03 | Sim |
-| AD19 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G. | RNF04 | Não |
-| AD20 | O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela. | RNF05 | Sim |
-| AD21 | As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário. | RNF06 | Sim |
-| AD22 | O sistema deverá garantir autenticação segura por meio do protocolo OAuth 2.0, usado pelo Gov.br. | RNF07 | Sim |
-| AD23 | O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS. | RNF08 | Sim |
-| AD28 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | RNF09 | Sim |
-| AD29 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar disponíveis em três idiomas: Português, Inglês e Espanhol. | RNF10 | Sim |
-| AD31 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | RNF11 | Sim |
-| AD32 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar em formato PDF ao serem salvos no dispositivo. | RNF12 | Sim |
+| <a id="AD14"></a>AD14 | Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256. | RNF01 | Sim |
+| <a id="AD15"></a>AD15 | O sistema deverá ser compatível com dispositivos Android e iOS. | RNF02 | Sim |
+| <a id="AD16"></a>AD16 | O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD. | RNF03 | Sim |
+| <a id="AD19"></a>AD19 | O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G. | RNF04 | Não |
+| <a id="AD20"></a>AD20 | O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela. | RNF05 | Sim |
+| <a id="AD21"></a>AD21 | As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário. | RNF06 | Sim |
+| <a id="AD22"></a>AD22 | O sistema deverá garantir autenticação segura por meio do protocolo OAuth 2.0, usado pelo Gov.br. | RNF07 | Sim |
+| <a id="AD23"></a>AD23 | O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS. | RNF08 | Sim |
+| <a id="AD28"></a>AD28 | O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde. | RNF09 | Sim |
+| <a id="AD29"></a>AD29 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar disponíveis em três idiomas: Português, Inglês e Espanhol. | RNF10 | Sim |
+| <a id="AD31"></a>AD31 | A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência. | RNF11 | Sim |
+| <a id="AD32"></a>AD32 | A carteira de vacinação e o certificado de vacinação de Covid-19 deverão estar em formato PDF ao serem salvos no dispositivo. | RNF12 | Sim |
 
 
 </center>
