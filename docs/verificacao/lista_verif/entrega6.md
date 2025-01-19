@@ -147,10 +147,6 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 
 
 
-
-Os elos do front foram feitos da maneira correta?
-
-
 ## 📚 Referências Bibliográficas
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
@@ -188,3 +184,5 @@ Os elos do front foram feitos da maneira correta?
 | `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.4`  | Adicionando as questões 7, 8 e 9. | [João Pedro](https://github.com/JoosPerro) | 19/01/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |
+| `1.5`  | Adicionando as questões 10, 11 e 12. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |  |  |
