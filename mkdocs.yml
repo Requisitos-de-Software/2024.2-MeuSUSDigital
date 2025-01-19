@@ -74,7 +74,6 @@ nav:
       - NFR Framework: modelagem-agil/nfr-framework.md
       - Backlog: modelagem-agil/backlog.md
   - Pós-Rastreabilidade:
-    - Elos de Rastreabilidade: pos-rastreabilidade/elos-de-rastreabilidade.md
     - Backward From: pos-rastreabilidade/backward-from.md
     - Forward From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz-de-rastreabilidade.md
