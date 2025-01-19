@@ -124,6 +124,19 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Cada elo apresenta <em>links</em> para os respectivos elementos referenciados?<a id="anchor_9" href="#REF9"><sup>9</sup></a></td>
       <td>João Pedro</td>
     </tr>
+    <tr>
+      <td>Q10</td>
+      <td>Existe uma pós-rastreabilidade, que demonstre como os requisitos não-funcionais (como segurança, desempenho ou usabilidade) foram implementados.<a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
+      <td>Emivalto Júinior</td>
+    </tr>
+      <td>Q11</td>
+      <td>Possui uma matriz de rastreabilidade forward-from que demonstra claramente as ligações entre os requisitos elicitados<a id="anchor_11" href="#REF11"><sup>11</sup></a></td>
+      <td>Emivalto Júinior</td>
+    </tr>
+      <td>Q12</td>
+      <td>O repositório contém uma documentação de rastreabilidade backward-from que permite identificar a origem e evolução dos requisitos, incluindo suas fontes?<a id="anchor_12" href="#REF12"><sup>12</sup></a></td>
+      <td>Emivalto Júinior</td>
+    </tr>
   </tbody>
 </table>
 
@@ -161,6 +174,14 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 ><a id="REF8">8.</a><br>![Referência 8](../referencias/entr6-elos_niveis_de_info.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 3.
 >****
 ><a id="REF9">9.</a><br>![Referência 9](../referencias/entr6-links.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos**: software orientado ao negócio. Rio de Janeiro: Brasport, 2016, p. 3.
+>****
+><a id="REF10">10.</a><br>![Referência 10](../referencias/q10.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José Pereira de Lucena Maio, 2005
+>****
+><a id="REF11">11.</a><br>![Referência 11](../referencias/q11.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
+><a id="REF11">12.</a><br>![Referência 12](../referencias/q12.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
 
 ## 📑 Histórico de versão
 
