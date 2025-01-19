@@ -94,22 +94,22 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Os principais Elos de Rastreabilidade foram utilizados (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? <a id="anchor_3" href="#REF3"><sup>3</sup></a></td>
       <td>Pedro Lopes</td>
     </tr>
-        <tr>
+    <tr>
       <td>Q4</td>
       <td>A rastreabilidade vem sendo mantida? <a id="anchor_4" href="#REF4"><sup>4</sup></a></td>
       <td>Artur Ricardo</td>
     </tr>
-        <tr>
+    <tr>
       <td>Q5</td>
       <td>A análise de impacto de mudanças nos requisitos foi realizada de forma adequada? <a id="anchor_5" href="#REF5"><sup>5</sup></a></td>
       <td>Artur Ricardo</td>
     </tr>
-        <tr>
+    <tr>
       <td>Q6</td>
       <td>Os elos (ou vínculos) foram identificados e documentados durante a rastreabilidade dos requisitos? <a id="anchor_6" href="#REF6"><sup>6</sup></a></td>
       <td>Artur Ricardo</td>
     </tr>
-        <tr>
+    <tr>
       <td>Q7</td>
       <td>Cada Elo de Rastreabilidade apresenta os elementos de origem e destino que são relacionados por ele?<a id="anchor_7" href="#REF7"><sup>7</sup></a></td>
       <td>João Pedro</td>
@@ -123,6 +123,18 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Q9</td>
       <td>Cada elo apresenta <em>links</em> para os respectivos elementos referenciados?<a id="anchor_9" href="#REF9"><sup>9</sup></a></td>
       <td>João Pedro</td>
+    </tr><tr>
+      <td>Q10</td>
+      <td>A matriz de rastreabilidade segue um padrão?<a id="anchor_2" href="#REF2"><sup>2</sup></a></td>
+      <td>Matheus Henrick</td>
+    </tr><tr>
+      <td>Q11</td>
+      <td>Os elos de rastreabilidade do <em>Backward From</em> foram feitos da maneira correta?<a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
+      <td>Matheus Henrick</td>
+    </tr><tr>
+      <td>Q12</td>
+      <td>Os elos de rastreabilidade do <em>Forward From</em> foram feitos da maneira correta?<a id="anchor_9" href="#REF10"><sup>10</sup></a></td>
+      <td>Matheus Henrick</td>
     </tr>
   </tbody>
 </table>
@@ -133,6 +145,10 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
   <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a> e André Barros.</p>
 </div>
 
+
+
+
+Os elos do front foram feitos da maneira correta?
 
 
 ## 📚 Referências Bibliográficas
@@ -159,6 +175,8 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 ><a id="REF8">8.</a><br>![Referência 8](../referencias/entr6-elos_niveis_de_info.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 3.
 >****
 ><a id="REF9">9.</a><br>![Referência 9](../referencias/entr6-links.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos**: software orientado ao negócio. Rio de Janeiro: Brasport, 2016, p. 3.
+>****
+><a id="REF10">10.</a>Exemplo de Elo de Recurso<br>![Referência 10](../referencias/entr6-exemplo_de_elo.png) SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 26*. 2017. Apresentação de slides, p.23. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 16 jan. 2025.
 
 ## 📑 Histórico de versão
 
