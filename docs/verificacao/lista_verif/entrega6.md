@@ -94,6 +94,21 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Os principais Elos de Rastreabilidade foram utilizados (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? <a id="anchor_3" href="#REF3"><sup>3</sup></a></td>
       <td>Pedro Lopes</td>
     </tr>
+        <tr>
+      <td>Q4</td>
+      <td>A rastreabilidade vem sendo mantida? <a id="anchor_4" href="#REF4"><sup>4</sup></a></td>
+      <td>Artur Ricardo</td>
+    </tr>
+        <tr>
+      <td>Q5</td>
+      <td>A análise de impacto de mudanças nos requisitos foi realizada de forma adequada? <a id="anchor_5" href="#REF5"><sup>5</sup></a></td>
+      <td>Artur Ricardo</td>
+    </tr>
+        <tr>
+      <td>Q6</td>
+      <td>Os elos (ou vínculos) foram identificados e documentados durante a rastreabilidade dos requisitos? <a id="anchor_6" href="#REF6"><sup>6</sup></a></td>
+      <td>Artur Ricardo</td>
+    </tr>
   </tbody>
 </table>
 
@@ -115,6 +130,15 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 >****
 ><a id="REF3">3.</a><br>![Referência 3](../referencias/elos_tipos.png)
 >****
+>****
+><a id="REF3">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
+>****
+>****
+><a id="REF3">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
+>****
+>****
+><a id="REF3">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
+>****
 
 
 ## 📑 Histórico de versão
@@ -123,3 +147,4 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
+| `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
