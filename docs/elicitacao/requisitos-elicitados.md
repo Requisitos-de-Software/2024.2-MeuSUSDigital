@@ -109,7 +109,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF52"></a>RF52 | O sistema deverá buscar na RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login. | [AD11](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF53"></a>RF53 | O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo. | [AD12](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF54"></a>RF54 | O sistema deverá apresentar o *status* e posição do usuário na lista de espera para transplante de órgão e tecido. | [AD18](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
-| <a id="RF55"></a>RF55 | O sistema deverá permitir que o paciente baixe o Certificado de Vacinação Nacional de Covid-19 em seu dispositivo. | [AD25](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
+| <a id="RF55"></a>RF55 | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19. | [AD25](tecnicas/analise-de-documentos.md#requisitos-elicitados), [OBS45](tecnicas/observacao.md#OBS45) | Sim |
 | <a id="RF56"></a>RF56 | O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço. | [AD26](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF57"></a>RF57 | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | [AD30](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF58"></a>RF58 | A aplicação permite agendar exames | [EN03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
@@ -129,8 +129,7 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF72"></a>RF72 | O aplicativo notifica aos usuários atualizações em conteúdos relacionados a patologias que eles venham a ter | [GF05](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF73"></a>RF73 | O aplicativo pode destacar conteúdos pertinentes a um estado para usuários desse estado | [GF06](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF74"></a>RF74 | O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas | [GF07](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
-| <a id="RF75"></a>RF75 | O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19 | [OBS45](tecnicas/observacao.md#OBS45) | Sim |
-| <a id="RF76"></a>RF76 | O aplicativo deve oferece agendamento de consultas e exames| [GF02](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
+| <a id="RF75"></a>RF75 | O aplicativo deve oferece agendamento de consultas e exames| [GF02](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RNF1"></a>RNF1 | O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0) | [OBS45](tecnicas/observacao.md#requisitos-elicitados), [AD22](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RNF2"></a>RNF2 | O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva | [OBS46](tecnicas/observacao.md#requisitos-elicitados) | Sim |
 | <a id="RNF3"></a>RNF3 | O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G | [OBS47](tecnicas/observacao.md#requisitos-elicitados) | Sim |
@@ -205,4 +204,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | `1.4`  | Adição dos requisitos do Grupo de Foco | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 07/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |
 | `1.5`  | Inserção das âncoras nos tipos dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
 | `1.6`  | Correção da descrição referente ao requisito de tipo RF5 elicitado e inserção de novo requisito (de tipo RF75) elicitado. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
-
+| `1.7`  | Correção de conflito entre requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
