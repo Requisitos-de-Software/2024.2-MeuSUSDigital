@@ -422,7 +422,8 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. _Engenharia de Requisitos: software orientado ao negócio_. Rio de Janeiro: Brasport, 2016.
 >
 > WIEGERS, Karl; BEATTY, Joy. _Software Requirements. Third Edition_. Redmond, WA: Microsoft Press, 2013.
-
+>
+> TORANZO, M.; CASTRO, J.; MELO, E. _Uma proposta para melhorar o rastreamento de requisitos_. In: WER – Workshop em Engenharia de Requisitos. Valencia, Espanha, 2002.
 
 ## 📑 Histórico de Versões
 
@@ -434,3 +435,4 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 | `1.3`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais não elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.4`  | Correção na tabela de rastreabilidade retrospectiva referente aos requisitos funcionais elicitados, atualização das legendas, reorganização das tabelas e criação das tabelas referentes aos elos funcionais e não funcionais. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.5`  | Atualização das informações a respeito dos campos "Introdução" e "Metodologia". | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.6`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
