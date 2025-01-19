@@ -2,9 +2,37 @@
 
 ## Introdução
 
+A rastreabilidade de requisitos é um processo fundamental na engenharia de software, garantindo que as necessidades dos stakeholders sejam atendidas e que o ciclo de vida do software seja bem gerenciado. Este documento apresenta o processo de rastreabilidade retrospectiva, conhecido como "Backward From", aplicado no projeto Meu SUS Digital. O foco é estabelecer elos claros entre os requisitos elicitados e os artefatos resultantes, assegurando controle e rastreamento efetivos.
+
+A rastreabilidade retrospectiva possibilita verificar como os requisitos elicitados através das técnicas de [Análise de Documentos](elicitacao/tecnicas/analise-de-documentos.md), [Entrevista](elicitacao/tecnicas/entrevista.md), [Grupo de Foco](elicitacao/tecnicas/grupo-de-foco.md), [Observação](elicitacao/tecnicas/observacao.md) e [Introspecção](elicitacao/tecnicas/introspeccao.md) estão relacionados aos componentes e à implementação do sistema, promovendo coerência entre a análise inicial e os resultados obtidos.
+
 ## Metodologia
 
----
+A metodologia utilizada para a rastreabilidade retrospectiva neste projeto baseia-se no modelo "Backward From" descrito por Toranzo. Esta abordagem classifica os requisitos em funcionais (RF) e não funcionais (RNF), e estabelece elos que descrevem as conexões entre eles e os artefatos gerados ao longo do ciclo de vida do projeto.
+
+Os principais componentes da metodologia incluem:
+
+1. **Identificação dos Requisitos**:
+
+    Os requisitos foram elicitados utilizando técnicas como análise de documentos, entrevista, grupo de foco, observação e introspecção. Cada requisito foi classificado como funcional ou não funcional.
+
+2. **Classificação de Níveis e Elos**:
+
+    Os requisitos são organizados em níveis (ambiental, organizacional, gerencial e de desenvolvimento).
+
+    Os elos estabelecem as relações de satisfação, recurso, responsabilidade, representação, alocação e agregação entre os requisitos e artefatos.
+
+3. **Construção das Tabelas de Rastreabilidade**:
+
+    As tabelas de rastreabilidade retrospectiva foram elaboradas para requisitos funcionais e não funcionais, com base nos elos identificados.
+
+4. **Elaboração dos Elos**:
+
+    Cada elo de rastreabilidade foi descrito em tabelas específicas, representando como os requisitos se conectam aos artefatos e ao sistema como um todo.
+
+Ao final, foram geradas tabelas detalhadas que consolidam o processo de rastreabilidade, organizadas para facilitar a compreensão e a manutenção do projeto.
+
+Vale ressaltar que também foi criada uma tabela contendo a legenda para cada sigla utilizada neste documento a fim de padronizar e facilitar a compreensão das informações apresentadas:
 
 <div align="center">
     <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
@@ -405,3 +433,4 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 | `1.2`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais elicitados e correção de título. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.3`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais não elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.4`  | Correção na tabela de rastreabilidade retrospectiva referente aos requisitos funcionais elicitados, atualização das legendas, reorganização das tabelas e criação das tabelas referentes aos elos funcionais e não funcionais. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.5`  | Atualização das informações a respeito dos campos "Introdução" e "Metodologia". | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
