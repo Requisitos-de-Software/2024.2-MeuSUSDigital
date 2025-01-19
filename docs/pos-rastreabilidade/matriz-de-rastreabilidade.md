@@ -2,9 +2,17 @@
 
 ## Introdução
 
+A matriz de rastreabilidade é uma ferramenta essencial da engenharia de requisitos, utilizada para estabelecer e visualizar as relações entre diferentes elementos de um projeto. Esta matriz possui o formato de uma tabela e fornece uma abordagem sistemática para garantir que todos os requisitos sejam atendidos de forma completa e que a equipe de desenvolvimento possa acompanhar cada etapa do ciclo de vida do sistema. Por meio dela, é possível vincular os requisitos às técnicas de elicitação e aos artefatos gerados, garantindo mais clareza e eficiência no processo de desenvolvimento, seja na produção ou no rastreamento de erros.
+
+Um exemplo de estrutura de matriz de rastreabilidade consiste em relacionar um requisito a [Observação](../elicitacao/tecnicas/observacao.md), aos [Casos de Uso](../modelagem/caso-de-uso.md) e aos Elos de Rastreabilidade, como será apresentado na **Tabela 2**. Dessa forma, cada requisito é devidamente acompanhado desde a concepção até a entrega final.
+
 
 
 ## Metodologia
+
+Para a construção da matriz de rastreabilidade, considerando a quantidade significativa de requisitos existentes, foi permitido que cada integrante da equipe escolhesse dez requisitos para compor a matriz. Sendo assim, foram utilizados os mesmos requisitos presentes nas histórias de usuário previamente definidas no projeto.
+
+A **Tabela 1** apresenta as siglas utilizadas neste documento:
 
 <div align="center">
     <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
@@ -23,13 +31,30 @@
 | OBSn | n-ésimo Requisito elicitado pela técnica de Observação |
 | QUEn | n-ésimo Requisito elicitado pela técnica de Questionário |
 | MRn  | n-ésimo item da matriz de restreabilidade |
-| ELOn | n-ésimo elo de rastreabilidade |
+| ELOBn | n-ésimo Elo de rastreabilidade Backward From |
+| ELOFn | n-ésimo Elo de rastreabilidade Forward From |
 
 </center>
 
 <div align="center">
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
+
+A matriz foi estruturada com os seguintes campos principais:
+
+- **ID**: Identifica o item da matriz.
+
+- **Tipo** e **Descrição**: Identificam o requisito escolhido do artefato de [Requisitos Elicitados](../elicitacao/requisitos-elicitados.md).
+
+- **Implementado**: Indica se o requisito foi ou não implementado.
+
+- **Pré-rastreabilidade**: Este campo indica a técnica de elicitação utilizada para originar o requisito.
+
+- **Artefato**: Representa o artefato que contém o requisito.
+
+- **Elos**: Este campo estabelece a ligação entre o requisito e artefatos mapeados nos documentos [Backward From](backward-from.md) e [Forward From](forward-from.md).
+
+Com esta metodologia, garantimos uma rastreabilidade clara e precisa, promovendo a qualidade e a confiabilidade do sistema em desenvolvimento.
 
 
 
@@ -97,14 +122,19 @@
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
+
+
 ## 📚 Bibliografia
 
 > SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 16 jan. 2025.
 >
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. 2017. Apresentação de slides. Disponível em:[https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 16 jan. 2025.
+>
+> ALVES, Izabella; ARAÚJO, Lucas Víctor Ferreira de; OLIVEIRA, Lucas. Matriz de Rastreabilidade. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/#matriz-de-rastreabilidade_1](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/#matriz-de-rastreabilidade_1). Acesso em: 19 jan. 2025.
 
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 18/01/2025 |  |  |
+| `1.1` | Adicionando introdução e metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |  |  |
