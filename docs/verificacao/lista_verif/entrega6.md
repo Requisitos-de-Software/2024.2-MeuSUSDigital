@@ -155,6 +155,8 @@ Os elos do front foram feitos da maneira correta?
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
 >
+> Reinehr, Sheila. _Engenharia de Requisitos [recurso eletrônico]_. Revisão técnica de Marco Antônio Paludo. Porto Alegre: SAGAH, 2020. 
+>
 ><a id="REF1">1.</a><br>![Referência 1](../referencias/backward.png)
 >****
 ><a id="REF2">2.</a><br>![Referência 2](../referencias/matriz.png)
@@ -162,13 +164,13 @@ Os elos do front foram feitos da maneira correta?
 ><a id="REF3">3.</a><br>![Referência 3](../referencias/elos_tipos.png)
 >****
 >****
-><a id="REF3">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
+><a id="REF4">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
 >****
 >****
-><a id="REF3">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
+><a id="REF5">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
 >****
 >****
-><a id="REF3">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
+><a id="REF6">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
 >****
 ><a id="REF7">7.</a><br>![Referência 7](../referencias/entr6-elos_orig&dest.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 4.
 >****
@@ -185,3 +187,4 @@ Os elos do front foram feitos da maneira correta?
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
