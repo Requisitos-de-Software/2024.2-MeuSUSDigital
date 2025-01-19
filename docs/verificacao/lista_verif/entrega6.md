@@ -148,13 +148,13 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 ><a id="REF3">3.</a><br>![Referência 3](../referencias/elos_tipos.png)
 >****
 >****
-><a id="REF3">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
+><a id="REF4">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
 >****
 >****
-><a id="REF3">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
+><a id="REF5">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
 >****
 >****
-><a id="REF3">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
+><a id="REF6">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
 >****
 ><a id="REF7">7.</a><br>![Referência 7](../referencias/entr6-elos_orig&dest.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 4.
 >****
