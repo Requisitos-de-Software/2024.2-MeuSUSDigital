@@ -139,6 +139,8 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
 >
+> Reinehr, Sheila. _Engenharia de Requisitos [recurso eletrônico]_. Revisão técnica de Marco Antônio Paludo. Porto Alegre: SAGAH, 2020. 
+>
 ><a id="REF1">1.</a><br>![Referência 1](../referencias/backward.png)
 >****
 ><a id="REF2">2.</a><br>![Referência 2](../referencias/matriz.png)
@@ -167,3 +169,4 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
 | `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
