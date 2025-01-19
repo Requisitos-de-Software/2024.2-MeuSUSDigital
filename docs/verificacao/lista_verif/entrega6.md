@@ -109,6 +109,21 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Os elos (ou vínculos) foram identificados e documentados durante a rastreabilidade dos requisitos? <a id="anchor_6" href="#REF6"><sup>6</sup></a></td>
       <td>Artur Ricardo</td>
     </tr>
+        <tr>
+      <td>Q7</td>
+      <td>Cada Elo de Rastreabilidade apresenta os elementos de origem e destino que são relacionados por ele?<a id="anchor_7" href="#REF7"><sup>7</sup></a></td>
+      <td>João Pedro</td>
+    </tr>
+    <tr>
+      <td>Q8</td>
+      <td>As informações tratadas pelos elos são classificadas conforme os quatro níveis de informação (ambiental, organizacional, gerencial, desenvolvimento)?<a id="anchor_8" href="#REF8"><sup>8</sup></a></td>
+      <td>João Pedro</td>
+    </tr>
+    <tr>
+      <td>Q9</td>
+      <td>Cada elo apresenta <em>links</em> para os respectivos elementos referenciados?<a id="anchor_9" href="#REF9"><sup>9</sup></a></td>
+      <td>João Pedro</td>
+    </tr>
   </tbody>
 </table>
 
@@ -139,7 +154,11 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 >****
 ><a id="REF3">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
 >****
-
+><a id="REF7">7.</a><br>![Referência 7](../referencias/entr6-elos_orig&dest.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 4.
+>****
+><a id="REF8">8.</a><br>![Referência 8](../referencias/entr6-elos_niveis_de_info.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 3.
+>****
+><a id="REF9">9.</a><br>![Referência 9](../referencias/entr6-links.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos**: software orientado ao negócio. Rio de Janeiro: Brasport, 2016, p. 3.
 
 ## 📑 Histórico de versão
 
