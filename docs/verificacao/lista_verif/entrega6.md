@@ -81,27 +81,17 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
     </tr>
     <tr>
       <td>Q1</td>
-      <td>As histórias de usuário possuem rastreabilidade?</td>
-      <td>Artur Ricardo</td>
+      <td>Possui o artefato de BackwardFrom? <a id="anchor_1" href="#REF1"><sup>1</sup></a></td>
+      <td>Pedro Lopes</td>
     </tr>
     <tr>
       <td>Q2</td>
-      <td>As histórias de usuário no backlog estão priorizadas de acordo com a importância para o negócio e o usuário?</td>
-      <td>Emivalto Júnior</td>
+      <td>Foi feita uma matriz de rastreabilidade? <a id="anchor_2" href="#REF2"><sup>2</sup></a></td>
+      <td>Pedro Lopes</td>
     </tr>
     <tr>
       <td>Q3</td>
-      <td>Os épicos derivam mais de uma <em>feature</em>?</td>
-      <td>João Pedro</td>
-    </tr>
-    <tr>
-      <td><a id="REF8" href="#anchor_8">Q4</a></td>
-      <td>O NFR Framework possui os 3 tipos de <em>softgoals</em>?</td>
-      <td>Matheus Henrick</td>
-    </tr>
-    <tr>
-      <td><a id="REF9" href="#anchor_9">Q5</a></td>
-      <td>Os refinamentos do NFR Framework estão descritos da forma correta?</td>
+      <td>Os principais Elos de Rastreabilidade foram utilizados (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? <a id="anchor_3" href="#REF3"><sup>3</sup></a></td>
       <td>Pedro Lopes</td>
     </tr>
   </tbody>
@@ -119,6 +109,12 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
 >
+><a id="REF1">1.</a><br>![Referência 1](../referencias/backward.png)
+>****
+><a id="REF2">2.</a><br>![Referência 2](../referencias/matriz.png)
+>****
+><a id="REF3">3.</a><br>![Referência 3](../referencias/elos_tipos.png)
+>****
 
 
 ## 📑 Histórico de versão
@@ -126,3 +122,4 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
+| `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
