@@ -173,13 +173,13 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 ><a id="REF3">3.</a><br>![Referência 3](../referencias/elos_tipos.png)
 >****
 >****
-><a id="REF4">4.</a><br>![Referência 4](../referencias/q4-entrega6.png)
+><a id="REF4">4.</a><br>![Referência 4](../referencias/q4-entrega6.png) Reinehr, Sheila. _Engenharia de Requisitos [recurso eletrônico]_. Revisão técnica de Marco Antônio Paludo. Porto Alegre, p. 281, SAGAH, 2020.
 >****
 >****
-><a id="REF5">5.</a><br>![Referência 4](../referencias/q5-entrega6.png)
+><a id="REF5">5.</a><br>![Referência 5](../referencias/q5-entrega6.png) Reinehr, Sheila. _Engenharia de Requisitos [recurso eletrônico]_. Revisão técnica de Marco Antônio Paludo. Porto Alegre, p. 272, SAGAH, 2020.
 >****
 >****
-><a id="REF6">6.</a><br>![Referência 4](../referencias/q6-entrega6.png)
+><a id="REF6">6.</a><br>![Referência 6](../referencias/q6-entrega6.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro, p. 376, Brasport, 2016.
 >****
 ><a id="REF7">7.</a><br>![Referência 7](../referencias/entr6-elos_orig&dest.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 4.
 >****
@@ -206,5 +206,5 @@ Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José P
 | `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.4`  | Adicionando as questões 7, 8 e 9. | [João Pedro](https://github.com/JoosPerro) | 19/01/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |
-| `1.5`  | Adicionando as questões 10, 11 e 12. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |  |  |
-| `1.6`  | Adicionando as questões 13, 14 e 15. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |  |  |
+| `1.5`  | Adicionando as questões 10, 11 e 12. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |
+| `1.6`  | Adicionando as questões 13, 14 e 15. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |
