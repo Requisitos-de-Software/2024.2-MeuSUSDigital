@@ -148,8 +148,12 @@ A **Tabela 6** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
-| Pós-Rastreabilidade | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Gravar a apresentação da Etapa 6 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Confecção do documento referente ao Backward From | Início: 16/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: 19/01<br>Fim: 19/01 | [Pedro Lopes](https://github.com/pLopess) |
+| Confecção do documento referente ao Forward From | Início: 16/01<br>Fim: 19/01 | [Pedro Lopes](https://github.com/pLopess) | Início: 19/01<br>Fim: 19/01 | [Emivalto junior](https://github.com/EmivaltoJrr) |
+| Confecção do documento referente à Matriz de Rastrealidade | Início: 18/01<br>Fim: 19/01 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
+| Confecção da Lista de Verificação referente à entrega da Etapa 6 | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Gravar a autoavaliação referente à Etapa 6 | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Gravar a apresentação da Etapa 6 do projeto | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 19/01<br>Fim: 19/01 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
 | Inspecionar a entrega da apresentação da Etapa 6 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
 | Correção pós entrega/apresentação da Etapa 6 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 
@@ -208,3 +212,4 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.5`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
 | `1.6`  | Atualização dos dados das tabelas anteriores à Etapa 4 e correção de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
 | `1.7`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/12/2024 |  |  |
+| `1.8`  | Atualização dos dados da tabela referente à Etapa 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
