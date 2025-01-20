@@ -12,6 +12,107 @@ O objetivo deste documento é relatar os resultados da autoavaliação da 6ª et
 
 A inspeção foi baseada na [lista de verificação da 6ª entrega](../../lista_verif/entrega6.md) produzida com a ajuda do professor e dos integrantes do grupo.
 
+<center>
+
+**Tabela 1** ─ Resultado da Inspeção de Modelagem Ágil de Requisitos
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>N°</th>
+      <th>Questão</th>
+      <th>Avaliação</th>
+      <th>Autor</th>
+      <th>Data e Hora</th>
+      <th>Versão</th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <td colspan="5" style="text-align: center; font-weight: bold;">Itens do Desenvolvimento do Projeto</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>O histórico de versão padronizado?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Um texto fazendo uma introdução dos artefatos?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção realização do artefato/atividade?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>A gravação da reunião do grupo?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Vídeo de apresentação na categoria “não listado” no youtube?</td>
+      <td></td>
+      <td>André Barros</td>
+      <td>17/12/2024 22:00</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="5" style="text-align: center; font-weight: bold;">Itens Desenvolvidos Pelo Grupo</td>
+    </tr>
+</table>
+
+
+</center>
+
 
 ## Gravação da Inspeção do Grupo 4
 
