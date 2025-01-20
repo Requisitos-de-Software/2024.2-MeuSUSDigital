@@ -429,10 +429,10 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação da estrutura inicial do documento referente ao Backward From. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 |  |  |
+| `1.0`  | Criação da estrutura inicial do documento referente ao Backward From. | [Artur Ricardo](https://github.com/algorithmorphic) | 16/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
 | `1.1`  | Atualização da bibliografia. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/01/2025 |  |  |
-| `1.2`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais elicitados e correção de título. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.3`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais não elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.4`  | Correção na tabela de rastreabilidade retrospectiva referente aos requisitos funcionais elicitados, atualização das legendas, reorganização das tabelas e criação das tabelas referentes aos elos funcionais e não funcionais. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.5`  | Atualização das informações a respeito dos campos "Introdução" e "Metodologia". | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.6`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.2`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais elicitados e correção de título. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
+| `1.3`  | Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais não elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
+| `1.4`  | Correção na tabela de rastreabilidade retrospectiva referente aos requisitos funcionais elicitados, atualização das legendas, reorganização das tabelas e criação das tabelas referentes aos elos funcionais e não funcionais. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
+| `1.5`  | Atualização das informações a respeito dos campos "Introdução" e "Metodologia". | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
+| `1.6`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |

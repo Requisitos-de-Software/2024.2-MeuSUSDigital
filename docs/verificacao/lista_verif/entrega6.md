@@ -133,8 +133,21 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
       <td>Matheus Henrick</td>
     </tr><tr>
       <td>Q12</td>
-      <td>Os elos de rastreabilidade do <em>Forward From</em> foram feitos da maneira correta?<a id="anchor_9" href="#REF10"><sup>10</sup></a></td>
+      <td>Os elos de rastreabilidade do <em>Forward From</em> foram feitos da maneira correta?<a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
       <td>Matheus Henrick</td>
+    </tr>
+    <tr>
+      <td>Q13</td>
+      <td>Existe uma pós-rastreabilidade, que demonstre como os requisitos não-funcionais (como segurança, desempenho ou usabilidade) foram implementados.<a id="anchor_11" href="#REF11"><sup>11</sup></a></td>
+      <td>Emivalto Júinior</td>
+    </tr>
+      <td>Q14</td>
+      <td>Possui uma matriz de rastreabilidade forward-from que demonstra claramente as ligações entre os requisitos elicitados<a id="anchor_12" href="#REF12"><sup>12</sup></a></td>
+      <td>Emivalto Júinior</td>
+    </tr>
+      <td>Q15</td>
+      <td>O repositório contém uma documentação de rastreabilidade backward-from que permite identificar a origem e evolução dos requisitos, incluindo suas fontes?<a id="anchor_13" href="#REF13"><sup>13</sup></a></td>
+      <td>Emivalto Júinior</td>
     </tr>
   </tbody>
 </table>
@@ -175,6 +188,14 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 ><a id="REF9">9.</a><br>![Referência 9](../referencias/entr6-links.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos**: software orientado ao negócio. Rio de Janeiro: Brasport, 2016, p. 3.
 >****
 ><a id="REF10">10.</a>Exemplo de Elo de Recurso<br>![Referência 10](../referencias/entr6-exemplo_de_elo.png) SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 26*. 2017. Apresentação de slides, p.23. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 16 jan. 2025.
+>****
+><a id="REF11">11.</a><br>![Referência 11](../referencias/q10.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José Pereira de Lucena Maio, 2005
+>****
+><a id="REF12">12.</a><br>![Referência 12](../referencias/q11.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
+><a id="REF13">13.</a><br>![Referência 13](../referencias/q12.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
 
 ## 📑 Histórico de versão
 
@@ -186,3 +207,4 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 | `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
 | `1.4`  | Adicionando as questões 7, 8 e 9. | [João Pedro](https://github.com/JoosPerro) | 19/01/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |
 | `1.5`  | Adicionando as questões 10, 11 e 12. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |  |  |
+| `1.6`  | Adicionando as questões 13, 14 e 15. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |  |  |
