@@ -39,4 +39,4 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
