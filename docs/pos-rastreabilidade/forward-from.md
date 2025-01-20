@@ -6,9 +6,9 @@ Este documento explora a aplicação do método de rastreabilidade forward-from.
 
 ## Metodologia
 
-A metodologia adotada baseia-se na matriz de rastreabilidade com a utilização de referências cruzadas [1]. Essa abordagem será aplicada aos requisitos elicitados e aos artefatos desenvolvidos nas etapas subsequentes de modelagem de requisitos e metodologias ágeis. É importante destacar que a relação entre um requisito e um artefato não é, necessariamente, de um para um. Por exemplo, um único requisito pode estar associado a múltiplos casos de uso. Na Tabela 1, a matriz de rastreabilidade é apresentada, onde as linhas correspondem aos requisitos, e as colunas representam os artefatos derivados de cada requisito.
+A metodologia adotada baseia-se na matriz de rastreabilidade com a utilização de referências cruzadas [1]. Essa abordagem será aplicada aos requisitos elicitados e aos artefatos desenvolvidos nas etapas subsequentes de modelagem de requisitos e metodologias ágeis. É importante destacar que a relação entre um requisito e um artefato não é, necessariamente, de um para um. Por exemplo, um único requisito pode estar associado a múltiplos casos de uso. Na Tabela 2, a matriz de rastreabilidade é apresentada, onde as linhas correspondem aos requisitos, e as colunas representam os artefatos derivados de cada requisito.
 
-Os artefatos contemplados nessa matriz incluem épicos, temas, histórias do usuário, léxicos, casos de uso, cenários, especificação suplementar e o framework NFR. Cada coluna será preenchida com o identificador ou nome do respectivo artefato.
+Os artefatos contemplados nessa matriz incluem épicos, histórias do usuário, casos de uso, cenários e especificação suplementar. Cada coluna será preenchida com o identificador ou nome do respectivo artefato.
 
 Para realizar a rastreabilidade dos elos, utilizaremos o meta-modelo proposto por Toranzo, que classifica os requisitos elicitados em níveis e elos. De acordo com o slide 19 da aula 26 da professora Milene Serrano [2], os níveis abrangem:  
 
@@ -26,7 +26,7 @@ Já os principais elos de rastreabilidade, conforme o slide 21 da mesma aula, s�
 5. **Alocado**: Relaciona a classe de origem a uma classe de destino que representa um subsistema.
 6. **Agregação**: Indica a "composição" de elementos.  
 
-Para consolidar o meta-modelo de Toranzo, as Tabelas 1 e 2 apresentam os elementos que estruturam essa rastreabilidade, reforçando a sistematização das relações entre requisitos e artefatos.
+Para consolidar o meta-modelo de Toranzo, as Tabelas 2 e 3 apresentam os elementos que estruturam essa rastreabilidade, reforçando a sistematização das relações entre requisitos e artefatos.
 
 
 
