@@ -29,7 +29,7 @@ A inspeção foi baseada na [lista de verificação da 6ª entrega](../../lista_
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" style="text-align: center; font-weight: bold;">Itens do Desenvolvimento do Projeto</td>
+      <td colspan="6" style="text-align: center; font-weight: bold;">Itens do Desenvolvimento do Projeto</td>
     </tr>
     <tr>
       <td>1</td>
