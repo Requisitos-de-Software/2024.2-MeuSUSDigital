@@ -71,7 +71,7 @@ Vale ressaltar que também foi criada uma tabela contendo a legenda para cada si
 
     | ID    | Descrição | Rastreabilidade |
     | :---- | --------- | :-------------- |
-    | RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br            | [OBS1](tecnicas/observacao.md#requisitos-elicitados), [AD09](tecnicas/analise-de-documentos.md#requisitos-elicitados) |
+    | RF1   | O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br            | [OBS1](../elicitacao/tecnicas/observacao.md#requisitos-elicitados), [AD09](../elicitacao/tecnicas/analise-de-documentos.md#requisitos-elicitados) |
     | RF2   | O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas | [OBS2](tecnicas/observacao.md#requisitos-elicitados)                          |
     | RF3   | O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital | [OBS3](tecnicas/observacao.md#requisitos-elicitados)                          |
     | RF4   | O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital | [OBS4](tecnicas/observacao.md#requisitos-elicitados)                          |
