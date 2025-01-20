@@ -140,4 +140,4 @@ Com esta metodologia, garantimos uma rastreabilidade clara e precisa, promovendo
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0` | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 18/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
 | `1.1` | Adicionando introdução e metodologia. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
-| `1.2` | Completando a tabela com os elos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 |  |  |
+| `1.2` | Completando a tabela com os elos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 19/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |
