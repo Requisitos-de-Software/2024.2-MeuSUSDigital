@@ -108,6 +108,77 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
     <tr>
       <td colspan="5" style="text-align: center; font-weight: bold;">Itens Desenvolvidos Pelo Grupo</td>
     </tr>
+    <tr>
+          <td>Q1</td>
+          <td>Possui o artefato de BackwardFrom? <a id="anchor_1" href="#REF1"><sup>1</sup></a></td>
+          <td>Pedro Lopes</td>
+        </tr>
+        <tr>
+          <td>Q2</td>
+          <td>Foi feita uma matriz de rastreabilidade? <a id="anchor_2" href="#REF2"><sup>2</sup></a></td>
+          <td>Pedro Lopes</td>
+        </tr>
+        <tr>
+          <td>Q3</td>
+          <td>Os principais Elos de Rastreabilidade foram utilizados (Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação)? <a id="anchor_3" href="#REF3"><sup>3</sup></a></td>
+          <td>Pedro Lopes</td>
+        </tr>
+        <tr>
+          <td>Q4</td>
+          <td>A rastreabilidade vem sendo mantida? <a id="anchor_4" href="#REF4"><sup>4</sup></a></td>
+          <td>Artur Ricardo</td>
+        </tr>
+        <tr>
+          <td>Q5</td>
+          <td>A análise de impacto de mudanças nos requisitos foi realizada de forma adequada? <a id="anchor_5" href="#REF5"><sup>5</sup></a></td>
+          <td>Artur Ricardo</td>
+        </tr>
+        <tr>
+          <td>Q6</td>
+          <td>Os elos (ou vínculos) foram identificados e documentados durante a rastreabilidade dos requisitos? <a id="anchor_6" href="#REF6"><sup>6</sup></a></td>
+          <td>Artur Ricardo</td>
+        </tr>
+        <tr>
+          <td>Q7</td>
+          <td>Cada Elo de Rastreabilidade apresenta os elementos de origem e destino que são relacionados por ele?<a id="anchor_7" href="#REF7"><sup>7</sup></a></td>
+          <td>João Pedro</td>
+        </tr>
+        <tr>
+          <td>Q8</td>
+          <td>As informações tratadas pelos elos são classificadas conforme os quatro níveis de informação (ambiental, organizacional, gerencial, desenvolvimento)?<a id="anchor_8" href="#REF8"><sup>8</sup></a></td>
+          <td>João Pedro</td>
+        </tr>
+        <tr>
+          <td>Q9</td>
+          <td>Cada elo apresenta <em>links</em> para os respectivos elementos referenciados?<a id="anchor_9" href="#REF9"><sup>9</sup></a></td>
+          <td>João Pedro</td>
+        </tr><tr>
+          <td>Q10</td>
+          <td>A matriz de rastreabilidade segue um padrão?<a id="anchor_2" href="#REF2"><sup>2</sup></a></td>
+          <td>Matheus Henrick</td>
+        </tr><tr>
+          <td>Q11</td>
+          <td>Os elos de rastreabilidade do <em>Backward From</em> foram feitos da maneira correta?<a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
+          <td>Matheus Henrick</td>
+        </tr><tr>
+          <td>Q12</td>
+          <td>Os elos de rastreabilidade do <em>Forward From</em> foram feitos da maneira correta?<a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
+          <td>Matheus Henrick</td>
+        </tr>
+        <tr>
+          <td>Q13</td>
+          <td>Existe uma pós-rastreabilidade, que demonstre como os requisitos não-funcionais (como segurança, desempenho ou usabilidade) foram implementados.<a id="anchor_11" href="#REF11"><sup>11</sup></a></td>
+          <td>Emivalto Júinior</td>
+        </tr>
+          <td>Q14</td>
+          <td>Possui uma matriz de rastreabilidade forward-from que demonstra claramente as ligações entre os requisitos elicitados<a id="anchor_12" href="#REF12"><sup>12</sup></a></td>
+          <td>Emivalto Júinior</td>
+        </tr>
+          <td>Q15</td>
+          <td>O repositório contém uma documentação de rastreabilidade backward-from que permite identificar a origem e evolução dos requisitos, incluindo suas fontes?<a id="anchor_13" href="#REF13"><sup>13</sup></a></td>
+          <td>Emivalto Júinior</td>
+        </tr>
+      </tbody>
 </table>
 
 
