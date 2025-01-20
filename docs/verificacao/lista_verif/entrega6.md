@@ -197,7 +197,7 @@ Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José P
 ><a id="REF13">13.</a><br>![Referência 13](../referencias/q12.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
 >****
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
