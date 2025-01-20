@@ -204,6 +204,38 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
 >
+> Reinehr, Sheila. _Engenharia de Requisitos [recurso eletrônico]_. Revisão técnica de Marco Antônio Paludo. Porto Alegre: SAGAH, 2020. 
+>
+><a id="REF1">1.</a><br>![Referência 1](../../referencias/backward.png)
+>****
+><a id="REF2">2.</a><br>![Referência 2](../../referencias/matriz.png)
+>****
+><a id="REF3">3.</a><br>![Referência 3](../../referencias/elos_tipos.png)
+>****
+>****
+><a id="REF4">4.</a><br>![Referência 4](../../referencias/q4-entrega6.png)
+>****
+>****
+><a id="REF5">5.</a><br>![Referência 4](../../referencias/q5-entrega6.png)
+>****
+>****
+><a id="REF6">6.</a><br>![Referência 4](../../referencias/q6-entrega6.png)
+>****
+><a id="REF7">7.</a><br>![Referência 7](../../referencias/entr6-elos_orig&dest.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 4.
+>****
+><a id="REF8">8.</a><br>![Referência 8](../../referencias/entr6-elos_niveis_de_info.png) TORANZO, M.; CASTRO, J.; MELO, E. Uma proposta para melhorar o rastreamento de requisitos. **WER**, Valencia, Espanha, p. 194-209, nov. 2002, figura 3.
+>****
+><a id="REF9">9.</a><br>![Referência 9](../../referencias/entr6-links.png) VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos**: software orientado ao negócio. Rio de Janeiro: Brasport, 2016, p. 3.
+>****
+><a id="REF10">10.</a>Exemplo de Elo de Recurso<br>![Referência 10](../../referencias/entr6-exemplo_de_elo.png) SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 26*. 2017. Apresentação de slides, p.23. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 16 jan. 2025.
+>****
+><a id="REF11">11.</a><br>![Referência 11](../../referencias/q10.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José Pereira de Lucena Maio, 2005
+>****
+><a id="REF12">12.</a><br>![Referência 12](../../referencias/q11.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
+><a id="REF13">13.</a><br>![Referência 13](../../referencias/q12.png) **Rastreabilidade de requisitos** miriam Sayão, julio cesar Sampaio de Padro Leite 
+>****
 
 
 ## 📑 Histórico de versão
