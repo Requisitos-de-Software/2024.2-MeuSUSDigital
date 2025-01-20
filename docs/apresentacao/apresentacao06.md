@@ -1,4 +1,4 @@
-# Apresentação 6 - 17/12/2024
+# Apresentação 6 - 19/01/2024
 
 ## Introdução 
 Esta página tem como objetivo documentar a gravação de apresentação referente à entrega da Etapa 6 para fins de manter tudo gravado e, também, para revisões futuras no decorrer do projeto, caso seja necessário.
