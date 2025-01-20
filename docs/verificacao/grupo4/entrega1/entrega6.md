@@ -74,7 +74,7 @@ A inspeção foi baseada na [lista de verificação da 6ª entrega](../../lista_
     <tr>
       <td>6</td>
       <td>O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção realização do artefato/atividade?</td>
-      <td>Não</td>
+      <td>Sim</td>
       <td>André Barros</td>
       <td>19/01/2025 22:00</td>
       <td> - </td>
@@ -285,3 +285,4 @@ Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José P
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.1`  | Criando tabela. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
+| `1.2`  | Respondendo tabela. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
