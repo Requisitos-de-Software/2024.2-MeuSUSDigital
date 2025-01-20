@@ -187,7 +187,7 @@ Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José P
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
-| `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |  |  |
-| `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
+| `1.1`  | Adicionando questões. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
+| `1.2`  | Adição das questões 4, 5 e 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
+| `1.3`  | Atualização das referências bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
