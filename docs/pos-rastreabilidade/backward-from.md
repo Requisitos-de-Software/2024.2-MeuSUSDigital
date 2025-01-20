@@ -264,83 +264,83 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 
     <center>
 
-    | ID   | Requisito Funcional | Tipo de Elo | Descrição |
-    | :--- | :------------------ | :---------- | --------- |
-    | EF1  | [RF1](../elicitacao/requisitos-elicitados.md#RF1) | Representação | O requisito é representado no diagrama de contexto que descreve o login via Gov.br. |
-    | EF2  | [RF2](../elicitacao/requisitos-elicitados.md#RF2)            | Satisfação       | O requisito é atendido pela funcionalidade de ajuda informativa na seção de Vacinas.      |
-    | EF3  | [RF3](../elicitacao/requisitos-elicitados.md#RF3)            | Agregação        | A funcionalidade de acesso à Carteira Nacional de Vacinação Digital compõe o módulo de histórico de vacinação. |
-    | EF4  | [RF4](../elicitacao/requisitos-elicitados.md#RF4)            | Recurso          | Requer a funcionalidade de seleção de idioma para o certificado de vacinação.            |
-    | EF5  | [RF5](../elicitacao/requisitos-elicitados.md#RF5)            | Representação    | Exportação da Carteira de Vacinação Digital está vinculada ao modelo de geração de PDFs. |
-    | EF6  | [RF6](../elicitacao/requisitos-elicitados.md#RF6)            | Satisfação       | O histórico de vacinas atende à necessidade de rastreamento de imunizações anteriores.   |
-    | EF7  | [RF7](../elicitacao/requisitos-elicitados.md#RF7)            | Alocado          | Detalhes de cada vacina estão alocados no módulo de consultas detalhadas.                |
-    | EF8  | [RF8](../elicitacao/requisitos-elicitados.md#RF8)            | Recurso          | O recurso de ajuda informativa está integrado à seção de Exames.                         |
-    | EF9  | [RF9](../elicitacao/requisitos-elicitados.md#RF9)            | Representação    | Exames laboratoriais realizados são exibidos no histórico médico do usuário.             |
-    | EF10 | [RF10](../elicitacao/requisitos-elicitados.md#RF10)           | Satisfação       | Os resultados de exames atendem à necessidade de informações detalhadas para o paciente. |
-    | EF11 | [RF11](../elicitacao/requisitos-elicitados.md#RF11)           | Recurso          | O recurso de exportação de exames utiliza o gerador de relatórios em PDF e JPEG.         |
-    | EF12 | [RF12](../elicitacao/requisitos-elicitados.md#RF12)           | Satisfação       | A ajuda informativa na seção de Medicamentos é satisfatória às necessidades do usuário.  |
-    | EF13 | [RF13](../elicitacao/requisitos-elicitados.md#RF13)           | Alocado          | O histórico de medicamentos é alocado no módulo de gerenciamento de medicamentos.        |
-    | EF14 | [RF14](../elicitacao/requisitos-elicitados.md#RF14)           | Recurso          | A busca por medicamentos utiliza uma interface de pesquisa integrada.                    |
-    | EF15 | [RF15](../elicitacao/requisitos-elicitados.md#RF15)           | Representação    | A funcionalidade de busca por nome e dosagem está representada no fluxo de busca rápida. |
-    | EF16 | [RF16](../elicitacao/requisitos-elicitados.md#RF16)           | Satisfação       | A autorização de retirada de medicamentos satisfaz os critérios de segurança definidos.  |
-    | EF17 | [RF17](../elicitacao/requisitos-elicitados.md#RF17)           | Agregação        | Medicamentos recebidos pelo Farmácia Popular compõem o histórico farmacológico.          |
-    | EF18 | [RF18](../elicitacao/requisitos-elicitados.md#RF18)           | Satisfação       | Ajuda informativa sobre Dignidade Menstrual atende a critérios de acessibilidade.        |
-    | EF19 | [RF19](../elicitacao/requisitos-elicitados.md#RF19)           | Alocado          | A emissão de autorizações para o Programa Dignidade Menstrual está alocada no módulo de autorizações. |
-    | EF20 | [RF20](../elicitacao/requisitos-elicitados.md#RF20)           | Recurso          | Exportação do documento do Programa Dignidade Menstrual utiliza o gerador de PDFs.       |
-    | EF21 | [RF21](../elicitacao/requisitos-elicitados.md#RF21)           | Representação    | Ajuda informativa da Rede de Saúde está representada na interface de navegação.          |
-    | EF22 | [RF22](../elicitacao/requisitos-elicitados.md#RF22)           | Recurso          | A funcionalidade de permissão de localização é vinculada ao acesso aos serviços locais.  |
-    | EF23 | [RF23](../elicitacao/requisitos-elicitados.md#RF23)           | Alocado          | Armazenamento da localização é alocado em servidores seguros.                            |
-    | EF24 | [RF24](../elicitacao/requisitos-elicitados.md#RF24)           | Satisfação       | Oferecer estabelecimentos de saúde próximos satisfaz necessidades geográficas do usuário.|
-    | EF25 | [RF25](../elicitacao/requisitos-elicitados.md#RF25)           | Representação    | Estabelecimentos recentes vinculados ao usuário estão representados no histórico local.  |
-    | EF26 | [RF26](../elicitacao/requisitos-elicitados.md#RF26)           | Satisfação       | Ajuda informativa sobre agendamentos atende à necessidade de orientação do usuário.      |
-    | EF27 | [RF27](../elicitacao/requisitos-elicitados.md#RF27)           | Representação    | Consultas e exames estão representados no calendário interativo do aplicativo.           |
-    | EF28 | [RF28](../elicitacao/requisitos-elicitados.md#RF28)           | Alocado          | Agendamentos estão alocados no módulo de gestão de consultas.                            |
-    | EF29 | [RF29](../elicitacao/requisitos-elicitados.md#RF29)           | Recurso          | Ajuda informativa sobre atendimento e internação utiliza a base de dados de orientações. |
-    | EF30 | [RF30](../elicitacao/requisitos-elicitados.md#RF30)           | Satisfação       | Exibição dos registros de internação atende aos requisitos de transparência médica.      |
-    | EF31 | [RF31](../elicitacao/requisitos-elicitados.md#RF31)           | Representação    | Ajuda informativa sobre contatos está representada no diretório de contatos.             |
-    | EF32 | [RF32](../elicitacao/requisitos-elicitados.md#RF32)           | Satisfação       | Exibição de contatos atende às necessidades de conexão do usuário com profissionais.     |
-    | EF33 | [RF33](../elicitacao/requisitos-elicitados.md#RF33)           | Alocado          | Adicionar contato de emergência está alocado no módulo de gerenciamento de contatos.     |
-    | EF34 | [RF34](../elicitacao/requisitos-elicitados.md#RF34)           | Representação    | Ajuda informativa sobre Diário de Saúde está no fluxo de introdução do módulo.           |
-    | EF35 | [RF35](../elicitacao/requisitos-elicitados.md#RF35)           | Satisfação       | Exibição de registros de saúde atende ao monitoramento contínuo do paciente.             |
-    | EF36 | [RF36](../elicitacao/requisitos-elicitados.md#RF36)           | Representação    | Registros de pressão são representados em gráficos no diário de saúde.                  |
-    | EF37 | [RF37](../elicitacao/requisitos-elicitados.md#RF37)           | Alocado          | Adição de registros de pressão é alocada no módulo de monitoramento de saúde.            |
-    | EF38 | [RF38](../elicitacao/requisitos-elicitados.md#RF38)           | Representação    | Registros de glicose estão representados na interface de gráficos interativos.           |
-    | EF39 | [RF39](../elicitacao/requisitos-elicitados.md#RF39)           | Recurso          | Adição de registros de glicose utiliza o formulário de entrada padrão.                   |
-    | EF40 | [RF40](../elicitacao/requisitos-elicitados.md#RF40)           | Representação    | Registros de IMC estão representados no painel de saúde integrado.                       |
-    | EF41 | [RF41](../elicitacao/requisitos-elicitados.md#RF41)           | Alocado          | Adição de registros de IMC está alocada no formulário de acompanhamento de saúde.        |
-    | EF42 | [RF42](../elicitacao/requisitos-elicitados.md#RF42)           | Satisfação       | Ajuda informativa sobre alergias atende aos requisitos de orientação médica.             |
-    | EF43 | [RF43](../elicitacao/requisitos-elicitados.md#RF43)           | Representação    | Exibição de alergias está representada no histórico médico do paciente.                  |
-    | EF44 | [RF44](../elicitacao/requisitos-elicitados.md#RF44)           | Alocado          | Adicionar alergia está alocada no módulo de atualização do histórico médico.             |
-    | EF45 | [RF45](../elicitacao/requisitos-elicitados.md#RF45)           | Satisfação       | Apresentação do termo de consentimento atende aos critérios de transparência do sistema. |
-    | EF46 | [RF46](../elicitacao/requisitos-elicitados.md#RF46)           | Representação    | Informações sobre coleta de dados estão representadas no painel de políticas de privacidade. |
-    | EF47 | [RF47](../elicitacao/requisitos-elicitados.md#RF47)           | Recurso          | Escolha sobre coleta de dados utiliza o sistema de notificações do aplicativo.           |
-    | EF48 | [RF48](../elicitacao/requisitos-elicitados.md#RF48)           | Alocado          | Registro da escolha do paciente está alocado no módulo de consentimento.                 |
-    | EF49 | [RF49](../elicitacao/requisitos-elicitados.md#RF49)           | Representação    | Permissão de acesso à câmera está representada no fluxo de configuração de permissões.   |
-    | EF50 | [RF50](../elicitacao/requisitos-elicitados.md#RF50)           | Recurso          | Foto tirada pelo paciente é vinculada ao sistema de reconhecimento facial.               |
-    | EF51 | [RF51](../elicitacao/requisitos-elicitados.md#RF51)           | Alocado          | Busca no CADSUS está alocada no módulo de integração com bases de dados governamentais.  |
-    | EF52 | [RF52](../elicitacao/requisitos-elicitados.md#RF52)           | Recurso          | Dados buscados na RNDS utilizam o sistema de sincronização em tempo real.                |
-    | EF53 | [RF53](../elicitacao/requisitos-elicitados.md#RF53)           | Representação    | Solicitação de remoção de dados está representada no painel de configurações do usuário. |
-    | EF54 | [RF54](../elicitacao/requisitos-elicitados.md#RF54)           | Satisfação       | Exibição do status na lista de espera para transplantes atende a requisitos de transparência. |
-    | EF55 | [RF55](../elicitacao/requisitos-elicitados.md#RF55)           | Recurso          | Exportação do certificado de vacinação utiliza o gerador de documentos PDF.              |
-    | EF56 | [RF56](../elicitacao/requisitos-elicitados.md#RF56)           | Representação    | Preenchimento de autodeclaração está representado no formulário de dados pessoais.       |
-    | EF57 | [RF57](../elicitacao/requisitos-elicitados.md#RF57)           | Satisfação       | Notificação sobre consultas agendadas atende aos requisitos de comunicação do sistema.   |
-    | EF58 | [RF58](../elicitacao/requisitos-elicitados.md#RF58)           | Alocado          | Agendamento de exames está alocado no módulo de gestão de exames.                       |
-    | EF59 | [RF59](../elicitacao/requisitos-elicitados.md#RF59)           | Representação    | Solicitação de licença saúde está representada no painel de funcionalidades do servidor. |
-    | EF60 | [RF60](../elicitacao/requisitos-elicitados.md#RF60)           | Satisfação       | Acompanhamento de solicitações atende aos critérios de transparência do usuário.         |
-    | EF61 | [RF61](../elicitacao/requisitos-elicitados.md#RF61)           | Representação    | Acompanhamento de vacinação está representado no painel de saúde.                       |
-    | EF62 | [RF62](../elicitacao/requisitos-elicitados.md#RF62)           | Recurso          | Consulta de pedidos de medicamentos utiliza o sistema de busca integrada.               |
-    | EF63 | [RF63](../elicitacao/requisitos-elicitados.md#RF63)           | Representação    | Consulta de recebimentos de medicamentos está no histórico farmacológico.               |
-    | EF64 | [RF64](../elicitacao/requisitos-elicitados.md#RF64)           | Alocado          | Consulta de agendamentos de exames está alocada no módulo de gestão de consultas.        |
-    | EF65 | [RF65](../elicitacao/requisitos-elicitados.md#RF65)           | Satisfação       | Consulta de resultados de exames atende aos critérios de acesso rápido a informações.    |
-    | EF66 | [RF66](../elicitacao/requisitos-elicitados.md#RF66)           | Representação    | Notificação de cancelamento de agendamentos está representada no painel de alertas.      |
-    | EF67 | [RF67](../elicitacao/requisitos-elicitados.md#RF67)           | Recurso          | Realização de pedidos de medicamentos utiliza o sistema de requisição automática.        |
-    | EF68 | [RF68](../elicitacao/requisitos-elicitados.md#RF68)           | Representação    | Aplicação de filtros na consulta de medicamentos está no painel de gestão farmacológica. |
-    | EF69 | [RF69](../elicitacao/requisitos-elicitados.md#RF69)           | Representação    | Histórico de vacinação pré-pandemia está representado no registro consolidado.           |
-    | EF70 | [RF70](../elicitacao/requisitos-elicitados.md#RF70)           | Satisfação       | Validação médica de declarações de alergia atende aos critérios de conformidade médica.  |
-    | EF71 | [RF71](../elicitacao/requisitos-elicitados.md#RF71)           | Representação    | Consulta de receitas médicas está representada no histórico clínico do paciente.         |
-    | EF72 | [RF72](../elicitacao/requisitos-elicitados.md#RF72)           | Alocado          | Notificação de atualizações está alocada no sistema de informações dinâmicas.           |
-    | EF73 | [RF73](../elicitacao/requisitos-elicitados.md#RF73)           | Representação    | Destaque de conteúdos pertinentes está representado na interface de navegação.           |
-    | EF74 | [RF74](../elicitacao/requisitos-elicitados.md#RF74)           | Recurso          | Exportação de receitas médicas utiliza o gerador de PDFs do sistema.                     |
-    | EF75 | [RF75](../elicitacao/requisitos-elicitados.md#RF75)           | Satisfação       | Oferecimento de agendamento de consultas atende aos requisitos de acessibilidade.        |
+    | ID   | Requisito Funcional | Tipo de Elo | Nível de Elo       | Descrição |
+    | :--- | :------------------ | :---------- | :----------------- | --------- |
+    | EF1  | [RF1](../elicitacao/requisitos-elicitados.md#RF1) | Representação | Desenvolvimento    | O requisito é representado no diagrama de contexto que descreve o login via Gov.br. |
+    | EF2  | [RF2](../elicitacao/requisitos-elicitados.md#RF2) | Satisfação    | Organizacional     | O requisito é atendido pela funcionalidade de ajuda informativa na seção de Vacinas. |
+    | EF3  | [RF3](../elicitacao/requisitos-elicitados.md#RF3) | Agregação     | Gerencial          | A funcionalidade de acesso à Carteira Nacional de Vacinação Digital compõe o módulo de histórico de vacinação. |
+    | EF4  | [RF4](../elicitacao/requisitos-elicitados.md#RF4) | Recurso       | Desenvolvimento    | Requer a funcionalidade de seleção de idioma para o certificado de vacinação. |
+    | EF5  | [RF5](../elicitacao/requisitos-elicitados.md#RF5) | Representação | Desenvolvimento    | Exportação da Carteira de Vacinação Digital está vinculada ao modelo de geração de PDFs. |
+    | EF6  | [RF6](../elicitacao/requisitos-elicitados.md#RF6) | Satisfação    | Ambiental          | O histórico de vacinas atende à necessidade de rastreamento de imunizações anteriores. |
+    | EF7  | [RF7](../elicitacao/requisitos-elicitados.md#RF7) | Alocado       | Desenvolvimento    | Detalhes de cada vacina estão alocados no módulo de consultas detalhadas. |
+    | EF8  | [RF8](../elicitacao/requisitos-elicitados.md#RF8) | Recurso       | Organizacional     | O recurso de ajuda informativa está integrado à seção de Exames. |
+    | EF9  | [RF9](../elicitacao/requisitos-elicitados.md#RF9) | Representação | Desenvolvimento    | Exames laboratoriais realizados são exibidos no histórico médico do usuário. |
+    | EF10 | [RF10](../elicitacao/requisitos-elicitados.md#RF10) | Satisfação    | Gerencial          | Os resultados de exames atendem à necessidade de informações detalhadas para o paciente. |
+    | EF11 | [RF11](../elicitacao/requisitos-elicitados.md#RF11) | Recurso       | Desenvolvimento    | O recurso de exportação de exames utiliza o gerador de relatórios em PDF e JPEG. |
+    | EF12 | [RF12](../elicitacao/requisitos-elicitados.md#RF12) | Satisfação    | Organizacional     | A ajuda informativa na seção de Medicamentos é satisfatória às necessidades do usuário. |
+    | EF13 | [RF13](../elicitacao/requisitos-elicitados.md#RF13) | Alocado       | Desenvolvimento    | O histórico de medicamentos é alocado no módulo de gerenciamento de medicamentos. |
+    | EF14 | [RF14](../elicitacao/requisitos-elicitados.md#RF14) | Recurso       | Desenvolvimento    | A busca por medicamentos utiliza uma interface de pesquisa integrada. |
+    | EF15 | [RF15](../elicitacao/requisitos-elicitados.md#RF15) | Representação | Gerencial          | A funcionalidade de busca por nome e dosagem está representada no fluxo de busca rápida. |
+    | EF16 | [RF16](../elicitacao/requisitos-elicitados.md#RF16) | Satisfação    | Organizacional     | A autorização de retirada de medicamentos satisfaz os critérios de segurança definidos. |
+    | EF17 | [RF17](../elicitacao/requisitos-elicitados.md#RF17) | Agregação     | Organizacional     | Medicamentos recebidos pelo Farmácia Popular compõem o histórico farmacológico. |
+    | EF18 | [RF18](../elicitacao/requisitos-elicitados.md#RF18) | Satisfação    | Ambiental          | Ajuda informativa sobre Dignidade Menstrual atende a critérios de acessibilidade. |
+    | EF19 | [RF19](../elicitacao/requisitos-elicitados.md#RF19) | Alocado       | Gerencial          | A emissão de autorizações para o Programa Dignidade Menstrual está alocada no módulo de autorizações. |
+    | EF20 | [RF20](../elicitacao/requisitos-elicitados.md#RF20) | Recurso       | Desenvolvimento    | Exportação do documento do Programa Dignidade Menstrual utiliza o gerador de PDFs. |
+    | EF21 | [RF21](../elicitacao/requisitos-elicitados.md#RF21) | Representação | Desenvolvimento    | Ajuda informativa da Rede de Saúde está representada na interface de navegação. |
+    | EF22 | [RF22](../elicitacao/requisitos-elicitados.md#RF22) | Recurso       | Organizacional     | A funcionalidade de permissão de localização é vinculada ao acesso aos serviços locais. |
+    | EF23 | [RF23](../elicitacao/requisitos-elicitados.md#RF23) | Alocado       | Desenvolvimento    | Armazenamento da localização é alocado em servidores seguros. |
+    | EF24 | [RF24](../elicitacao/requisitos-elicitados.md#RF24) | Satisfação    | Organizacional     | Oferecer estabelecimentos de saúde próximos satisfaz necessidades geográficas do usuário. |
+    | EF25 | [RF25](../elicitacao/requisitos-elicitados.md#RF25) | Representação | Desenvolvimento    | Estabelecimentos recentes vinculados ao usuário estão representados no histórico local. |
+    | EF26 | [RF26](../elicitacao/requisitos-elicitados.md#RF26) | Satisfação    | Gerencial          | Ajuda informativa sobre agendamentos atende à necessidade de orientação do usuário. |
+    | EF27 | [RF27](../elicitacao/requisitos-elicitados.md#RF27) | Representação | Desenvolvimento    | Consultas e exames estão representados no calendário interativo do aplicativo. |
+    | EF28 | [RF28](../elicitacao/requisitos-elicitados.md#RF28) | Alocado       | Gerencial          | Agendamentos estão alocados no módulo de gestão de consultas. |
+    | EF29 | [RF29](../elicitacao/requisitos-elicitados.md#RF29) | Recurso       | Organizacional     | Ajuda informativa sobre atendimento e internação utiliza a base de dados de orientações. |
+    | EF30 | [RF30](../elicitacao/requisitos-elicitados.md#RF30) | Satisfação    | Ambiental          | Exibição dos registros de internação atende aos requisitos de transparência médica. |
+    | EF31 | [RF31](../elicitacao/requisitos-elicitados.md#RF31) | Representação | Desenvolvimento    | Ajuda informativa sobre contatos está representada no diretório de contatos. |
+    | EF32 | [RF32](../elicitacao/requisitos-elicitados.md#RF32) | Satisfação    | Gerencial          | Exibição de contatos atende às necessidades de conexão do usuário com profissionais. |
+    | EF33 | [RF33](../elicitacao/requisitos-elicitados.md#RF33) | Alocado       | Desenvolvimento    | Adicionar contato de emergência está alocado no módulo de gerenciamento de contatos. |
+    | EF34 | [RF34](../elicitacao/requisitos-elicitados.md#RF34) | Representação | Organizacional     | Ajuda informativa sobre Diário de Saúde está no fluxo de introdução do módulo. |
+    | EF35 | [RF35](../elicitacao/requisitos-elicitados.md#RF35) | Satisfação    | Ambiental          | Exibição de registros de saúde atende ao monitoramento contínuo do paciente. |
+    | EF36 | [RF36](../elicitacao/requisitos-elicitados.md#RF36) | Representação | Desenvolvimento    | Registros de pressão são representados em gráficos no diário de saúde. |
+    | EF37 | [RF37](../elicitacao/requisitos-elicitados.md#RF37) | Alocado       | Desenvolvimento    | Adição de registros de pressão é alocada no módulo de monitoramento de saúde. |
+    | EF38 | [RF38](../elicitacao/requisitos-elicitados.md#RF38) | Representação | Gerencial          | Registros de glicose estão representados na interface de gráficos interativos. |
+    | EF39 | [RF39](../elicitacao/requisitos-elicitados.md#RF39) | Recurso       | Desenvolvimento    | Adição de registros de glicose utiliza o formulário de entrada padrão. |
+    | EF40 | [RF40](../elicitacao/requisitos-elicitados.md#RF40) | Representação | Organizacional     | Registros de IMC estão representados no painel de saúde integrado. |
+    | EF41 | [RF41](../elicitacao/requisitos-elicitados.md#RF41) | Alocado       | Desenvolvimento    | Adição de registros de IMC está alocada no formulário de acompanhamento de saúde. |
+    | EF42 | [RF42](../elicitacao/requisitos-elicitados.md#RF42) | Satisfação    | Ambiental          | Ajuda informativa sobre alergias atende aos requisitos de orientação médica. |
+    | EF43 | [RF43](../elicitacao/requisitos-elicitados.md#RF43) | Representação | Desenvolvimento    | Exibição de alergias está representada no histórico médico do paciente. |
+    | EF44 | [RF44](../elicitacao/requisitos-elicitados.md#RF44) | Alocado       | Desenvolvimento    | Adicionar alergia está alocada no módulo de atualização do histórico médico. |
+    | EF45 | [RF45](../elicitacao/requisitos-elicitados.md#RF45) | Satisfação    | Organizacional     | Apresentação do termo de consentimento atende aos critérios de transparência do sistema. |
+    | EF46 | [RF46](../elicitacao/requisitos-elicitados.md#RF46) | Representação | Gerencial          | Informações sobre coleta de dados estão representadas no painel de políticas de privacidade. |
+    | EF47 | [RF47](../elicitacao/requisitos-elicitados.md#RF47) | Recurso       | Desenvolvimento    | Escolha sobre coleta de dados utiliza o sistema de notificações do aplicativo. |
+    | EF48 | [RF48](../elicitacao/requisitos-elicitados.md#RF48) | Alocado       | Desenvolvimento    | Registro da escolha do paciente está alocado no módulo de consentimento. |
+    | EF49 | [RF49](../elicitacao/requisitos-elicitados.md#RF49) | Representação | Desenvolvimento    | Permissão de acesso à câmera está representada no fluxo de configuração de permissões. |
+    | EF50 | [RF50](../elicitacao/requisitos-elicitados.md#RF50) | Recurso       | Organizacional     | Foto tirada pelo paciente é vinculada ao sistema de reconhecimento facial. |
+    | EF51 | [RF51](../elicitacao/requisitos-elicitados.md#RF51) | Alocado       | Desenvolvimento    | Busca no CADSUS está alocada no módulo de integração com bases de dados governamentais. |
+    | EF52 | [RF52](../elicitacao/requisitos-elicitados.md#RF52) | Recurso       | Desenvolvimento    | Dados buscados na RNDS utilizam o sistema de sincronização em tempo real. |
+    | EF53 | [RF53](../elicitacao/requisitos-elicitados.md#RF53) | Representação | Gerencial          | Solicitação de remoção de dados está representada no painel de configurações do usuário. |
+    | EF54 | [RF54](../elicitacao/requisitos-elicitados.md#RF54) | Satisfação    | Ambiental          | Exibição do status na lista de espera para transplantes atende a requisitos de transparência. |
+    | EF55 | [RF55](../elicitacao/requisitos-elicitados.md#RF55) | Recurso       | Desenvolvimento    | Exportação do certificado de vacinação utiliza o gerador de documentos PDF. |
+    | EF56 | [RF56](../elicitacao/requisitos-elicitados.md#RF56) | Representação | Organizacional     | Preenchimento de autodeclaração está representado no formulário de dados pessoais. |
+    | EF57 | [RF57](../elicitacao/requisitos-elicitados.md#RF57) | Satisfação    | Gerencial          | Notificação sobre consultas agendadas atende aos requisitos de comunicação do sistema. |
+    | EF58 | [RF58](../elicitacao/requisitos-elicitados.md#RF58) | Alocado       | Desenvolvimento    | Agendamento de exames está alocado no módulo de gestão de exames. |
+    | EF59 | [RF59](../elicitacao/requisitos-elicitados.md#RF59) | Representação | Organizacional     | Solicitação de licença saúde está representada no painel de funcionalidades do servidor. |
+    | EF60 | [RF60](../elicitacao/requisitos-elicitados.md#RF60) | Satisfação    | Gerencial          | Acompanhamento de solicitações atende aos critérios de transparência do usuário. |
+    | EF61 | [RF61](../elicitacao/requisitos-elicitados.md#RF61) | Representação | Desenvolvimento    | Acompanhamento de vacinação está representado no painel de saúde. |
+    | EF62 | [RF62](../elicitacao/requisitos-elicitados.md#RF62) | Recurso       | Organizacional     | Consulta de pedidos de medicamentos utiliza o sistema de busca integrada. |
+    | EF63 | [RF63](../elicitacao/requisitos-elicitados.md#RF63) | Representação | Desenvolvimento    | Consulta de recebimentos de medicamentos está no histórico farmacológico. |
+    | EF64 | [RF64](../elicitacao/requisitos-elicitados.md#RF64) | Alocado       | Desenvolvimento    | Consulta de agendamentos de exames está alocada no módulo de gestão de consultas. |
+    | EF65 | [RF65](../elicitacao/requisitos-elicitados.md#RF65) | Satisfação    | Gerencial          | Consulta de resultados de exames atende aos critérios de acesso rápido a informações. |
+    | EF66 | [RF66](../elicitacao/requisitos-elicitados.md#RF66) | Representação | Organizacional     | Notificação de cancelamento de agendamentos está representada no painel de alertas. |
+    | EF67 | [RF67](../elicitacao/requisitos-elicitados.md#RF67) | Recurso       | Desenvolvimento    | Realização de pedidos de medicamentos utiliza o sistema de requisição automática. |
+    | EF68 | [RF68](../elicitacao/requisitos-elicitados.md#RF68) | Representação | Organizacional     | Aplicação de filtros na consulta de medicamentos está no painel de gestão farmacológica. |
+    | EF69 | [RF69](../elicitacao/requisitos-elicitados.md#RF69) | Representação | Gerencial          | Histórico de vacinação pré-pandemia está representado no registro consolidado. |
+    | EF70 | [RF70](../elicitacao/requisitos-elicitados.md#RF70) | Satisfação    | Ambiental          | Validação médica de declarações de alergia atende aos critérios de conformidade médica. |
+    | EF71 | [RF71](../elicitacao/requisitos-elicitados.md#RF71) | Representação | Desenvolvimento    | Consulta de receitas médicas está representada no histórico clínico do paciente. |
+    | EF72 | [RF72](../elicitacao/requisitos-elicitados.md#RF72) | Alocado       | Desenvolvimento    | Notificação de atualizações está alocada no sistema de informações dinâmicas. |
+    | EF73 | [RF73](../elicitacao/requisitos-elicitados.md#RF73) | Representação | Organizacional     | Destaque de conteúdos pertinentes está representado na interface de navegação. |
+    | EF74 | [RF74](../elicitacao/requisitos-elicitados.md#RF74) | Recurso       | Desenvolvimento    | Exportação de receitas médicas utiliza o gerador de PDFs do sistema. |
+    | EF75 | [RF75](../elicitacao/requisitos-elicitados.md#RF75) | Satisfação    | Gerencial          | Oferecimento de agendamento de consultas atende aos requisitos de acessibilidade. |
 
     </center>
 
@@ -359,56 +359,56 @@ Elos de rastreabilidade representam as relações entre os elementos de um siste
 
     <center>
 
-    | ID   | Requisito Não Funcional | Tipo de Elo | Descrição |
-    | :--- | :---------------------- | :---------- | --------- |
-    | ENF1 | [RNF1](../elicitacao/requisitos-elicitados.md#RNF1) | Representação | O requisito de autenticação segura (OAuth 2.0) é representado no diagrama de login seguro. |
-    | ENF2 | [RNF2](../elicitacao/requisitos-elicitados.md#RNF2) | Satisfação    | A acessibilidade das informações de ajuda atende às diretrizes para usuários com deficiência. |
-    | ENF3 | [RNF3](../elicitacao/requisitos-elicitados.md#RNF3) | Satisfação    | O carregamento do histórico de vacinação em menos de 3 segundos atende às expectativas de performance. |
-    | ENF4 | [RNF4](../elicitacao/requisitos-elicitados.md#RNF4) | Recurso       | O suporte a três idiomas para certificados de vacinação depende da funcionalidade de tradução integrada. |
-    | ENF5 | [RNF5](../elicitacao/requisitos-elicitados.md#RNF5) | Representação | O formato PDF de alta qualidade para certificados de vacinação está representado no módulo de exportação. |
-    | ENF6 | [RNF6](../elicitacao/requisitos-elicitados.md#RNF6) | Alocado       | O armazenamento do histórico de vacinas é alocado em servidores seguros, conforme a LGPD. |
-    | ENF7 | [RNF7](../elicitacao/requisitos-elicitados.md#RNF7) | Representação | A criptografia ponta a ponta para acesso aos detalhes de vacinas está representada no fluxo de segurança. |
-    | ENF8 | [RNF8](../elicitacao/requisitos-elicitados.md#RNF8) | Satisfação    | As informações de ajuda relacionadas a exames atendem aos padrões de usabilidade definidos. |
-    | ENF9 | [RNF9](../elicitacao/requisitos-elicitados.md#RNF9) | Representação | A apresentação de resultados de exames está representada no formato padronizado e acessível. |
-    | ENF10| [RNF10](../elicitacao/requisitos-elicitados.md#RNF10)| Satisfação    | O carregamento otimizado dos dados de exames atende às necessidades de desempenho do sistema. |
-    | ENF11| [RNF11](../elicitacao/requisitos-elicitados.md#RNF11)| Recurso       | A exportação de documentos de exames utiliza os formatos amplamente compatíveis, como PDF e JPEG. |
-    | ENF12| [RNF12](../elicitacao/requisitos-elicitados.md#RNF12)| Representação | A interface responsiva para exibição de informações sobre medicamentos está representada no design adaptativo. |
-    | ENF13| [RNF13](../elicitacao/requisitos-elicitados.md#RNF13)| Alocado       | O histórico de medicamentos está alocado em servidores redundantes para garantir alta disponibilidade. |
-    | ENF14| [RNF14](../elicitacao/requisitos-elicitados.md#RNF14)| Satisfação    | A busca por medicamentos em menos de 2 segundos atende aos critérios de eficiência do sistema. |
-    | ENF15| [RNF15](../elicitacao/requisitos-elicitados.md#RNF15)| Representação | A sensibilidade a erros de digitação na busca por medicamentos está representada no sistema de busca inteligente. |
-    | ENF16| [RNF16](../elicitacao/requisitos-elicitados.md#RNF16)| Recurso       | A autenticação segura do usuário é utilizada para confirmar a autorização de retirada de medicamentos. |
-    | ENF17| [RNF17](../elicitacao/requisitos-elicitados.md#RNF17)| Representação | A exibição de medicamentos recebidos pelo Programa Farmácia Popular está organizada em ordem cronológica. |
-    | ENF18| [RNF18](../elicitacao/requisitos-elicitados.md#RNF18)| Satisfação    | A seção de ajuda do Programa Dignidade Menstrual atende às diretrizes de acessibilidade WCAG 2.1. |
-    | ENF19| [RNF19](../elicitacao/requisitos-elicitados.md#RNF19)| Satisfação    | O processamento das autorizações para o Programa Dignidade Menstrual em menos de 5 segundos atende às expectativas. |
-    | ENF20| [RNF20](../elicitacao/requisitos-elicitados.md#RNF20)| Representação | O documento do Programa Dignidade Menstrual em formato PDF com validação digital está representado no módulo de exportação. |
-    | ENF21| [RNF21](../elicitacao/requisitos-elicitados.md#RNF21)| Recurso       | O acesso à localização do dispositivo do usuário utiliza consentimento explícito e armazenamento temporário. |
-    | ENF22| [RNF22](../elicitacao/requisitos-elicitados.md#RNF22)| Recurso       | APIs de geolocalização eficientes e de baixo consumo de bateria são utilizadas para otimizar o desempenho. |
-    | ENF23| [RNF23](../elicitacao/requisitos-elicitados.md#RNF23)| Satisfação    | O carregamento das opções de estabelecimentos de saúde em menos de 2 segundos atende aos critérios de performance. |
-    | ENF24| [RNF24](../elicitacao/requisitos-elicitados.md#RNF24)| Representação | A atualização automática da lista de estabelecimentos recentes está representada no sistema de sincronização. |
-    | ENF25| [RNF25](../elicitacao/requisitos-elicitados.md#RNF25)| Alocado       | O agendamento de consultas está alocado no módulo de integração com os sistemas do SUS. |
-    | ENF26| [RNF26](../elicitacao/requisitos-elicitados.md#RNF26)| Representação | A exibição intuitiva das informações sobre consultas médicas está representada no painel de usuário. |
-    | ENF27| [RNF27](../elicitacao/requisitos-elicitados.md#RNF27)| Alocado       | O armazenamento seguro de registros de internação está alocado em servidores certificados. |
-    | ENF28| [RNF28](../elicitacao/requisitos-elicitados.md#RNF28)| Representação | A lista de contatos de profissionais de saúde está representada no diretório de navegação. |
-    | ENF29| [RNF29](../elicitacao/requisitos-elicitados.md#RNF29)| Satisfação    | O acesso rápido às informações de emergência atende às expectativas de usabilidade do sistema. |
-    | ENF30| [RNF30](../elicitacao/requisitos-elicitados.md#RNF30)| Representação | Os registros de saúde do usuário apresentados em gráficos interativos estão representados no painel de visualização. |
-    | ENF31| [RNF31](../elicitacao/requisitos-elicitados.md#RNF31)| Alocado       | O armazenamento criptografado de informações sobre pressão, glicose e IMC está alocado no sistema seguro. |
-    | ENF32| [RNF32](../elicitacao/requisitos-elicitados.md#RNF32)| Recurso       | A garantia de alta disponibilidade com uptime de 99,5% é gerenciada pelo sistema de monitoramento. |
-    | ENF33| [RNF33](../elicitacao/requisitos-elicitados.md#RNF33)| Representação | Os dados de alergias protegidos contra acesso não autorizado estão representados no módulo de segurança. |
-    | ENF34| [RNF34](../elicitacao/requisitos-elicitados.md#RNF34)| Recurso       | A criptografia AES-256 é utilizada para proteger os dados pessoais dos pacientes. |
-    | ENF35| [RNF35](../elicitacao/requisitos-elicitados.md#RNF35)| Satisfação    | A compatibilidade do sistema com dispositivos Android e iOS atende às expectativas de usabilidade. |
-    | ENF36| [RNF36](../elicitacao/requisitos-elicitados.md#RNF36)| Representação | O armazenamento de dados em conformidade com a LGPD está representado nos fluxos de governança de dados. |
-    | ENF37| [RNF37](../elicitacao/requisitos-elicitados.md#RNF37)| Recurso       | O tempo de exibição do termo de consentimento em até 5 segundos é garantido pelo sistema de otimização. |
-    | ENF38| [RNF38](../elicitacao/requisitos-elicitados.md#RNF38)| Representação | O design responsivo do termo de consentimento está representado no modelo adaptativo da interface. |
-    | ENF39| [RNF39](../elicitacao/requisitos-elicitados.md#RNF39)| Satisfação    | A apresentação das informações de dados coletados em linguagem acessível atende às necessidades dos usuários. |
-    | ENF40| [RNF40](../elicitacao/requisitos-elicitados.md#RNF40)| Representação | O uso de conexões criptografadas (TLS 1.2 ou superior) está representado no fluxo de segurança de comunicação. |
-    | ENF41| [RNF41](../elicitacao/requisitos-elicitados.md#RNF41)| Satisfação    | A atualização de informações no cartão de vacinação em até 10 dias atende aos requisitos de eficiência. |
-    | ENF42| [RNF42](../elicitacao/requisitos-elicitados.md#RNF42)| Representação | A notificação de consultas agendadas com antecedência está representada no módulo de alertas. |
-    | ENF43| [RNF43](../elicitacao/requisitos-elicitados.md#RNF43)| Recurso       | A coleta de dados de biosensores é gerenciada pelo sistema de integração de dispositivos. |
-    | ENF44| [RNF44](../elicitacao/requisitos-elicitados.md#RNF44)| Satisfação    | O fluxo para solicitação de medicamentos em até 5 cliques atende aos critérios de usabilidade. |
-    | ENF45| [RNF45](../elicitacao/requisitos-elicitados.md#RNF45)| Representação | O tempo de processamento de solicitações de medicamentos está representado no módulo de desempenho. |
-    | ENF46| [RNF46](../elicitacao/requisitos-elicitados.md#RNF46)| Satisfação    | A exibição cronológica de pedidos de medicamentos atende às expectativas de organização do sistema. |
-    | ENF47| [RNF47](../elicitacao/requisitos-elicitados.md#RNF47)| Representação | A exportação de receitas médicas em PDF está representada no módulo de documentação. |
-    | ENF48| [RNF48](../elicitacao/requisitos-elicitados.md#RNF48)| Representação | A exibição cronológica de receitas médicas está representada no histórico clínico do paciente. |
+    | ID   | Requisito Não Funcional | Tipo de Elo   | Nível de Elo       | Descrição |
+    | :--- | :---------------------- | :------------ | :----------------- | --------- |
+    | ENF1 | [RNF1](../elicitacao/requisitos-elicitados.md#RNF1) | Representação | Desenvolvimento    | O requisito de autenticação segura (OAuth 2.0) é representado no diagrama de login seguro. |
+    | ENF2 | [RNF2](../elicitacao/requisitos-elicitados.md#RNF2) | Satisfação    | Ambiental          | A acessibilidade das informações de ajuda atende às diretrizes para usuários com deficiência. |
+    | ENF3 | [RNF3](../elicitacao/requisitos-elicitados.md#RNF3) | Satisfação    | Gerencial          | O carregamento do histórico de vacinação em menos de 3 segundos atende às expectativas de performance. |
+    | ENF4 | [RNF4](../elicitacao/requisitos-elicitados.md#RNF4) | Recurso       | Organizacional     | O suporte a três idiomas para certificados de vacinação depende da funcionalidade de tradução integrada. |
+    | ENF5 | [RNF5](../elicitacao/requisitos-elicitados.md#RNF5) | Representação | Desenvolvimento    | O formato PDF de alta qualidade para certificados de vacinação está representado no módulo de exportação. |
+    | ENF6 | [RNF6](../elicitacao/requisitos-elicitados.md#RNF6) | Alocado       | Organizacional     | O armazenamento do histórico de vacinas é alocado em servidores seguros, conforme a LGPD. |
+    | ENF7 | [RNF7](../elicitacao/requisitos-elicitados.md#RNF7) | Representação | Desenvolvimento    | A criptografia ponta a ponta para acesso aos detalhes de vacinas está representada no fluxo de segurança. |
+    | ENF8 | [RNF8](../elicitacao/requisitos-elicitados.md#RNF8) | Satisfação    | Organizacional     | As informações de ajuda relacionadas a exames atendem aos padrões de usabilidade definidos. |
+    | ENF9 | [RNF9](../elicitacao/requisitos-elicitados.md#RNF9) | Representação | Desenvolvimento    | A apresentação de resultados de exames está representada no formato padronizado e acessível. |
+    | ENF10 | [RNF10](../elicitacao/requisitos-elicitados.md#RNF10) | Satisfação   | Gerencial          | O carregamento otimizado dos dados de exames atende às necessidades de desempenho do sistema. |
+    | ENF11 | [RNF11](../elicitacao/requisitos-elicitados.md#RNF11) | Recurso      | Desenvolvimento    | A exportação de documentos de exames utiliza os formatos amplamente compatíveis, como PDF e JPEG. |
+    | ENF12 | [RNF12](../elicitacao/requisitos-elicitados.md#RNF12) | Representação | Organizacional     | A interface responsiva para exibição de informações sobre medicamentos está representada no design adaptativo. |
+    | ENF13 | [RNF13](../elicitacao/requisitos-elicitados.md#RNF13) | Alocado      | Desenvolvimento    | O histórico de medicamentos está alocado em servidores redundantes para garantir alta disponibilidade. |
+    | ENF14 | [RNF14](../elicitacao/requisitos-elicitados.md#RNF14) | Satisfação   | Ambiental          | A busca por medicamentos em menos de 2 segundos atende aos critérios de eficiência do sistema. |
+    | ENF15 | [RNF15](../elicitacao/requisitos-elicitados.md#RNF15) | Representação | Gerencial          | A sensibilidade a erros de digitação na busca por medicamentos está representada no sistema de busca inteligente. |
+    | ENF16 | [RNF16](../elicitacao/requisitos-elicitados.md#RNF16) | Recurso      | Organizacional     | A autenticação segura do usuário é utilizada para confirmar a autorização de retirada de medicamentos. |
+    | ENF17 | [RNF17](../elicitacao/requisitos-elicitados.md#RNF17) | Representação | Desenvolvimento    | A exibição de medicamentos recebidos pelo Programa Farmácia Popular está organizada em ordem cronológica. |
+    | ENF18 | [RNF18](../elicitacao/requisitos-elicitados.md#RNF18) | Satisfação   | Ambiental          | A seção de ajuda do Programa Dignidade Menstrual atende às diretrizes de acessibilidade WCAG 2.1. |
+    | ENF19 | [RNF19](../elicitacao/requisitos-elicitados.md#RNF19) | Satisfação   | Gerencial          | O processamento das autorizações para o Programa Dignidade Menstrual em menos de 5 segundos atende às expectativas. |
+    | ENF20 | [RNF20](../elicitacao/requisitos-elicitados.md#RNF20) | Representação | Desenvolvimento    | O documento do Programa Dignidade Menstrual em formato PDF com validação digital está representado no módulo de exportação. |
+    | ENF21 | [RNF21](../elicitacao/requisitos-elicitados.md#RNF21) | Recurso      | Organizacional     | O acesso à localização do dispositivo do usuário utiliza consentimento explícito e armazenamento temporário. |
+    | ENF22 | [RNF22](../elicitacao/requisitos-elicitados.md#RNF22) | Recurso      | Ambiental          | APIs de geolocalização eficientes e de baixo consumo de bateria são utilizadas para otimizar o desempenho. |
+    | ENF23 | [RNF23](../elicitacao/requisitos-elicitados.md#RNF23) | Satisfação   | Gerencial          | O carregamento das opções de estabelecimentos de saúde em menos de 2 segundos atende aos critérios de performance. |
+    | ENF24 | [RNF24](../elicitacao/requisitos-elicitados.md#RNF24) | Representação | Organizacional     | A atualização automática da lista de estabelecimentos recentes está representada no sistema de sincronização. |
+    | ENF25 | [RNF25](../elicitacao/requisitos-elicitados.md#RNF25) | Alocado      | Desenvolvimento    | O agendamento de consultas está alocado no módulo de integração com os sistemas do SUS. |
+    | ENF26 | [RNF26](../elicitacao/requisitos-elicitados.md#RNF26) | Representação | Organizacional     | A exibição intuitiva das informações sobre consultas médicas está representada no painel de usuário. |
+    | ENF27 | [RNF27](../elicitacao/requisitos-elicitados.md#RNF27) | Alocado      | Desenvolvimento    | O armazenamento seguro de registros de internação está alocado em servidores certificados. |
+    | ENF28 | [RNF28](../elicitacao/requisitos-elicitados.md#RNF28) | Representação | Gerencial          | A lista de contatos de profissionais de saúde está representada no diretório de navegação. |
+    | ENF29 | [RNF29](../elicitacao/requisitos-elicitados.md#RNF29) | Satisfação   | Organizacional     | O acesso rápido às informações de emergência atende às expectativas de usabilidade do sistema. |
+    | ENF30 | [RNF30](../elicitacao/requisitos-elicitados.md#RNF30) | Representação | Desenvolvimento    | Os registros de saúde do usuário apresentados em gráficos interativos estão representados no painel de visualização. |
+    | ENF31 | [RNF31](../elicitacao/requisitos-elicitados.md#RNF31) | Alocado      | Desenvolvimento    | O armazenamento criptografado de informações sobre pressão, glicose e IMC está alocado no sistema seguro. |
+    | ENF32 | [RNF32](../elicitacao/requisitos-elicitados.md#RNF32) | Recurso      | Organizacional     | A garantia de alta disponibilidade com uptime de 99,5% é gerenciada pelo sistema de monitoramento. |
+    | ENF33 | [RNF33](../elicitacao/requisitos-elicitados.md#RNF33) | Representação | Desenvolvimento    | Os dados de alergias protegidos contra acesso não autorizado estão representados no módulo de segurança. |
+    | ENF34 | [RNF34](../elicitacao/requisitos-elicitados.md#RNF34) | Recurso      | Ambiental          | A criptografia AES-256 é utilizada para proteger os dados pessoais dos pacientes. |
+    | ENF35 | [RNF35](../elicitacao/requisitos-elicitados.md#RNF35) | Satisfação   | Organizacional     | A compatibilidade do sistema com dispositivos Android e iOS atende às expectativas de usabilidade. |
+    | ENF36 | [RNF36](../elicitacao/requisitos-elicitados.md#RNF36) | Representação | Gerencial          | O armazenamento de dados em conformidade com a LGPD está representado nos fluxos de governança de dados. |
+    | ENF37 | [RNF37](../elicitacao/requisitos-elicitados.md#RNF37) | Recurso      | Desenvolvimento    | O tempo de exibição do termo de consentimento em até 5 segundos é garantido pelo sistema de otimização. |
+    | ENF38 | [RNF38](../elicitacao/requisitos-elicitados.md#RNF38) | Representação | Organizacional     | O design responsivo do termo de consentimento está representado no modelo adaptativo da interface. |
+    | ENF39 | [RNF39](../elicitacao/requisitos-elicitados.md#RNF39) | Satisfação   | Ambiental          | A apresentação das informações de dados coletados em linguagem acessível atende às necessidades dos usuários. |
+    | ENF40 | [RNF40](../elicitacao/requisitos-elicitados.md#RNF40) | Representação | Desenvolvimento    | O uso de conexões criptografadas (TLS 1.2 ou superior) está representado no fluxo de segurança de comunicação. |
+    | ENF41 | [RNF41](../elicitacao/requisitos-elicitados.md#RNF41) | Satisfação   | Gerencial          | A atualização de informações no cartão de vacinação em até 10 dias atende aos requisitos de eficiência. |
+    | ENF42 | [RNF42](../elicitacao/requisitos-elicitados.md#RNF42) | Representação | Organizacional     | A notificação de consultas agendadas com antecedência está representada no módulo de alertas. |
+    | ENF43 | [RNF43](../elicitacao/requisitos-elicitados.md#RNF43) | Recurso      | Desenvolvimento    | A coleta de dados de biosensores é gerenciada pelo sistema de integração de dispositivos. |
+    | ENF44 | [RNF44](../elicitacao/requisitos-elicitados.md#RNF44) | Satisfação   | Organizacional     | O fluxo para solicitação de medicamentos em até 5 cliques atende aos critérios de usabilidade. |
+    | ENF45 | [RNF45](../elicitacao/requisitos-elicitados.md#RNF45) | Representação | Desenvolvimento    | O tempo de processamento de solicitações de medicamentos está representado no módulo de desempenho. |
+    | ENF46 | [RNF46](../elicitacao/requisitos-elicitados.md#RNF46) | Satisfação   | Gerencial          | A exibição cronológica de pedidos de medicamentos atende às expectativas de organização do sistema. |
+    | ENF47 | [RNF47](../elicitacao/requisitos-elicitados.md#RNF47) | Representação | Organizacional     | A exportação de receitas médicas em PDF está representada no módulo de documentação. |
+    | ENF48 | [RNF48](../elicitacao/requisitos-elicitados.md#RNF48) | Representação | Desenvolvimento    | A exibição cronológica de receitas médicas está representada no histórico clínico do paciente. |
 
     </center>
 
