@@ -211,5 +211,5 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.4`  | Correção de nomenclatura, atualização da lista de execução. | [Pedro Lopes](https://github.com/pLopess) | 12/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
 | `1.5`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
 | `1.6`  | Atualização dos dados das tabelas anteriores à Etapa 4 e correção de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
-| `1.7`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/12/2024 |  |  |
-| `1.8`  | Atualização dos dados da tabela referente à Etapa 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.7`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2024 |
+| `1.8`  | Atualização dos dados da tabela referente à Etapa 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2024 |
