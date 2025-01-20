@@ -45,8 +45,20 @@
 - Acompanhamento de cada integrante no desenvolvimento do projeto
 - Correções de artefatos de entregas anteriores
 
-## 📑 Histórico de Versão
+## Gravação da Reunião
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hr_LHe2-Ntw?si=1PJJIR2EmjHfLGUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+    <p><strong>Reunião 07 <em></em></strong></p>
+    <p>Autor: <a href="https://github.com/JoosPerro">Artur Ricardo</a>.</p>
+</div>
+
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 16/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 16/01/2025 |
+|  `1.1` | Inserção do link para o vídeo da gravação da reunião. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 |
