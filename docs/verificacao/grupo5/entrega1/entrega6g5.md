@@ -199,7 +199,7 @@ A inspeção foi baseada na [lista de verificação da Entrega 6](../../lista_ve
     <tr>
       <td>Q12</td>
       <td>Os elos de rastreabilidade do <em>Forward From</em> foram feitos da maneira correta? <a id="anchor_10" href="#REF10"><sup>10</sup></a></td>
-      <td>Sim. Só faltaram os nídeis dos elos.</td>
+      <td>Sim. Só faltaram os níveis dos elos.</td>
       <td>Matheus Henrick</td>
       <td>17/12/2024 22:00</td>
       <td>1.5</td>
@@ -233,13 +233,25 @@ A inspeção foi baseada na [lista de verificação da Entrega 6](../../lista_ve
 
 </center>
 
+<div align="center">
+  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a> e André Barros.</p>
+</div>
+
+
+
+<center>
+
 ## Gravação da Inspeção do Grupo 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iw8aHMAN27Y?si=d_IcrAVSXeTwOtTj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</center>
+
 <div align="center">
   <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick.</a></p>
 </div>
+
+
 
 ## 📚 Referências Bibliográficas
 
@@ -281,4 +293,4 @@ Monografias em Ciência da Computação, No. 20/05, Editor: Prof. Carlos José P
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.1`  | Criando tabela. | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
-| `1.2`  | Atualização dos dados da tabela, inserção do link do vídeo da gravação da avaliação do Grupo 5 etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 20/01/2025 |  |  |
+| `1.2`  | Atualização dos dados da tabela, inserção do link do vídeo da gravação da avaliação do Grupo 5 etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 20/01/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 20/01/2025 |
