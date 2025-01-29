@@ -55,7 +55,7 @@
 
 <div align="center">
     <p><strong>Reunião 07 <em></em></strong></p>
-    <p>Autor: <a href="https://github.com/JoosPerro">Artur Ricardo</a>.</p>
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
 ## 📑 Histórico de Versões
