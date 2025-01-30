@@ -1,0 +1,5278 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/modelagem-agil/historias-de-usuario/">
+      
+      
+        <link rel="prev" href="../../modelagem/especificacao-suplementar/">
+      
+      
+        <link rel="next" href="../nfr-framework/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.50">
+    
+    
+      
+        <title>Histórias de Usuário - Meu SUS Digital</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.a40c8224.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historias-de-usuario" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Meu SUS Digital" class="md-header__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meu SUS Digital
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Histórias de Usuário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Meu SUS Digital" class="md-nav__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    Meu SUS Digital
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 01
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 02
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 03
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 04
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 06
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 01
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 02
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 03
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 04
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 05
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 06
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HeatMap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Execução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/apps-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativos Avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/app-selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/termo-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Perfil de Usuário
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Perfil de Usuário
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/analise-perfil-usuario/perfil-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/analise-perfil-usuario/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/planejamento/cronograma-tecnicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Elicitação de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/planejamento/cronograma-priorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Priorização de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/analise-de-documentos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/grupo-de-foco/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo de Foco
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/%24100/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/matriz-gut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz GUT
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/requisitos-elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/caso-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao-suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#divisao-de-requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Divisão de Requisitos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definicao-de-criterios-de-aceitacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição de Critérios de Aceitação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#documentacao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Documentação das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórias de Usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hu1-login-via-govbr" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU1 - Login via Gov.br
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu2-ajuda-informativa-sobre-a-secao-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU2 - Ajuda informativa sobre a seção de Vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu3-acesso-a-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU3 - Acesso à Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu4-selecao-de-idioma-da-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU4 - Seleção de idioma da Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu5-download-da-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU5 - Download da Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu6-exportacao-do-certificado-de-vacinacao-nacional-de-covid-19" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU6 - Exportação do Certificado de Vacinação Nacional de Covid-19
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu7-historico-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU7 - Histórico de vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu8-detalhes-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU8 - Detalhes de vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu9-ajuda-informativa-sobre-a-secao-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU9 - Ajuda informativa sobre a seção de Exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu10-visualizacao-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU10 - Visualização de exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu11-detalhes-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU11 - Detalhes de exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu12-exportacao-de-resultado-de-exame" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU12 - Exportação de Resultado de Exame
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu13-ajuda-informativa-sobre-a-secao-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU13 - Ajuda Informativa sobre a Seção de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu14-acesso-ao-historico-de-medicamentos-recebidos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU14 - Acesso ao Histórico de Medicamentos Recebidos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu15-adicionar-medicamento-recebido-via-programas-do-governo-federal" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU15 - Adicionar Medicamento Recebido via Programas do Governo Federal
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu16-buscar-medicamento-por-nome-e-dosagem" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU16 - Buscar Medicamento por Nome e Dosagem
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu17-autorizar-retirada-de-medicamentos-pelo-cpf-no-programa-farmacia-popular" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu18-verificar-medicamentos-recebidos-pelo-programa-farmacia-popular" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu19-obter-ajuda-informativa-sobre-a-secao-de-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu20-emissao-de-autorizacao-para-participar-do-programa-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu21-exportacaodownload-do-documento-de-autorizacao-para-o-programa-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu22-informativa-a-respeito-da-secao-de-rede-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU22 - Informativa a Respeito da Seção de Rede de Saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu23-permissao-para-acessar-minha-localizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU23 - Permissão Para Acessar Minha Localização
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu24-armazena-localizacao-para-personalizar-os-servicos-oferecidos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu25-visualizar-opcoes-de-estabelecimentos-de-saude-proximos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU25 - Visualizar Opções de Estabelecimentos de Saúde Próximos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu26-identificar-os-estabelecimentos-de-saude-ja-utilizados-por-mim" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU26 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu27-visualizacao-de-consultas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU27 - Visualização de Consultas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu28-visualizar-exames-ja-realizados" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU28 - Visualizar Exames Já realizados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu29-agendar-consultas-medicas-ou-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU29 - Agendar Consultas Médicas ou Exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu30-ajuda-informativa-a-respeito-da-secao-de-atendimento-e-internacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU30 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu31-registros-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU31 - Registros de Saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu32-consultar-e-atualizar-contatos-de-profissionais-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU32 - Consultar e atualizar contatos de profissionais de saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu33-consultar-e-atualizar-registros-de-pressao-arterial" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU33 - Consultar e atualizar registros de pressão arterial
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu34-consultar-e-atualizar-registros-de-glicose" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU34 - Consultar e atualizar registros de glicose
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu35-atualizar-registros-de-imc" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU35 - Atualizar registros de IMC
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu36-obter-ajuda-nas-secoes-de-contato-e-indicadores-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU36 - Obter ajuda nas seções de contato e indicadores de saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu37-obter-ajuda-sobre-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU37 - Obter Ajuda sobre Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu38-visualizar-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU38 - Visualizar Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu39-adicionar-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU39 - Adicionar Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu40-visualizar-posicao-na-fila-de-transplantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU40 - Visualizar Posição na Fila de Transplantes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu41-autodeclaracao-de-informacoes-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU41 - Autodeclaração de Informações Pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu42-consultar-pedidos-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU42 - Consultar Pedidos de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu43-aplicar-filtro-de-pesquisa" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU43 - Aplicar Filtro de Pesquisa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu44-realizar-pedidos-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU44 - Realizar Pedidos de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu45-visualizar-historico-de-vacinacao-pre-pandemia" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU45 - Visualizar Histórico de Vacinação Pré-Pandemia
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu46-consultar-receitas-medicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU46 - Consultar Receitas Médicas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao-e-priorizacao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Validação e Priorização das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr-framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/backward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/forward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/matriz-de-rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lista de Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Lista de Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3" id="__nav_9_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega1g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega2g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega3g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega4g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega6g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#divisao-de-requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Divisão de Requisitos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definicao-de-criterios-de-aceitacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição de Critérios de Aceitação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#documentacao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Documentação das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórias de Usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hu1-login-via-govbr" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU1 - Login via Gov.br
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu2-ajuda-informativa-sobre-a-secao-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU2 - Ajuda informativa sobre a seção de Vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu3-acesso-a-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU3 - Acesso à Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu4-selecao-de-idioma-da-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU4 - Seleção de idioma da Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu5-download-da-carteira-nacional-de-vacinacao-digital" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU5 - Download da Carteira Nacional de Vacinação Digital
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu6-exportacao-do-certificado-de-vacinacao-nacional-de-covid-19" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU6 - Exportação do Certificado de Vacinação Nacional de Covid-19
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu7-historico-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU7 - Histórico de vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu8-detalhes-de-vacinas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU8 - Detalhes de vacinas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu9-ajuda-informativa-sobre-a-secao-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU9 - Ajuda informativa sobre a seção de Exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu10-visualizacao-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU10 - Visualização de exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu11-detalhes-de-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU11 - Detalhes de exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu12-exportacao-de-resultado-de-exame" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU12 - Exportação de Resultado de Exame
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu13-ajuda-informativa-sobre-a-secao-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU13 - Ajuda Informativa sobre a Seção de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu14-acesso-ao-historico-de-medicamentos-recebidos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU14 - Acesso ao Histórico de Medicamentos Recebidos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu15-adicionar-medicamento-recebido-via-programas-do-governo-federal" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU15 - Adicionar Medicamento Recebido via Programas do Governo Federal
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu16-buscar-medicamento-por-nome-e-dosagem" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU16 - Buscar Medicamento por Nome e Dosagem
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu17-autorizar-retirada-de-medicamentos-pelo-cpf-no-programa-farmacia-popular" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu18-verificar-medicamentos-recebidos-pelo-programa-farmacia-popular" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu19-obter-ajuda-informativa-sobre-a-secao-de-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu20-emissao-de-autorizacao-para-participar-do-programa-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu21-exportacaodownload-do-documento-de-autorizacao-para-o-programa-dignidade-menstrual" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu22-informativa-a-respeito-da-secao-de-rede-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU22 - Informativa a Respeito da Seção de Rede de Saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu23-permissao-para-acessar-minha-localizacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU23 - Permissão Para Acessar Minha Localização
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu24-armazena-localizacao-para-personalizar-os-servicos-oferecidos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu25-visualizar-opcoes-de-estabelecimentos-de-saude-proximos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU25 - Visualizar Opções de Estabelecimentos de Saúde Próximos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu26-identificar-os-estabelecimentos-de-saude-ja-utilizados-por-mim" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU26 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu27-visualizacao-de-consultas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU27 - Visualização de Consultas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu28-visualizar-exames-ja-realizados" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU28 - Visualizar Exames Já realizados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu29-agendar-consultas-medicas-ou-exames" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU29 - Agendar Consultas Médicas ou Exames
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu30-ajuda-informativa-a-respeito-da-secao-de-atendimento-e-internacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU30 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu31-registros-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU31 - Registros de Saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu32-consultar-e-atualizar-contatos-de-profissionais-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU32 - Consultar e atualizar contatos de profissionais de saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu33-consultar-e-atualizar-registros-de-pressao-arterial" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU33 - Consultar e atualizar registros de pressão arterial
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu34-consultar-e-atualizar-registros-de-glicose" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU34 - Consultar e atualizar registros de glicose
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu35-atualizar-registros-de-imc" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU35 - Atualizar registros de IMC
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu36-obter-ajuda-nas-secoes-de-contato-e-indicadores-de-saude" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU36 - Obter ajuda nas seções de contato e indicadores de saúde
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu37-obter-ajuda-sobre-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU37 - Obter Ajuda sobre Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu38-visualizar-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU38 - Visualizar Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu39-adicionar-alergias" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU39 - Adicionar Alergias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu40-visualizar-posicao-na-fila-de-transplantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU40 - Visualizar Posição na Fila de Transplantes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu41-autodeclaracao-de-informacoes-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU41 - Autodeclaração de Informações Pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu42-consultar-pedidos-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU42 - Consultar Pedidos de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu43-aplicar-filtro-de-pesquisa" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU43 - Aplicar Filtro de Pesquisa
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu44-realizar-pedidos-de-medicamentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU44 - Realizar Pedidos de Medicamentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu45-visualizar-historico-de-vacinacao-pre-pandemia" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU45 - Visualizar Histórico de Vacinação Pré-Pandemia
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hu46-consultar-receitas-medicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      HU46 - Consultar Receitas Médicas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao-e-priorizacao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Validação e Priorização das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="historias-de-usuario">Histórias de Usuário</h1>
+<h2 id="introducao">Introdução</h2>
+<p>As histórias de usuário representam um dos pilares na modelagem ágil, oferecendo uma maneira prática e centrada no usuário para capturar os requisitos de um sistema.</p>
+<p>Diferentemente de métodos tradicionais de levantamento de requisitos, as histórias de usuário priorizam a colaboração, a adaptabilidade e a entrega contínua de valor. Baseadas em uma estrutura simples – "Como [tipo de usuário], desejo [ação] para [objetivo]" –, elas permitem que os requisitos sejam compreendidos tanto por especialistas técnicos quanto por profissionais sem formação técnica.</p>
+<p>Este documento organiza e apresenta as histórias de usuário elicitadas para o Meu SUS Digital, estruturando-as com base nos requisitos funcionais do aplicativo. Cada história busca refletir os objetivos e problemas reais enfrentados pelos usuários, considerando o impacto prático que o sistema deve oferecer, como o acesso facilitado a informações de saúde e a digitalização de documentos importantes.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A metodologia adotada para a elaboração deste documento foi baseada na divisão colaborativa do trabalho entre os membros da equipe, de forma a assegurar o equilíbrio entre eficiência no desenvolvimento e o aprendizado individual de cada integrante.</p>
+<h4 id="divisao-de-requisitos">Divisão de Requisitos</h4>
+<p>Os requisitos funcionais foram distribuídos entre os integrantes da equipe, com cada membro sendo responsável por desenvolver dez histórias de usuário. Esse modelo permitiu distribuir a carga de trabalho equitativamente e promover um entendimento mais profundo de diferentes aspectos do sistema por parte de cada integrante.</p>
+<h4 id="definicao-de-criterios-de-aceitacao">Definição de Critérios de Aceitação</h4>
+<p>Como forma de assegurar a qualidade das histórias de usuário sem comprometer o ritmo de trabalho, foi estipulado que ao menos cinco critérios de aceitação fossem definidos por integrante. Essa flexibilização visa atender ao cronograma de desenvolvimento enquanto mantém um padrão mínimo de detalhamento e clareza nas histórias de usuário.</p>
+<h4 id="documentacao-das-historias-de-usuario">Documentação das Histórias de Usuário</h4>
+<p>Na <strong>Tabela 1</strong>, podemos identificar a legenda para cada uma das siglas utilizadas por todo o documento, principalmente nas tabelas.</p>
+<div align="center">
+    <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Sigla</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">HUn</td>
+<td>n-ésima História de Usuário</td>
+</tr>
+<tr>
+<td style="text-align: center;">RFn</td>
+<td>n-ésimo Requisito Funcional</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+<p>Quanto ao formato das histórias de usuário, estas foram documentadas no formato disposto na <strong>Tabela 2</strong>. </p>
+<div align="center">
+    <p><strong>Tabela 2 – Modelo para Histórias de Usuário</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th><em>HUn</em></th>
+<th><em>Título</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Declaração</td>
+<td>Eu, <em>como</em> (tipo de usuário), <em>desejo</em> (ação) <em>para</em> (objetivo/benefício).</td>
+</tr>
+<tr>
+<td>Critério de Aceitação</td>
+<td><em>Dado que</em> (contexto ou lista de condições), <em>Quando</em> (evento/ação/gatilho), <em>Então</em> (resultado esperado).</td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>(Muito Alta, Alta, Média, Baixa)</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="../../elicitacao/requisitos-elicitados/#requisitos/">RFn</a></td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+<p>Essa abordagem pragmática busca equilibrar qualidade, aprendizado e avanço contínuo do projeto.</p>
+<h2 id="historias-de-usuario_1">Histórias de Usuário</h2>
+<p>Abaixo, podemos identificar cada uma das histórias de usuário desenvolvidas por cada integrante da equipe:</p>
+<h3 id="hu1-login-via-govbr">HU1 - Login via Gov.br</h3>
+<details class="note">
+<summary>Tabela 3 - História de Usuário referente ao login via Gov.br</summary>
+<p><div align="center">
+    <p><strong>Tabela 3 – História de Usuário referente ao login via Gov.br</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU1</strong></th>
+<th>Login via Gov.br</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> realizar login por meio de uma conta Gov.br <em>para</em> acessar meus dados no aplicativo.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o paciente possui uma conta Gov.br, <em>quando</em> acessar a página de login pelo aplicativo, <em>então</em> será possível autenticar-se usando as credenciais Gov.br.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Muito Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF1">RF1</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu2-ajuda-informativa-sobre-a-secao-de-vacinas">HU2 - Ajuda informativa sobre a seção de Vacinas</h3>
+<details class="note">
+<summary>Tabela 4 - História de Usuário referente à ajuda informativa sobre a seção de Vacinas</summary>
+<p><div align="center">
+    <p><strong>Tabela 4 – História de Usuário referente à ajuda informativa sobre a seção de Vacinas</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU2</strong></th>
+<th>Ajuda informativa sobre a seção de Vacinas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> obter ajuda informativa sobre a seção de vacinas <em>para</em> esclarecer minhas dúvidas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção de Vacinas, <em>quando</em> clicar no botão de ajuda, <em>então</em> será exibida uma página com informações relevantes e úteis sobre vacinas.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF2">RF2</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu3-acesso-a-carteira-nacional-de-vacinacao-digital">HU3 - Acesso à Carteira Nacional de Vacinação Digital</h3>
+<details class="note">
+<summary>Tabela 5 - História de Usuário referente ao acesso à Carteira Nacional de Vacinação Digital</summary>
+<p><div align="center">
+    <p><strong>Tabela 5 – História de Usuário referente ao acesso à Carteira Nacional de Vacinação Digital</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU3</strong></th>
+<th>Acesso à Carteira Nacional de Vacinação Digital</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> acessar minha Carteira Nacional de Vacinação Digital <em>para</em> visualizar minhas vacinas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja autenticado, <em>quando</em> acessar a seção de vacinação e clicar em "Acessar", <em>então</em> será exibida sua Carteira Nacional de Vacinação Digital.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF3">RF3</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu4-selecao-de-idioma-da-carteira-nacional-de-vacinacao-digital">HU4 - Seleção de idioma da Carteira Nacional de Vacinação Digital</h3>
+<details class="note">
+<summary>Tabela 6 - História de Usuário referente à seleção de idioma da Carteira Nacional de Vacinação Digital</summary>
+<p><div align="center">
+    <p><strong>Tabela 6 – História de Usuário referente à seleção de idioma da Carteira Nacional de Vacinação Digital</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU4</strong></th>
+<th>Seleção de idioma da Carteira Nacional de Vacinação Digital</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> selecionar o idioma da minha Carteira Nacional de Vacinação Digital <em>para</em> facilitar sua compreensão em outros países.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, <em>quando</em> escolher o idioma desejado, <em>então</em> o documento será exibido no idioma selecionado.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF4">RF4</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu5-download-da-carteira-nacional-de-vacinacao-digital">HU5 - Download da Carteira Nacional de Vacinação Digital</h3>
+<details class="note">
+<summary>Tabela 7 - História de Usuário referente ao download da Carteira Nacional de Vacinação Digital</summary>
+<p><div align="center">
+    <p><strong>Tabela 7 – História de Usuário referente ao download da Carteira Nacional de Vacinação Digital</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU5</strong></th>
+<th>Download da Carteira Nacional de Vacinação Digital</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> realizar o download da minha Carteira Nacional de Vacinação Digital <em>para</em> mantê-la armazenado no meu dispositivo celular.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção referente à Carteira Nacional de Vacinação Digital, <em>quando</em> clicar no botão de "Exportar documento", <em>então</em> o documento será baixado no formato PDF.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF5">RF5</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu6-exportacao-do-certificado-de-vacinacao-nacional-de-covid-19">HU6 - Exportação do Certificado de Vacinação Nacional de Covid-19</h3>
+<details class="note">
+<summary>Tabela 8 - História de Usuário referente à exportação do Certificado de Vacinação Nacional de Covid-19</summary>
+<p><div align="center">
+    <p><strong>Tabela 8 – História de Usuário referente à exportação do Certificado de Vacinação Nacional de Covid-19</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU6</strong></th>
+<th>Exportação do Certificado de Vacinação Nacional de Covid-19</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> exportar meu Certificado de Vacinação Nacional de Covid-19 <em>para</em> mantê-lo armazenado no meu dispositivo celular.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção de Certificado de Vacinação Nacional de Covid-19, <em>quando</em> clicar no botão de exportação, <em>então</em> o certificado será exportado no formato escolhido.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF75">RF75</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu7-historico-de-vacinas">HU7 - Histórico de vacinas</h3>
+<details class="note">
+<summary>Tabela 9 - História de Usuário referente ao histórico de vacinas</summary>
+<p><div align="center">
+    <p><strong>Tabela 9 – História de Usuário referente ao histórico de vacinas</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU7</strong></th>
+<th>Histórico de vacinas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> acessar meu histórico de vacinas <em>para</em> verificar quais já tomei.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja autenticado, <em>quando</em> acessar a seção de Histórico de vacinas, <em>então</em> será exibida a lista de vacinas recebidas.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF6">RF6</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu8-detalhes-de-vacinas">HU8 - Detalhes de vacinas</h3>
+<details class="note">
+<summary>Tabela 10 - História de Usuário referente aos detalhes de vacinas</summary>
+<p><div align="center">
+    <p><strong>Tabela 10 – História de Usuário referente aos detalhes de vacinas</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU8</strong></th>
+<th>Detalhes de vacinas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> acessar os detalhes de cada vacina que tomei <em>para</em> entender mais sobre elas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção de Histórico de vacinas, <em>quando</em> clicar em uma vacina específica, <em>então</em> os detalhes dessa vacina serão exibidos.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF7">RF7</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu9-ajuda-informativa-sobre-a-secao-de-exames">HU9 - Ajuda informativa sobre a seção de Exames</h3>
+<details class="note">
+<summary>Tabela 11 - História de Usuário referente à ajuda informativa sobre a seção de Exames</summary>
+<p><div align="center">
+    <p><strong>Tabela 11 – História de Usuário referente à ajuda informativa sobre a seção de Exames</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU9</strong></th>
+<th>Ajuda informativa sobre a seção de Exames</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> obter ajuda informativa sobre a seção de Exames <em>para</em> esclarecer dúvidas sobre meus exames.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na seção de Exames, <em>quando</em> clicar no botão de ajuda, <em>então</em> será exibida uma página com informações relevantes e úteis sobre tal seção.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF8">RF8</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu10-visualizacao-de-exames">HU10 - Visualização de exames</h3>
+<details class="note">
+<summary>Tabela 12- História de Usuário referente à visualização de exames</summary>
+<p><div align="center">
+    <p><strong>Tabela 12 – História de Usuário referente à visualização de exames</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU10</strong></th>
+<th>Visualização de exames</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> visualizar meus exames laboratoriais realizados <em>para</em> acompanhar os resultados.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja autenticado, <em>quando</em> acessar a seção de Exames, <em>então</em> será exibida a lista de exames realizados.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF9">RF9</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu11-detalhes-de-exames">HU11 - Detalhes de exames</h3>
+<details class="note">
+<summary>Tabela 13 - História de Usuário referente aos detalhes de exames</summary>
+<p><div align="center">
+    <p><strong>Tabela 13 – História de Usuário referente aos detalhes de exames</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU11</strong></th>
+<th>Detalhes de exames</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> usuário, <em>desejo</em> visualizar os detalhes de cada exame <em>para</em> entender os resultados e informações associadas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em> o usuário esteja na lista de exames, <em>quando</em> clicar em um exame específico, <em>então</em> os detalhes desse exame serão exibidos.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF10">RF10</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="hu12-exportacao-de-resultado-de-exame">HU12 - Exportação de Resultado de Exame</h3>
+<details class="note">
+<summary>Tabela 14 - História de Usuário referente à Exportação de Resultado de Exame</summary>
+<p><div align="center">
+    <p><strong>Tabela 14 – História de Usuário referente à Exportação de Resultado de Exame</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU12</strong></th>
+<th>Exportação de Resultado de Exame</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário do aplicativo, desejo exportar/download do documento contendo o resultado e informações de cada exame laboratorial realizado para guardar ou compartilhar com outros profissionais de saúde.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o usuário tenha acessado os detalhes de um exame laboratorial</li> <li>E o documento com o resultado e informações do exame esteja disponível</li> <li>Quando o usuário clicar no botão "Exportar" ou "Fazer Download"</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF,</li> <li>Iniciar o download automaticamente no dispositivo do usuário,</li> <li>Exibir uma mensagem de confirmação de sucesso.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF11">RF11</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu13-ajuda-informativa-sobre-a-secao-de-medicamentos">HU13 - Ajuda Informativa sobre a Seção de Medicamentos</h3>
+<details class="note">
+<summary>Tabela 15 - História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos</summary>
+<p><div align="center">
+    <p><strong>Tabela 15 – História de Usuário referente à Ajuda Informativa sobre a Seção de Medicamentos</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU13</strong></th>
+<th>Ajuda Informativa sobre a Seção de Medicamentos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo obter ajuda informativa sobre a seção de Medicamentos para entender melhor as funcionalidades e informações disponíveis nessa seção.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja navegando na seção de Medicamentos</li> <li>E deseje mais informações ou orientações</li> <li>Quando o paciente clicar na opção "Ajuda" ou no ícone correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir um guia informativo ou FAQ relacionado à seção de Medicamentos,</li> <li>Permitir que o paciente visualize detalhes sobre as funcionalidades e o uso da seção,</li> <li>Oferecer exemplos ou links para mais informações, se aplicável.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF12">RF12</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu14-acesso-ao-historico-de-medicamentos-recebidos">HU14 - Acesso ao Histórico de Medicamentos Recebidos</h3>
+<details class="note">
+<summary>Tabela 16 - História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos</summary>
+<p><div align="center">
+    <p><strong>Tabela 16 – História de Usuário referente ao Acesso ao Histórico de Medicamentos Recebidos</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU14</strong></th>
+<th>Acesso ao Histórico de Medicamentos Recebidos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo acessar meu histórico de medicamentos recebidos para consultar informações sobre tratamentos realizados anteriormente.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E tenha um histórico de medicamentos registrados</li> <li>Quando o paciente acessar a opção "Histórico de Medicamentos" no menu ou seção correspondente</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista detalhada com os medicamentos recebidos,</li> <li>Apresentar informações como nome do medicamento, data de recebimento e dosagem,</li> <li>Permitir a ordenação ou filtragem por data ou tipo de medicamento.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF13">RF13</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu15-adicionar-medicamento-recebido-via-programas-do-governo-federal">HU15 - Adicionar Medicamento Recebido via Programas do Governo Federal</h3>
+<details class="note">
+<summary>Tabela 17 - História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal</summary>
+<p><div align="center">
+    <p><strong>Tabela 17 – História de Usuário referente à Adição de Medicamento Recebido via Programas do Governo Federal</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU15</strong></th>
+<th>Adicionar Medicamento Recebido via Programas do Governo Federal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo adicionar um medicamento recebido por meio de programas de dispensação do Governo Federal utilizando um mecanismo de busca para manter meu histórico de medicamentos atualizado de forma prática e precisa.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E esteja na seção para adicionar medicamentos</li> <li>Quando o paciente acessar o mecanismo de busca</li> <li>E inserir o nome ou informações relacionadas ao medicamento</li> <li>Então o aplicativo deve:</li> <ul> <li>Apresentar sugestões de medicamentos com base na busca,</li> <li>Permitir que o usuário selecione o medicamento correto,</li> <li>Solicitar a confirmação das informações (como data de recebimento e quantidade),</li> <li>Registrar o medicamento no histórico do usuário após a confirmação.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF14">RF14</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu16-buscar-medicamento-por-nome-e-dosagem">HU16 - Buscar Medicamento por Nome e Dosagem</h3>
+<details class="note">
+<summary>Tabela 18 - História de Usuário referente à Busca de Medicamento por Nome e Dosagem</summary>
+<p><div align="center">
+    <p><strong>Tabela 18 – História de Usuário referente à Busca de Medicamento por Nome e Dosagem</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU16</strong></th>
+<th>Buscar Medicamento por Nome e Dosagem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo realizar a busca por um medicamento utilizando seu nome e dosagem para localizar rapidamente as informações desejadas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja na seção de busca de medicamentos</li> <li>Quando o paciente inserir o nome completo ou parcial do medicamento</li> <li>E a dosagem desejada</li> <li>Então o aplicativo deve:</li> <ul> <li>Retornar uma lista de medicamentos correspondentes à busca,</li> <li>Exibir informações relevantes, como nome completo, dosagem disponível e descrição,</li> <li>Permitir que o paciente selecione o medicamento para visualizar mais detalhes ou realizar ações adicionais.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF15">RF15</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu17-autorizar-retirada-de-medicamentos-pelo-cpf-no-programa-farmacia-popular">HU17 - Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular</h3>
+<details class="note">
+<summary>Tabela 19 - História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF</summary>
+<p><div align="center">
+    <p><strong>Tabela 19 – História de Usuário referente à Autorização de Retirada de Medicamentos pelo CPF</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU17</strong></th>
+<th>Autorizar Retirada de Medicamentos pelo CPF no Programa Farmácia Popular</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo ter a opção de autorizar ou não a retirada de medicamentos em meu CPF para garantir o controle sobre quem pode acessar meus benefícios do Programa Farmácia Popular.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção relacionada ao Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção clara para autorizar ou não a retirada de medicamentos pelo CPF,</li> <li>Permitir que o paciente altere sua escolha a qualquer momento,</li> <li>Registrar a autorização ou recusa de forma segura e acessível para futuras consultas.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF16">RF16</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu18-verificar-medicamentos-recebidos-pelo-programa-farmacia-popular">HU18 - Verificar Medicamentos Recebidos pelo Programa Farmácia Popular</h3>
+<details class="note">
+<summary>Tabela 20 - História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular</summary>
+<p><div align="center">
+    <p><strong>Tabela 20 – História de Usuário referente à Verificação de Medicamentos Recebidos pelo Programa Farmácia Popular</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU18</strong></th>
+<th>Verificar Medicamentos Recebidos pelo Programa Farmácia Popular</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo poder verificar os medicamentos recebidos pelo Programa Farmácia Popular para acompanhar meu histórico de utilização e garantir a organização do tratamento.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de histórico no Programa Farmácia Popular</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma lista com os medicamentos recebidos, incluindo a data e local da retirada,</li> <li>Organizar as informações de forma clara e ordenada por data,</li> <li>Permitir ao paciente filtrar os registros por período ou tipo de medicamento.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF17">RF17</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu19-obter-ajuda-informativa-sobre-a-secao-de-dignidade-menstrual">HU19 - Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual</h3>
+<details class="note">
+<summary>Tabela 21 - História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual</summary>
+<p><div align="center">
+    <p><strong>Tabela 21 – História de Usuário referente à Obtenção de Ajuda Informativa sobre a Seção de Dignidade Menstrual</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU19</strong></th>
+<th>Obter Ajuda Informativa sobre a Seção de Dignidade Menstrual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo obter ajuda informativa sobre a seção de Dignidade Menstrual para compreender melhor os recursos e serviços disponíveis nessa seção.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>Quando o paciente acessar a opção de ajuda informativa na seção de Dignidade Menstrual</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir informações claras e relevantes sobre os recursos disponíveis,</li> <li>Incluir orientações sobre como acessar os serviços ou benefícios relacionados,</li> <li>Permitir ao paciente navegar para links ou documentos adicionais para mais detalhes.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF18">RF18</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu20-emissao-de-autorizacao-para-participar-do-programa-dignidade-menstrual">HU20 - Emissão de Autorização para Participar do Programa Dignidade Menstrual</h3>
+<details class="note">
+<summary>Tabela 22 - História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual</summary>
+<p><div align="center">
+    <p><strong>Tabela 22 – História de Usuário referente à Emissão de Autorização para Participar do Programa Dignidade Menstrual</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU20</strong></th>
+<th>Emissão de Autorização para Participar do Programa Dignidade Menstrual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo emitir uma autorização para participar do Programa Dignidade Menstrual caso atenda aos critérios do programa, para garantir minha participação e acessar os benefícios oferecidos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente esteja autenticado no aplicativo</li> <li>E atenda aos critérios do Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção relacionada ao programa no aplicativo</li> <li>Então o aplicativo deve:</li> <ul> <li>Exibir uma opção para emitir a autorização de participação no programa,</li> <li>Confirmar a elegibilidade do paciente antes de permitir a emissão da autorização,</li> <li>Registrar a autorização emitida e fornecer um documento ou comprovante para o paciente.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Muito Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF19">RF19</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu21-exportacaodownload-do-documento-de-autorizacao-para-o-programa-dignidade-menstrual">HU21 - Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</h3>
+<details class="note">
+<summary>Tabela 23 - História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</summary>
+<p><div align="center">
+    <p><strong>Tabela 23 – História de Usuário referente à Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU21</strong></th>
+<th>Exportação/Download do Documento de Autorização para o Programa Dignidade Menstrual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como paciente, desejo exportar ou baixar o documento referente à autorização de participação no Programa Dignidade Menstrual, para ter uma cópia em formato digital ou imprimir para meus registros.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o paciente tenha emitido a autorização para o Programa Dignidade Menstrual</li> <li>Quando o paciente acessar a opção de exportar ou baixar o documento</li> <li>Então o aplicativo deve:</li> <ul> <li>Gerar o documento no formato PDF ou outro formato apropriado,</li> <li>Iniciar o download automaticamente no dispositivo do paciente,</li> <li>Exibir uma mensagem de confirmação de sucesso ao concluir o processo de download.</li> </ul> </li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF20">RF20</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div></p>
+</details>
+<h3 id="hu22-informativa-a-respeito-da-secao-de-rede-de-saude">HU22 - Informativa a Respeito da Seção de Rede de Saúde</h3>
+<details class="note">
+<summary>Tabela 24 - informativa a respeito da seção de Rede de Saúde  </summary>
+<p><div align="center">
+    <p><strong>Tabela 24 – História de Usuário referente à informativa a respeito da seção de Rede de Saúde  </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU22</strong></th>
+<th>informativa a respeito da seção de Rede de Saúde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Rede de Saúde para entender melhor suas funções.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o usuário esteja na seção de Rede de Saúde,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF21">RF21</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu23-permissao-para-acessar-minha-localizacao">HU23 - Permissão Para Acessar Minha Localização</h3>
+<details class="note">
+<summary>Tabela 25 - Permissão para acessar minha localização </summary>
+<p><div align="center">
+    <p><strong>Tabela 25 – História de Usuário referente à permissão para acessar minha localização </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU23</strong></th>
+<th>Permissão para acessar minha localização</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo que o aplicativo peça permissão para acessar minha localização para garantir segurança e privacidade.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o aplicativo precise acessar a localização,</li><li>Quando o usuário abrir o app pela primeira vez ou acessar funcionalidades relacionadas,</li><li>Então o sistema deve solicitar permissão de acesso à localização.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF22">RF22</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu24-armazena-localizacao-para-personalizar-os-servicos-oferecidos">HU24 - Armazena Localização Para Personalizar os Serviços Oferecidos</h3>
+<details class="note">
+<summary>Tabela 26 - Armazena Localização Para Personalizar os Serviços Oferecidos </summary>
+<p><div align="center">
+    <p><strong>Tabela 26 – História de Usuário referente à Armazena Localização Para Personalizar os Serviços Oferecidos </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU24</strong></th>
+<th>Armazena Localização Para Personalizar os Serviços Oferecidos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo que o aplicativo armazene minha localização para personalizar os serviços oferecidos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o aplicativo tenha permissão de localização,</li><li>Quando o usuário utilizar o app,</li><li>Então o sistema deve armazenar a localização de forma segura e em conformidade com as leis de privacidade.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF23">RF23</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu25-visualizar-opcoes-de-estabelecimentos-de-saude-proximos">HU25 - Visualizar Opções de Estabelecimentos de Saúde Próximos</h3>
+<details class="note">
+<summary>Tabela 27 - Visualizar opções de estabelecimentos de saúde próximos </summary>
+<p><div align="center">
+    <p><strong>Tabela 27 – História de Usuário referente à visualizar opções de estabelecimentos de saúde próximos </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU25</strong></th>
+<th>Visualizar opções de estabelecimentos de saúde próximos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo visualizar opções de estabelecimentos de saúde próximos à minha localização para facilitar o acesso.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o aplicativo tenha acesso à localização,</li><li>Quando o usuário buscar por estabelecimentos,</li><li>Então o sistema deve exibir opções próximas com base no tipo de serviço desejado.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF24">RF24</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu26-identificar-os-estabelecimentos-de-saude-ja-utilizados-por-mim">HU26 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim</h3>
+<details class="note">
+<summary>Tabela 28 - Identificar os Estabelecimentos de Saúde Já Utilizados por mim  </summary>
+<p><div align="center">
+    <p><strong>Tabela 28 – Identificar os Estabelecimentos de Saúde Já Utilizados por mim   </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU26</strong></th>
+<th>Identificar os Estabelecimentos de Saúde Já Utilizados por mim</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo identificar os estabelecimentos de saúde recentes vinculados a mim para facilitar o acompanhamento.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o usuário tenha histórico de estabelecimentos vinculados,</li><li>Quando ele acessar a seção de históricos,</li><li>Então o sistema deve exibir os estabelecimentos recentes de forma clara e organizada.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF25">RF25</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu27-visualizacao-de-consultas">HU27 - Visualização de Consultas</h3>
+<details class="note">
+<summary>Tabela 29 - Visualização de Consultas </summary>
+<p><div align="center">
+    <p><strong>Tabela 29 – História de Usuário referente à Visualização de Consultas </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU27</strong></th>
+<th>Visualização de Consultas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Agendamentos para saber como utilizá-la.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o usuário esteja na seção de Agendamentos,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre como agendar consultas ou exames.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF29">RF29</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu28-visualizar-exames-ja-realizados">HU28 - Visualizar Exames Já realizados</h3>
+<details class="note">
+<summary>Tabela 30 - Visualizar Exames Já realizados</summary>
+<p><div align="center">
+    <p><strong>Tabela 30 – Visualizar Exames Já realizados</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU28</strong></th>
+<th>Visualizar Exames Já realizados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo visualizar exames já realizados de saúde para acompanhar meu histórico.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o usuário tenha consultas ou exames registrados,</li><li>Quando ele acessar a seção de histórico,</li><li>Então o sistema deve exibir as consultas ou exames de forma clara e organizada.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF30">RF30</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu29-agendar-consultas-medicas-ou-exames">HU29 - Agendar Consultas Médicas ou Exames</h3>
+<details class="note">
+<summary>Tabela 31 - Agendar Consultas Médicas ou Exames </summary>
+<p><div align="center">
+    <p><strong>Tabela 31 – História de Usuário referente à Agendar Consultas Médicas ou Exames  </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU29</strong></th>
+<th>Agendar Consultas Médicas ou Exames</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo agendar consultas médicas ou exames de saúde para organizar meu cuidado médico.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td>&lt; <ul><li>Dado que o usuário deseje agendar um atendimento,</li><li>Quando ele acessar a funcionalidade de agendamento,</li><li>Então o sistema deve permitir a escolha de datas, horários e serviços disponíveis.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Muito Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF28">RF28</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu30-ajuda-informativa-a-respeito-da-secao-de-atendimento-e-internacao">HU30 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação</h3>
+<details class="note">
+<summary>Tabela 32 - Ajuda Informativa a Respeito da Seção de Atendimento e Internação </summary>
+<p><div align="center">
+    <p><strong>Tabela 32 – História de Usuário referente à ajuda informativa a respeito da seção de Atendimento e Internação </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU30</strong></th>
+<th>Ajuda Informativa a Respeito da Seção de Atendimento e Internação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo obter ajuda informativa a respeito da seção de Atendimento e Internação para saber como usá-la.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li>Dado que o usuário esteja na seção de Atendimento e Internação,</li><li>Quando ele solicitar ajuda,</li><li>Então o sistema deve exibir informações claras e objetivas sobre a funcionalidade dessa seção.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF30">RF30</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu31-registros-de-saude">HU31 - Registros de Saúde</h3>
+<details class="note">
+<summary>Tabela 33 -  Gráficos de Registros de Saúde </summary>
+<p><div align="center">
+    <p><strong>Tabela 33 – História de Usuário referente à Gráficos de Registros de Saúde </strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU31</strong></th>
+<th>Gráficos de Registros de Saúde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, como usuário, desejo que meus registros de saúde sejam apresentados em gráficos interativos para facilitar a interpretação das informações e o acompanhamento do meu histórico médico.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul> <li>Dado que o usuário tenha registros de saúde armazenados,</li> <li>Quando ele acessar a funcionalidade de gráficos,</li> <li>Então os gráficos devem ser interativos, fáceis de interpretar e atualizados em tempo real.</li> </ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF30">RF30</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div></p>
+</details>
+<h3 id="hu32-consultar-e-atualizar-contatos-de-profissionais-de-saude">HU32 - Consultar e atualizar contatos de profissionais de saúde</h3>
+<details class="note">
+<summary>Tabela 34 - História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</summary>
+<p><div align="center">
+    <p><strong>Tabela 34 – História de Usuário referente à consulta e atualização de contatos de profissionais de saúde</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU32</strong></th>
+<th>Consultar e atualizar contatos de profissionais de saúde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> ver e adicionar contatos de profissionais de saúde <em>para</em> que eu possa contactá-los.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em>: <ul> <li>o contato do profissional tem um CNS (Cartão Nacional de Saúde),</li> <li>o profissional tem um número de registro no órgão regulador (CRM, CRE, CRO),</li> <li>o profissional tem e-mail e opcionalmente um número de telefone,</li> <li>o paciente preenche corretamente os dados de contato.</li></ul> <em>Quando</em> o preenchimento dos dados for confirmado, <em>então</em> um novo contato deve ser adicionado.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF32">RF32</a>, <a href="../../elicitacao/requisitos-elicitados/#RF33">RF33</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div></p>
+</details>
+<h3 id="hu33-consultar-e-atualizar-registros-de-pressao-arterial">HU33 - Consultar e atualizar registros de pressão arterial</h3>
+<details class="note">
+<summary>Tabela 35 - História de Usuário referente à consulta e atualização de registros de pressão arterial</summary>
+<p><div align="center">
+    <p><strong>Tabela 35 – História de Usuário referente à consulta e atualização de registros de pressão arterial</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU33</strong></th>
+<th>Consultar e atualizar registros de pressão arterial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> ver, adicionar ou editar meus registros de pressão arterial <em>para</em> acompanhar meu estado de saúde.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em>: <ul><li>a pressão é composta por dois números inteiros positivos (máxima e mínima),</li> <li>é obrigatoriamente registrada com data,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído, desde que as condições sejam respeitadas.</li></ul> <em>Quando</em> o paciente confirmar o registro, <em>então</em> a lista de registros será atualizada, informando se a pressão está normal, alta ou baixa.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF35">RF35</a>, <a href="../../elicitacao/requisitos-elicitados/#RF36">RF36</a>, <a href="../../elicitacao/requisitos-elicitados/#RF37">RF37</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div></p>
+</details>
+<h3 id="hu34-consultar-e-atualizar-registros-de-glicose">HU34 - Consultar e atualizar registros de glicose</h3>
+<details class="note">
+<summary>Tabela 36 - História de Usuário referente à consulta e atualização de registros de glicose</summary>
+<p><div align="center">
+    <p><strong>Tabela 36 – História de Usuário referente à consulta e atualização de registros de glicose</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU34</strong></th>
+<th>Consultar e atualizar registros de glicose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> ver, adicionar ou editar meus registros de glicose <em>para</em> acompanhar meu estado de saúde.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em>: <ul><li>o nível de glicose é um número inteiro positivo registrado com data,</li> <li>deve-se informar se a aferição foi feita em jejum,</li> <li>horário é opcional se for o único registro do dia e obrigatório se já houver outro registro no dia,</li> <li>um registro prévio pode ser atualizado ou excluído desde que as condições sejam respeitadas.</li></ul> <em>Quando</em> o paciente confirmar o registro, <em>então</em> a lista será atualizada, informando se o nível está adequado, alto ou baixo.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF35">RF35</a>, <a href="../../elicitacao/requisitos-elicitados/#RF38">RF38</a>, <a href="../../elicitacao/requisitos-elicitados/#RF39">RF39</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div></p>
+</details>
+<h3 id="hu35-atualizar-registros-de-imc">HU35 - Atualizar registros de IMC</h3>
+<details class="note">
+<summary>Tabela 37 - História de Usuário referente à atualização de registros de IMC</summary>
+<p><div align="center">
+    <p><strong>Tabela 37 – História de Usuário referente à atualização de registros de IMC</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU35</strong></th>
+<th>Atualizar registros de IMC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> ver, adicionar e atualizar meus registros de IMC <em>para</em> acompanhar meu estado de saúde.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em>: <ul><li>o IMC é calculado com altura (em metros) e peso (em quilogramas),</li> <li>os valores são números reais positivos com até 3 casas decimais,</li> <li>é registrado com data,</li> <li>não se pode ter mais de um registro por dia,</li> <li>o IMC é calculado e exibido com duas casas decimais e classificado conforme tabelas médicas.</li></ul> <em>Quando</em> o paciente confirmar o registro, <em>então</em> a lista de registros será atualizada com as informações calculadas e classificadas.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF35">RF35</a>, <a href="../../elicitacao/requisitos-elicitados/#RF40">RF40</a>, <a href="../../elicitacao/requisitos-elicitados/#RF41">RF41</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div></p>
+</details>
+<h3 id="hu36-obter-ajuda-nas-secoes-de-contato-e-indicadores-de-saude">HU36 - Obter ajuda nas seções de contato e indicadores de saúde</h3>
+<details class="note">
+<summary>Tabela 38 - História de Usuário referente à ajuda nas seções de contato e registros de saúde</summary>
+<p><div align="center">
+    <p><strong>Tabela 38 – História de Usuário referente à ajuda nas seções de contato e registros de saúde</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU36</strong></th>
+<th>Obter ajuda nas seções de contato e indicadores de saúde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> obter ajuda sobre contato com profissionais de saúde e registros de indicadores de saúde (pressão arterial, glicose e IMC) <em>para</em> entender a utilidade e o uso de cada funcionalidade.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><em>Dado que</em>: <ul><li>cada funcionalidade (contato, pressão arterial, glicose e IMC) possui informações de ajuda específicas,</li> <li>o paciente pode acessar apenas uma funcionalidade por vez.</li></ul> <em>Quando</em> o paciente solicitar ajuda, <em>então</em> as informações correspondentes à funcionalidade selecionada serão exibidas.</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF26">RF26</a>, <a href="../../elicitacao/requisitos-elicitados/#RF29">RF29</a>, <a href="../../elicitacao/requisitos-elicitados/#RF31">RF31</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div></p>
+</details>
+<h3 id="hu37-obter-ajuda-sobre-alergias">HU37 - Obter Ajuda sobre Alergias</h3>
+<details class="note">
+<summary>Tabela 39 – História de Usuário Obter Ajuda sobre Alergias</summary>
+<p><div align="center">
+    <p><strong>Tabela 39 – História de Usuário Obter Ajuda sobre Alergias</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU37</strong></th>
+<th>Obter Ajuda sobre Alergias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> obter ajuda a respeito da seção de "Alergias" <em>para</em> entender como utilizar essa funcionalidade.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente esteja na seção de "Atendimento e Internação",</li><li><em>Quando</em> ele clicar em "Ajuda",</li><li><em>Então</em> o aplicativo deve exibir informações que expliquem a funcionalidade desta seção.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF42">RF42</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu38-visualizar-alergias">HU38 - Visualizar Alergias</h3>
+<details class="note">
+<summary>Tabela 40 – História de Usuário Visualizar Alergias</summary>
+<p><div align="center">
+    <p><strong>Tabela 40 – História de Usuário Visualizar Alergias</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU38</strong></th>
+<th>Visualizar Alergias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> visualizar as alergias que eu declarei, <em>para</em> garantir que eu evite substâncias ou medicamentos que possam causar reações alérgicas.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente possua alergias cadastradas,</li><li><em>Quando</em> ele acessar a sessão "Alergias",</li><li><em>Então</em> o aplicativo deve oferecer a lista de alergias que o paciente declarou.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF43">RF43</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu39-adicionar-alergias">HU39 - Adicionar Alergias</h3>
+<details class="note">
+<summary>Tabela 41 – História de Usuário Adicionar Alergias</summary>
+<p><div align="center">
+    <p><strong>Tabela 41 – História de Usuário Adicionar Alergias</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU39</strong></th>
+<th>Adicionar Alergias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> adicionar as alergias que eu possuo, <em>para</em> que os profissionais de saúde tenham acesso à minha condição alérgica.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente acessou a sessão de "Alergias",</li><li><em>Quando</em> o paciente clicar em "Adicionar Alergia",</li><li><em>Então</em> o aplicativo deve oferecer uma lista de alergias para o paciente escolher, dentre as quais poderão ser:<ul><li>Alimentar: leite e derivados, ovos, carne bovina, peixe, crustáceos.</li><li>Animais: gato, cachorro, insetos, animais peçonhentos.</li><li>Medicamentos: dipirona, AAS, Paracetamol.</li></ul></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF44">RF44</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu40-visualizar-posicao-na-fila-de-transplantes">HU40 - Visualizar Posição na Fila de Transplantes</h3>
+<details class="note">
+<summary>Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes</summary>
+<p><div align="center">
+    <p><strong>Tabela 42 – História de Usuário Visualizar Posição na Fila de Transplantes</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU40</strong></th>
+<th>Visualizar Posição na Fila de Transplantes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> visualizar a posição e a situação em que eu me encontro na fila de espera para transplante de órgãos e tecidos, <em>para</em> que eu não perca a chamada quando chegar minha vez.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Muito Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF54">RF54</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu41-autodeclaracao-de-informacoes-pessoais">HU41 - Autodeclaração de Informações Pessoais</h3>
+<details class="note">
+<summary>Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais</summary>
+<p><div align="center">
+    <p><strong>Tabela 43 – História de Usuário Autodeclaração de Informações Pessoais</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU41</strong></th>
+<th>Autodeclaração de Informações Pessoais</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> informar meu nome social, cor e endereço, <em>para</em> que os profissionais de saúde me atendam de forma respeitosa e personalizada.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF56">RF56</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu42-consultar-pedidos-de-medicamentos">HU42 - Consultar Pedidos de Medicamentos</h3>
+<details class="note">
+<summary>Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos</summary>
+<p><div align="center">
+    <p><strong>Tabela 44 – História de Usuário Consultar Pedidos de Medicamentos</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU42</strong></th>
+<th>Consultar Pedidos de Medicamentos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> visualizar meus pedidos de medicamentos, <em>para</em> que eu possa acompanhar meu histórico de medicação e planejar melhor meu tratamento.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente acessou a seção de "Medicamentos",</li><li><em>Quando</em> ele clicar em "Pedidos",</li><li><em>Então</em> o aplicativo deve exibir uma lista com os pedidos ativos de medicamentos feitos por esse paciente.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF62">RF62</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu43-aplicar-filtro-de-pesquisa">HU43 - Aplicar Filtro de Pesquisa</h3>
+<details class="note">
+<summary>Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa</summary>
+<p><div align="center">
+    <p><strong>Tabela 45 – História de Usuário Aplicar Filtro de Pesquisa</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU43</strong></th>
+<th>Aplicar Filtro de Pesquisa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> filtrar meus pedidos de medicamentos, <em>para</em> que eu tenha uma visualização melhor dos meus pedidos de medicamentos.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente acessou a seção de "Medicamentos" e clicou em "Pedidos",</li><li><em>Quando</em> ele clicar em "Filtrar",</li><li><em>Então</em> o aplicativo deve exibir os filtros aplicáveis, dentre os quais poderão ser:<ul><li>"Em processamento".</li><li>"A caminho".</li></ul></ul></li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF68">RF68</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu44-realizar-pedidos-de-medicamentos">HU44 - Realizar Pedidos de Medicamentos</h3>
+<details class="note">
+<summary>Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos</summary>
+<p><div align="center">
+    <p><strong>Tabela 46 – História de Usuário Realizar Pedidos de Medicamentos</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU44</strong></th>
+<th>Realizar Pedidos de Medicamentos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> realizar pedidos de medicamentos, <em>para</em> que eu possa garantir a continuidade do meu tratamento.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td><ul><li><em>Dado que</em> o paciente acessou a seção de "Medicamentos",</li><li><em>Quando</em> ele clicar em "Fazer Pedido",</li><li><em>Então</em> o aplicativo deve exibir um formulário para que o paciente possa realizar um novo pedido de medicamentos. O formulário deverá apresentar as seguintes opções:<ul><li>Um campo com uma lista de farmácias cadastradas.</li><li>Um campo com uma lista de medicamentos e a quantidade.</li><li>Um campo com a forma de entrega (retirar na farmácia ou entrega em domicílio).</li></ul></li></ul></td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF67">RF67</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu45-visualizar-historico-de-vacinacao-pre-pandemia">HU45 - Visualizar Histórico de Vacinação Pré-Pandemia</h3>
+<details class="note">
+<summary>Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</summary>
+<p><div align="center">
+    <p><strong>Tabela 47 – História de Usuário Visualizar Histórico de Vacinação Pré-Pandemia</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU45</strong></th>
+<th>Visualizar Histórico de Vacinação Pré-Pandemia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> visualizar meu histórico de vacinação pré-pandemia, <em>para</em> que eu possa ter um registro das vacinas que eu tomei antes desse período.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF69">RF69</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h3 id="hu46-consultar-receitas-medicas">HU46 - Consultar Receitas Médicas</h3>
+<details class="note">
+<summary>Tabela 48 – História de Usuário Consultar Receitas Médicas</summary>
+<p><div align="center">
+    <p><strong>Tabela 48 – História de Usuário Consultar Receitas Médicas</strong></p>
+</div></p>
+<table>
+<thead>
+<tr>
+<th><strong>HU51</strong></th>
+<th>Consultar Receitas Médicas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Declaração</strong></td>
+<td>Eu, <em>como</em> paciente, <em>desejo</em> visualizar minhas receitas médicas, <em>para</em> que eu possa verificar os detalhes da minha prescrição.</td>
+</tr>
+<tr>
+<td><strong>Critério de Aceitação</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Prioridade</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="../../elicitacao/requisitos-elicitados/#RF71">RF71</a></td>
+</tr>
+</tbody>
+</table>
+<p><div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div></p>
+</details>
+<h2 id="validacao-e-priorizacao-das-historias-de-usuario">Validação e Priorização das Histórias de Usuário</h2>
+<div align="center">
+  <p><strong>Vídeo 1 – Validação e Priorização da HU1 até a HU11</strong></p>
+</div>
+
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZIy-lQZ9Gs?si=f8pAnfdA6hKfQMYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></center></p>
+<div align="center">
+  <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+<hr />
+<div align="center">
+  <p><strong>Vídeo 2 – Validação e Priorização da HU12 até a HU21</strong></p>
+</div>
+
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkfeefLbQT8?si=t7o-G2Qm5owHoMRS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></center></p>
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+</div>
+
+<hr />
+<div align="center">
+  <p><strong>Vídeo 3 – Validação e Priorização da HU22 até a HU31</strong></p>
+</div>
+
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WqYGoLaDxo?si=onNtAER9uJqu-h_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></center></p>
+<div align="center">
+  <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
+
+<hr />
+<div align="center">
+  <p><strong>Vídeo 4 – Validação e Priorização da HU32 até a HU36</strong></p>
+</div>
+
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2Q8gUGI6bM?si=ypLjNc9L33GKzR5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></center></p>
+<div align="center">
+  <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+</div>
+
+<hr />
+<div align="center">
+  <p><strong>Vídeo 5 – Validação e Priorização da HU37 até a HU46</strong></p>
+</div>
+
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hMQ_uk0s5Uc?si=cMZWyYzXpoaJjLjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p></center></p>
+<div align="center">
+  <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+<h2 id="bibliografia">📚 Bibliografia</h2>
+<blockquote>
+<p>VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.</p>
+<p>REINEHR, Sheila. Engenharia de requisitos [recurso eletrônico]. Revisão técnica: Marco Antônio Paludo. Porto Alegre: SAGAH, 2020.</p>
+</blockquote>
+<h2 id="historico-de-versoes">📑 Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th style="text-align: center;">Data de Produção</th>
+<th>Revisor(es)</th>
+<th style="text-align: center;">Data de Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><code>1.0</code></td>
+<td>Criação do documento.</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">12/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">14/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.1</code></td>
+<td>Adição da metodologia.</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">13/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">14/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.2</code></td>
+<td>Correção de titulos das tabelas e novo modelo de tabela expansiva.</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">14/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.3</code></td>
+<td>Criando Histórias de Usuário.</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">14/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.4</code></td>
+<td>Atualização de siglas, títulos e formatação das tabelas.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.5</code></td>
+<td>Atualização na parte de documentação das histórias de usuário e demais alterações na ordem e conteúdo do documento.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.6</code></td>
+<td>Adição de história de usuário e adoção de padrão.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.7</code></td>
+<td>Adição de histórias de usuário.</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.8</code></td>
+<td>Adição de histórias de usuário e ajuste na ordem das HUs e tabelas.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">15/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.8</code></td>
+<td>Adição de histórias de usuário e ajuste</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">16/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.9</code></td>
+<td>Validação, Priorização e adicionando video das HU 12 a 21.</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">15/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">16/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.0</code></td>
+<td>Adição de bibliografias utilizadas como base para confecção do documento.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.1</code></td>
+<td>Adição de breve introdução.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.2</code></td>
+<td>Coreções e ajuste de historias de usuarios</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.3</code></td>
+<td>coreções, Validação, Priorização e adicionando video das HU 22 a 31.</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.4</code></td>
+<td>Adição das histórias de usuário 42 a 51.</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.5</code></td>
+<td>Priorização das histórias de usuário 42 a 51.</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">16/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.6</code></td>
+<td>Priorização das histórias de usuário de 1 a 11.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.7</code></td>
+<td>Criação da seção referente à validação/priorização das histórias de usuário.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.8</code></td>
+<td>Criação da estrutura para inserção do vídeo da gravação da validação/priorização das HUs dos demais integrantes.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>2.9</code></td>
+<td>Adição, validação e priorização da HU32 até a HU36.</td>
+<td><a href="https://github.com/JoosPerro">João Pedro</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>3.0</code></td>
+<td>Correções e revisões</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>3.1</code></td>
+<td>Adição do vídeo 5.</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">17/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/12/2024</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.60a45f97.min.js"></script>
+      
+    
+  </body>
+</html>

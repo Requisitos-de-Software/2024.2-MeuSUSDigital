@@ -1,0 +1,4237 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/pos-rastreabilidade/backward-from/">
+      
+      
+        <link rel="prev" href="../../modelagem-agil/backlog/">
+      
+      
+        <link rel="next" href="../forward-from/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.50">
+    
+    
+      
+        <title>Backward From - Meu SUS Digital</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.a40c8224.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#backward-from" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Meu SUS Digital" class="md-header__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meu SUS Digital
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backward From
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Meu SUS Digital" class="md-nav__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    Meu SUS Digital
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 01
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 02
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 03
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 04
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 06
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 01
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 02
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 03
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 04
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 05
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 06
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HeatMap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Planejamento
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Execução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/apps-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativos Avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/app-selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/termo-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Perfil de Usuário
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Perfil de Usuário
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/analise-perfil-usuario/perfil-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/analise-perfil-usuario/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/planejamento/cronograma-tecnicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Elicitação de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/planejamento/cronograma-priorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Priorização de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/analise-de-documentos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/grupo-de-foco/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo de Foco
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/%24100/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/matriz-gut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz GUT
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/requisitos-elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/caso-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao-suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/historias-de-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/nfr-framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade-retrospectiva-dos-requisitos-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rastreabilidade Retrospectiva dos Requisitos Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade-retrospectiva-dos-requisitos-nao-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rastreabilidade Retrospectiva dos Requisitos Não Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elos-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos de Rastreabilidade
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Elos de Rastreabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-elos-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de Elos de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elos-funcionais-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos Funcionais de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elos-nao-funcionais-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos Não Funcionais de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../forward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matriz-de-rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lista de Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Lista de Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_3" id="__nav_9_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega1g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega2g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega3g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega4g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega6g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade-retrospectiva-dos-requisitos-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rastreabilidade Retrospectiva dos Requisitos Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade-retrospectiva-dos-requisitos-nao-funcionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rastreabilidade Retrospectiva dos Requisitos Não Funcionais
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elos-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos de Rastreabilidade
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Elos de Rastreabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-elos-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de Elos de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elos-funcionais-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos Funcionais de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elos-nao-funcionais-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elos Não Funcionais de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="backward-from">Backward From</h1>
+<h2 id="introducao">Introdução</h2>
+<p>A rastreabilidade de requisitos é um processo fundamental na engenharia de software, garantindo que as necessidades dos stakeholders sejam atendidas e que o ciclo de vida do software seja bem gerenciado. Este documento apresenta o processo de rastreabilidade retrospectiva, conhecido como "Backward From", aplicado no projeto Meu SUS Digital. O foco é estabelecer elos claros entre os requisitos elicitados e os artefatos resultantes, assegurando controle e rastreamento efetivos.</p>
+<p>A rastreabilidade retrospectiva possibilita verificar como os requisitos elicitados através das técnicas de <a href="elicitacao/tecnicas/analise-de-documentos.md">Análise de Documentos</a>, <a href="elicitacao/tecnicas/entrevista.md">Entrevista</a>, <a href="elicitacao/tecnicas/grupo-de-foco.md">Grupo de Foco</a>, <a href="elicitacao/tecnicas/observacao.md">Observação</a> e <a href="elicitacao/tecnicas/introspeccao.md">Introspecção</a> estão relacionados aos componentes e à implementação do sistema, promovendo coerência entre a análise inicial e os resultados obtidos.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A metodologia utilizada para a rastreabilidade retrospectiva neste projeto baseia-se no modelo "Backward From" descrito por Toranzo. Esta abordagem classifica os requisitos em funcionais (RF) e não funcionais (RNF), e estabelece elos que descrevem as conexões entre eles e os artefatos gerados ao longo do ciclo de vida do projeto.</p>
+<p>Os principais componentes da metodologia incluem:</p>
+<ol>
+<li>
+<p><strong>Identificação dos Requisitos</strong>:</p>
+<p>Os requisitos foram elicitados utilizando técnicas como análise de documentos, entrevista, grupo de foco, observação e introspecção. Cada requisito foi classificado como funcional ou não funcional.</p>
+</li>
+<li>
+<p><strong>Classificação de Níveis e Elos</strong>:</p>
+<p>Os requisitos são organizados em níveis (ambiental, organizacional, gerencial e de desenvolvimento).</p>
+<p>Os elos estabelecem as relações de satisfação, recurso, responsabilidade, representação, alocação e agregação entre os requisitos e artefatos.</p>
+</li>
+<li>
+<p><strong>Construção das Tabelas de Rastreabilidade</strong>:</p>
+<p>As tabelas de rastreabilidade retrospectiva foram elaboradas para requisitos funcionais e não funcionais, com base nos elos identificados.</p>
+</li>
+<li>
+<p><strong>Elaboração dos Elos</strong>:</p>
+<p>Cada elo de rastreabilidade foi descrito em tabelas específicas, representando como os requisitos se conectam aos artefatos e ao sistema como um todo.</p>
+</li>
+</ol>
+<p>Ao final, foram geradas tabelas detalhadas que consolidam o processo de rastreabilidade, organizadas para facilitar a compreensão e a manutenção do projeto.</p>
+<p>Vale ressaltar que também foi criada uma tabela contendo a legenda para cada sigla utilizada neste documento a fim de padronizar e facilitar a compreensão das informações apresentadas:</p>
+<div align="center">
+    <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tipo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">RF</td>
+<td>Requisito Funcional</td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF</td>
+<td>Requisito Não Funcional</td>
+</tr>
+<tr>
+<td style="text-align: left;">ADn</td>
+<td>n-ésimo requisito elicitado pela técnica de Análise de Documentos</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENn</td>
+<td>n-ésimo requisito elicitado pela técnica de Entrevista</td>
+</tr>
+<tr>
+<td style="text-align: left;">GFn</td>
+<td>n-ésimo requisito elicitado pela técnica de Grupo de Foco</td>
+</tr>
+<tr>
+<td style="text-align: left;">INTn</td>
+<td>n-ésimo requisito elicitado pela técnica de Introspecção</td>
+</tr>
+<tr>
+<td style="text-align: left;">OBSn</td>
+<td>n-ésimo requisito elicitado pela técnica de Observação</td>
+</tr>
+<tr>
+<td style="text-align: left;">QUEn</td>
+<td>n-ésimo requisito elicitado pela técnica de Questionário</td>
+</tr>
+<tr>
+<td style="text-align: left;">EFn</td>
+<td>n-ésimo elo (ou vínculo) funcional</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENFn</td>
+<td>n-ésimo elo (ou vínculo) não funcional</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+<h2 id="rastreabilidade-retrospectiva-dos-requisitos-funcionais">Rastreabilidade Retrospectiva dos Requisitos Funcionais</h2>
+<details class="note">
+<summary>Tabela 2</summary>
+<p><div align="center">
+    <p><strong>Tabela 2 – Rastreabilidade retrospectiva dos requisitos funcionais elicitados</strong></p>
+</div></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">ID</th>
+<th>Descrição</th>
+<th style="text-align: left;">Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">RF1</td>
+<td>O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS1</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD09</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF2</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS2</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF3</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS3</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF4</td>
+<td>O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS4</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF5</td>
+<td>O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS5</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD24</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF6</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS6</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF7</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS7</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF8</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS8</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF9</td>
+<td>O aplicativo deve permitir a visualização dos exames laboratoriais realizados</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS9</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF10</td>
+<td>O aplicativo deve permitir a visualização dos resultados e demais informações a respeito dos exames laboratoriais realizados</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS10</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF11</td>
+<td>O aplicativo deve permitir a exportação/download do documento contendo o resultado e demais informações a respeito de cada exame laboratorial realizado</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS11</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF12</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Medicamentos</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS12</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF13</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de medicamentos recebidos</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS13</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF14</td>
+<td>O aplicativo deve permitir que o usuário adicione um medicamento recebido por meio de programas de dispensação do Governo Federal através de um mecanismo de busca</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS14</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF15</td>
+<td>O aplicativo deve permitir que o usuário possa realizar a busca por um medicamento através do nome e dosagem do mesmo</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS15</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF16</td>
+<td>O aplicativo deve fornecer ao usuário, em adesão ao Programa Farmácia Popular, a opção de autorizar ou não a retirada de medicamentos em seu CPF</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS16</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF17</td>
+<td>O aplicativo deve permitir que o usuário possa verificar os medicamentos recebidos pelo Programa Farmácia Popular</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS17</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF18</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Dignidade Menstrual</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS18</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF19</td>
+<td>Caso o usuário atenda aos critérios do Programa, o aplicativo deve permitir que o usuário emita uma autorização para participar do Programa Dignidade Menstrual</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS19</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF20</td>
+<td>O aplicativo deve permitir que o usuário exporte/baixe o documento referente à autorização de participação do Programa Dignidade Menstrual</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS20</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF21</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Rede de Saúde</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS21</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF22</td>
+<td>O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS22</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD05</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF23</td>
+<td>O aplicativo deve armazenar a localização do dispositivo do usuário</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS23</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD06</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF24</td>
+<td>O aplicativo deve oferecer opções de estabelecimentos de saúde a fim de que o usuário possa identificar àqueles próximos à sua localização, de acordo com o tipo de serviço desejado</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS24</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF25</td>
+<td>O aplicativo deve permitir que o usuário possa identificar os estabelecimentos de saúde recentes vinculados a ele</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS25</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF26</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Agendamentos</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS26</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF27</td>
+<td>O aplicativo deve exibir as consultas médicas ou exames de saúde do usuário</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS27</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF28</td>
+<td>O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS28</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD27</a>, <a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN02</a>, <a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF02</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF29</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Atendimento e Internação</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS29</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF30</td>
+<td>O aplicativo deve exibir os registros de atendimentos ou internações do usuário</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS30</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF31</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Contatos</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS31</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF32</td>
+<td>O aplicativo deve exibir contatos de profissionais de saúde</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS32</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF33</td>
+<td>O aplicativo deve permitir que o usuário adicione o contato de um profissional de saúde em casos de emergência</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS33</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF34</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Diário de Saúde</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS34</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF35</td>
+<td>O aplicativo deve exibir todos os registros de saúde do usuário</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS35</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF36</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes à sua Pressão</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS36</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF37</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Pressão</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS37</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF38</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes à sua Glicose</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS38</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF39</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Glicose</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS39</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF40</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes ao seu IMC</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS40</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF41</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente ao seu IMC</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS41</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF42</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Alergias</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS42</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF43</td>
+<td>O aplicativo deve exibir as alergias que usuário possui</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS43</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF44</td>
+<td>O aplicativo deve permitir que o usuário adicione uma alergia</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS44</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF45</td>
+<td>O sistema deverá apresentar o termo de consentimento.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD01</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF46</td>
+<td>O sistema deverá informar quais dados serão coletados.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD02</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF47</td>
+<td>O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD03</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF48</td>
+<td>O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD04</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF49</td>
+<td>O sistema deverá pedir permissão de acesso à câmera do dispositivo.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD07</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF50</td>
+<td>O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD08</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF51</td>
+<td>O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD10</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF52</td>
+<td>O sistema deverá buscar na RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD11</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF53</td>
+<td>O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD12</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF54</td>
+<td>O sistema deverá apresentar o <em>status</em> e posição do usuário na lista de espera para transplante de órgão e tecido.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD18</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF55</td>
+<td>O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD25</a>, <a href="../../elicitacao/tecnicas/observacao/#OBS45">OBS45</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF56</td>
+<td>O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD26</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF57</td>
+<td>O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta.</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD30</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF58</td>
+<td>A aplicação permite agendar exames</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN03</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF59</td>
+<td>A aplicação permite ao servidor solicitar licença saúde</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN04</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF60</td>
+<td>A aplicação permite acompanhar o andamento de solicitações (licença, medicamentos)</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN05</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF61</td>
+<td>A aplicação permite acompanhar a vacinação</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN06</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF62</td>
+<td>A aplicação permite consultar pedidos de medicamento</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN07</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF63</td>
+<td>A aplicação permite consultar recebimentos de medicamento</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN08</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF64</td>
+<td>A aplicação permite consultar os agendamentos de exames</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN09</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF65</td>
+<td>A aplicação permite consultar os resultados de exames</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN10</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF66</td>
+<td>A aplicação notifica o cancelamento de agendamentos</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN11</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF67</td>
+<td>A aplicação permite realizar pedidos de medicamento</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN12</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF68</td>
+<td>A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN13</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF69</td>
+<td>O aplicativo mostra o histórico de vacinação pré-pandemia</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF01</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF70</td>
+<td>O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF03</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF71</td>
+<td>O aplicativo permite consultar receitas médicas</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF04</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF72</td>
+<td>O aplicativo notifica aos usuários atualizações em conteúdos relacionados a patologias que eles venham a ter</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF05</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF73</td>
+<td>O aplicativo pode destacar conteúdos pertinentes a um estado para usuários desse estado</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF06</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF74</td>
+<td>O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF07</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RF75</td>
+<td>O aplicativo deve oferece agendamento de consultas e exames</td>
+<td style="text-align: left;"><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF02</a></td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h2 id="rastreabilidade-retrospectiva-dos-requisitos-nao-funcionais">Rastreabilidade Retrospectiva dos Requisitos Não Funcionais</h2>
+<details class="note">
+<summary>Tabela 3</summary>
+<p><div align="center">
+    <p><strong>Tabela 3 – Rastreabilidade retrospectiva dos requisitos não funcionais elicitados</strong></p>
+</div></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">ID</th>
+<th>Descrição</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">RNF1</td>
+<td>O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0)</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS45</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD22</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF2</td>
+<td>O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS46</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF3</td>
+<td>O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS47</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF4</td>
+<td>O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS48</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD29</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF5</td>
+<td>O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS49</a>, <a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD32</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF6</td>
+<td>O histórico de vacinas deve ser armazenado em servidores seguros, em conformidade com a LGPD</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS50</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF7</td>
+<td>O acesso aos detalhes de cada vacina deve ser protegido por criptografia ponta a ponta</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS51</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF8</td>
+<td>As informações de ajuda relacionadas a exames devem ser exibidas em uma interface amigável, seguindo padrões de usabilidade</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS52</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF9</td>
+<td>Os resultados de exames laboratoriais devem ser apresentados em formato padronizado e visualmente acessível</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS53</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF10</td>
+<td>Os dados sobre exames laboratoriais devem ser carregados de maneira otimizada, mesmo em conexões lentas</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS54</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF11</td>
+<td>Os documentos de resultados de exames laboratoriais devem ser exportados em formatos amplamente compatíveis, como PDF ou JPEG</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS55</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF12</td>
+<td>O aplicativo deve exibir informações sobre medicamentos em uma interface responsiva e acessível</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS56</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF13</td>
+<td>O histórico de medicamentos deve ser armazenado em servidores redundantes para garantir alta disponibilidade</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS57</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF14</td>
+<td>A busca por medicamentos deve apresentar resultados relevantes em menos de 2 segundos</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS58</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF15</td>
+<td>A busca de medicamentos por nome e dosagem deve ser sensível a erros de digitação</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS59</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF16</td>
+<td>A autorização para retirada de medicamentos deve ser confirmada com autenticação segura do usuário</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS60</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF17</td>
+<td>Os medicamentos recebidos pelo Programa Farmácia Popular devem ser exibidos em ordem cronológica</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS61</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF18</td>
+<td>A seção de ajuda do Programa Dignidade Menstrual deve seguir diretrizes de acessibilidade (WCAG 2.1)</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS62</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF19</td>
+<td>As autorizações para participação no Programa Dignidade Menstrual devem ser processadas em menos de 5 segundos</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS63</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF20</td>
+<td>O documento referente à autorização do Programa Dignidade Menstrual deve ser exportado em formato PDF com validação digital</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS64</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF21</td>
+<td>A localização do dispositivo do usuário deve ser acessada apenas com consentimento explícito e armazenada temporariamente</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS65</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF22</td>
+<td>O aplicativo deve usar APIs de geolocalização eficientes e de baixo consumo de bateria</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS66</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF23</td>
+<td>As opções de estabelecimentos de saúde devem ser carregadas em menos de 2 segundos</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS67</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF24</td>
+<td>A lista de estabelecimentos de saúde recentes deve ser atualizada automaticamente sem comprometer o desempenho</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS68</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF25</td>
+<td>O agendamento de consultas deve ser sincronizado em tempo real com os sistemas do SUS</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS69</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF26</td>
+<td>As informações sobre consultas médicas ou exames devem ser exibidas com visualização amigável e intuitiva</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS70</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF27</td>
+<td>O registro de atendimentos ou internações deve ser armazenado de forma segura em servidores certificados</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS71</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF28</td>
+<td>Os contatos de profissionais de saúde devem ser exibidos em uma lista organizada, de fácil navegação</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS72</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF29</td>
+<td>As informações de emergência devem ser acessíveis rapidamente, com opção de busca por nome ou especialidade</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS73</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF30</td>
+<td>Os registros de saúde do usuário devem ser apresentados em gráficos interativos e de fácil interpretação</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS74</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF31</td>
+<td>As informações sobre Pressão, Glicose e IMC devem ser armazenadas de forma criptografada para garantir a privacidade</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS75</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF32</td>
+<td>O aplicativo deve garantir alta disponibilidade, com no mínimo 99,5% de uptime</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS76</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF33</td>
+<td>Os dados relacionados a alergias devem ser carregados rapidamente e protegidos contra acesso não autorizado</td>
+<td><a href="../../elicitacao/tecnicas/observacao/#requisitos-elicitados">OBS77</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF34</td>
+<td>Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD14</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF35</td>
+<td>O sistema deverá ser compatível com dispositivos Android e iOS.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD15</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF36</td>
+<td>O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD16</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF37</td>
+<td>O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD19</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF38</td>
+<td>O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD20</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF39</td>
+<td>As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD21</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF40</td>
+<td>O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD23</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF41</td>
+<td>O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD28</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF42</td>
+<td>A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência.</td>
+<td><a href="../../elicitacao/tecnicas/analise-de-documentos/#requisitos-elicitados">AD31</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF43</td>
+<td>A aplicação pode receber informações do usuário através de biosensores</td>
+<td><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN01</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF44</td>
+<td>O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas</td>
+<td><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN14</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF45</td>
+<td>A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos</td>
+<td><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN15</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF46</td>
+<td>O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica</td>
+<td><a href="../../elicitacao/tecnicas/entrevista/#requisitos-elicitados">EN16</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF47</td>
+<td>A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB</td>
+<td><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF08</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">RNF48</td>
+<td>O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica</td>
+<td><a href="../../elicitacao/tecnicas/grupo-de-foco/#requisitos-elicitados">GF09</a></td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h2 id="elos-de-rastreabilidade">Elos de Rastreabilidade</h2>
+<p>Elos de rastreabilidade representam as relações entre os elementos de um sistema (requisitos, artefatos, casos de uso, testes etc.) para garantir coerência e controle durante o ciclo de vida do projeto. Eles são fundamentais para rastrear:</p>
+<ul>
+<li>A origem de um requisito (elicitado a partir de stakeholders ou documentos).</li>
+<li>Como ele é implementado e testado.</li>
+<li>Quais dependências ele possui (em relação a recursos, subsistemas ou responsabilidades).</li>
+</ul>
+<h3 id="tipos-de-elos-de-rastreabilidade">Tipos de Elos de Rastreabilidade</h3>
+<div align="center">
+    <p><strong>Tabela 4 – Tipos de Elos de Rastreabiliadade</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Tipo de Elo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Satisfação</td>
+<td>Indica que um requisito é atendido por um artefato ou funcionalidade específica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Recurso</td>
+<td>Relaciona um requisito à necessidade de um recurso, como hardware ou software.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Responsabilidade</td>
+<td>Associa pessoas ou equipes a tarefas específicas ligadas aos requisitos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Representação</td>
+<td>Liga os requisitos a modelos que os detalham, como diagramas ou tabelas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Alocado</td>
+<td>Conecta requisitos a subsistemas ou componentes designados.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Agregação</td>
+<td>Indica que um requisito ou artefato é composto por outros elementos menores.</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+<h3 id="elos-funcionais-de-rastreabilidade">Elos Funcionais de Rastreabilidade</h3>
+<details class="note">
+<summary>Tabela 5</summary>
+<p><div align="center">
+    <p><strong>Tabela 5 – Elos (ou vínculos) funcionais de rastreabilidade</strong></p>
+</div></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">ID</th>
+<th style="text-align: left;">Requisito Funcional</th>
+<th style="text-align: left;">Tipo de Elo</th>
+<th style="text-align: left;">Nível de Elo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">EF1</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF1">RF1</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O requisito é representado no diagrama de contexto que descreve o login via Gov.br.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF2</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF2">RF2</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O requisito é atendido pela funcionalidade de ajuda informativa na seção de Vacinas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF3</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF3">RF3</a></td>
+<td style="text-align: left;">Agregação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A funcionalidade de acesso à Carteira Nacional de Vacinação Digital compõe o módulo de histórico de vacinação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF4</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF4">RF4</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Requer a funcionalidade de seleção de idioma para o certificado de vacinação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF5</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF5">RF5</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exportação da Carteira de Vacinação Digital está vinculada ao modelo de geração de PDFs.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF6</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF6">RF6</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>O histórico de vacinas atende à necessidade de rastreamento de imunizações anteriores.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF7</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF7">RF7</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Detalhes de cada vacina estão alocados no módulo de consultas detalhadas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF8</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF8">RF8</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O recurso de ajuda informativa está integrado à seção de Exames.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF9</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF9">RF9</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exames laboratoriais realizados são exibidos no histórico médico do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF10</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF10">RF10</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Os resultados de exames atendem à necessidade de informações detalhadas para o paciente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF11</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF11">RF11</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O recurso de exportação de exames utiliza o gerador de relatórios em PDF e JPEG.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF12</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF12">RF12</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A ajuda informativa na seção de Medicamentos é satisfatória às necessidades do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF13</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF13">RF13</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O histórico de medicamentos é alocado no módulo de gerenciamento de medicamentos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF14</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF14">RF14</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A busca por medicamentos utiliza uma interface de pesquisa integrada.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF15</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF15">RF15</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A funcionalidade de busca por nome e dosagem está representada no fluxo de busca rápida.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF16</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF16">RF16</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A autorização de retirada de medicamentos satisfaz os critérios de segurança definidos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF17</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF17">RF17</a></td>
+<td style="text-align: left;">Agregação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Medicamentos recebidos pelo Farmácia Popular compõem o histórico farmacológico.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF18</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF18">RF18</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Ajuda informativa sobre Dignidade Menstrual atende a critérios de acessibilidade.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF19</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF19">RF19</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A emissão de autorizações para o Programa Dignidade Menstrual está alocada no módulo de autorizações.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF20</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF20">RF20</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exportação do documento do Programa Dignidade Menstrual utiliza o gerador de PDFs.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF21</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF21">RF21</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Ajuda informativa da Rede de Saúde está representada na interface de navegação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF22</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF22">RF22</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A funcionalidade de permissão de localização é vinculada ao acesso aos serviços locais.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF23</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF23">RF23</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Armazenamento da localização é alocado em servidores seguros.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF24</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF24">RF24</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Oferecer estabelecimentos de saúde próximos satisfaz necessidades geográficas do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF25</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF25">RF25</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Estabelecimentos recentes vinculados ao usuário estão representados no histórico local.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF26</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF26">RF26</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Ajuda informativa sobre agendamentos atende à necessidade de orientação do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF27</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF27">RF27</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Consultas e exames estão representados no calendário interativo do aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF28</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF28">RF28</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Agendamentos estão alocados no módulo de gestão de consultas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF29</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF29">RF29</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Ajuda informativa sobre atendimento e internação utiliza a base de dados de orientações.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF30</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF30">RF30</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Exibição dos registros de internação atende aos requisitos de transparência médica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF31</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF31">RF31</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Ajuda informativa sobre contatos está representada no diretório de contatos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF32</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF32">RF32</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Exibição de contatos atende às necessidades de conexão do usuário com profissionais.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF33</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF33">RF33</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Adicionar contato de emergência está alocado no módulo de gerenciamento de contatos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF34</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF34">RF34</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Ajuda informativa sobre Diário de Saúde está no fluxo de introdução do módulo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF35</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF35">RF35</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Exibição de registros de saúde atende ao monitoramento contínuo do paciente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF36</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF36">RF36</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Registros de pressão são representados em gráficos no diário de saúde.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF37</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF37">RF37</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Adição de registros de pressão é alocada no módulo de monitoramento de saúde.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF38</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF38">RF38</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Registros de glicose estão representados na interface de gráficos interativos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF39</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF39">RF39</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Adição de registros de glicose utiliza o formulário de entrada padrão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF40</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF40">RF40</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Registros de IMC estão representados no painel de saúde integrado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF41</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF41">RF41</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Adição de registros de IMC está alocada no formulário de acompanhamento de saúde.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF42</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF42">RF42</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Ajuda informativa sobre alergias atende aos requisitos de orientação médica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF43</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF43">RF43</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exibição de alergias está representada no histórico médico do paciente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF44</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF44">RF44</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Adicionar alergia está alocada no módulo de atualização do histórico médico.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF45</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF45">RF45</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Apresentação do termo de consentimento atende aos critérios de transparência do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF46</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF46">RF46</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Informações sobre coleta de dados estão representadas no painel de políticas de privacidade.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF47</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF47">RF47</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Escolha sobre coleta de dados utiliza o sistema de notificações do aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF48</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF48">RF48</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Registro da escolha do paciente está alocado no módulo de consentimento.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF49</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF49">RF49</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Permissão de acesso à câmera está representada no fluxo de configuração de permissões.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF50</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF50">RF50</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Foto tirada pelo paciente é vinculada ao sistema de reconhecimento facial.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF51</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF51">RF51</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Busca no CADSUS está alocada no módulo de integração com bases de dados governamentais.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF52</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF52">RF52</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Dados buscados na RNDS utilizam o sistema de sincronização em tempo real.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF53</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF53">RF53</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Solicitação de remoção de dados está representada no painel de configurações do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF54</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF54">RF54</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Exibição do status na lista de espera para transplantes atende a requisitos de transparência.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF55</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF55">RF55</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exportação do certificado de vacinação utiliza o gerador de documentos PDF.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF56</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF56">RF56</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Preenchimento de autodeclaração está representado no formulário de dados pessoais.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF57</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF57">RF57</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Notificação sobre consultas agendadas atende aos requisitos de comunicação do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF58</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF58">RF58</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Agendamento de exames está alocado no módulo de gestão de exames.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF59</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF59">RF59</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Solicitação de licença saúde está representada no painel de funcionalidades do servidor.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF60</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF60">RF60</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Acompanhamento de solicitações atende aos critérios de transparência do usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF61</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF61">RF61</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Acompanhamento de vacinação está representado no painel de saúde.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF62</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF62">RF62</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Consulta de pedidos de medicamentos utiliza o sistema de busca integrada.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF63</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF63">RF63</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Consulta de recebimentos de medicamentos está no histórico farmacológico.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF64</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF64">RF64</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Consulta de agendamentos de exames está alocada no módulo de gestão de consultas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF65</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF65">RF65</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Consulta de resultados de exames atende aos critérios de acesso rápido a informações.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF66</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF66">RF66</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Notificação de cancelamento de agendamentos está representada no painel de alertas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF67</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF67">RF67</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Realização de pedidos de medicamentos utiliza o sistema de requisição automática.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF68</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF68">RF68</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Aplicação de filtros na consulta de medicamentos está no painel de gestão farmacológica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF69</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF69">RF69</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Histórico de vacinação pré-pandemia está representado no registro consolidado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF70</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF70">RF70</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>Validação médica de declarações de alergia atende aos critérios de conformidade médica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF71</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF71">RF71</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Consulta de receitas médicas está representada no histórico clínico do paciente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF72</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF72">RF72</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Notificação de atualizações está alocada no sistema de informações dinâmicas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF73</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF73">RF73</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>Destaque de conteúdos pertinentes está representado na interface de navegação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF74</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF74">RF74</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Exportação de receitas médicas utiliza o gerador de PDFs do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">EF75</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RF75">RF75</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>Oferecimento de agendamento de consultas atende aos requisitos de acessibilidade.</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h3 id="elos-nao-funcionais-de-rastreabilidade">Elos Não Funcionais de Rastreabilidade</h3>
+<details class="note">
+<summary>Tabela 6</summary>
+<p><div align="center">
+    <p><strong>Tabela 6 – Elos (ou vínculos) não funcionais de rastreabilidade</strong></p>
+</div></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">ID</th>
+<th style="text-align: left;">Requisito Não Funcional</th>
+<th style="text-align: left;">Tipo de Elo</th>
+<th style="text-align: left;">Nível de Elo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">ENF1</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF1">RNF1</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O requisito de autenticação segura (OAuth 2.0) é representado no diagrama de login seguro.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF2</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF2">RNF2</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>A acessibilidade das informações de ajuda atende às diretrizes para usuários com deficiência.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF3</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF3">RNF3</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>O carregamento do histórico de vacinação em menos de 3 segundos atende às expectativas de performance.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF4</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF4">RNF4</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O suporte a três idiomas para certificados de vacinação depende da funcionalidade de tradução integrada.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF5</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF5">RNF5</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O formato PDF de alta qualidade para certificados de vacinação está representado no módulo de exportação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF6</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF6">RNF6</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O armazenamento do histórico de vacinas é alocado em servidores seguros, conforme a LGPD.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF7</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF7">RNF7</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A criptografia ponta a ponta para acesso aos detalhes de vacinas está representada no fluxo de segurança.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF8</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF8">RNF8</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>As informações de ajuda relacionadas a exames atendem aos padrões de usabilidade definidos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF9</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF9">RNF9</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A apresentação de resultados de exames está representada no formato padronizado e acessível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF10</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF10">RNF10</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>O carregamento otimizado dos dados de exames atende às necessidades de desempenho do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF11</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF11">RNF11</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A exportação de documentos de exames utiliza os formatos amplamente compatíveis, como PDF e JPEG.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF12</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF12">RNF12</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A interface responsiva para exibição de informações sobre medicamentos está representada no design adaptativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF13</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF13">RNF13</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O histórico de medicamentos está alocado em servidores redundantes para garantir alta disponibilidade.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF14</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF14">RNF14</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>A busca por medicamentos em menos de 2 segundos atende aos critérios de eficiência do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF15</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF15">RNF15</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A sensibilidade a erros de digitação na busca por medicamentos está representada no sistema de busca inteligente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF16</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF16">RNF16</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A autenticação segura do usuário é utilizada para confirmar a autorização de retirada de medicamentos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF17</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF17">RNF17</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A exibição de medicamentos recebidos pelo Programa Farmácia Popular está organizada em ordem cronológica.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF18</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF18">RNF18</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>A seção de ajuda do Programa Dignidade Menstrual atende às diretrizes de acessibilidade WCAG 2.1.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF19</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF19">RNF19</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>O processamento das autorizações para o Programa Dignidade Menstrual em menos de 5 segundos atende às expectativas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF20</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF20">RNF20</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O documento do Programa Dignidade Menstrual em formato PDF com validação digital está representado no módulo de exportação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF21</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF21">RNF21</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O acesso à localização do dispositivo do usuário utiliza consentimento explícito e armazenamento temporário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF22</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF22">RNF22</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Ambiental</td>
+<td>APIs de geolocalização eficientes e de baixo consumo de bateria são utilizadas para otimizar o desempenho.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF23</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF23">RNF23</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>O carregamento das opções de estabelecimentos de saúde em menos de 2 segundos atende aos critérios de performance.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF24</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF24">RNF24</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A atualização automática da lista de estabelecimentos recentes está representada no sistema de sincronização.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF25</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF25">RNF25</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O agendamento de consultas está alocado no módulo de integração com os sistemas do SUS.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF26</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF26">RNF26</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A exibição intuitiva das informações sobre consultas médicas está representada no painel de usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF27</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF27">RNF27</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O armazenamento seguro de registros de internação está alocado em servidores certificados.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF28</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF28">RNF28</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A lista de contatos de profissionais de saúde está representada no diretório de navegação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF29</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF29">RNF29</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O acesso rápido às informações de emergência atende às expectativas de usabilidade do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF30</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF30">RNF30</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Os registros de saúde do usuário apresentados em gráficos interativos estão representados no painel de visualização.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF31</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF31">RNF31</a></td>
+<td style="text-align: left;">Alocado</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O armazenamento criptografado de informações sobre pressão, glicose e IMC está alocado no sistema seguro.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF32</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF32">RNF32</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A garantia de alta disponibilidade com uptime de 99,5% é gerenciada pelo sistema de monitoramento.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF33</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF33">RNF33</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>Os dados de alergias protegidos contra acesso não autorizado estão representados no módulo de segurança.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF34</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF34">RNF34</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Ambiental</td>
+<td>A criptografia AES-256 é utilizada para proteger os dados pessoais dos pacientes.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF35</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF35">RNF35</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A compatibilidade do sistema com dispositivos Android e iOS atende às expectativas de usabilidade.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF36</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF36">RNF36</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>O armazenamento de dados em conformidade com a LGPD está representado nos fluxos de governança de dados.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF37</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF37">RNF37</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O tempo de exibição do termo de consentimento em até 5 segundos é garantido pelo sistema de otimização.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF38</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF38">RNF38</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O design responsivo do termo de consentimento está representado no modelo adaptativo da interface.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF39</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF39">RNF39</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Ambiental</td>
+<td>A apresentação das informações de dados coletados em linguagem acessível atende às necessidades dos usuários.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF40</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF40">RNF40</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O uso de conexões criptografadas (TLS 1.2 ou superior) está representado no fluxo de segurança de comunicação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF41</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF41">RNF41</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A atualização de informações no cartão de vacinação em até 10 dias atende aos requisitos de eficiência.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF42</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF42">RNF42</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A notificação de consultas agendadas com antecedência está representada no módulo de alertas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF43</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF43">RNF43</a></td>
+<td style="text-align: left;">Recurso</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A coleta de dados de biosensores é gerenciada pelo sistema de integração de dispositivos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF44</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF44">RNF44</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>O fluxo para solicitação de medicamentos em até 5 cliques atende aos critérios de usabilidade.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF45</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF45">RNF45</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>O tempo de processamento de solicitações de medicamentos está representado no módulo de desempenho.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF46</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF46">RNF46</a></td>
+<td style="text-align: left;">Satisfação</td>
+<td style="text-align: left;">Gerencial</td>
+<td>A exibição cronológica de pedidos de medicamentos atende às expectativas de organização do sistema.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF47</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF47">RNF47</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Organizacional</td>
+<td>A exportação de receitas médicas em PDF está representada no módulo de documentação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ENF48</td>
+<td style="text-align: left;"><a href="../../elicitacao/requisitos-elicitados/#RNF48">RNF48</a></td>
+<td style="text-align: left;">Representação</td>
+<td style="text-align: left;">Desenvolvimento</td>
+<td>A exibição cronológica de receitas médicas está representada no histórico clínico do paciente.</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<p><div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div></p>
+</details>
+<h2 id="bibliografia">📚 Bibliografia</h2>
+<blockquote>
+<p>VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. <em>Engenharia de Requisitos: software orientado ao negócio</em>. Rio de Janeiro: Brasport, 2016.</p>
+<p>WIEGERS, Karl; BEATTY, Joy. <em>Software Requirements. Third Edition</em>. Redmond, WA: Microsoft Press, 2013.</p>
+<p>TORANZO, M.; CASTRO, J.; MELO, E. <em>Uma proposta para melhorar o rastreamento de requisitos</em>. In: WER – Workshop em Engenharia de Requisitos. Valencia, Espanha, 2002.</p>
+</blockquote>
+<h2 id="historico-de-versoes">📑 Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th style="text-align: center;">Data de Produção</th>
+<th>Revisor(es)</th>
+<th style="text-align: center;">Data de Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><code>1.0</code></td>
+<td>Criação da estrutura inicial do documento referente ao Backward From.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">16/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.1</code></td>
+<td>Atualização da bibliografia.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">17/01/2025</td>
+<td></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.2</code></td>
+<td>Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais elicitados e correção de título.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.3</code></td>
+<td>Adição da tabela de rastreabilidade para trás referente aos requisitos funcionais não elicitados.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.4</code></td>
+<td>Correção na tabela de rastreabilidade retrospectiva referente aos requisitos funcionais elicitados, atualização das legendas, reorganização das tabelas e criação das tabelas referentes aos elos funcionais e não funcionais.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.5</code></td>
+<td>Atualização das informações a respeito dos campos "Introdução" e "Metodologia".</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.6</code></td>
+<td>Atualização das referências bibliográficas.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">19/01/2025</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.60a45f97.min.js"></script>
+      
+    
+  </body>
+</html>
