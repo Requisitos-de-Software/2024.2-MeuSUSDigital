@@ -37,8 +37,8 @@
 
 | Tarefa | Responsável | Prazo |
 |--------|-------------|-------|
-| Prototipar os requisitos escolhidos individualmente | Artur Ricardo, Emivalto, Matheus Henrick, Pedro Lopes, João Pedro Veras |  |
-| Realizar a inspeção gravada (autoavaliação e do grupo 5) | Artur Ricardo, Emivalto, Matheus Henrick, Pedro Lopes, João Pedro Veras |  |
+| Prototipar os requisitos escolhidos individualmente | Artur Ricardo, Emivalto, Matheus Henrick, Pedro Lopes, João Pedro Veras | 02/02/2025 |
+| Realizar a inspeção gravada (autoavaliação e do grupo 5) | Artur Ricardo, Emivalto, Matheus Henrick, Pedro Lopes, João Pedro Veras | 03/02/2025 |
 
 ## Pautas Planejadas para a Próxima Reunião
 
