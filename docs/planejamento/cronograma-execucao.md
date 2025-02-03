@@ -125,9 +125,24 @@ A **Tabela 5** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
-| Verificação da Análise de Requisitos | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Validação da Análise de Requisitos | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Gravar a apresentação da Etapa 5 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
+| Confecção do documento referente à reunião (ou às reuniões) realizadas durante a Etapa 5 | Início: 28/01<br>Fim: 29/01 | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: |  |
+| Confecção do documento referente à verificação geral de todos os artefatos do Grupo 4 | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Confecção do documento referente à verificação geral de todos os artefatos do Grupo 5 | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF60 | Início: 31/01<br>Fim: 03/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF62 | Início: 31/01<br>Fim: 03/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF67 | Início: 31/01<br>Fim: 03/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF68 | Início: 31/01<br>Fim: 03/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF58 | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF66 | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF75 | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF69 | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF71 | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF74 | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF72 | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: |  |
+| Confecção do documento referente ao protótipo de alta fidelidade do RF73 | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: |  |
+| Gravar a verificação de todos os artefatos do Grupo 4 | Início: <br>Fim:  |  | Início: <br>Fim: |  |
+| Gravar a verificação de todos os artefatos do Grupo 5 | Início: <br>Fim:  |  | Início: <br>Fim: |  |
+| Gravar a validação dos protótipos de alta fidelidade produzidos | Início: <br>Fim:  |  | Início: <br>Fim: |  |
 | Inspecionar a entrega da apresentação da Etapa 5 do projeto do Grupo 5 | Início: <br>Fim: | | Início: <br>Fim: | |
 | Correção pós entrega/apresentação da Etapa 5 do projeto | Início: <br>Fim: | | Início: <br>Fim: | |
 
@@ -213,3 +228,4 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.6`  | Atualização dos dados das tabelas anteriores à Etapa 4 e correção de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 17/12/2024 |
 | `1.7`  | Atualização dos dados da tabela referente à Etapa 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2024 |
 | `1.8`  | Atualização dos dados da tabela referente à Etapa 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 | [Pedro Lopes](https://github.com/pLopess) | 19/01/2024 |
+| `1.9`  | Atualização dos dados da tabela referente à Etapa 6 e adição de alguns dados na tabela referente à Etapa 5. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
