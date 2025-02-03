@@ -4,7 +4,7 @@
 
 Um protótipo de alta fidelidade é uma representação visual detalhada da interface de um sistema, proporcionando uma experiência próxima ao produto final. Ele inclui elementos gráficos refinados, interatividade e simulação de funcionalidades reais, permitindo a avaliação da usabilidade e validação dos requisitos.
 
-Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF60 - A aplicação permite acompanhar o andamento de solicitações de medicamentos**](../elicitacao/requisitos-elicitados.md/#RF68) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/). O objetivo deste protótipo é validar a interface e a experiência do usuário no acompanhamento das solicitações realizadas, garantindo que a solução atenda às necessidades dos pacientes e profissionais de saúde.
+Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF60 - A aplicação permite acompanhar o andamento de solicitações de medicamentos**](../elicitacao/requisitos-elicitados.md/#RF60) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/). O objetivo deste protótipo é validar a interface e a experiência do usuário no acompanhamento das solicitações realizadas, garantindo que a solução atenda às necessidades dos pacientes e profissionais de saúde.
 
 ## Metodologia
 
@@ -38,6 +38,22 @@ A **Figura 1** apresenta a interface desenvolvida para o acompanhamento do andam
 <center>
 
 ?
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+Já na **Figura 2**, é exibido o protótipo de alta fidelidade completo/geral desenvolvido no Figma, representando tanto os aspectos funcionais quanto o refinamento visual da interface. Tal protótipo contempla a união funcional dos protótipos [**Acompanhar Andamento de Solicitações de Medicamentos**](../validacao/prototipo-de-alta-fidelidade-rf60.md), [**Consultar Pedidos/Solicitações de Medicamentos**](../validacao/prototipo-de-alta-fidelidade-rf60.md), [**Realizar Pedidos/Solicitações de Medicamentos**](../validacao/prototipo-de-alta-fidelidade-rf60.md) e [**Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos**](../validacao/prototipo-de-alta-fidelidade-rf60.md), tratando, respectivamente, dos requisitos [RF60](../elicitacao/requisitos-elicitados.md/#RF60), [RF62](../elicitacao/requisitos-elicitados.md/#RF62), [RF67](../elicitacao/requisitos-elicitados.md/#RF67) e [RF68](../elicitacao/requisitos-elicitados.md/#RF68). O design passou por diversas iterações baseadas em feedbacks, garantindo melhorias contínuas e aprimorando a experiência do usuário.
+
+<div align="center">
+    <p><strong>Figura 2 – Protótipo de Alta Fidelidade completo/geral desenvolvido no Figma</strong></p>
+</div>
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/RKlmRKUJttdhsFiNM8j1AA/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
@@ -89,3 +105,4 @@ A validação foi conduzida em um ambiente controlado, onde os participantes nav
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o acompanhamento do andamento de solicitações de medicamentos pelo aplicativo Meu SUS Digital. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.1`  | Inserção do protótipo de alta fidelidade completo/geral desenvolvido no Figma. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
