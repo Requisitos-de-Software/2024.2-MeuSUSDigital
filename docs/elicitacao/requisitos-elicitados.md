@@ -114,15 +114,15 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF57"></a>RF57 | O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta. | [AD30](tecnicas/analise-de-documentos.md#requisitos-elicitados) | Sim |
 | <a id="RF58"></a>RF58 | A aplicação permite agendar exames | [EN03](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF59"></a>RF59 | A aplicação permite ao servidor solicitar licença saúde | [EN04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| <a id="RF60"></a>RF60 | A aplicação permite acompanhar o andamento de solicitações (licença, medicamentos) | [EN05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF60"></a>RF60 | A aplicação permite acompanhar o andamento de solicitações de medicamentos | [EN05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF61"></a>RF61 | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| <a id="RF62"></a>RF62 | A aplicação permite consultar pedidos de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF62"></a>RF62 | A aplicação permite consultar pedidos/solicitações de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF63"></a>RF63 | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF64"></a>RF64 | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF65"></a>RF65 | A aplicação permite consultar os resultados de exames | [EN10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF66"></a>RF66 | A aplicação notifica o cancelamento de agendamentos | [EN11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| <a id="RF67"></a>RF67 | A aplicação permite realizar pedidos de medicamento | [EN12](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| <a id="RF68"></a>RF68 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos de medicamento | [EN13](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF67"></a>RF67 | A aplicação permite realizar pedidos/solicitações de medicamento | [EN12](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF68"></a>RF68 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos/solicitações de medicamento | [EN13](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF69"></a>RF69 | O aplicativo mostra o histórico de vacinação pré-pandemia | [GF01](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF70"></a>RF70 | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | [GF03](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF71"></a>RF71 | O aplicativo permite consultar receitas médicas | [GF04](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
@@ -205,3 +205,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | `1.5`  | Inserção das âncoras nos tipos dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
 | `1.6`  | Correção da descrição referente ao requisito de tipo RF5 elicitado e inserção de novo requisito (de tipo RF75) elicitado. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
 | `1.7`  | Correção de conflito entre requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
+| `1.8`  | Atualização da descrição dos requisitos RF60, RF62, RF67 e RF68. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
