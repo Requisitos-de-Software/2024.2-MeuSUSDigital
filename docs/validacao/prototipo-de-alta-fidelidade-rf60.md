@@ -73,7 +73,7 @@ A pesquisa seguiu os princípios éticos estabelecidos para estudos envolvendo a
 
 ## Validação
 
-A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, a **Gravação 1** referente à validação do protótipo, disponibilizada como vídeo não listado no YouTube:\
+A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, a **Gravação 1** referente à validação do protótipo, disponibilizada como vídeo não listado no YouTube:
 
 <div align="center">
     <p><strong>Vídeo 1 – Validação do Protótipo "Acompanhar Andamento de Solicitações de Medicamentos"</strong></p>
