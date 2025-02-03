@@ -78,6 +78,11 @@ nav:
     - Backward From: pos-rastreabilidade/backward-from.md
     - Forward From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz-de-rastreabilidade.md
+  - Validação:
+    - Acompanhar Andamento de Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf60.md
+    - Consultar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf62.md
+    - Realizar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf67.md
+    - Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf68.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
@@ -86,12 +91,14 @@ nav:
       - Entrega 4: verificacao/lista_verif/entrega4.md
       - Entrega 6: verificacao/lista_verif/entrega6.md
     - Inspeções do Grupo 4:
+      - Panorama Geral: verificacao/grupo4/entrega1/panorama-geral.md
       - Entrega 1: verificacao/grupo4/entrega1/entrega1.md
       - Entrega 2: verificacao/grupo4/entrega1/entrega2.md
       - Entrega 3: verificacao/grupo4/entrega1/entrega3.md
       - Entrega 4: verificacao/grupo4/entrega1/entrega4.md
       - Entrega 6: verificacao/grupo4/entrega1/entrega6.md
     - Inspeções do Grupo 5:
+      - Panorama Geral: verificacao/grupo5/entrega1/panorama-geral.md
       - Entrega 1: verificacao/grupo5/entrega1/entrega1g5.md
       - Entrega 2: verificacao/grupo5/entrega1/entrega2g5.md
       - Entrega 3: verificacao/grupo5/entrega1/entrega3g5.md
