@@ -116,13 +116,13 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | <a id="RF59"></a>RF59 | A aplicação permite ao servidor solicitar licença saúde | [EN04](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF60"></a>RF60 | A aplicação permite acompanhar o andamento de solicitações de medicamentos | [EN05](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF61"></a>RF61 | A aplicação permite acompanhar a vacinação | [EN 06](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
-| <a id="RF62"></a>RF62 | A aplicação permite consultar pedidos/solicitações de medicamento | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF62"></a>RF62 | A aplicação permite consultar pedidos/solicitações de medicamentos | [EN 07](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF63"></a>RF63 | A aplicação permite consultar recebimentos de medicamento | [EN 08](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF64"></a>RF64 | A aplicação permite consultar os agendamentos de exames | [EN 09](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF65"></a>RF65 | A aplicação permite consultar os resultados de exames | [EN10](tecnicas/entrevista.md#requisitos-elicitados) | Sim |
 | <a id="RF66"></a>RF66 | A aplicação notifica o cancelamento de agendamentos | [EN11](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| <a id="RF67"></a>RF67 | A aplicação permite realizar pedidos/solicitações de medicamento | [EN12](tecnicas/entrevista.md#requisitos-elicitados) | Não |
-| <a id="RF68"></a>RF68 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos/solicitações de medicamento | [EN13](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF67"></a>RF67 | A aplicação permite realizar pedidos/solicitações de medicamentos | [EN12](tecnicas/entrevista.md#requisitos-elicitados) | Não |
+| <a id="RF68"></a>RF68 | A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos/solicitações de medicamentos | [EN13](tecnicas/entrevista.md#requisitos-elicitados) | Não |
 | <a id="RF69"></a>RF69 | O aplicativo mostra o histórico de vacinação pré-pandemia | [GF01](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF70"></a>RF70 | O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente | [GF03](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
 | <a id="RF71"></a>RF71 | O aplicativo permite consultar receitas médicas | [GF04](tecnicas/grupo-de-foco.md#requisitos-elicitados) | Não |
