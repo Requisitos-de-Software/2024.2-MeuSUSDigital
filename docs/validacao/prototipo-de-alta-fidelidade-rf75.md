@@ -1,6 +1,3 @@
-Segue o documento reescrito com base no requisito **RF75 - O aplicativo deve oferecer agendamento de consultas e exames**, mantendo a estrutura e estilo do exemplo fornecido:
-
----
 
 # Protótipo de Alta Fidelidade - Agendamento de Consultas e Exames
 
@@ -40,7 +37,7 @@ A **Figura 1** apresenta a interface desenvolvida para o agendamento de consulta
 
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/prototipo-de-alta-fidelidade-rf75.png?raw=true" width="200">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/q4EKDnwJa17HsRN1v6hezz/Untitled?node-id=23-29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 

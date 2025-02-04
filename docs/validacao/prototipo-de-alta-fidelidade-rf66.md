@@ -1,6 +1,3 @@
-Segue o documento reescrito com base no requisito **RF66 - A aplicação notifica o cancelamento de agendamentos**, mantendo a estrutura e estilo do exemplo fornecido:
-
----
 
 # Protótipo de Alta Fidelidade - Notificação de Cancelamento de Agendamentos
 
@@ -40,7 +37,7 @@ A **Figura 1** apresenta a interface desenvolvida para a notificação de cancel
 
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/prototipo-de-alta-fidelidade-rf66.png?raw=true" width="200">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/q4EKDnwJa17HsRN1v6hezz/Untitled?node-id=23-29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 

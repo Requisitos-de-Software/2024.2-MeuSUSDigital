@@ -1,6 +1,4 @@
-Claro! Vou reescrever o documento com base no requisito **RF58 - A aplicação permite agendar exames**, mantendo a estrutura e o estilo apresentados no exemplo original. Vamos lá:
 
----
 
 # Protótipo de Alta Fidelidade - Agendamento de Exames
 
@@ -40,7 +38,7 @@ A **Figura 1** apresenta a interface desenvolvida para o agendamento de exames. 
 
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/prototipo-de-alta-fidelidade-rf58.png?raw=true" width="200">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/q4EKDnwJa17HsRN1v6hezz/Untitled?node-id=23-29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
