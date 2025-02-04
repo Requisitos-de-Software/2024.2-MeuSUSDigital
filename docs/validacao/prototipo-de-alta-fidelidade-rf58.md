@@ -38,7 +38,7 @@ A **Figura 1** apresenta a interface desenvolvida para o agendamento de exames. 
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/q4EKDnwJa17HsRN1v6hezz/Untitled?node-id=23-29&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q4EKDnwJa17HsRN1v6hezz/Untitled?page-id=0%3A1&node-id=23-29&p=f&viewport=1576%2C453%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=23%3A29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
