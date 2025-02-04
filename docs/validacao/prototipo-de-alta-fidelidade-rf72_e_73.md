@@ -26,4 +26,4 @@ Este documento apresenta o protótipo de alta fidelidade relacionado ao requisit
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/02/2025 |  |  |
+| `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 |
