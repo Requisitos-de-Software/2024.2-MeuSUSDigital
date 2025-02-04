@@ -36,7 +36,7 @@ A **Figura 1** apresenta a interface desenvolvida para a aplicação de filtros 
 
 <center>
 
-?
+<img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/prototipo-de-alta-fidelidade-rf68.png?raw=true" width="400">
 
 </center>
 
@@ -72,7 +72,7 @@ A pesquisa seguiu os princípios éticos estabelecidos para estudos envolvendo a
 
 ## Validação
 
-A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, a **Gravação 1** referente à validação do protótipo, disponibilizada como vídeo não listado no YouTube:
+A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, o **Vídeo 1** referente à validação do protótipo, disponibilizada como não listado no YouTube:
 
 <div align="center">
     <p><strong>Vídeo 1 – Validação do Protótipo "Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos"</strong></p>
@@ -104,3 +104,4 @@ A validação foi conduzida de maneira remota, em um ambiente controlado, onde o
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre a aplicação de filtros de pesquisa no aplicativo Meu SUS Digital. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
 | `1.1`  | Inserção do vídeo da gravação da avaliação do protótipo de alta fidelidade completo/geral desenvolvido no Figma e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.2`  | Inserção da imagem do protótipo de alta fidelidade completo/geral desenvolvido no Figma, atualização dos resultados obtidos e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
