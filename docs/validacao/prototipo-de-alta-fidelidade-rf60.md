@@ -8,7 +8,7 @@ Este documento apresenta o protótipo de alta fidelidade relacionado ao requisit
 
 ## Metodologia
 
-Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requisitos baseadas na literatura, com ênfase em elicitação, modelagem e validação. O protótipo foi desenvolvido utilizando a ferramenta [Figma](https://www.figma.com) e submetido à avaliação de usuários reais por meio de entrevistas semiestruturadas. O cronograma da validação do protótipo está descrito na **Tabela 1**.
+Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requisitos baseadas na literatura, com ênfase em elicitação, modelagem e validação. O protótipo foi desenvolvido utilizando a ferramenta [Figma](https://www.figma.com) e submetido à avaliação de uma usuária real por meio de entrevista semiestruturada. O cronograma da validação do protótipo está descrito na **Tabela 1**.
 
 
 <div align="center">
@@ -19,7 +19,7 @@ Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requ
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Artur Ricardo](https://github.com/algorithmorphic) | ? | 19:00 | 19:30 | 03/02 | Microsoft Teams |
+| [Artur Ricardo](https://github.com/algorithmorphic) | Stefany Paraíso | 19:49 | 20:06 | 03/02 | Microsoft Teams |
 
 </center>
 
@@ -63,25 +63,25 @@ Já na **Figura 2**, é exibido o protótipo de alta fidelidade completo/geral d
 
 ## Aspectos Práticos
 
-A validação foi conduzida com usuários reais que interagem com o **Meu SUS Digital**. O processo buscou avaliar a clareza da interface, a facilidade de uso e a eficácia na transmissão das informações sobre o andamento dos pedidos.
+A validação foi conduzida com uma usuária real que interage com o **Meu SUS Digital**. O processo buscou avaliar a clareza da interface, a facilidade de uso e a eficácia na transmissão das informações sobre o andamento dos pedidos.
 
 Os participantes destacaram a importância de uma interface intuitiva, que permita verificar rapidamente o status da solicitação. Como aspectos positivos, foram apontados a organização da tela e o destaque simples para diferenciar os status. Como sugestões de melhoria, mencionaram a inclusão de notificações em tempo real para atualizações de status e a utilização de cores para diferenciar os status.
 
 ## Aspectos Éticos
 
-A pesquisa seguiu os princípios éticos estabelecidos para estudos envolvendo usuários. O consentimento de uso de imagem, voz e demais informações foi obtido em tempo real durante a videochamada pelo Microsoft Teams ou presencialmente.
+A pesquisa seguiu os princípios éticos estabelecidos para estudos envolvendo a usuária. O consentimento de uso de imagem, voz e demais informações foi obtido em tempo real durante a videochamada pelo [Microsoft Teams](https://teams.microsoft.com/).
 
 ## Validação
 
-A validação foi conduzida em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, a **Gravação 1** referente à validação do protótipo, disponibilizada como vídeo não listado no YouTube:
+A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, a **Gravação 1** referente à validação do protótipo, disponibilizada como vídeo não listado no YouTube:
 
 <div align="center">
-    <p><strong>Vídeo 1 – Validação do Protótipo "Acompanhar Andamento de Solicitações de Medicamentos</strong></p>
+    <p><strong>Vídeo 1 – Validação do Protótipo "Acompanhar Andamento de Solicitações de Medicamentos"</strong></p>
 </div>
 
 <center>
 
-?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgjqvpqEbUU?si=sdjkGJdgdM9Sjdt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -106,3 +106,5 @@ A validação foi conduzida em um ambiente controlado, onde os participantes nav
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o acompanhamento do andamento de solicitações de medicamentos pelo aplicativo Meu SUS Digital. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
 | `1.1`  | Inserção do protótipo de alta fidelidade completo/geral desenvolvido no Figma. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.2`  | Inserção do vídeo da gravação da avaliação do protótipo de alta fidelidade completo/geral desenvolvido no Figma e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+
