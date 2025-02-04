@@ -8,7 +8,7 @@ Este documento apresenta o protótipo de alta fidelidade relacionado ao requisit
 
 ## Protótipo dos requisitos RF72 e RF73
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/fQzhBjwlGi4LyHWTWiJibW/Meu-SUS-Digital?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/fQzhBjwlGi4LyHWTWiJibW/Meu-SUS-Digital?node-id=35-75&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=35%3A75&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
