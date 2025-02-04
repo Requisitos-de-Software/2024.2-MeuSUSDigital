@@ -11,11 +11,11 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
     <p><strong>Apresentação referente à Etapa 5</strong></p>
 </div>
 
-?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6ux0VPaA00?si=BsiM6nVTPDk3hyXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div align="center">
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
-</div>[Artur Ricardo](https://github.com/algorithmorphic)
+</div>
 
 </center>
 
