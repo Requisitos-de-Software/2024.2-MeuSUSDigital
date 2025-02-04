@@ -24,7 +24,7 @@
 
 ## Pauta
 
-- Planejamento da Etapa 7 ─ Verificação e Validação
+- Planejamento da Etapa 5 ─ Verificação e Validação
 
 ## Assuntos Tratados
 
@@ -48,17 +48,17 @@
 
 ## Gravação da Reunião
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JO3JBwG2Jhs?si=E079AKcgR5qSNgY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
 <div align="center">
     <p><strong>Reunião 08<em></em></strong></p>
-    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 29/01/2025 |  |  |
+|  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 29/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |
