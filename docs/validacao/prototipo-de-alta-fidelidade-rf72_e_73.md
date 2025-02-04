@@ -4,7 +4,7 @@
 
 Um protótipo de alta fidelidade é uma representação visual detalhada da interface de um sistema, proporcionando uma experiência próxima ao produto final. Ele inclui elementos gráficos refinados, interatividade e simulação de funcionalidades reais.
 
-Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF72**](../elicitacao/requisitos-elicitados.md/#RF72) e [**RF72**](../elicitacao/requisitos-elicitados.md/#RF73) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/).
+Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF72**](../elicitacao/requisitos-elicitados.md/#RF72) e [**RF73**](../elicitacao/requisitos-elicitados.md/#RF73) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/).
 
 ## Protótipo dos requisitos RF72 e RF73
 
