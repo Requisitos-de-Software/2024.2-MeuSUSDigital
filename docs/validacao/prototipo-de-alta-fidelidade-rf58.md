@@ -22,7 +22,7 @@ Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requ
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Emivalto Júnior](https://github.com/EmivaltoJrr) | Stefany Paraíso | 19:49 | 20:06 | 03/02 | Microsoft Teams |
+| [Emivalto Júnior](https://github.com/EmivaltoJrr) |  |  |  |  |  |
 
 </center>
 
