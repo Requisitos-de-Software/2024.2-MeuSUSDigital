@@ -104,8 +104,8 @@ A validação foi realizada por uma única usuária, que considerou a interface 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o acompanhamento do andamento de solicitações de medicamentos pelo aplicativo Meu SUS Digital. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
-| `1.1`  | Inserção do protótipo de alta fidelidade completo/geral desenvolvido no Figma. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
-| `1.2`  | Inserção do vídeo da gravação da avaliação do protótipo de alta fidelidade completo/geral desenvolvido no Figma e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
-| `1.3`  | Inserção da imagem do protótipo de alta fidelidade completo/geral desenvolvido no Figma, atualização dos resultados obtidos e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o acompanhamento do andamento de solicitações de medicamentos pelo aplicativo Meu SUS Digital. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025|
+| `1.1`  | Inserção do protótipo de alta fidelidade completo/geral desenvolvido no Figma. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025|
+| `1.2`  | Inserção do vídeo da gravação da avaliação do protótipo de alta fidelidade completo/geral desenvolvido no Figma e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025|
+| `1.3`  | Inserção da imagem do protótipo de alta fidelidade completo/geral desenvolvido no Figma, atualização dos resultados obtidos e correções de erros. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025 |
 
