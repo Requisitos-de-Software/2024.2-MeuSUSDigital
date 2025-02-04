@@ -81,12 +81,15 @@ nav:
     - Forward From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz-de-rastreabilidade.md
   - Validação:
+    - A aplicação permite agendar exames: validacao/prototipo-de-alta-fidelidade-rf58.md
     - Acompanhar Andamento de Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf60.md
     - Consultar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf62.md
+    - A aplicação notifica o cancelamento de agendamentos: validacao/prototipo-de-alta-fidelidade-rf66.md
     - Realizar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf67.md
     - Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf68.md
     - Consultar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf71.md
     - Exportar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf74.md
+    - O aplicativo deve oferece agendamento de consultas e exames: validacao/prototipo-de-alta-fidelidade-rf75.md
     - Notificar e Filtrar Conteúdo: validacao/prototipo-de-alta-fidelidade-rf72_e_73.md
   - Verificação:
     - Lista de Verificação:

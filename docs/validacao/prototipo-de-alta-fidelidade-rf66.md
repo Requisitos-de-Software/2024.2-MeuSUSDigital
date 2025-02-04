@@ -22,7 +22,7 @@ Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requ
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Artur Ricardo](https://github.com/algorithmorphic) | Stefany Paraíso | 19:49 | 20:06 | 03/02 | Microsoft Teams |
+| [Emivalto Júnior](https://github.com/EmivaltoJrr) |  |  |   |   |   |
 
 </center>
 
@@ -56,7 +56,7 @@ Já na **Figura 2**, é exibido o protótipo de alta fidelidade completo/geral d
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/RKlmRKUJttdhsFiNM8j1AA/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
 
 </center>
 
@@ -84,7 +84,7 @@ A validação foi conduzida de maneira remota, em um ambiente controlado, onde o
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TgjqvpqEbUU?si=sdjkGJdgdM9Sjdt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 </center>
 
