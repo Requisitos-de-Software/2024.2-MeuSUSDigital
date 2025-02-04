@@ -22,5 +22,5 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 ## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025|
 
