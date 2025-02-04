@@ -29,6 +29,7 @@ nav:
     - Apresentação 02: apresentacao/apresentacao02.md
     - Apresentação 03: apresentacao/apresentacao03.md
     - Apresentação 04: apresentacao/apresentacao04.md
+    - Apresentação 05: apresentacao/apresentacao05.md
     - Apresentação 06: apresentacao/apresentacao06.md
   - Atas:
     - Ata 01: atas/ata01.md
@@ -84,6 +85,8 @@ nav:
     - Consultar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf62.md
     - Realizar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf67.md
     - Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf68.md
+    - Consultar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf71.md
+    - Exportar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf74.md
     - Notificar e Filtrar Conteúdo: validacao/prototipo-de-alta-fidelidade-rf72_e_73.md
   - Verificação:
     - Lista de Verificação:
