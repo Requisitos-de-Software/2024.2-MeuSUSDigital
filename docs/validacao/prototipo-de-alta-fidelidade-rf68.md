@@ -90,7 +90,7 @@ A validação foi conduzida de maneira remota, em um ambiente controlado, onde o
 
 ## Resultados Obtidos
 
-?
+A validação foi realizada por uma única usuária, que considerou a interface clara e intuitiva. Ela destacou a facilidade em visualizar o status dos pedidos e sugeriu a inclusão de algumas mudanças significativa, como podemos identificar no **Vídeo 1**.
 
 ## 📚 Bibliografia
 
