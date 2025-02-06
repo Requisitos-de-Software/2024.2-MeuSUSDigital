@@ -225,7 +225,7 @@ Através de reuniões, o grupo decidiu adotar a metodologia de verificação por
 
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |

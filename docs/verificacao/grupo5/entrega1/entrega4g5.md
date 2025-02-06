@@ -300,7 +300,7 @@ A inspeção foi baseada na [lista de verificação da 4ª entrega](../../lista_
 
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
