@@ -1,5 +1,7 @@
 # Termos de uso
 
+
+
 ## Introdução
 
 Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os termos de uso do aplicativo "Meu SUS Digital", a fim de assegurar que tínhamos a permissão para realizar a análise. Após uma leitura atenta dos termos e, com a orientação do professor, decidimos utilizá-lo para fins de estudo. Abaixo, apresentamos as figuras de 1 a 12, que se referem aos termos de uso do aplicativo.
@@ -65,10 +67,14 @@ Para conduzir o projeto de forma ética e legal, o grupo decidiu revisar os term
     <p>Fonte: <a href="https://meususdigital.saude.gov.br/publico/perfil/termo-uso">Meu SUS Digital</a>. Acesso em: 02 nov. 2024.</p>
 </div>
 
+
+
 ## 📚 Bibliografia
 > BRASIL. Ministério da Saúde. Termo de uso. Meusus Digital. Disponível em: [https://meususdigital.saude.gov.br/publico/perfil/termo-uso](https://meususdigital.saude.gov.br/publico/perfil/termo-uso). Acesso em: 02 nov. 2024.</br>
 >
 > BRASIL. Ministério da Saúde. Política de privacidade. Meusus Digital. Disponível em: [https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade](https://meususdigital.saude.gov.br/publico/perfil/politica-privacidade). Acesso em: 02 nov. 2024.</br>
+
+
 
 ## 📑 Histórico de versões 
 
