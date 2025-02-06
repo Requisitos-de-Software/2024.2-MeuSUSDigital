@@ -1,16 +1,14 @@
-
-
 # Protótipo de Alta Fidelidade - Agendamento de Exames
 
 ## Introdução
 
-Um protótipo de alta fidelidade é uma representação visual detalhada da interface de um sistema, proporcionando uma experiência próxima ao produto final. Ele inclui elementos gráficos refinados, interatividade e simulação de funcionalidades reais, permitindo a avaliação da usabilidade e validação dos requisitos.
+Um protótipo de alta fidelidade é uma representação visual detalhada da interface de um sistema, simulando com precisão a experiência do produto final. Ele integra elementos gráficos refinados e funcionalidades interativas, permitindo uma avaliação completa da usabilidade e a validação dos requisitos. 
 
-Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF58 - A aplicação permite agendar exames**](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF58) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/). O objetivo deste protótipo é validar a interface e a experiência do usuário no processo de agendamento de exames, garantindo que a solução atenda às necessidades dos pacientes e profissionais de saúde.
+Este documento apresenta o protótipo de alta fidelidade desenvolvido para atender ao requisito [**RF58 - A aplicação permite agendar exames**](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF58) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/). O objetivo principal é validar a interface e a experiência do usuário no processo de agendamento de exames, garantindo que a solução proposta atenda às necessidades dos pacientes e profissionais de saúde de forma prática, intuitiva e eficiente.
 
 ## Metodologia
 
-Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requisitos baseadas na literatura, com ênfase em elicitação, modelagem e validação. O protótipo foi desenvolvido utilizando a ferramenta [Figma](https://www.figma.com) e submetido à avaliação de uma usuária real por meio de entrevista semiestruturada. O cronograma da validação do protótipo está descrito na **Tabela 1**.
+O desenvolvimento e validação do protótipo seguiram as diretrizes da Engenharia de Requisitos, com foco em elicitação, modelagem e validação de soluções. A ferramenta [Figma](https://www.figma.com) foi utilizada para a criação do protótipo, que foi submetido à avaliação de uma usuária real por meio de uma entrevista semiestruturada. O cronograma detalhado da validação encontra-se na **Tabela 1**.
 
 <div align="center">
     <p><strong>Tabela 1 – Cronograma de validação do protótipo</strong></p>
@@ -20,7 +18,7 @@ Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requ
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Emivalto Júnior](https://github.com/EmivaltoJrr) |  |  |  |  |  |
+| [Emivalto Júnior](https://github.com/EmivaltoJrr) |  |  |   |   |   |
 
 </center>
 
@@ -30,7 +28,14 @@ Para validar este protótipo, foram seguidas as diretrizes de Engenharia de Requ
 
 ## Protótipo de Alta Fidelidade
 
-A **Figura 1** apresenta a interface desenvolvida para o agendamento de exames. O protótipo permite que o usuário selecione o exame desejado, escolha a data e o horário disponíveis e confirme o agendamento. Além disso, oferece informações sobre a unidade de saúde onde o exame será realizado.
+A **Figura 1** apresenta a interface desenvolvida para o agendamento de exames. O protótipo permite que os usuários realizem as seguintes ações:
+
+- Selecionar o exame desejado a partir de uma lista de opções;
+- Escolher a data e o horário disponíveis para o exame;
+- Confirmar o agendamento diretamente pela interface;
+- Visualizar informações detalhadas sobre a unidade de saúde onde o exame será realizado.
+
+Além disso, o design prioriza a clareza das informações e a organização visual, facilitando a navegação e garantindo um processo de agendamento eficiente.
 
 <div align="center">
     <p><strong>Figura 1 – Protótipo de "Agendamento de Exames"</strong></p>
@@ -46,7 +51,7 @@ A **Figura 1** apresenta a interface desenvolvida para o agendamento de exames. 
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
-Já na **Figura 2**, é exibido o protótipo de alta fidelidade completo/geral desenvolvido no Figma, representando tanto os aspectos funcionais quanto o refinamento visual da interface. Tal protótipo contempla a união funcional dos protótipos [**Agendamento de Exames**](../validacao/prototipo-de-alta-fidelidade-rf58.md), [**Consulta de Exames Agendados**](../validacao/prototipo-de-alta-fidelidade-rf58.md) e [**Cancelamento de Exames Agendados**](../validacao/prototipo-de-alta-fidelidade-rf58.md), tratando, respectivamente, dos requisitos [RF58](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF58), [RF59](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF59) e [RF60](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF60). O design passou por diversas iterações baseadas em feedbacks, garantindo melhorias contínuas e aprimorando a experiência do usuário.
+Na **Figura 2**, é exibido o protótipo completo/geral desenvolvido no Figma, que abrange não apenas o agendamento de exames, mas também funcionalidades relacionadas, como consulta e cancelamento de exames agendados. Este protótipo atende aos requisitos [**RF58**](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF58), [**RF59**](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF59) e [**RF60**](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/#RF60). O design passou por iterações baseadas em feedbacks coletados durante a validação, garantindo melhorias contínuas e aprimorando a experiência do usuário.
 
 <div align="center">
     <p><strong>Figura 2 – Protótipo de Alta Fidelidade completo/geral desenvolvido no Figma</strong></p>
@@ -64,17 +69,27 @@ Já na **Figura 2**, é exibido o protótipo de alta fidelidade completo/geral d
 
 ## Aspectos Práticos
 
-A validação foi conduzida com uma usuária real que interage com o **Meu SUS Digital**. O processo buscou avaliar a clareza da interface, a facilidade de uso e a eficácia no processo de agendamento de exames.
+A validação foi conduzida com uma usuária real que interage com o **Meu SUS Digital**. Durante o processo, foram avaliados aspectos como clareza da interface, facilidade de uso e eficácia no processo de agendamento de exames. 
 
-Os participantes destacaram a importância de uma interface intuitiva, que permita realizar o agendamento com poucos cliques. Como aspectos positivos, foram apontados a organização da tela e a clareza das informações sobre datas e horários disponíveis. Como sugestões de melhoria, mencionaram a inclusão de notificações para lembrar os usuários sobre os exames agendados e a possibilidade de alterar o agendamento diretamente pela interface.
+### Feedbacks coletados:
+- **Aspectos positivos**:
+  - Organização clara das informações na tela;
+  - Processo de agendamento rápido e intuitivo, com poucos cliques necessários;
+  - Informações detalhadas sobre datas, horários e unidades de saúde.
+
+- **Sugestões de melhoria**:
+  - Implementação de notificações automáticas para lembrar os usuários sobre exames agendados;
+  - Inclusão de uma opção para alteração de agendamentos diretamente pela interface.
+
+Essas sugestões serão consideradas para futuras iterações do protótipo, garantindo a evolução contínua da solução.
 
 ## Aspectos Éticos
 
-A pesquisa seguiu os princípios éticos estabelecidos para estudos envolvendo a usuária. O consentimento de uso de imagem, voz e demais informações foi obtido em tempo real durante a videochamada pelo [Microsoft Teams](https://teams.microsoft.com/).
+A pesquisa foi conduzida seguindo os princípios éticos estabelecidos para estudos envolvendo seres humanos. O consentimento da participante foi obtido de forma explícita e documentado durante a videochamada realizada via [Microsoft Teams](https://teams.microsoft.com/). Foram garantidos o anonimato e a privacidade das informações fornecidas.
 
 ## Validação
 
-A validação foi conduzida de maneira remota, em um ambiente controlado, onde os participantes navegaram pelo protótipo e forneceram feedback qualitativo. Segue, abaixo, o **Vídeo 1** referente à validação do protótipo, disponibilizada como não listado no YouTube:
+A validação foi realizada de maneira remota, em um ambiente controlado. A usuária navegou pelo protótipo e forneceu feedback qualitativo sobre sua experiência. O **Vídeo 1**, disponibilizado como não listado no YouTube, apresenta o processo de validação e as interações realizadas pela participante.
 
 <div align="center">
     <p><strong>Vídeo 1 – Validação do Protótipo "Agendamento de Exames"</strong></p>
@@ -92,7 +107,7 @@ A validação foi conduzida de maneira remota, em um ambiente controlado, onde o
 
 ## Resultados Obtidos
 
-A validação foi realizada por uma única usuária, que considerou a interface clara e intuitiva. Ela destacou a facilidade em realizar o agendamento e sugeriu a inclusão de algumas mudanças significativas, como podemos identificar no **Vídeo 1**.
+A validação destacou que a interface atende às necessidades de usabilidade, sendo considerada clara e funcional pela usuária. O processo de agendamento foi avaliado como eficiente, e as sugestões de melhoria apresentadas reforçam o potencial de evolução da solução.
 
 ## 📚 Bibliografia
 
@@ -105,3 +120,4 @@ A validação foi realizada por uma única usuária, que considerou a interface 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
+
