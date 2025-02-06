@@ -29,7 +29,6 @@ nav:
     - Apresentação 02: apresentacao/apresentacao02.md
     - Apresentação 03: apresentacao/apresentacao03.md
     - Apresentação 04: apresentacao/apresentacao04.md
-    - Apresentação 05: apresentacao/apresentacao05.md
     - Apresentação 06: apresentacao/apresentacao06.md
   - Atas:
     - Ata 01: atas/ata01.md
@@ -39,7 +38,6 @@ nav:
     - Ata 05: atas/ata05.md
     - Ata 06: atas/ata06.md
     - Ata 07: atas/ata07.md
-    - Ata 08: atas/ata08.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Planejamento:
@@ -81,23 +79,16 @@ nav:
     - Forward From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz-de-rastreabilidade.md
   - Validação:
-    - A aplicação permite agendar exames: validacao/prototipo-de-alta-fidelidade-rf58.md
     - Acompanhar Andamento de Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf60.md
     - Consultar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf62.md
-    - A aplicação notifica o cancelamento de agendamentos: validacao/prototipo-de-alta-fidelidade-rf66.md
     - Realizar Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf67.md
     - Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos: validacao/prototipo-de-alta-fidelidade-rf68.md
-    - Consultar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf71.md
-    - Exportar Receitas Médicas: validacao/prototipo-de-alta-fidelidade-rf74.md
-    - O aplicativo deve oferece agendamento de consultas e exames: validacao/prototipo-de-alta-fidelidade-rf75.md
-    - Notificar e Filtrar Conteúdo: validacao/prototipo-de-alta-fidelidade-rf72_e_73.md
   - Verificação:
     - Lista de Verificação:
       - Entrega 1: verificacao/lista_verif/entrega1.md
       - Entrega 2: verificacao/lista_verif/entrega2.md
       - Entrega 3: verificacao/lista_verif/entrega3.md
       - Entrega 4: verificacao/lista_verif/entrega4.md
-      - Entrega 5: verificacao/lista_verif/entrega5.md
       - Entrega 6: verificacao/lista_verif/entrega6.md
     - Inspeções do Grupo 4:
       - Panorama Geral: verificacao/grupo4/entrega1/panorama-geral.md
@@ -113,3 +104,11 @@ nav:
       - Entrega 3: verificacao/grupo5/entrega1/entrega3g5.md
       - Entrega 4: verificacao/grupo5/entrega1/entrega4g5.md
       - Entrega 6: verificacao/grupo5/entrega1/entrega6g5.md
+    - Entrega Final:
+      - Execução do Projeto: entrega-final/execucao-do-projeto.md
+      - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
+      - Artefatos Produzidos: entrega-final/artefatos-produzidos.md
+      - Métodos de Verificação e Validação: entrega-final/metodos-utilizados.md
+      - Vídeos das Apresentações: entrega-final/videos-apresentacoes.md
+      - Resultados Alcançados: entrega-final/resultados-alcancados.md
+      - Facilidades e Dificuldades: entrega-final/facilidades-e-dificuldades.md
