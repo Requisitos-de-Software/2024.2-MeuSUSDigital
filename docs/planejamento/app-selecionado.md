@@ -39,7 +39,21 @@ Esse processo metódico demonstra o compromisso da equipe com a qualidade e a ef
   
 ## Aplicativo escolhido 
 
-Seguindo os critérios definidos e as diretrizes do professor para avaliação, o grupo decidiu selecionar o aplicativo "Meu SUS Digital" como objeto de estudo durante o curso. Dentre os critérios analisados, o que foi determinante para a escolha deste aplicativo foi por se tratar de um aplicativo governamental, assegurando assim a conformidade com os termos de uso estabelecidos.
+Seguindo os critérios definidos e as diretrizes do professor para avaliação, o grupo decidiu selecionar o aplicativo "Meu SUS Digital", apresentado na **Figura 1**, como objeto de estudo durante o curso. Dentre os critérios analisados, o que foi determinante para a escolha deste aplicativo foi por se tratar de um aplicativo governamental, assegurando assim a conformidade com os termos de uso estabelecidos.
+
+<div align="center">
+    <p><strong>Figura 1 – Logo do aplicativo Meu SUS Digital</strong></p>
+</div>
+
+<center>
+
+![Logo Meu SUS Digital](../imagens/meu-sus-digital-logo.png)
+
+</center>
+
+<div align="center">
+   <p>Fonte: <a href="https://meususdigital.saude.gov.br">Meu SUS Digital</a>.</p>
+</div>
 
 
 
@@ -94,4 +108,5 @@ O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/11/2024| [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/11/2024 |
+| `1.0`  | Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/11/2024 |
+| `1.1`  | Adição da Figura 1 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 06/02/2025 |  |  |
