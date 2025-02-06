@@ -10,7 +10,18 @@
 
 **Redator**: Pedro Lopes
 
-**Presentes**: Artur Ricardo, Emivalto Júnior, Matheus Henrick e Pedro Lopes
+**Presentes**: 
+
+☑ Artur Ricardo
+
+☑ Emivalto
+
+☑ Matheus Henrick
+
+☑ Pedro Lopes
+
+☐ João Pedro Veras
+
 
 ## Pauta
 
@@ -53,4 +64,5 @@
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0` | Criação do documento | [Pedro Lopes](https://github.com/pLopess) | 15/11/2024 | [Emivalto](https://github.com/EmivaltoJrr)  | 23/11/2024 |
 |  `1.1` | Correções e Adições | [Emivalto](https://github.com/EmivaltoJrr)  | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
+|  `1.2`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |   |
 

@@ -13,7 +13,7 @@ O objetivo deste documento é relatar os resultados da autoavaliação da 1ª et
 A inspeção foi baseada na [lista de verificação da 1ª entrega](../../lista_verif/entrega1.md) produzida com a ajuda do professor e dos integrantes do grupo.
 
 Para melhor organização, a Lista de Verificação é dividida em partes, correspondentes às tabelas que se seguem. Essa Lista de Verificação poderá ser aprimorada durante o desenvolvimento do projeto.
-
+<center>
 ### Tabela 1 ─ Resultado da Inspeção do Planejamento Geral do Projeto
 
 | N° | Resposta | Observação | Versão do Artefato | Data | Horário |
@@ -26,9 +26,11 @@ Para melhor organização, a Lista de Verificação é dividida em partes, corre
 | 06 | Sim |  | `1.1` | 06/11/2024 | 19:00 |
 | 07 | Sim |  | `1.1` | 06/11/2024 | 19:00 |
 
-<center>
+Autores: [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)
 
-Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
+</center>
+
+
 
 <center>
 
@@ -46,9 +48,11 @@ Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigita
 | 08 | Sim |  | `1.0` | 06/11/2024 | 19:00 |
 | 09 | Sim |  | `1.0` | 06/11/2024 | 19:00 |
 
-<center>
+Autores: [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)
 
-Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
+</center>
+
+
 
 <center>
 
@@ -64,15 +68,19 @@ Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigita
 | 06 | Sim |  | `1.0` | 06/11/2024 | 19:00 |
 | 07 | Sim |  | `1.0` | 06/11/2024 | 19:00 |
 
-<center>
 
-Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/tree/main#-equipe)
+Autores: [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)
+
+</center>
+
 
 <center>
 
 ## Gravação da Inspeção do Grupo 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZSyIVl7qtc" frameborder="0" allowfullscreen></iframe>
+
+</center>
 
 ## 📚 Referências Bibliográficas
 
@@ -85,3 +93,4 @@ Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigita
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 06/11/2024 |
 |  `1.1`  | Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
 |  `1.2`  | Organização das tabelas e algumas correções | [João Pedro](https://github.com/JoosPerro) | 18/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 19/11/2024 |
+|  `1.3`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |   |

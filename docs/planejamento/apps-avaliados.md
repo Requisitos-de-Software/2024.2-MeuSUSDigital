@@ -6,6 +6,10 @@
 
 Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicativo que tivesse potencial para ser analisado. O propósito dessa etapa foi selecionar um aplicativo que serviria como o foco principal de estudo para a disciplina de Requisitos de Software. A **Tabela 1** a seguir mostra os aplicativos considerados, acompanhados do nome do integrante/avaliador responsável por cada análise/avaliação.
 
+<div align="center">
+    <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
+
+</div>
 
 
 <div align="center">
@@ -42,7 +46,6 @@ Para iniciar o projeto, cada membro do grupo escolheu individualmente um aplicat
 </div>
 
 <div align="center">
-    <p><strong>Tabela 1 – Aplicativos Avaliados</strong></p>
     <p>Autores: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 
 </div>
@@ -63,8 +66,11 @@ O [Meu SUS Digital](https://meususdigital.saude.gov.br/) é um aplicativo govern
 Abaixo, podemos identificar a **Figura 1** contendo tanto o *Rich Picture* do aplicativo Meu SUS Digital quanto sua legenda.
 
 <div align="center">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+</div>
+
+<div align="center">
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 ---
@@ -86,8 +92,12 @@ A [Steam](https://store.steampowered.com/) é uma plataforma de distribuição d
 Abaixo, podemos identificar a **Figura 2** contendo tanto o *Rich Picture* da Steam quanto sua legenda.
 
 <div align="center">
-    <img src="link">
     <p><strong>Figura 2 – <em>Rich Picture</em> da Steam</strong></p>
+
+</div>
+
+<div align="center">
+    <img src="link">
     <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
 </div>
 
@@ -107,8 +117,11 @@ O [Baratão Combustíveis](https://barataocombustiveis.com.br/) é um aplicativo
 Abaixo, podemos identificar a **Figura 3** contendo tanto o *Rich Picture* do Baratão Combustíveis quanto sua legenda.
 
 <div align="center">
-    <img src="link">
     <p><strong>Figura 3 – <em>Rich Picture</em> do Baratão Combustíveis</strong></p>
+</div>
+
+<div align="center">
+    <img src="link">
     <p>Autor: <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
 </div>
 
@@ -132,9 +145,13 @@ O [Office 365](https://www.office.com/) é uma plataforma da [Microsoft](https:/
 Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Officer 365 quanto sua legenda.
 
 <div align="center">
+    <p><strong>Figura 4 – <em>Rich Picture</em> do Oficer 365</strong></p>
+</div>
+
+
+<div align="center">
     <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/officer%20365.png">
     <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/legenda-rich-picture-Officer-365.jpg">
-    <p><strong>Figura 4 – <em>Rich Picture</em> do Oficer 365</strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
 </div>
 
@@ -155,8 +172,11 @@ O [Correios](https://www.correios.com.br/app-dos-correios) é um aplicativo ofic
 Abaixo, podemos identificar a **Figura 5** contendo tanto o *Rich Picture* do Correios quanto sua legenda.
 
 <div align="center">
-    <img src="link">
     <p><strong>Figura 5 – <em>Rich Picture</em> do Correios</strong></p>
+</div>
+
+<div align="center">
+    <img src="link">
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
@@ -186,5 +206,6 @@ Abaixo, podemos identificar a **Figura 5** contendo tanto o *Rich Picture* do Co
 | `1.2`  | Atualização do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/10/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 |
 | `1.3`  | Inserção e padronização de avaliações, correção de erros e adição das Referências Bibliográficas. | [Artur Ricardo](https://github.com/algorithmorphic) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.3`  | Inserção e padronização dos Rich Picture, correção de erros. | [Emivalto Junio](https://github.com/EmivaltoJrr) | 30/11/2024 |  |  |
+| `1.4`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |   |
 
 
