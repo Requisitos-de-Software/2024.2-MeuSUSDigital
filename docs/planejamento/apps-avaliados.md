@@ -132,7 +132,8 @@ O [Office 365](https://www.office.com/) é uma plataforma da [Microsoft](https:/
 Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Officer 365 quanto sua legenda.
 
 <div align="center">
-    <img src="link">
+    <img src="../imagens/officer 365.png">
+    <img src="../imagens/legenda-rich-picture-Officer-365.jpg">
     <p><strong>Figura 4 – <em>Rich Picture</em> do Oficer 365</strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
 </div>
