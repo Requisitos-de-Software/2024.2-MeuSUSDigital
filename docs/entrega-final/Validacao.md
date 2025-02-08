@@ -86,6 +86,11 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 
 ## 📚 Bibliografia
 
+> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+> Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
+
+> GUILHERME SANTA ROSA, José. Avaliação E Projeto No Design De Interfaces. [S. l.: s. n.], 2010.
 
 
 
