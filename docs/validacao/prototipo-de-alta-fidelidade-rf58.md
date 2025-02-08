@@ -18,7 +18,7 @@ O desenvolvimento e validação do protótipo seguiram as diretrizes da Engenhar
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Emivalto Júnior](https://github.com/EmivaltoJrr) |  |  |   |   |   |
+| [Emivalto Júnior](https://github.com/EmivaltoJrr) | Vitoria | 21:24 | 21:30  | 07/02/2025  | Gravado Presenvial  |
 
 </center>
 
@@ -43,7 +43,7 @@ Além disso, o design prioriza a clareza das informações e a organização vis
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q4EKDnwJa17HsRN1v6hezz/Untitled?page-id=0%3A1&node-id=23-29&p=f&viewport=1576%2C453%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=23%3A29&embed-host=share" allowfullscreen></iframe>
+<img src="../imagens/tela_agendamento_exame.png" width="900">
 
 </center>
 
@@ -59,7 +59,7 @@ Na **Figura 2**, é exibido o protótipo completo/geral desenvolvido no Figma, q
 
 <center>
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q4EKDnwJa17HsRN1v6hezz/Untitled?page-id=0%3A1&node-id=23-29&p=f&viewport=1576%2C453%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=23%3A29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
@@ -97,7 +97,7 @@ A validação foi realizada de maneira remota, em um ambiente controlado. A usu�
 
 <center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAkyfwza30c?si=NbFooCFRyKeEugDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -120,4 +120,5 @@ A validação destacou que a interface atende às necessidades de usabilidade, s
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
+| `1.1`  | ajustando o texto e imagens, para melhor alinhamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
 

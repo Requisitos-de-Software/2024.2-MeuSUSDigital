@@ -18,7 +18,7 @@ Para a validação deste protótipo, foram seguidas as diretrizes da Engenharia 
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Ambiente/Local | 
 | --------- | ------------ | :---------------: | :----------------: | :--: | -------------- |
-| [Emivalto Júnior](https://github.com/EmivaltoJrr) | Usuária Real | 14:00 | 15:00 | 05/02/2025 | Remoto (Microsoft Teams) |
+| [Emivalto Júnior](https://github.com/EmivaltoJrr) | Vitoria | 21:24 | 21:30  | 07/02/2025  | Gravado Presenvial  |
 
 </center>
 
@@ -36,7 +36,7 @@ A **Figura 1** apresenta a interface desenvolvida para a notificação de cancel
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q4EKDnwJa17HsRN1v6hezz/Untitled?page-id=0%3A1&node-id=23-29&p=f&viewport=1576%2C453%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=23%3A29&embed-host=share" allowfullscreen></iframe>
+<img src="../imagens/notificacao_de_cancelamento.png" width="900">
 
 </center>
 
@@ -52,7 +52,7 @@ Já a **Figura 2** apresenta um panorama geral do protótipo de alta fidelidade 
 
 <center>
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/q4EKDnwJa17HsRN1v6hezz/Untitled?page-id=0%3A1&node-id=23-29&p=f&viewport=1576%2C453%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=23%3A29&embed-host=share" allowfullscreen></iframe>
 
 </center>
 
@@ -80,7 +80,7 @@ A validação foi conduzida de maneira remota, em um ambiente controlado, no qua
 
 <center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAkyfwza30c?si=NbFooCFRyKeEugDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -104,3 +104,4 @@ A validação foi realizada com uma usuária real, que considerou a interface cl
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
 | `1.1`  | Revisão e melhoria do documento para adequação ao requisito RF66, incluindo ajustes textuais e maior clareza na descrição do protótipo e validação. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |  |
+| `1.2`  | ajustando o texto e imagens, para melhor alinhamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
