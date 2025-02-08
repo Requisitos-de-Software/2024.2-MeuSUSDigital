@@ -195,4 +195,4 @@ Através deste [link](https://www.youtube.com/watch?v=lyMJnsWt9oI), você será 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 20/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 | `1.1`  | Adição dos requisitos (funcionais e não funcionais) elicitados através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
-| `1.2`  | Adição de âncoras para os IDs e de um novo requisito elicitado (OBS45) através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
+| `1.2`  | Adição de âncoras para os IDs e de um novo requisito elicitado (OBS45) através da técnica de observação (etnografia). | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025 |

@@ -150,8 +150,8 @@ Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Of
 
 
 <div align="center">
-    <img src="../planejamento/imagens/officer-365.png">
-    <img src="../planejamento/imagens/legenda_rich_picture_Officer_365.jpg">
+    <img src="../imagens/rich-picture-Officer-365.png">
+    <img src="../imagens/legenda_rich_picture_Officer_365.jpg">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
 </div>
 
@@ -176,7 +176,7 @@ Abaixo, podemos identificar a **Figura 5** contendo tanto o *Rich Picture* do Co
 </div>
 
 <div align="center">
-    <img src="link">
+    <img src="../imagens/">
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
