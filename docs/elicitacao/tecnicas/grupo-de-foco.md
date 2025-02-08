@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O grupo de foco é uma técnica de elicitação que, diferente da entrevista, envolve múltiplas pessoas por sessão. Segundo Barbosa e Silva (2021), a técnica possui, geralmente, entre 3 e 10 pessoas, e tem a vantagem de explorar aspectos da interação social, onde a opinião de diversos usuários se encontram. A sessão conduzida e relatada por esse documento utilizou as perguntas do [roteiro de entrevista](entrevista.md) e do [questionário](../analise-perfil-usuario/questionario.md)
+O grupo de foco é uma técnica de elicitação que, diferente da entrevista, envolve múltiplas pessoas por sessão. Segundo <a href="#REF1">(BARBOSA e SILVA, 2021)</a>, a técnica possui, geralmente, entre 3 e 10 pessoas, e tem a vantagem de explorar aspectos da interação social, onde a opinião de diversos usuários se encontram. A sessão conduzida e relatada por esse documento utilizou as perguntas do [roteiro de entrevista](entrevista.md) e do [questionário](../analise-perfil-usuario/questionario.md)
 
 Com o fim de controlar de forma proveitosa as interações dos participantes, o papel de mediador é importante para levantar tópicos ou perguntas que motivem a conversa e a exposição de opiniões e experiências. Além disso, ele também deve incentivar a partcipação equilibrada de cada pessoa do grupo. É importante observar os consensos e diferenças entre os envolvidos, pois eles podem evidenciar diferentes perfis de usuário, suas variadas experiências e papéis no uso do sistema estudado ou projetado.
 
@@ -47,9 +47,7 @@ A partir da sessão de grupo de foco, requisitos foram elicitados e documentados
 
 ## 📚 Referência Bibliográfica
 
-> BARBOSA, Simone *et al*. **Interação humano-computador e experiência do
-usuário**. 1ª Edição. Rio de Janeiro : Simone Diniz Junqueira
-Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
+> <a id="REF1"></a>BARBOSA, Simone *et al*. **Interação humano-computador e experiência do usuário**. 1ª Edição. Rio de Janeiro : Simone Diniz Junqueira Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
 
 ## 📑 Histórico de Versões
 
@@ -57,4 +55,4 @@ Barbosa. 2021. p. 152. ISBN: 978-65-00-19677-1.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
 |  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
-| `1.2`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   |  |  |
+| `1.2`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   | [João Pedro](https://github.com/JoosPerro) | 07/02/2024 |

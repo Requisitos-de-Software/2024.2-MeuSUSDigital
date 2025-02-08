@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A técnica de entrevista é uma das formas de obtenção de dados e requisitos que envolvem a participação de um entrevistado, um indivíduo que utiliza ou poderá utilizar o sistema que está sendo estudado. Segundo Barbosa, a entrevista é uma conversa guiada por um roteiro (Barbosa, 2021). Esse roteiro é composto por tópicos ou perguntas motivadoras para a coleta de dados.
+A técnica de entrevista é uma das formas de obtenção de dados e requisitos que envolvem a participação de um entrevistado, um indivíduo que utiliza ou poderá utilizar o sistema que está sendo estudado. A entrevista é uma conversa guiada por um roteiro <a href="#REF1">(BARBOSA, 2021)</a>. Esse roteiro é composto por tópicos ou perguntas motivadoras para a coleta de dados.
 
 A entrevista conduzida e relatada neste documento foi conduzida por um roteiro de perguntas abertas, com caráter exploratório, objetivando obter conhecimento sobre o domínio da aplicação Meu SUS Digital. A entrevista também foi conduzida de maneira semiestruturada, ou seja, as perguntas não foram feitas necessariamente em ordem e o entrevistador teve a liberdade de fazer perguntas adicionais, a fim de se aprofundar em algum tópico que julgasse importante um conhecimento mais aprofundado.
 
@@ -51,19 +51,17 @@ A segunda entrevista, diferente da primeira, considerou uma pequena interação 
 </div>
 
 <div align="center">
-    <p><strong>Vídeo 1 ─ Gravação da Entrevista</strong></p>
+    <p><strong>Vídeo 1 ─ Gravação da Entrevista com Damácio</strong></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCqsTKHLMBQ?si=b3hYLv9Tk_VGs_5k" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Entrevista com Damácio<em></em></strong></p>
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
 <div align="center">
-    <p><strong>Vídeo 2 ─ Gravação da Entrevista</strong></p>
+    <p><strong>Vídeo 2 ─ Gravação da Entrevista com Veridiana</strong></p>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaoBLobf0Bo?si=dDnX4-giqXhwFk96" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Entrevista com Veridiana<em></em></strong></p>
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
@@ -105,11 +103,7 @@ A partir da revisão da entrevista, requisitos foram elicitados e documentados. 
 
 ## 📚 Referência Bibliográfica
 
-> BARBOSA, Simone *et al*. **Interação humano-computador e experiência do
-usuário**. 1ª Edição. Rio de Janeiro : Simone Diniz Junqueira
-Barbosa. 2021. ISBN: 978-65-00-19677-1.
-
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
+> <a id="REF1"></a>BARBOSA, Simone *et al*. **Interação humano-computador e experiência do usuário**. 1ª Edição. Rio de Janeiro : Simone Diniz Junqueira Barbosa. 2021. p.144-148. ISBN: 978-65-00-19677-1.
 
 ## 📑 Histórico de Versões
 
@@ -118,4 +112,4 @@ Barbosa. 2021. ISBN: 978-65-00-19677-1.
 | `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024 |
 | `1.1`  | Listagem de Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr)  | 2/11/2024|
 | `1.2`  | Adição da segunda entrevista | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   |[Emivalto Júnior](https://github.com/EmivaltoJrr)  | 24/11/2024 |
-| `1.3`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   |  |  |
+| `1.3`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   | [João Pedro](https://github.com/JoosPerro) | 07/02/2025 |
