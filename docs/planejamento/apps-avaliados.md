@@ -150,8 +150,8 @@ Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Of
 
 
 <div align="center">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/officer-365.png">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/legenda-rich-picture-Officer-365.jpg">
+    <img src="../planejamento/imagens/officer-365.png">
+    <img src="../planejamento/imagens/legenda_rich_picture_Officer_365.jpg">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
 </div>
 
