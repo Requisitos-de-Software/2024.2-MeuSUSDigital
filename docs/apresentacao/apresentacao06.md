@@ -1,4 +1,4 @@
-# Apresentação 6 - 19/01/2024
+# <a id="Apresentação 6"></a>Apresentação 6 - 19/01/2024
 
 ## Introdução 
 Esta página tem como objetivo documentar a gravação de apresentação referente à entrega da Etapa 6 para fins de manter tudo gravado e, também, para revisões futuras no decorrer do projeto, caso seja necessário.
@@ -27,4 +27,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |
-
+|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |

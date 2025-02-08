@@ -1,4 +1,4 @@
-# Apresentação 4 - 17/12/2024
+# <a id="Apresentação 4"></a>Apresentação 4 - 17/12/2024
 
 ## Introdução 
 Esta página tem como objetivo documentar a gravação de apresentação referente à entrega da Etapa 4 para fins de manter tudo gravado e, também, para revisões futuras no decorrer do projeto, caso seja necessário.
@@ -28,3 +28,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |
 | `1.1`  | Disponibilização do vídeo da apresentação referente à Etapa 4.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |
+|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |

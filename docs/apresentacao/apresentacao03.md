@@ -1,4 +1,4 @@
-# Apresentação 3 - 08/12/2024
+# <a id="Apresentação 3"></a>Apresentação 3 - 08/12/2024
 
 ## Introdução 
 Essa página tem como objetivo documentar a gravação de apresentação  referente a entrega 3 para fins de manter tudo gravado e para revisões futuras se nescesário no decorrer do projeto.
@@ -24,3 +24,4 @@ Essa página tem como objetivo documentar a gravação de apresentação  refere
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento  | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024  |  ???????????? | 08/12/2024 |
 |  `1.1`  | adição da Gravação | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024  | ??????????????? | 08/12/2024 |
+|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |

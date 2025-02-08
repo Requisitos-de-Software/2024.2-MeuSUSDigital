@@ -1,4 +1,4 @@
-# Apresentação 5 - 03/02/2025
+# <a id="Apresentação 5"></a>Apresentação 5 - 03/02/2025
 
 ## Introdução 
 Esta página tem como objetivo documentar a gravação de apresentação referente à entrega da Etapa 6 para fins de manter tudo gravado e, também, para revisões futuras no decorrer do projeto, caso seja necessário.
@@ -23,4 +23,5 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 03/02/2025|
+|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
 
