@@ -1,7 +1,5 @@
 # Introspecção
 
-
-
 ## Introdução
 
 A técnica de introspecção é um processo fundamental na Engenharia de Software que envolve a análise e a reflexão sobre os próprios requisitos de um sistema. Este conceito é crucial para garantir que os requisitos sejam compreendidos, documentados e implementados de forma eficaz.
@@ -23,7 +21,6 @@ Com isso, foi feita uma introspecção por um membro da equipe, que analisou o M
 - **Escolha do(a) participante**: Foi selecionado um membro da equipe do Grupo 04 que já usou o Meu SUS Digital, a fim de garantir mais fidelidade às interações reais e proporcionar uma visão crítica sobre onde poderia haver melhorias para atender melhor às expectativas dos usuários.
 
 - **Agendamento da sessão**: a atividade foi realizada no dia 23/11/2024, às 17:00 horas, com duração máxima de 30 minutos, por meio da ferramenta Microsoft Teams.
-
 
 ### Cronograma 
 
@@ -58,7 +55,6 @@ Considerar o contexto em que o artefato foi criado e utilizado. Pergunte-se: Qua
 
 Pense sobre suas próprias reações e sentimentos em relação ao artefato. Pergunte-se: Como esse artefato interfere em mim? Como pode me ajudar no meu dia a dia?
 
-
 #### 4.Análise de Significado:
 
 Explore o significado cultural, histórico ou simbólico do artefato. Considere: Que histórias ou mensagens ele pode transmitir?
@@ -67,7 +63,6 @@ Explore o significado cultural, histórico ou simbólico do artefato. Considere:
 
 Avalie o impacto do artefato em sua vida ou na sociedade. Pergunte-se: Qual é a sua relevância hoje?
 
-
 A fim de analisar as respostas que pode-se obter através desse roteiro, foi elaborado uma tabela, a **Tabela 2**, para registrar as respostas.
 
 <div align="center">
@@ -75,7 +70,6 @@ A fim de analisar as respostas que pode-se obter através desse roteiro, foi ela
 </div>
 
 <center>
-
 
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
   <thead>
@@ -147,23 +141,23 @@ Legenda das Tabelas 3 e 4:
     <p><strong>Tabela 3 – Requisitos Funcionais</strong></p>
 </div>
 
-| Tipo  |         Descrição              |      Implementado      |
+| Tipo  |         Descrição              |      Implementado      | 
 |:-----:|:------------------------------:|:----------------------:|
-| RF01  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br, etc.).| Sim | 
-| RF02  |Validar as credenciais do usuário contra o banco de dados do Gov.br. |  SIM  | 
-| RF03  |Redirecionar o usuário para a página inicial após o login bem-sucedido.|  SIM | 
-| RF04  |Permitir que o usuário recupere a senha esquecida.| SIM | 
-| RF05  |Diferenciar o acesso de usuários comuns e profissionais de saúde, liberando funcionalidades específicas para cada perfil. | SIM| 
-| RF06  |Exibir o número do CNS do usuário.| NÃO | 
-| RF07  |Permitir o *download* da versão digital do cartão SUS em formato PDF. | SIM | 
-| RF08  |Permitir a visualização do histórico de atendimentos do usuário no SUS. | SIM | 
-| RF09  |Exibir o histórico de vacinação do usuário.| SIM | 
-| RF10  |Emitir a carteira de vacinação digital. | SIM | 
-| RF11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável).| NÃO | 
-| RF12  |Permitir o acesso à declaração de doador de órgãos.| NÃO | 
-| RF13  |Permitir o acesso aos resultados de exames. | SIM | 
-| RF14  |Fornecer informações sobre medicamentos e tratamentos. |SIM | 
-| RF15  |Permitir o agendamento de consultas (se aplicável).|NÃO| 
+| <a id="INT1"></a>INT1  |Permitir o login de usuários através de diferentes métodos (certificado digital, login Gov.br, etc.).| Sim |
+| <a id="INT2"></a>INT2  |Validar as credenciais do usuário contra o banco de dados do Gov.br. |  SIM  |
+| <a id="INT3"></a>INT3  |Redirecionar o usuário para a página inicial após o login bem-sucedido.|  SIM | 
+| <a id="INT4"></a>INT4  |Permitir que o usuário recupere a senha esquecida.| SIM | 
+| <a id="INT5"></a>INT5  |Diferenciar o acesso de usuários comuns e profissionais de saúde, liberando funcionalidades específicas para cada perfil. | SIM| 
+| <a id="INT6"></a>INT6  |Exibir o número do CNS do usuário.| NÃO | [Tabela 2, Pergunta 3] |
+| <a id="INT7"></a>INT7  |Permitir o *download* da versão digital do cartão SUS em formato PDF. | SIM |
+| <a id="INT8"></a>INT8  |Permitir a visualização do histórico de atendimentos do usuário no SUS. | SIM | 
+| <a id="INT9"></a>INT9  |Exibir o histórico de vacinação do usuário.| SIM | 
+| <a id="INT10"></a>INT10  |Emitir a carteira de vacinação digital. | SIM | 
+| <a id="INT11"></a>INT11  |Permitir o pré-cadastro para agendamento de vacinas (se aplicável).| NÃO | 
+| <a id="INT12"></a>INT12  |Permitir o acesso à declaração de doador de órgãos.| NÃO |
+| <a id="INT13"></a>INT13  |Permitir o acesso aos resultados de exames. | SIM | 
+| <a id="INT14"></a>INT14  |Fornecer informações sobre medicamentos e tratamentos. |SIM | 
+| <a id="INT15"></a>INT15  |Permitir o agendamento de consultas (se aplicável).|NÃO| 
 
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
@@ -175,17 +169,16 @@ Legenda das Tabelas 3 e 4:
     <p><strong>Tabela 4 – Requisitos Não Funcionais</strong></p>
 </div>
 
-| Tipo  |         Descrição              |      Implementado     |
+| Tipo  |         Descrição              |      Implementado     | 
 |:-----:|:------------------------------:|:---------------------:|
-| RNF01  |O tempo de carregamento da página inicial não deve ultrapassar 5 segundos em conexões de banda larga.| NÃO | 
-| RNF02  |O sistema deve ser capaz de lidar com um grande número de acessos simultâneos sem perda significativa de desempenho.|SIM | 
-| RNF03  |O sistema deve garantir a segurança e privacidade dos dados dos usuários, utilizando criptografia e outros mecanismos de proteção.|SIM | 
-| RNF04  |O acesso às funcionalidades do sistema deve ser restrito por meio de autenticação e autorização.|NÃO| 
-| RNF05  |A interface do usuário deve ser intuitiva, fácil de usar e acessível em dispositivos móveis.|SIM| 
-| RNF06  |O sistema deve utilizar linguagem clara, objetiva e acessível ao público em geral.|SIM| 
-| RNF07  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM| 
-| RNF08  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
-
+| <a id="INT16"></a>INT16  |O tempo de carregamento da página inicial não deve ultrapassar 5 segundos em conexões de banda larga.| NÃO |
+| <a id="INT17"></a>INT17  |O sistema deve ser capaz de lidar com um grande número de acessos simultâneos sem perda significativa de desempenho.|SIM |
+| <a id="INT18"></a>INT18  |O sistema deve garantir a segurança e privacidade dos dados dos usuários, utilizando criptografia e outros mecanismos de proteção.|SIM | 
+| <a id="INT19"></a>INT19  |O acesso às funcionalidades do sistema deve ser restrito por meio de autenticação e autorização.|NÃO| 
+| <a id="INT20"></a>INT20  |A interface do usuário deve ser intuitiva, fácil de usar e acessível em dispositivos móveis.|SIM| 
+| <a id="INT21"></a>INT21  |O sistema deve utilizar linguagem clara, objetiva e acessível ao público em geral.|SIM| 
+| <a id="INT22"></a>INT22  |O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com exceção de períodos de manutenção programada.|SIM|
+| <a id="INT23"></a>INT23  |O sistema deve ser estável e confiável, com baixo índice de falhas e erros.|NÃO| 
 <div align="center">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
@@ -196,15 +189,12 @@ Legenda das Tabelas 3 e 4:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/633YEDAQN3Q?si=RWg8_OkrZBik9EBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 </center>
 
 <div align="center">
     <p><strong>Reunião 01 <em></em></strong></p>
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
-
-
 
 ## 📚 Bibliografia
 
@@ -216,15 +206,10 @@ Legenda das Tabelas 3 e 4:
 >
 > BRASIL. Instituição do SUS Digital. Disponível em: [https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single](https://portalfns.saude.gov.br/instituicao-do-sus-digital/#main-single). Acesso em: 23 nov. 2024.
 
-
-
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 |  `1.1`  | Complementação da documentação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
 |  `1.2`  | Adição de Resposta faltante |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 24/11/2024 |
 |  `1.3`  | correção de links|[Emivalto Júnior](https://github.com/EmivaltoJrr)| 23/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024 |
-
-
-
-
+|  `1.4`  | correção de Rastreamentos |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025   |  |  |
