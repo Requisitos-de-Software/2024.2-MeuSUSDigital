@@ -106,4 +106,4 @@ A validação foi realizada com uma usuária, que considerou a interface clara e
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
 | `1.1`  | Revisão e aprimoramento do documento, ajustando o texto para melhor alinhamento ao requisito RF75 e maior clareza. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |  |
-| `1.2`  | ajustando o texto e imagens, para melhor alinhamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
+| `1.2`  | ajustando o texto e imagens, para melhor alinhamento dos requisitos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |

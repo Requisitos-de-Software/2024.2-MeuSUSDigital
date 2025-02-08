@@ -120,5 +120,5 @@ A validação destacou que a interface atende às necessidades de usabilidade, s
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
-| `1.1`  | ajustando o texto e imagens, para melhor alinhamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
+| `1.1`  | ajustando o texto e imagens, para melhor alinhamento dos requisitos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
 

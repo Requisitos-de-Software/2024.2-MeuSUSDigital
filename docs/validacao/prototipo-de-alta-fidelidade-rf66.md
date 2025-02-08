@@ -104,4 +104,4 @@ A validação foi realizada com uma usuária real, que considerou a interface cl
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à prototipação de alta fidelidade sobre o agendamento de exames pelo aplicativo Meu SUS Digital. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 03/02/2025 |  |  |
 | `1.1`  | Revisão e melhoria do documento para adequação ao requisito RF66, incluindo ajustes textuais e maior clareza na descrição do protótipo e validação. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |  |
-| `1.2`  | ajustando o texto e imagens, para melhor alinhamento. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
+| `1.2`  | ajustando o texto e imagens, para melhor alinhamento dos requisitos. | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
