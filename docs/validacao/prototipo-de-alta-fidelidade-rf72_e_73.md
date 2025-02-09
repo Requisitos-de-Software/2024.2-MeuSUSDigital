@@ -47,4 +47,4 @@ A **Figura 1** apresenta uma captura de tela do protótipo, enquanto a **Figura 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 |
-| `1.1`  | Adição de captura de tela do protótipo e correções do padrão | [João Pedro](https://github.com/JoosPerro) | 09/02/2025 |  |  |
+| `1.1`  | Adição de captura de tela do protótipo e correções do padrão | [João Pedro](https://github.com/JoosPerro) | 09/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 09/02/2025 |

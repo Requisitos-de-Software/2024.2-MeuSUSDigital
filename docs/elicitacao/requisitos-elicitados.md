@@ -205,4 +205,4 @@ Na **Tabela 2**, temos a relação de requisitos elicitados para o Meu SUS Digit
 | `1.5`  | Inserção das âncoras nos tipos dos requisitos elicitados. | [Artur Ricardo](https://github.com/algorithmorphic) | 07/12/2024 |  |  |
 | `1.6`  | Correção da descrição referente ao requisito de tipo RF5 elicitado e inserção de novo requisito (de tipo RF75) elicitado. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |  |  |
 | `1.7`  | Correção de conflito entre requisitos. | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |  |  |
-| `1.8`  | Atualização da descrição dos requisitos RF60, RF62, RF67 e RF68. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |  |  |
+| `1.8`  | Atualização da descrição dos requisitos RF60, RF62, RF67 e RF68. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 09/02/2025  |

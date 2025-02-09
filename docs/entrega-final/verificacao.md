@@ -35,9 +35,17 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 </div>
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Planejamento da verificação (checklist) Etapa 1	 | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Cronograma Planejado	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato de Cronograma de Execução | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Ferramentas	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess), [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato de Rich Picture	| [Artur Ricardo](https://github.com/algorithmorphic) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Artefato de Heatmap | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato de Lista de Aplicativos Avaliados | [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos), [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Pedro Lopes](https://github.com/pLopess) |
+| Artefato de Aplicativo Selecionado |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato de Termo de Uso |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Pedro Lopes](https://github.com/pLopess) |
 
 </Center>
 
@@ -55,9 +63,21 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Artefato Análise de Perfil de Usuário | [Pedro Lopes](https://github.com/pLopess) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Artefato Questionário | [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Artefato Cronograma de Elicitação de Requisitos | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)  |  [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e  [Pedro Lopes](https://github.com/pLopess)   |
+| Artefato Cronograma de Priorização de Requisitos | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Técnica Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [João Pedro](https://github.com/JoosPerro) |
+| Artefato Técnica Observação | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
+| Artefato Técnica Introspecção | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Técnica Entrevista | [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
+| Artefato Técnica Grupo de Foco | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
+| Artefato Priorização $100 | [Artur Ricardo](https://github.com/algorithmorphic)  | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Priorização Matriz GUT | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
+| Artefato Requisitos Elicitados | [Artur Ricardo](https://github.com/algorithmorphic) , [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos)  e [Pedro Lopes](https://github.com/pLopess)  |
+
 
 </Center>
 
@@ -73,9 +93,14 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Artefato Cenários | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato Lexicos | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Casos de Uso | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Especificação Suplementar | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+
+
 
 </Center>
 
@@ -91,9 +116,14 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Artefato Histórias de Usuário | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | 
+[Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato NFR Framework | [João Pedro](https://github.com/JoosPerro) | [Artur Ricardo](https://github.com/algorithmorphic)  |
+| Artefato Backlog | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+
+ 
 
 </Center>
 
@@ -109,9 +139,20 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Artefato Agendamento de Exames | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
+| Artefato Notificação de Cancelamento de Agendamentos | [Emivalto Júnior](https://github.com/EmivaltoJrr) | ---- |
+| Artefato Realizar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| Artefato Consultar Receitas Médicas | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Artefato Notificar e Destacar Conteúdo | [João Pedro](https://github.com/JoosPerro) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato Exportar Receitas Médicas | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
+| Artefato Agendamento de Consultas e Exames | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
+| Artefato Acompanhar Andamento de Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato Consultar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| Artefato Realizar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| Artefato Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+
 </Center>
 
 <div align="center">
@@ -126,9 +167,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+| Artefato Backward From | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Forward From | [Pedro Lopes](https://github.com/pLopess) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| Artefato Matriz de Rastreabilidade | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
 
 </Center>
 
@@ -145,9 +188,9 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 </div>
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
 
 </Center>
 
@@ -165,9 +208,9 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
 
 </Center>
 
@@ -183,9 +226,9 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
 
 </Center>
 
@@ -201,9 +244,9 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
 
 </Center>
 
@@ -219,9 +262,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
+
 </Center>
 
 <div align="center">
@@ -236,9 +280,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 <Center>
 
-| Artefato | Verificado por |
-|--------|-----------|
-|  |  |
+| Artefato | Autor(es) | Revisor(es) |
+|----------|-----------|-------------|
+|  |  |  |
+
 
 </Center>
 
@@ -258,4 +303,5 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
+|  `1.0`  | Criação do Documento  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
+|  `1.1`  | Adição dde conteudo das tabelas do grupo 4 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 09/02/2025  |  |  |

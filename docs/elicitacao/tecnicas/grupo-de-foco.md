@@ -55,4 +55,5 @@ A partir da sessão de grupo de foco, requisitos foram elicitados e documentados
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento | [João Pedro](https://github.com/JoosPerro)| 23/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
 |  `1.1`  | Listando os Requisitos | [João Pedro](https://github.com/JoosPerro)| 24/11/2024   | [Emivalto Júnior](https://github.com/EmivaltoJrr)|23/11/2024  |
-| `1.2`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   | [João Pedro](https://github.com/JoosPerro) | 07/02/2024 |
+|  `1.2`  | Colocação de video e correçoes | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024   | [João Pedro](https://github.com/JoosPerro) |23/11/2024  |
+| `1.3`  | Adição de novos requisitos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)| 07/12/2024   | [João Pedro](https://github.com/JoosPerro) | 07/02/2024 |

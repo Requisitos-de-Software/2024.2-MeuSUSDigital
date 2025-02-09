@@ -176,4 +176,4 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial do documento referente às ferramentas utilizadas no projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
-| `1.1`  | Adição de duas novas colunas à tabela, atualização da Introdução (anterirmente intitulada como "Descrição") e das Referências. | [Artur Ricardo](https://github.com/algorithmorphic) | 06/02/2025 |  |  |
+| `1.1`  | Adição de duas novas colunas à tabela, atualização da Introdução (anterirmente intitulada como "Descrição") e das Referências. | [Artur Ricardo](https://github.com/algorithmorphic) | 06/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 09/02/2025 |
