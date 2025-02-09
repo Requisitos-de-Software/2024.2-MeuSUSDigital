@@ -4,16 +4,24 @@
 
 Um protótipo de alta fidelidade é uma representação visual detalhada da interface de um sistema, proporcionando uma experiência próxima ao produto final. Ele inclui elementos gráficos refinados, interatividade e simulação de funcionalidades reais.
 
-Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF72**: Notificar atualização de conteúdo relevante](../elicitacao/requisitos-elicitados.md/#RF72): e [**RF73**: Destacar conteúdo regional/estadual](../elicitacao/requisitos-elicitados.md/#RF73) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/).
+Este documento apresenta o protótipo de alta fidelidade relacionado ao requisito [**RF72**: Notificar atualização de conteúdo relevante](../elicitacao/requisitos-elicitados.md/#RF72) e [**RF73**: Destacar conteúdo regional/estadual](../elicitacao/requisitos-elicitados.md/#RF73) do aplicativo [Meu SUS Digital](https://meususdigital.saude.gov.br/).
 
 ## Metodologia
 
-Segundo (, p. 296), prototipação cumpre um papel de destaque na engenharia de requisitos: clarificar, completar e validar requisitos. Um protótipo tem o poder de resolver incertezas logo nos estágios iniciais do desenvolvimento, através da avaliação do protótipo. Nessa avaliação, um usuário interage com o protótipo, instruído sobre as tarefas a serem realizadas e as limitações por não ser uma implementação real. A partir disso, a interação é observada, na busca por dificuldades ou desvantagens da interface. Perguntas podem ser feitas ao final ou durante a realização de cada tarefa proposta ao usuário (p. 307).
+Segundo <a href="#REF1">(WIEGER; BEATTY, 2013a)</a>, prototipação cumpre um papel de destaque na engenharia de requisitos: clarificar, completar e validar requisitos. Um protótipo tem o poder de resolver incertezas logo nos estágios iniciais do desenvolvimento, através da avaliação do protótipo. Nessa avaliação, um usuário interage com o protótipo, instruído sobre as tarefas a serem realizadas e as limitações por não ser uma implementação real. A partir disso, a interação é observada, na busca por dificuldades ou desvantagens da interface. Perguntas podem ser feitas ao final ou durante a realização de cada tarefa proposta ao usuário <a href="#REF2">(WIEGER; BEATTY, 2013b)</a>.
 
-## Protótipo dos requisitos RF72 e RF73
+## Protótipo de Alta Fidelidade
+
+A **Figura 1** apresenta uma captura de tela do protótipo, enquanto a **Figura 2** apresenta a versão interagível do protótipo. 
 
 <div align="center">
     <p><strong>Figura 1 – Captura das Telas do Protótipo</strong></p>
+</div>
+
+![Protótipo](../imagens/prototipo-alta-fidelidade-rf72-73.png)
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
 <div align="center">
@@ -30,12 +38,13 @@ Segundo (, p. 296), prototipação cumpre um papel de destaque na engenharia de 
 
 ## 📚 Bibliografia
 
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.
+> <a id="REF1"></a>WIEGERS, Karl; BEATTY, Joy. **Software Requirements**: Third Edition. 3. Ed. Washington: Microsoft Press, 2013. p. 296.
 >
-> REINEHR, Sheila. Engenharia de requisitos [recurso eletrônico]. Revisão técnica: Marco Antônio Paludo. Porto Alegre: SAGAH, 2020.
+> <a id="REF2"></a>*Ibdem*, p. 307.
 
 ## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 |
+| `1.1`  | Adição de captura de tela do protótipo e correções do padrão | [João Pedro](https://github.com/JoosPerro) | 09/02/2025 |  |  |
