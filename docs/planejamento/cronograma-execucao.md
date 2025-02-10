@@ -188,6 +188,7 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
+| Criação do documento referente aos requisitos priorizados (Etapa 2 - Elicitação – Técnicas e Priorização) | Início: 10/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
 | Produzir ou atualizar documento referente ao aplicativo selecionado para o projeto | Início: 05/11/2024<br>Fim: 10/02/2025 | [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 06/11/2024<br>Fim: 10/03/2025 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
 | Atualizar documento referente ao planejamento dos recursos e das entregas (cronograma planejado e executado) | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
 | Produzir documento referente à execução do projeto (as fases/etapas do desenvolvidas no projeto) | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
