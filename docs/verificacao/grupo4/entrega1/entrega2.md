@@ -48,6 +48,10 @@ _Autor: Pedro Lopes._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmPALPK36dE?si=5p39o5Xm4DSlKxew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<div align="center">
+  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></p>
+</div>
+
 </center>  
 
 ## 📚 Referências Bibliográficas
