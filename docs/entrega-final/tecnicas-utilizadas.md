@@ -27,18 +27,18 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
             <td colspan="3" style="text-align: center; font-weight: bold;">Etapa 1: Planejamento</td>
         </tr>
         <tr>
-            <td><a href="../../planejamento/heatmap">Heatmap</a></td>
+            <td>Heatmap</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
+            <td><a href="../../planejamento/heatmap">Heatmap</a></td>
         </tr>
         <tr>
-            <td><a href="../../planejamento/apps-avaliados">Rich Picture</a></td>
+            <td>Rich Picture</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
+            <td><a href="../../planejamento/apps-avaliados">Rich Picture</a></td>
         </tr>
         <tr>
             <td>Inspeção</td>
@@ -60,45 +60,45 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
             </td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/tecnicas/analise-de-documentos">Análise de Documentos</a></td>
+            <td>Análise de Documentos</td>
             <td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
-            <td>─</td>
-        </tr>
-        <tr>x
-            <td><a href="../../elicitacao/tecnicas/observacao">Observação</a></td>
-            <td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
-            <td>─</td>
+            <td><a href="../../elicitacao/tecnicas/analise-de-documentos">Análise de Documentos</a></td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/tecnicas/introspeccao">Instrospecção</a></td>
+            <td>Observação</td>
+            <td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+            <td><a href="../../elicitacao/tecnicas/observacao">Observação</a></td>
+        </tr>
+        <tr>
+            <td>Instrospecção</td>
             <td>
                 <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>
             </td>
-            <td>─</td>
+            <td><a href="../../elicitacao/tecnicas/introspeccao">Instrospecção</a></td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/tecnicas/entrevista">Entrevista</a></td>
+            <td>Entrevista</td>
             <td>
                 <a href="https://github.com/JoosPerro">João Pedro</a>
             </td>
-            <td>─</td>
+            <td><a href="../../elicitacao/tecnicas/entrevista">Entrevista</a></td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/tecnicas/grupo-de-foco">Grupo de Foco</a></td>
+            <td>Grupo de Foco</td>
             <td>
                 <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a> e <a href="https://github.com/JoosPerro">João Pedro</a>
             </td>
-            <td>─</td>
+            <td><a href="../../elicitacao/tecnicas/grupo-de-foco">Grupo de Foco</a></td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/priorizacao/$100">100 Dólares</a></td>
+            <td>$100</td>
             <td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
-            <td>─</td>
+            <td><a href="../../elicitacao/priorizacao/$100">$100</a></td>
         </tr>
         <tr>
-            <td><a href="../../elicitacao/priorizacao/matriz-gut">Matriz GUT</a></td>
+            <td>Matriz GUT</td>
             <td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
-            <td>─</td>
+            <td><a href="../../elicitacao/priorizacao/matriz-gut">Matriz GUT</a></td>
         </tr>
         <tr>
         <tr>
@@ -111,32 +111,32 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
             <td colspan="3" style="text-align: center; font-weight: bold;">Etapa 3: Modelagem de Requisitos</td>
         </tr>
         <tr>
+            <td>Cenários</td>
+            <td>
+                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
+            </td>
             <td><a href="../../modelagem/cenarios">Cenários</a></td>
+        </tr>
+        <tr>
+            <td>Léxicos</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
-        </tr>
-        <tr>
             <td><a href="../../modelagem/lexicos">Léxicos</a></td>
+        </tr>
+        <tr>
+            <td>Casos de Uso</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
-        </tr>
-        <tr>
             <td><a href="../../modelagem/caso-de-uso">Casos de Uso</a></td>
-            <td>
-                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
-            </td>
-            <td>─</td>
         </tr>
         <tr>
-            <td><a href="../../modelagem/especificacao-suplementar">Especificação Suplementar</a></td>
+            <td>Especificação Suplementar></td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
+            <td><a href="../../modelagem/especificacao-suplementar">Especificação Suplementar</a</td>
         </tr>
         <tr>
             <td>Inspeção</td>
@@ -149,25 +149,25 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
             <td colspan="3" style="text-align: center; font-weight: bold;">Etapa 4: Modelagem de Requisitos ─ Ágil</td>
         </tr>
         <tr>
-            <td><a href="../../modelagem-agil/historias-de-usuario">Histórias de Usuário</a></td>
+            <td>Histórias de Usuário</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
+            <td><a href="../../modelagem-agil/historias-de-usuario">Histórias de Usuário</a></td>
         </tr>
         <tr>
-            <td><a href="../../modelagem-agil/backlog">Backlog</a></td>
+            <td>Backlog</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>
             </td>
-            <td>─</td>
+            <td><a href="../../modelagem-agil/backlog">Backlog</a></td>
         </tr>
         <tr>
-            <td><a href="../../modelagem-agil/nfr-framework">NFR Framework</a></td>
+            <td>NFR Framework</td>
             <td>
                 <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>
             </td>
-            <td>─</td>
+            <td><a href="../../modelagem-agil/nfr-framework">NFR Framework</a></td>
         </tr>
         <tr>
             <td>Inspeção</td>
@@ -180,25 +180,25 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
             <td colspan="3" style="text-align: center; font-weight: bold;">Etapa 6: Pós-Rastreabilidade</td>
         </tr>
         <tr>
+            <td>Backward From</td>
+            <td>
+                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
+            </td>
             <td><a href="../../pos-rastreabilidade/backward-from">Backward From</a></td>
-            <td>
-                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
-            </td>
-            <td>─</td>
-        </tr>
-                <tr>
-            <td><a href="../../pos-rastreabilidade/forward-from">Forward From</a></td>
-            <td>
-                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
-            </td>
-            <td>─</td>
         </tr>
         <tr>
-            <td><a href="../../pos-rastreabilidade/matriz-de-rastreabilidade">Matriz de Rastreabilidade</a></td>
+            <td>Forward From</td>
+            <td>
+                <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
+            </td>
+            <td><a href="../../pos-rastreabilidade/forward-from">Forward From</a></td>
+        </tr>
+        <tr>
+            <td>Matriz de Rasteabilidade</td>
             <td>
                 <a href="https://github.com/pLopess">Pedro Lopes</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>
             </td>
-            <td>─</td>
+            <td><a href="../../pos-rastreabilidade/matriz-de-rastreabilidade">Matriz de Rastreabilidade</a></td>
         </tr>
         <tr>
         <tr>

@@ -6,14 +6,14 @@ Ao chegar à última etapa do projeto, o Grupo 4 adquiriu conhecimentos de disve
 
 ## Objetivos do Projeto
 
-Os objetivos gerais identificados pelo grupo são:
+Os objetivos gerais identificados pelo grupo, e seus respectivos resultados são:
 
-- **Planejar e trabalhar em equipe**: durante todo o projeto, o grupo vem exercitando a comunição, o planejamento e o trabalho em conjunto.
-- **Entender o Domínio do Problema e Identificar as Necessidades do Usuário**: buscamos compreender como o Meu SUS Digital impacta seus usuários, quem são esses usuários e qual a visão que ele têm sobre o aplicativo. O propósito de tudo isso é entender o papel e os impactos (positivos e negativos) desse aplicativo na sociedade brasileira.
-- **Elicitar e Priorizar Requisitos**: a partir da colaboração com usuário do aplicativo, fomos capazes de identificar e declarar necessidades e restrições que o Meu SUS Digital deveria atender, muitos dos quais não são atendidos atualmente. Esses requisitos não atendidos foram priorizados pela equipe, com a ajuda dos usuários.
+- **Planejar e trabalhar em equipe**: durante todo o projeto, o grupo vem exercitando a comunicação, o planejamento e o trabalho em conjunto.
+- **Entender o Domínio do Problema e Identificar as Necessidades do Usuário**: buscamos compreender como o Meu SUS Digital impacta seus usuários, quem são esses usuários e qual a visão que eles têm sobre o aplicativo. O propósito de tudo isso é entender o papel e os impactos (positivos e negativos) desse aplicativo sobre aqueles que o utilizam.
+- **Elicitar e Priorizar Requisitos**: a partir da colaboração com usuários do aplicativo, fomos capazes de identificar e declarar necessidades e restrições que o Meu SUS Digital deve atender, muitas das quais não são atendidas atualmente. Esses requisitos não atendidos foram priorizados pela equipe, com a colaboração de usuários.
 - **Modelar Requisitos**: o grupo adquiriu conhecimentos sobre diversas formas de modelar requisitos, com o fim de melhorar a comunicação dos requisitos e a visualização da solução.
-- **Verificar e Validar**: compreendemos que manter a qualidade e corretude à cada fase da Engenharia de Requisitos é chave para um projeto e produto de sucesso. Isso requer a aplicação de técnicas que envolvem não só o engenheiro e o desenvolvedor, mas também o usuário.
-- **Documentar**: aprendemos técnicas, como a rastreabilidade, que facilitam todo o processo de desenvolvimento de um software. Outros aspectos, como a padronização, ajudam a manter a claresa e objetividade da documentação.
+- **Verificar e Validar**: compreendemos que manter a qualidade e corretude à cada fase da Engenharia de Requisitos é chave para um projeto e produto de sucesso. Isso requer a aplicação de técnicas que envolvem não só o engenheiro e o desenvolvedor (como na verificação), mas também o usuário (com na validação).
+- **Documentar**: aprendemos que existem aspectos de qualidade no projeto, como a rastreabilidade e padronização, que ajudam a manter a clareza e objetividade da documentação e facilitam o processo de desenvolvimento de um software.
 
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
