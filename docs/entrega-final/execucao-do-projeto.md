@@ -72,7 +72,7 @@ A execução do projeto pode ser sintetizada conforme a **Tabela 1**, que aprese
     </tr>
     <tr>
         <th align="center">Requisitos Priorizados</th>
-        <td align="center"><a href="?">?</a></td>
+        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/requisitos-priorizados.md">Requisitos Priorizados</a></td>
     </tr>
     <tr>
         <th rowspan="3" align="center">Modelagem</th>
@@ -110,9 +110,9 @@ A execução do projeto pode ser sintetizada conforme a **Tabela 1**, que aprese
     </tr>
     <tr>
         <th align="center">Pós-rastreabilidade</th>
-        <td colspan="2">A pós-rastreabilidade foi realizada para integrar eficientemente os requisitos ao longo do projeto, estabelecendo uma trilha clara que permite rastrear a evolução e implementação de cada demanda. Foram utilizadas técnicas como Backward-From, Forward-From e matriz de rastreabilidade.</td>
+        <td colspan="2">A pós-rastreabilidade foi realizada para integrar eficientemente os requisitos ao longo do projeto, estabelecendo uma trilha clara que permite rastrear a evolução e implementação de cada demanda. Foram utilizadas técnicas como Backward From, Forward From e matriz de rastreabilidade.</td>
         <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/pos-rastreabilidade/backward-from.md">Backward From</a>,
-        <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/">Forward-From</a>,
+        <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/">Forward From</a>,
         <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/pos-rastreabilidade/matriz-de-rastreabilidade.md">Matriz de Rastreabilidade</a></td>
     </tr>
     </table>
@@ -142,4 +142,5 @@ Dessa forma, o projeto reforça a relevância de metodologias sistemáticas para
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à execução do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 09/02/2025 |  |  |
-| `1.0`  | Atualização dos dados da tabela na etapa de Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 09/02/2025 |  |  |
+| `1.1`  | Atualização dos dados da tabela na etapa de Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
+| `1.2`  | Atualização dos dados da tabela na etapa de Elicitação e Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
