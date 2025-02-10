@@ -63,7 +63,8 @@ A execução do projeto pode ser sintetizada conforme a **Tabela 1**, que aprese
     </tr>
     <tr>
         <th align="center">Técnicas de Priorização</th>
-        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/%24100.md">$100$</a>,
+        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/%24100.md">$100</a>,
+        <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/in-or-out.md">In or Out</a>,
         <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/matriz-gut.md">Matriz GUT</a></td>
     </tr>
     <tr>
@@ -144,3 +145,4 @@ Dessa forma, o projeto reforça a relevância de metodologias sistemáticas para
 | `1.0`  | Criação inicial da estrutura do documento referente à execução do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 09/02/2025 |  |  |
 | `1.1`  | Atualização dos dados da tabela na etapa de Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
 | `1.2`  | Atualização dos dados da tabela na etapa de Elicitação e Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
+| `1.3`  | Atualização dos dados da tabela na etapa de Elicitação e correção de erro. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
