@@ -31,7 +31,7 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/figma-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Figma:</b> Ferramenta para criação de protótipos de interfaces e layouts de alta fidelidade, proporcionando uma visão gráfica do projeto. [2].</td>
-        <td>Análise de Requisitos: Verificação e Validação</td>
+        <td>Validação</td>
         <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf58.md">Agendamento de Exames</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf60.md">Acompanhar Andamento de Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf62.md">Consultar Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf66.md">Notificação de Cancelamento de Agendamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf67.md">Realizar Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf68.md">Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf71.md">Consultar Receitas Médicas</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf72_e_73.md">Notificar e Destacar Conteúdo</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf74.md">Exportar Receitas Médicas</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf75.md">Agendamento de Consultas e Exames</a></td>
       </tr>
       <tr>
@@ -55,15 +55,14 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-forms-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Google Forms:</b> Ferramenta usada para criar questionários e coletar feedback de usuários, auxiliando na avaliação e validação do projeto ou de etapas do mesmo. [6].</td>
-        <td>Avaliação</td>
-        <td>Questionários de Feedback</td>
+        <td>Elicitação</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/perfil-usuario/">Perfil de Usuário</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/analise-perfil-usuario/questionario/">Questionário</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-sheets-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Google Sheets:</b> Utilizado para a organização e acompanhamento de cronogramas, além de análises de dados para o projeto. [7].</td>
-        <td>Elicitação</td>
-        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/%24100.md">$100</a>,
-        <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/in-or-out.md">In or Out</a>
+        <td>Planejamento, Elicitação</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/planejamento/heatmap/">Heatmap</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/%24100.md">$100</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/in-or-out.md">In or Out</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/microsoft-teams-logo.png?raw=true" width="50" height="50"></td>
@@ -74,8 +73,8 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/miro-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Miro:</b> Ferramenta para criação de quadros colaborativos e visuais, como mapas mentais e diagramas de fluxo, apoiando o planejamento do projeto. [9].</td>
-        <td>Planejamento e Análise</td>
-        <td>Mapas Mentais, Diagramas de Fluxo</td>
+        <td>?</td>
+        <td>?</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/mkdocs-logo.jpg?raw=true" width="50" height="50"></td>
@@ -86,44 +85,44 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/thispersondoesnotexist-logo.jpeg?raw=true" width="50" height="50"></td>
         <td><b>This Person Does Not Exist:</b> Ferramenta usada para gerar imagens fictícias de pessoas, auxiliando na criação de personas para o projeto. [11].</td>
-        <td>Análise de Requisitos</td>
-        <td>Personas</td>
+        <td>?</td>
+        <td>?</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/vegas-pro-logo.svg.png?raw=true" width="50" height="50"></td>
         <td><b>Sony Vegas Pro:</b> Utilizado para edição de vídeos e apresentações, permitindo a criação de materiais audiovisuais para o projeto. [12].</td>
-        <td>Apresentação</td>
-        <td>Vídeos, Apresentações</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>?</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/visual-studio-code-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Visual Studio Code:</b> Editor de código para desenvolvimento e edição dos arquivos de documentação e scripts do projeto. [13].</td>
-        <td>DPlanejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
-        <td>Códigos, Scripts</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/whatsapp-logo.png?raw=true" width="50" height="50"></td>
         <td><b>WhatsApp:</b> Principal canal de comunicação rápida e informal entre os membros da equipe, facilitando o alinhamento de tarefas. [14].</td>
         <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
-        <td>Mensagens, Alinhamentos</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/youtube-logo.png?raw=true" width="50" height="50"></td>
         <td><b>YouTube:</b> Utilizado para compartilhar apresentações e disponibilizar gravações de reuniões para consulta da equipe e do professor. [15].</td>
-        <td>Apresentação</td>
-        <td>Vídeos, Gravações de Reuniões</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>?</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/chatgpt-logo.svg.png" width="50" height="50"></td>
         <td><b>ChatGPT:</b> Ferramenta de IA utilizada para auxiliar na geração de ideias, revisão de textos e sugestões de melhorias no projeto. [16].</td>
         <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
-        <td>Ideias, Revisão de Textos</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/deepseek-logo.svg" width="50" height="50"></td>
         <td><b>DeepSeek:</b> Ferramenta de IA utilizada para análise de dados e sugestões de otimização no projeto. [17].</td>
         <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
-        <td>Análise de Dados, Sugestões de Otimização</td>
+        <td>Todos</td>
       </tr>
     </tbody>
   </table>
@@ -178,3 +177,4 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial do documento referente às ferramentas utilizadas no projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.1`  | Adição de duas novas colunas à tabela, atualização da Introdução (anterirmente intitulada como "Descrição") e das Referências. | [Artur Ricardo](https://github.com/algorithmorphic) | 06/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 09/02/2025 |
+| `1.2`  | Atualização dos dados da tabela. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
