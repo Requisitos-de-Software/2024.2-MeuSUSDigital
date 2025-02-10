@@ -122,8 +122,7 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 |----------|-----------|-------------|
 | Planejamento da verificação (checklist) Etapa 4	 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
 | Artefato Cenários | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Histórias de Usuário | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | 
-[Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| Artefato Histórias de Usuário | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
 | Artefato NFR Framework | [João Pedro](https://github.com/JoosPerro) | [Artur Ricardo](https://github.com/algorithmorphic)  |
 | Artefato Backlog | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
 
@@ -196,7 +195,18 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 1 | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Cronograma Planejado	 | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato de Cronograma de Execução | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena) |  |
+| Artefato Ferramentas | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato de Rich Picture	| [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato de Heatmap | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato de Lista de Aplicativos Avaliados | [Júlia Takaki](https://github.com/juliatakaki) e [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato de Aplicativo Selecionado | [Júlia Takaki](https://github.com/juliatakaki),[Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| Artefato de Termo de Uso | --- | --- |
+
+
+
 
 </Center>
 
@@ -216,7 +226,19 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 2 | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) |
+| Artefato Análise de Perfil de Usuário | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |[Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Questionário | [Júlia Takaki](https://github.com/juliatakaki), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Personas | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Técnica Introspecção | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Técnica Grupo de Foco | [Maria Helena](https://github.com/MariaCHelena) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Técnica Brainstorming | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena), [Thales Euflauzino](https://github.com/thaleseuflauzino), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Víctor Schmidt](https://github.com/moonshinerd) |
+| Artefato Técnica Glossário | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Priorização $100 | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Priorização In ou Out | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Priorização Three Level Scale | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Cronograma de Priorização | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Requisitos Elicitados | [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd)  e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo)  |
 
 </Center>
 
@@ -234,7 +256,13 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 3 | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Casos de Uso | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato  validação dos Casos de Uso | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| Artefato Especificação Suplementar | [Júlia Takaki](https://github.com/juliatakaki),[Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki),[Maria Helena](https://github.com/MariaCHelena), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| Artefato Cenários | [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Lexicos | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+
 
 </Center>
 
@@ -252,7 +280,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 4 | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Histórias de Usuário | [Júlia Takaki](https://github.com/juliatakaki), [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato NFR Framework | [Júlia Takaki](https://github.com/juliatakaki), [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |  [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Backlog | [Júlia Takaki](https://github.com/juliatakaki), [Maria Helena](https://github.com/MariaCHelena), [Victor Rodrigues](https://github.com/ViictorHugoo), [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena), [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 </Center>
 
@@ -270,7 +301,20 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 5  | ----  | ----- |
+| Entrega 1 Verificação da entrega 1 do Grupo | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Entrega 1 Verificação da entrega 1 do Grupo +1 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Entrega 2 Verificação da entrega 2 do Grupo | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Entrega 2 Verificação da entrega 2 do Grupo +1 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Entrega 3 Verificação da entrega 3 do Grupo |  [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Entrega 3 Verificação da entrega 3 do Grupo +1 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Entrega 3 Verificação da entrega 4 do Grupo | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Entrega 3 Verificação da entrega 4 do Grupo +1 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Entrega 3 Verificação da entrega 6 do Grupo | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Entrega 3 Verificação da entrega 6 do Grupo +1 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Protótipo de Alta Fidelidade | [Júlia Takaki](https://github.com/juliatakaki), [Víctor Schmidt](https://github.com/moonshinerd), [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Comprovação Informal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+
 
 </Center>
 
@@ -288,7 +332,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|  |  |  |
+| Planejamento da verificação (checklist) Etapa 6   | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Artefato Backward From | [Víctor Schmidt](https://github.com/moonshinerd), [Júlia Takaki](https://github.com/juliatakaki), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| Artefato Forward From | [Víctor Schmidt](https://github.com/moonshinerd), [Júlia Takaki](https://github.com/juliatakaki), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| Artefato Matriz de Rastreabilidade | [Júlia Takaki](https://github.com/juliatakaki), [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo)  |  [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 
 </Center>
@@ -312,3 +359,4 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 |  `1.0`  | Criação do Documento  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
 |  `1.1`  | Adição dde conteudo das tabelas do grupo 4 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 09/02/2025  |  |  |
 |  `1.2`  | coreçoes das tabelas |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
+|  `1.5`  | Adição dde conteudo das tabelas do grupo 5 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
