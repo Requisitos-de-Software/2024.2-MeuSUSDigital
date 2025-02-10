@@ -188,10 +188,18 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 
 | Atividade | Período de desenvolvimento | Responsável(eis) | Período de revisionamento | Revisor(es) |
 | --------- | -------------------------- | ---------------- | ------------------------- | ----------- |
-| Desenvolvimento do projeto final | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Gravar a apresentação da Etapa 6 do projeto | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Inspecionar a entrega da apresentação do projeto final do Grupo 5 | Início: <br>Fim: |  | Início: <br>Fim: |  |
-| Avaliação do Projeto final | Início: <br>Fim: |  | Início: <br>Fim: |  |
+| Produzir ou atualizar documento referente ao aplicativo selecionado para o projeto | Início: 05/11/2024<br>Fim: 10/02/2025 | [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: 06/11/2024<br>Fim: 10/03/2025 | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| Atualizar documento referente ao planejamento dos recursos e das entregas (cronograma planejado e executado) | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Produzir documento referente à execução do projeto (as fases/etapas do desenvolvidas no projeto) | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Produzir documento referente aos resultados alcançados com a execução do projeto (em relação ao objetivo do projeto) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas) | Início: <br>Fim: | [João Pedro](https://github.com/JoosPerro) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor | Início: <br>Fim: | [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da verificação) | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
+| Produzir documento contendo uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
+| Produzir documento referente às facilidades e dificuldades encontradas na realização do projeto por cada integrante da equipe | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: |  |
+| Gravar a apresentação da Etapa 6 do projeto | Início: 10/02<br>Fim: 10/02| [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: |  |
 
 </center>
 
@@ -230,3 +238,4 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | `1.9`  | Atualização dos dados da tabela referente à Etapa 6 e adição de alguns dados na tabela referente à Etapa 5. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 |
 | `2.0`  | Atualização da tabela referente à Etapa 5. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |
 | `2.1`  | Atualização dos dados das tabelas referentes às Etapas 4, 6 e 5. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 |
+| `2.2`  | Atualização dos dados das tabelas referentes à Etapa 6. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
