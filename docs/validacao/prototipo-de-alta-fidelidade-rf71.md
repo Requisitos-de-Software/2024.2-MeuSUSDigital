@@ -99,4 +99,4 @@ A validação foi conduzida em um ambiente controlado, onde os participantes nav
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento do protótipo de alta fidelidade sobre a funcionalidade de consultar receitas médicas. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 | [Artur Ricardo](https://github.com/MatheusHenrickSantos)  | 03/02/2025 |
+| `1.0`  | Criação do documento do protótipo de alta fidelidade sobre a funcionalidade de consultar receitas médicas. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 03/02/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 03/02/2025 |
