@@ -336,4 +336,4 @@ Os requisitos RNF01 e RNF08 estão implementados, porém não foi possível conf
 | `1.2`  | Adição dos requisitos elicitados. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 22/11/2024 | [João Pedro](https://github.com/JoosPerro) | 24/11/2024 |
 | `1.3`  | Complementando a Tabela 4. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 22/11/2024 | [João Pedro](https://github.com/JoosPerro) | 24/11/2024 |
 | `1.4`  | Correção dos requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 23/11/2024 | [João Pedro](https://github.com/JoosPerro) | 24/11/2024 |
-| `1.5`  | Adição de novos documentos na análise e novos requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 30/11/2024 |  |  |
+| `1.5`  | Adição de novos documentos na análise e novos requisitos. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 30/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
