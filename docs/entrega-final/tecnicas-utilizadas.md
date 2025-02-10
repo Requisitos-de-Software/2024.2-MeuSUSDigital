@@ -266,4 +266,4 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do documento |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  |  |  |
+|  `1.0`  | Criação do documento |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
