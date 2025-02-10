@@ -19,7 +19,7 @@ Essa página tem como objetivo documentar a gravação de apresentação  refere
 
 </center>
 
-## 📑 Histórico de versão
+## 📑 Histórico de versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento  | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024  |  [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
