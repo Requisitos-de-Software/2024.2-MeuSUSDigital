@@ -109,4 +109,4 @@ O programa disponibiliza ao usuário a facilidade de monitorar seu histórico de
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 05/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/11/2024 |
-| `1.1`  | Adição da Figura 1 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 06/02/2025 |  |  |
+| `1.1`  | Adição da Figura 1 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 06/02/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |
