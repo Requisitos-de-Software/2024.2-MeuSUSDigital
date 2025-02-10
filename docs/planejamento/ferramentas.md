@@ -37,19 +37,19 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/git-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Git:</b> Sistema de controle de versões usado para gerenciar e acompanhar as mudanças nos arquivos do projeto. [3].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/github-logo.png?raw=true" width="50" height="50"></td>
         <td><b>GitHub:</b> Plataforma de hospedagem para o repositório do projeto, facilitando o trabalho colaborativo e o controle de versões. [4].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-docs-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Google Docs:</b> Utilizado para criação e edição de documentos e textos colaborativos, permitindo que a equipe trabalhe em conjunto em tempo real. [5].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao01/">Apresentação 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao02/">Apresentação 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao03/">Apresentação 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao04/">Apresentação 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao05/">Apresentação 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao06/">Apresentação 6</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao07/">Apresentação 7</a></td>
       </tr>
       <tr>
@@ -67,61 +67,55 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/microsoft-teams-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Microsoft Teams:</b> Ferramenta de comunicação para reuniões e compartilhamento de arquivos, permitindo a colaboração e interação da equipe. [8].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata01/">Ata 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata02/">Ata 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata03/">Ata 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata04/">Ata 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata05/">Ata 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata07/">Ata 7</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata08/">Ata 8</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao01/">Apresentação 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao02/">Apresentação 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao03/">Apresentação 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao04/">Apresentação 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao05/">Apresentação 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao06/">Apresentação 6</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao07/">Apresentação 7</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/miro-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Miro:</b> Ferramenta para criação de quadros colaborativos e visuais, como mapas mentais e diagramas de fluxo, apoiando o planejamento do projeto. [9].</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Modelagem</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/modelagem/caso-de-uso/">Casos de Uso</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/mkdocs-logo.jpg?raw=true" width="50" height="50"></td>
         <td><b>MkDocs:</b> Utilizado para construir e organizar a documentação do projeto de maneira estruturada e de fácil navegação. [10].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/thispersondoesnotexist-logo.jpeg?raw=true" width="50" height="50"></td>
-        <td><b>This Person Does Not Exist:</b> Ferramenta usada para gerar imagens fictícias de pessoas, auxiliando na criação de personas para o projeto. [11].</td>
-        <td>?</td>
-        <td>?</td>
-      </tr>
-      <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/vegas-pro-logo.svg.png?raw=true" width="50" height="50"></td>
-        <td><b>Sony Vegas Pro:</b> Utilizado para edição de vídeos e apresentações, permitindo a criação de materiais audiovisuais para o projeto. [12].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><b>Sony Vegas Pro:</b> Utilizado para edição de vídeos e apresentações, permitindo a criação de materiais audiovisuais para o projeto. [11].</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>?</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/visual-studio-code-logo.png?raw=true" width="50" height="50"></td>
-        <td><b>Visual Studio Code:</b> Editor de código para desenvolvimento e edição dos arquivos de documentação e scripts do projeto. [13].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><b>Visual Studio Code:</b> Editor de código para desenvolvimento e edição dos arquivos de documentação e scripts do projeto. [12].</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/whatsapp-logo.png?raw=true" width="50" height="50"></td>
-        <td><b>WhatsApp:</b> Principal canal de comunicação rápida e informal entre os membros da equipe, facilitando o alinhamento de tarefas. [14].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><b>WhatsApp:</b> Principal canal de comunicação rápida e informal entre os membros da equipe, facilitando o alinhamento de tarefas. [13].</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/youtube-logo.png?raw=true" width="50" height="50"></td>
-        <td><b>YouTube:</b> Utilizado para compartilhar apresentações e disponibilizar gravações de reuniões para consulta da equipe e do professor. [15].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><b>YouTube:</b> Utilizado para compartilhar apresentações e disponibilizar gravações de reuniões para consulta da equipe e do professor. [14].</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>?</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/chatgpt-logo.svg.png" width="50" height="50"></td>
-        <td><b>ChatGPT:</b> Ferramenta de IA utilizada para auxiliar na geração de ideias, revisão de textos e sugestões de melhorias no projeto. [16].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><img src="../imagens/chatgpt-logo.png" width="50" height="50"></td>
+        <td><b>ChatGPT:</b> Ferramenta de IA utilizada para auxiliar na geração de ideias, revisão de textos e sugestões de melhorias no projeto. [15].</td>
+        <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/deepseek-logo.svg" width="50" height="50"></td>
-        <td><b>DeepSeek:</b> Ferramenta de IA utilizada para análise de dados e sugestões de otimização no projeto. [17].</td>
-        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td><img src="../imagens/deepseek-logo.png" width="50" height="50"></td>
+        <td><b>DeepSeek:</b> Ferramenta de IA utilizada para análise de dados e sugestões de otimização no projeto. [16].</td>
+        <td>Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
     </tbody>
@@ -156,19 +150,17 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 >
 > [10] MKDOCS. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 03 nov. 2024.
 >
-> [11] THIS PERSON DOES NOT EXIST. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 03 nov. 2024.
+> [11] SONY VEGAS PRO. Disponível em: [https://www.vegascreativesoftware.com/br/vegas-pro/](https://www.vegascreativesoftware.com/br/vegas-pro/). Acesso em: 03 nov. 2024.
 >
-> [12] SONY VEGAS PRO. Disponível em: [https://www.vegascreativesoftware.com/br/vegas-pro/](https://www.vegascreativesoftware.com/br/vegas-pro/). Acesso em: 03 nov. 2024.
+> [12] VISUAL STUDIO CODE. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 03 nov. 2024.
 >
-> [13] VISUAL STUDIO CODE. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 03 nov. 2024.
+> [13] WHATSAPP. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 03 nov. 2024.
 >
-> [14] WHATSAPP. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 03 nov. 2024.
+> [14] YOUTUBE. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 03 nov. 2024.
 >
-> [15] YOUTUBE. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 03 nov. 2024.
+> [15] CHATGPT. Disponível em: [https://openai.com/chatgpt](https://openai.com/chatgpt). Acesso em: 03 fev. 2025.
 >
-> [16] CHATGPT. Disponível em: [https://openai.com/chatgpt](https://openai.com/chatgpt). Acesso em: 03 fev. 2025.
->
-> [17] DEEPSEEK. Disponível em: [https://deepseek.com](https://deepseek.com). Acesso em: 03 fev. 2025.
+> [16] DEEPSEEK. Disponível em: [https://deepseek.com](https://deepseek.com). Acesso em: 03 fev. 2025.
 
 
 ## 📑 Histórico de Versões
@@ -178,3 +170,4 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
 | `1.0`  | Criação inicial do documento referente às ferramentas utilizadas no projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 03/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
 | `1.1`  | Adição de duas novas colunas à tabela, atualização da Introdução (anterirmente intitulada como "Descrição") e das Referências. | [Artur Ricardo](https://github.com/algorithmorphic) | 06/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)  | 09/02/2025 |
 | `1.2`  | Atualização dos dados da tabela. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
+| `1.3`  | Atualização dos dados da tabela e correção de problema com imagens. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
