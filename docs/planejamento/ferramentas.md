@@ -25,32 +25,32 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/diagrams-net-logo.png?raw=true" width="50" height="50"></td>
         <td><b>diagrams.net (antigo draw.io):</b> Utilizado para criar diagramas e modelos visuais, como o Rich Picture, facilitando o entendimento e o planejamento visual do projeto. [1].</td>
-        <td>Planejamento e Análise</td>
-        <td>Rich Picture, Diagramas de Fluxo</td>
+        <td>Planejamento do Projeto</td>
+        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/pre-rastreabilidade/rich-picture.md">Rich Picture</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/figma-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Figma:</b> Ferramenta para criação de protótipos de interfaces e layouts de alta fidelidade, proporcionando uma visão gráfica do projeto. [2].</td>
-        <td>Design de Interface</td>
-        <td>Protótipos de Interface</td>
+        <td>Análise de Requisitos: Verificação e Validação</td>
+        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf58.md">Agendamento de Exames</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf60.md">Acompanhar Andamento de Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf62.md">Consultar Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf66.md">Notificação de Cancelamento de Agendamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf67.md">Realizar Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf68.md">Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf71.md">Consultar Receitas Médicas</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf72_e_73.md">Notificar e Destacar Conteúdo</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf74.md">Exportar Receitas Médicas</a>, <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/validacao/prototipo-de-alta-fidelidade-rf75.md">Agendamento de Consultas e Exames</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/git-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Git:</b> Sistema de controle de versões usado para gerenciar e acompanhar as mudanças nos arquivos do projeto. [3].</td>
-        <td>Desenvolvimento</td>
-        <td>Repositório de Código</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/github-logo.png?raw=true" width="50" height="50"></td>
         <td><b>GitHub:</b> Plataforma de hospedagem para o repositório do projeto, facilitando o trabalho colaborativo e o controle de versões. [4].</td>
-        <td>Desenvolvimento</td>
-        <td>Repositório de Código</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-docs-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Google Docs:</b> Utilizado para criação e edição de documentos e textos colaborativos, permitindo que a equipe trabalhe em conjunto em tempo real. [5].</td>
-        <td>Documentação</td>
-        <td>Documentos de Requisitos</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao01/">Apresentação 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao02/">Apresentação 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao03/">Apresentação 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao04/">Apresentação 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao05/">Apresentação 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao06/">Apresentação 6</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao07/">Apresentação 7</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-forms-logo.png?raw=true" width="50" height="50"></td>
@@ -61,14 +61,15 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/google-sheets-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Google Sheets:</b> Utilizado para a organização e acompanhamento de cronogramas, além de análises de dados para o projeto. [7].</td>
-        <td>Planejamento</td>
-        <td>Cronogramas, Análises de Dados</td>
+        <td>Elicitação</td>
+        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/%24100.md">$100</a>,
+        <a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/elicitacao/priorizacao/in-or-out.md">In or Out</a>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/microsoft-teams-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Microsoft Teams:</b> Ferramenta de comunicação para reuniões e compartilhamento de arquivos, permitindo a colaboração e interação da equipe. [8].</td>
-        <td>Comunicação</td>
-        <td>Reuniões, Arquivos Compartilhados</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata01/">Ata 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata02/">Ata 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata03/">Ata 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata04/">Ata 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata05/">Ata 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata07/">Ata 7</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata08/">Ata 8</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao01/">Apresentação 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao02/">Apresentação 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao03/">Apresentação 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao04/">Apresentação 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao05/">Apresentação 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao06/">Apresentação 6</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao07/">Apresentação 7</a></td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/miro-logo.png?raw=true" width="50" height="50"></td>
@@ -79,8 +80,8 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/mkdocs-logo.jpg?raw=true" width="50" height="50"></td>
         <td><b>MkDocs:</b> Utilizado para construir e organizar a documentação do projeto de maneira estruturada e de fácil navegação. [10].</td>
-        <td>Documentação</td>
-        <td>Documentação do Projeto</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
+        <td>Todos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/thispersondoesnotexist-logo.jpeg?raw=true" width="50" height="50"></td>
@@ -97,13 +98,13 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/visual-studio-code-logo.png?raw=true" width="50" height="50"></td>
         <td><b>Visual Studio Code:</b> Editor de código para desenvolvimento e edição dos arquivos de documentação e scripts do projeto. [13].</td>
-        <td>Desenvolvimento</td>
+        <td>DPlanejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Códigos, Scripts</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/whatsapp-logo.png?raw=true" width="50" height="50"></td>
         <td><b>WhatsApp:</b> Principal canal de comunicação rápida e informal entre os membros da equipe, facilitando o alinhamento de tarefas. [14].</td>
-        <td>Comunicação</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Mensagens, Alinhamentos</td>
       </tr>
       <tr>
@@ -115,13 +116,13 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/chatgpt-logo.svg.png" width="50" height="50"></td>
         <td><b>ChatGPT:</b> Ferramenta de IA utilizada para auxiliar na geração de ideias, revisão de textos e sugestões de melhorias no projeto. [16].</td>
-        <td>Análise e Desenvolvimento</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Ideias, Revisão de Textos</td>
       </tr>
       <tr>
         <td><img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/deepseek-logo.svg" width="50" height="50"></td>
         <td><b>DeepSeek:</b> Ferramenta de IA utilizada para análise de dados e sugestões de otimização no projeto. [17].</td>
-        <td>Análise e Desenvolvimento</td>
+        <td>Planejamento, Pré-rastrabilidade, Modelagem de Requisitos, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Análise de Dados, Sugestões de Otimização</td>
       </tr>
     </tbody>
