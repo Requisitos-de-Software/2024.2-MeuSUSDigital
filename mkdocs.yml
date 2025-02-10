@@ -66,6 +66,7 @@ nav:
       - Grupo de Foco: elicitacao/tecnicas/grupo-de-foco.md
     - Priorização: 
       - $100: elicitacao/priorizacao/$100.md
+      - In or Out: elicitacao/priorizacao/in-or-out.md
       - Matriz GUT: elicitacao/priorizacao/matriz-gut.md
     - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
     - Requisitos Priorizados: elicitacao/requisitos-priorizados.md
