@@ -28,4 +28,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |
 | `1.1`  | Disponibilização do vídeo da apresentação referente à Etapa 4.  | [Artur Ricardo](https://github.com/algorithmorphic) | 17/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 07/02/2025 |
-|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
+|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 | [Pedro Lopes]((https://github.com/pLopess) | 10/02/2025 |
