@@ -64,7 +64,7 @@ _Autor: Pedro Lopes_
 
 </center>
 
-## 📑 Histórico de Versão
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |

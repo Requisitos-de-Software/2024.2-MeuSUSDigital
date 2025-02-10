@@ -68,7 +68,7 @@ _Autor: Emivalto júnior_
 > - <a id="anchor_5" href="#REF5"><sup>P5</sup></a><br>![Referência 1](../../referencias/Q5.png)
 >
 
-## 📑 Histórico de Versão
+## 📑 Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |

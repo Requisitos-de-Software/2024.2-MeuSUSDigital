@@ -7,7 +7,7 @@ O Léxico é uma técnica que, por meio da descrição de termos, busca detalhar
 
 ## Metodologia
 
-Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL)¹, com os conceitos detalhados na Tabela 1. O modelo utilizado pode ser consultado na Tabela 2.
+Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da Linguagem (LAL) [1], com os conceitos detalhados na Tabela 1. O modelo utilizado pode ser consultado na Tabela 2.
 
 <div align="center">
     <p><strong>Tabela 1 – Léxicos do tipo LAL</strong></p>
@@ -172,7 +172,7 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 ## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>>. Acesso em: 08 de dezembro de 2024.
+> [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. **Aprender 3**. Distrito Federal, 2016. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf). Acesso em: 08 de dezembro de 2024.
 > 
 > Bilheteria Digital - Léxicos. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 08 de dezembro de 2024.
 > 
@@ -188,4 +188,5 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.4`  | Adição do Léxico 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
 | `1.5`  | Adição do Léxico 5. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
+| `1.6`  | Correção Bibliografia | [Pedro Lopes](https://github.com/pLopess) |10/02/2025 | | |
 

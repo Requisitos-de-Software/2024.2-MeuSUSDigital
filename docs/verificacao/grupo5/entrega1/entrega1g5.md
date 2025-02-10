@@ -76,9 +76,13 @@ Autores: [Grupo 4](https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigita
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-_A9-g7_0M" frameborder="0" allowfullscreen></iframe>
 
+<div align="center">
+  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></p>
+</div>
+
 </center>
 
-## 📑 Histórico de versão
+## 📑 Histórico de versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess)| 05/11/2024   | [João Pedro](https://github.com/JoosPerro) | 06/11/2024 |
