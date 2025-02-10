@@ -311,3 +311,4 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
 |  `1.1`  | Adição dde conteudo das tabelas do grupo 4 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 09/02/2025  |  |  |
+|  `1.2`  | coreçoes das tabelas |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
