@@ -150,8 +150,7 @@ Abaixo, podemos identificar a **Figura 4** contendo tanto o *Rich Picture* do Of
 
 
 <div align="center">
-    <img src="../imagens/rich-picture-Officer-365.png">
-    <img src="../imagens/legenda_rich_picture_Officer_365.jpg">
+    <img src="../imagens/officer-365.png">
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junio</a>.</p>
 </div>
 
