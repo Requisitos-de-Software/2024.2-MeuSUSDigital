@@ -68,6 +68,7 @@ nav:
       - $100: elicitacao/priorizacao/$100.md
       - Matriz GUT: elicitacao/priorizacao/matriz-gut.md
     - Requisitos Elicitados: elicitacao/requisitos-elicitados.md
+    - Requisitos Priorizados: elicitacao/requisitos-priorizados.md
   - Modelagem:
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
