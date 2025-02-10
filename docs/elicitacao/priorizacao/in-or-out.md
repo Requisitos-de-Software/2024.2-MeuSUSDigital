@@ -13,6 +13,10 @@ A tabela apresenta os seguintes campos:
 - **Implementado**: Indica se o requisito já está presente na versão atual do **Meu SUS Digital**.
 - **Prioridade (In/Out)**: Campo a ser preenchido de acordo com a escolha do usuário/cliente.
 
+## Aspectos Éticos
+
+A priorização seguiu os princípios éticos estabelecidos para estudos envolvendo o usuário/cliente. O consentimento de uso de imagem, voz e demais informações foi obtido em tempo real durante a videochamada pelo [Microsoft Teams](https://teams.microsoft.com/), durante a sessão de prirização de requisitos.
+
 ## Priorização
 
 A prorização foi conduzida de maneira remota, em um ambiente controlado, onde os participantes utilizam uma [planilha](https://docs.google.com/spreadsheets/d/1Ch35-v9Kbp9aLsPEIEvWIf93MmTK04qt9Oxyv-p0uVM/edit?usp=sharing) contendo os requisitos elicitados, onde o cliente/usuário realiza a priorização de cada um dos requisitos definindo-os como essencial (**In**) ou descartável para o escopo inicial (**Out**). Segue, abaixo, o **Vídeo 1**, disponibilizado como vídeo não listado no YouTube, tratando da gravação da priorização dos requisitos elicitados:
@@ -23,7 +27,7 @@ A prorização foi conduzida de maneira remota, em um ambiente controlado, onde 
 
 <center>
 
-?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uYv6pL00_1U?si=SwDJARGrcXppsJV1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -63,3 +67,4 @@ Este documento será utilizado para facilitar a tomada de decisão quanto às fu
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento referente à técnica de priorização In or Out. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2024 |  |  |
+| `1.1`  | Inserção do link da gravação da priorização, adição dos aspectos legais etc. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2024 |  |  |
