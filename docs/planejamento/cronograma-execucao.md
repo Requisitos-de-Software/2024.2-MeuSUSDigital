@@ -200,7 +200,7 @@ A **Tabela 7** trata do cronograma executado de todas as atividades referentes �
 | Produzir documento contendo uma tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da verificação) | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
 | Produzir documento contendo uma tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto | Início: 06/02<br>Fim: 10/02 | [Artur Ricardo](https://github.com/algorithmorphic) | Início: <br>Fim: |  |
 | Produzir documento contendo uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações | Início: <br>Fim: | [Emivalto junior](https://github.com/EmivaltoJrr) | Início: <br>Fim: |  |
-| Produzir documento referente às facilidades e dificuldades encontradas na realização do projeto por cada integrante da equipe | Início: <br>Fim: | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: |  |
+| Produzir documento referente às facilidades e dificuldades encontradas na realização do projeto por cada integrante da equipe | Início: 10/02 <br>Fim: 10/02 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Início: <br>Fim: |  |
 | Gravar a apresentação da Etapa 6 do projeto | Início: 10/02<br>Fim: 10/02| [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto junior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | Início: <br>Fim: |  |
 
 </center>
