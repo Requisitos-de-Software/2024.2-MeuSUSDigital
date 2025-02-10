@@ -4,7 +4,7 @@
 
 A rastreabilidade de requisitos é um processo fundamental na engenharia de software, garantindo que as necessidades dos stakeholders sejam atendidas e que o ciclo de vida do software seja bem gerenciado. Este documento apresenta o processo de rastreabilidade retrospectiva, conhecido como "Backward From", aplicado no projeto Meu SUS Digital. O foco é estabelecer elos claros entre os requisitos elicitados e os artefatos resultantes, assegurando controle e rastreamento efetivos.
 
-A rastreabilidade retrospectiva possibilita verificar como os requisitos elicitados através das técnicas de [Análise de Documentos](elicitacao/tecnicas/analise-de-documentos.md), [Entrevista](elicitacao/tecnicas/entrevista.md), [Grupo de Foco](elicitacao/tecnicas/grupo-de-foco.md), [Observação](elicitacao/tecnicas/observacao.md) e [Introspecção](elicitacao/tecnicas/introspeccao.md) estão relacionados aos componentes e à implementação do sistema, promovendo coerência entre a análise inicial e os resultados obtidos.
+A rastreabilidade retrospectiva possibilita verificar como os requisitos elicitados através das técnicas de [Análise de Documentos](../elicitacao/tecnicas/analise-de-documentos.md), [Entrevista](../elicitacao/tecnicas/entrevista.md), [Grupo de Foco](../elicitacao/tecnicas/grupo-de-foco.md), [Observação](../elicitacao/tecnicas/observacao.md) e [Introspecção](../elicitacao/tecnicas/introspeccao.md) estão relacionados aos componentes e à implementação do sistema, promovendo coerência entre a análise inicial e os resultados obtidos.
 
 ## Metodologia
 

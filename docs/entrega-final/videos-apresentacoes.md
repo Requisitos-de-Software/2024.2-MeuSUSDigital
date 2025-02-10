@@ -4,7 +4,6 @@ Nesse documento estará contido na tabela 1 todas as apresentações e os partic
 ## Tabela de Apresentações
 <center>
 
-[OBS35](tecnicas/observacao.md#requisitos-elicitados)
 
 **Tabela 1** - Apresentações do projeto.
 

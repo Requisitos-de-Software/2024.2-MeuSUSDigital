@@ -37,7 +37,7 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 | [Notificação de Cancelamento de Agendamentos](../validacao/prototipo-de-alta-fidelidade-rf66.md) | [Emivalto junior](https://github.com/EmivaltoJrr) | Vitória de Brito | [Video de validação](https://www.youtube.com/embed/AAkyfwza30c?si=NbFooCFRyKeEugDI) |
 | [Realizar Pedidos/Solicitações de Medicamentos](../validacao/prototipo-de-alta-fidelidade-rf67.md) | [Artur Ricardo](https://github.com/algorithmorphic) | Stefany Paraíso | [Video de validação](https://www.youtube.com/watch?v=TgjqvpqEbUU&t=1s&ab_channel=ArturRicardo) |
 | [Consultar Receitas Médicas](../validacao/prototipo-de-alta-fidelidade-rf71.md) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | --- | --- |
-| [Notificar e Destacar Conteúdo](../validacao/prototipo-de-alta-fidelidade-rf2_e73.md) | [João Pedro](https://github.com/JoosPerro) | --- | --- |
+| [Notificar e Destacar Conteúdo](../validacao/prototipo-de-alta-fidelidade-rf72_e_73.md) | [João Pedro](https://github.com/JoosPerro) | --- | --- |
 | [Exportar Receitas Médicas](../validacao/prototipo-de-alta-fidelidade-rf74.md) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | --- | --- |
 | [Agendamento de Consultas e Exames](../validacao/prototipo-de-alta-fidelidade-rf75.md) | [Emivalto junior](https://github.com/EmivaltoJrr)  | Vitória de Brito | [Video de validação](https://www.youtube.com/embed/AAkyfwza30c?si=NbFooCFRyKeEugDI) |
 | [Acompanhar Andamento de Solicitações de Medicamentos](../validacao/prototipo-de-alta-fidelidade-rf60.md) | [Artur Ricardo](https://github.com/algorithmorphic) | Stefany Paraíso | [Video de validação](https://www.youtube.com/watch?v=TgjqvpqEbUU&t=1s&ab_channel=ArturRicardo) |
@@ -65,7 +65,7 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 | [Notificação de Cancelamento de Agendamentos](../validacao/prototipo-de-alta-fidelidade-rf66.md) | [Emivalto junior](https://github.com/EmivaltoJrr) | 
 | [Realizar Pedidos/Solicitações de Medicamentos](../validacao/prototipo-de-alta-fidelidade-rf67.md) | [Artur Ricardo](https://github.com/algorithmorphic) |  
 | [Consultar Receitas Médicas](../validacao/prototipo-de-alta-fidelidade-rf71.md) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 
-| [Notificar e Destacar Conteúdo](../validacao/prototipo-de-alta-fidelidade-rf2_e73.md) | [João Pedro](https://github.com/JoosPerro) | 
+| [Notificar e Destacar Conteúdo](../validacao/prototipo-de-alta-fidelidade-rf72_e_73.md) | [João Pedro](https://github.com/JoosPerro) | 
 | [Exportar Receitas Médicas](../validacao/prototipo-de-alta-fidelidade-rf74.md) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 
 | [Agendamento de Consultas e Exames](../validacao/prototipo-de-alta-fidelidade-rf75.md) | [Emivalto junior](https://github.com/EmivaltoJrr)  | 
 | [Acompanhar Andamento de Solicitações de Medicamentos](../validacao/prototipo-de-alta-fidelidade-rf60.md) | [Artur Ricardo](https://github.com/algorithmorphic) | 
