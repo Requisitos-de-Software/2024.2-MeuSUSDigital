@@ -60,4 +60,4 @@ A priorização de requisitos é fundamental para o sucesso do desenvolvimento d
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente aos requisitos priorizados. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente aos requisitos priorizados. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 10/02/2025 |
