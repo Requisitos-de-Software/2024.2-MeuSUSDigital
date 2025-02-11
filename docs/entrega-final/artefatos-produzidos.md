@@ -22,7 +22,7 @@ As informações dos artefatos disponibilizadas neste documento são: Entrega do
   </thead>
   <tbody>
     <tr>
-      <th>Gitpage</th>
+      <th>Git Pages</th>
       <td><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/">Home</a></td>
       <td>
         <a href="https://github.com/pLopess">Pedro Lopes</a> e 
