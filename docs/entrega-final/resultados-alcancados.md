@@ -77,5 +77,5 @@ Apesar da tentativa de contato, a ausência de um retorno direto da equipe do Mi
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do documento. |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Artur Lopes](https://github.com/) | 10/02/2025 |
-|  `1.1`  | Adição da seção de tentativa de contato com a equipe de desenvolvimento e inclusão das evidências do contato com imagens. |[Artur Lopes](https://github.com/) | 10/02/2025 |  |  |
+|  `1.0`  | Criação do documento. |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Artur Lopes](https://github.com/algorithmorphic) | 10/02/2025 |
+|  `1.1`  | Adição da seção de tentativa de contato com a equipe de desenvolvimento e inclusão das evidências do contato com imagens. |[Artur Lopes](https://github.com/algorithmorphic) | 10/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
