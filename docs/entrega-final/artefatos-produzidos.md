@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem o objetivo de sintetizar, analisar e manter a rastreabilidade de todos os artefatos produzidos durante o desenvolvimento do projeto "Meu SUS Digital". No total foram produzidos XXX artefatos e XX vídeos foram gravados pela equipe.
+Este documento tem o objetivo de sintetizar, analisar e manter a rastreabilidade de todos os artefatos produzidos durante o desenvolvimento do projeto "Meu SUS Digital", no total foram produzidos 77 artefatos pela equipe. A construção da tabela deste artefato foi baseada no artefato de [Execução do Projeto](https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/entrega-final/execucao-do-projeto/), onde é possível encontrar separadamente as etapas do projeto.
 
 
 ## Artefatos Produzidos:
