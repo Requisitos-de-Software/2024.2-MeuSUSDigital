@@ -70,4 +70,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 |--------|-----------|-------|------|---------|-----------------|
 |  `1.0` | Criação do documento | [João Pedro](https://github.com/JoosPerro) | 03/11/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |
-|  `1.1` | Adição de link e Correção | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 |  |  |
+|  `1.1` | Adição de link e Correção | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |
