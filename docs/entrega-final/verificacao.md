@@ -37,15 +37,15 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 1	 | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Cronograma Planejado	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato de Cronograma de Execução | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Ferramentas	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess), [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato de Rich Picture	| [Artur Ricardo](https://github.com/algorithmorphic) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Artefato de Heatmap | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato de Lista de Aplicativos Avaliados | [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos), [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Pedro Lopes](https://github.com/pLopess) |
-| Artefato de Aplicativo Selecionado |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato de Termo de Uso |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Pedro Lopes](https://github.com/pLopess) |
+| (Planejamento da verificação (checklist) Etapa 1)[../verificacao/grupo4/entrega1/entrega1.md]	 | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Cronograma Planejado)[../planejamento/cronograma-planejamento.md]	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato de Cronograma de Execução)[../planejamento/cronograma-execucao.md] | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Ferramentas)[../planejamento/ferramentas.md]	 | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess), [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato de Rich Picture)[../pre-rastreabilidade/rich-picture.md] | [Artur Ricardo](https://github.com/algorithmorphic) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| (Artefato de Heatmap)[../planejamento/heatmap.md] | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato de Lista de Aplicativos Avaliados)[../planejamento/apps-avaliados.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos), [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato de Aplicativo Selecionado)[../planejamento/app-selecionado.md] |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato de Termo de Uso)[../planejamento/termo-de-uso.md] |  [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Pedro Lopes](https://github.com/pLopess) |
 
 </Center>
 
@@ -77,6 +77,7 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 | Artefato Técnica Grupo de Foco | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
 | Artefato Priorização $100 | [Artur Ricardo](https://github.com/algorithmorphic)  | [Pedro Lopes](https://github.com/pLopess) |
 | Artefato Priorização Matriz GUT | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
+| Artefato Priorização in-or-out | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
 | Artefato Requisitos Elicitados | [Artur Ricardo](https://github.com/algorithmorphic) , [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos)  e [Pedro Lopes](https://github.com/pLopess)  |
 
 
