@@ -420,7 +420,7 @@ Na tabela 12 estão listados os artefatos verificados para a etapa 6.
 
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
