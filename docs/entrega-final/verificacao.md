@@ -65,20 +65,21 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 2	 | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Artefato Análise de Perfil de Usuário | [Pedro Lopes](https://github.com/pLopess) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Artefato Questionário | [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| Artefato Cronograma de Elicitação de Requisitos | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)  |  [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e  [Pedro Lopes](https://github.com/pLopess)   |
-| Artefato Cronograma de Priorização de Requisitos | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Técnica Análise de Documentos | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [João Pedro](https://github.com/JoosPerro) |
-| Artefato Técnica Observação | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
-| Artefato Técnica Introspecção | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Técnica Entrevista | [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
-| Artefato Técnica Grupo de Foco | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
-| Artefato Priorização $100 | [Artur Ricardo](https://github.com/algorithmorphic)  | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Priorização Matriz GUT | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
-| Artefato Priorização in-or-out | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Requisitos Elicitados | [Artur Ricardo](https://github.com/algorithmorphic) , [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos)  e [Pedro Lopes](https://github.com/pLopess)  |
+| (Planejamento da verificação (checklist) Etapa 2)[../verificacao/grupo4/entrega1/entrega2.md]	 | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| (Artefato Análise de Perfil de Usuário)[../elicitacao/analise-perfil-usuario/perfil-usuario.md] | [Pedro Lopes](https://github.com/pLopess) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| (Artefato Questionário)[../elicitacao/analise-perfil-usuario/questionario.md] | [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| (Artefato Cronograma de Elicitação de Requisitos)[../elicitacao/planejamento/cronograma-tecnicas.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess)  |  [Artur Ricardo](https://github.com/algorithmorphic), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e  [Pedro Lopes](https://github.com/pLopess)   |
+| (Artefato Cronograma de Priorização de Requisitos)[../elicitacao/planejamento/cronograma-priorizacao.md] | [Artur Ricardo](https://github.com/algorithmorphic) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Técnica Análise de Documentos)[../elicitacao/tecnicas/analise-de-documentos.md] | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [João Pedro](https://github.com/JoosPerro) |
+| (Artefato Técnica Observação)[../elicitacao/tecnicas/observacao.md] | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
+| (Artefato Técnica Introspecção)[../elicitacao/tecnicas/introspeccao.md] | [Emivalto Júnior](https://github.com/EmivaltoJrr) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Técnica Entrevista)[../elicitacao/tecnicas/entrevista.md] | [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
+| (Artefato Técnica Grupo de Foco)[../elicitacao/tecnicas/grupo-de-foco.md] | [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [João Pedro](https://github.com/JoosPerro) |
+| (Artefato Priorização $100)[../elicitacao/priorizacao/$100.md] | [Artur Ricardo](https://github.com/algorithmorphic)  | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Priorização Matriz GUT)[../elicitacao/priorizacao/matriz-gut.md] | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  |
+| (Artefato Priorização in-or-out)[../elicitacao/priorizacao/in-or-out.md] | [Artur Ricardo](https://github.com/algorithmorphic)  | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Requisitos Elicitados)[../elicitacao/requisitos-elicitados.md] | [Artur Ricardo](https://github.com/algorithmorphic) , [João Pedro](https://github.com/JoosPerro) e [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos)  e [Pedro Lopes](https://github.com/pLopess)  |
+| (Artefato Requisitos Elicitados)[../elicitacao/requisitos-priorizados.md] | [Artur Ricardo](https://github.com/algorithmorphic) | [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos)  e [Pedro Lopes](https://github.com/pLopess)  |
 
 
 </Center>
@@ -97,11 +98,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 3	 | [João Pedro](https://github.com/JoosPerro) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Cenários | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Lexicos | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Casos de Uso | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Especificação Suplementar | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| (Planejamento da verificação (checklist) Etapa 3)[../verificacao/grupo4/entrega1/entrega3.md]	 | [João Pedro](https://github.com/JoosPerro) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Cenários)[../modelagem/cenarios.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Lexicos)[../modelagem/lexicos.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Casos de Uso)[../modelagem/caso-de-uso.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Especificação Suplementar)[../modelagem/especificacao-suplementar.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
 
 
 
@@ -121,11 +122,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 4	 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Cenários | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Histórias de Usuário | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
-| Artefato NFR Framework | [João Pedro](https://github.com/JoosPerro) | [Artur Ricardo](https://github.com/algorithmorphic)  |
-| Artefato Backlog | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
+| (Planejamento da verificação (checklist) Etapa 4)[../verificacao/grupo4/entrega1/entrega4.md]	 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Cenários)[../modelagem/cenarios.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Histórias de Usuário)[../modelagem-agil/historias-de-usuario.md] | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [João Pedro](https://github.com/JoosPerro), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr), [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato NFR Framework)[../modelagem-agil/nfr-framework.md] | [João Pedro](https://github.com/JoosPerro) | [Artur Ricardo](https://github.com/algorithmorphic)  |
+| (Artefato Backlog)[../modelagem-agil/backlog.md] | [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess)  | [Artur Ricardo](https://github.com/algorithmorphic), [Emivalto Júnior](https://github.com/EmivaltoJrr) e [Pedro Lopes](https://github.com/pLopess) |
 
  
 
@@ -145,18 +146,18 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 5	 |  ---- | ----- |
-| Artefato Agendamento de Exames | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
-| Artefato Notificação de Cancelamento de Agendamentos | [Emivalto Júnior](https://github.com/EmivaltoJrr) | ---- |
-| Artefato Realizar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
-| Artefato Consultar Receitas Médicas | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Artefato Notificar e Destacar Conteúdo | [João Pedro](https://github.com/JoosPerro) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Exportar Receitas Médicas | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
-| Artefato Agendamento de Consultas e Exames | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
-| Artefato Acompanhar Andamento de Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Consultar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
-| Artefato Realizar Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
-| Artefato Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| (Planejamento da verificação (checklist) Etapa 5)[../verificacao/grupo4/entrega1/entrega5.md]		 |  ---- | ----- |
+| (Artefato Agendamento de Exames)[../validacao/prototipo-de-alta-fidelidade-rf58.md] | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
+| (Artefato Notificação de Cancelamento de Agendamentos)[../validacao/prototipo-de-alta-fidelidade-rf66.md]  | [Emivalto Júnior](https://github.com/EmivaltoJrr) | ---- |
+| (Artefato Realizar Pedidos/Solicitações de Medicamentos)[../validacao/prototipo-de-alta-fidelidade-rf67.md]  | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| (Artefato Consultar Receitas Médicas)[../validacao/prototipo-de-alta-fidelidade-rf71.md]  | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
+| (Artefato Notificar e Destacar Conteúdo)[../validacao/prototipo-de-alta-fidelidade-rf72_e_73.md]  | [João Pedro](https://github.com/JoosPerro) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) e [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Exportar Receitas Médicas)[../validacao/prototipo-de-alta-fidelidade-rf74.md]  | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Artur Ricardo](https://github.com/algorithmorphic) |
+| (Artefato Agendamento de Consultas e Exames)[../validacao/prototipo-de-alta-fidelidade-rf75.md]  | [Emivalto Júnior](https://github.com/EmivaltoJrr) |---- |
+| (Artefato Acompanhar Andamento de Solicitações de Medicamentos)[../validacao/prototipo-de-alta-fidelidade-rf60.md]  | [Artur Ricardo](https://github.com/algorithmorphic) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Consultar Pedidos/Solicitações de Medicamentos)[../validacao/prototipo-de-alta-fidelidade-rf62.md]  | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| (Artefato Realizar Pedidos/Solicitações de Medicamentos)[../validacao/prototipo-de-alta-fidelidade-rf67.md]  | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
+| (Artefato Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos)[../validacao/prototipo-de-alta-fidelidade-rf68.md]  | [Artur Ricardo](https://github.com/algorithmorphic)  | [Matheus Henrick](https://github.com/MatheusHenrickSantos)  |
 
 </Center>
 
@@ -174,10 +175,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-| Planejamento da verificação (checklist) Etapa 6	 | [Pedro Lopes](https://github.com/pLopess) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Backward From | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
-| Artefato Forward From | [Pedro Lopes](https://github.com/pLopess) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
-| Artefato Matriz de Rastreabilidade | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
+| (Planejamento da verificação (checklist) Etapa 6)[../verificacao/grupo4/entrega1/entrega6.md]		 | [Pedro Lopes](https://github.com/pLopess) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Backward From)[../pos-rastreabilidade/backward-from.md] | [Artur Ricardo](https://github.com/algorithmorphic) | [Pedro Lopes](https://github.com/pLopess) |
+| (Artefato Forward From)[../pos-rastreabilidade/forward-from.md] | [Pedro Lopes](https://github.com/pLopess) | [Emivalto Júnior](https://github.com/EmivaltoJrr) |
+| (Artefato Matriz de Rastreabilidade)[../pos-rastreabilidade/matriz-de-rastreabilidade.md] | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  [Artur Ricardo](https://github.com/algorithmorphic) e [Pedro Lopes](https://github.com/pLopess) |
 
 </Center>
 
@@ -360,4 +361,6 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 |  `1.0`  | Criação do Documento  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
 |  `1.1`  | Adição dde conteudo das tabelas do grupo 4 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 09/02/2025  |  |  |
 |  `1.2`  | coreçoes das tabelas |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
-|  `1.5`  | Adição dde conteudo das tabelas do grupo 5 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
+|  `1.3`  | Adição dde conteudo das tabelas do grupo 5 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
+|  `1.4`  | rastreabilidadade tabelas do grupo 4 |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025  |  |  |
+
