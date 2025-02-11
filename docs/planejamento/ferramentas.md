@@ -107,13 +107,13 @@ Este documento trata da descrição de diversas ferramentas que foram selecionad
         <td align="center"><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata01/">Ata 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata02/">Ata 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata03/">Ata 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata04/">Ata 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata05/">Ata 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata07/">Ata 7</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/atas/ata08/">Ata 8</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao01/">Apresentação 1</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao02/">Apresentação 2</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao03/">Apresentação 3</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao04/">Apresentação 4</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao05/">Apresentação 5</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao06/">Apresentação 6</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/apresentacao/apresentacao07/">Apresentação 7</a></td>
       </tr>
       <tr>
-        <td><img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/chatgpt-logo.png" width="50" height="50"></td>
+        <td><img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/chatgpt-logo.png?raw=true" width="50" height="50"></td>
         <td><b>ChatGPT:</b> Ferramenta de IA utilizada para auxiliar na geração de ideias, revisão de textos e sugestões de melhorias no projeto. [15].</td>
         <td>Planejamento, Pré-rastrabilidade, Elicitação, Modelagem, Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/deepseek-logo.png" width="50" height="50"></td>
+        <td><img src="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/imagens/deepseek-logo.png?raw=true" width="50" height="50"></td>
         <td><b>DeepSeek:</b> Ferramenta de IA utilizada para análise de dados e sugestões de otimização no projeto. [16].</td>
         <td>Verificação, Validação e Pós-rastreabilidade</td>
         <td>Todos</td>
