@@ -30,6 +30,14 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+
+## Grupo 4
+
+### Verificação da etapa 1
+
+Na tabela 1 estão listados os artefatos verificados para a etapa 1.
+
+
 <div align="center">
     <p><strong>Tabela 1 – Entrega 1 grupo 4</strong></p>
 </div>
@@ -56,6 +64,10 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 
 ---
+
+### Verificação da etapa 2
+
+Na tabela 2 estão listados os artefatos verificados para a etapa 2.
 
 
 <div align="center">
@@ -92,6 +104,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 3
+
+Na tabela 3 estão listados os artefatos verificados para a etapa 3.
+
+
 <div align="center">
     <p><strong>Tabela 3 – Entrega 3 grupo 4</strong></p>
 </div>
@@ -115,6 +132,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 4
+
+Na tabela 4 estão listados os artefatos verificados para a etapa 4.
+
+
 <div align="center">
     <p><strong>Tabela 4 – Entrega 4 grupo 4</strong></p>
 </div>
@@ -137,6 +159,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 </div>
 
 ---
+
+### Verificação da etapa 5
+
+Na tabela 5 estão listados os artefatos verificados para a etapa 5.
+
 
 <div align="center">
     <p><strong>Tabela 5 – Entrega 5 grupo 4</strong></p>
@@ -168,6 +195,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 6
+
+Na tabela 6 estão listados os artefatos verificados para a etapa 6.
+
+
 <div align="center">
     <p><strong>Tabela 6 – Entrega 6 grupo 4</strong></p>
 </div>
@@ -189,6 +221,12 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 </div>
 
 ---
+## Grupo 5
+
+
+### Verificação da etapa 1
+
+Na tabela 7 estão listados os artefatos verificados para a etapa 1.
 
 
 <div align="center">
@@ -219,6 +257,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 
 ---
+
+### Verificação da etapa 2
+
+Na tabela 8 estão listados os artefatos verificados para a etapa 2.
+
 
 
 <div align="center">
@@ -251,6 +294,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 3
+
+Na tabela 9 estão listados os artefatos verificados para a etapa 3.
+
+
 <div align="center">
     <p><strong>Tabela 9 – Entrega 3 grupo 5</strong></p>
 </div>
@@ -275,6 +323,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 4
+
+Na tabela 10 estão listados os artefatos verificados para a etapa 4.
+
+
 <div align="center">
     <p><strong>Tabela 10 – Entrega 4 grupo 5</strong></p>
 </div>
@@ -295,6 +348,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 </div>
 
 ---
+
+### Verificação da etapa 5
+
+Na tabela 11 estão listados os artefatos verificados para a etapa 5.
+
 
 <div align="center">
     <p><strong>Tabela 11 – Entrega 5 grupo 5</strong></p>
@@ -327,6 +385,11 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ---
 
+### Verificação da etapa 6
+
+Na tabela 12 estão listados os artefatos verificados para a etapa 6.
+
+
 <div align="center">
     <p><strong>Tabela 12 – Entrega 6 grupo 5</strong></p>
 </div>
@@ -353,6 +416,7 @@ Afim de mostras todos os resultados obtidos foi criado uma tabalea para cada ent
 
 ## 📚 Bibliografia
 
+> [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 
 

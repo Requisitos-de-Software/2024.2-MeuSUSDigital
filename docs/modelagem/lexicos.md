@@ -188,5 +188,5 @@ Para a elaboração dos léxicos, utilizamos a notação do Léxico Ampliado da 
 | `1.3`  | Adicionando Léxico 3 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
 | `1.4`  | Adição do Léxico 4. | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 08/12/2024 |
 | `1.5`  | Adição do Léxico 5. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 08/12/2024 | [Artur Ricardo](https://github.com/algorithmorphic) | 08/12/2024 |
-| `1.6`  | Correção Bibliografia | [Pedro Lopes](https://github.com/pLopess) |10/02/2025 | | |
+| `1.6`  | Correção Bibliografia | [Pedro Lopes](https://github.com/pLopess) |10/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |
 
