@@ -1,0 +1,4015 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/elicitacao/requisitos-elicitados/">
+      
+      
+        <link rel="prev" href="../priorizacao/matriz-gut/">
+      
+      
+        <link rel="next" href="../requisitos-priorizados/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.3">
+    
+    
+      
+        <title>Requisitos Elicitados - Meu SUS Digital</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.d7758b05.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#requisitos-elicitados" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Meu SUS Digital" class="md-header__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meu SUS Digital
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Requisitos Elicitados
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Meu SUS Digital" class="md-nav__button md-logo" aria-label="Meu SUS Digital" data-md-component="logo">
+      
+  <img src="../../imagens/meu-sus-digital-icone.png" alt="logo">
+
+    </a>
+    Meu SUS Digital
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 04
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 05
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 06
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 07
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 01
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 02
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 03
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 04
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 05
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 06
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 07
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 08
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata09/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 09
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HeatMap
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-planejamento/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Planejamento
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma-execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Execução
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/apps-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativos Avaliados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/app-selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo Selecionado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/termo-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Perfil de Usuário
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Perfil de Usuário
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../analise-perfil-usuario/perfil-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../analise-perfil-usuario/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/cronograma-tecnicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Elicitação de Requisitos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento/cronograma-priorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma de Priorização de Requisitos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas/analise-de-documentos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas/grupo-de-foco/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo de Foco
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priorizacao/%24100/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priorizacao/in-or-out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priorizacao/matriz-gut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz GUT
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../requisitos-priorizados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Priorizados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/caso-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao-suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/historias-de-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/nfr-framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-agil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/backward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/forward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pos-rastreabilidade/matriz-de-rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf58/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agendamento de Exames
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf66/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Notificação de Cancelamento de Agendamentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf67/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Realizar Pedidos/Solicitações de Medicamentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf71/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consultar Receitas Médicas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf72_e_73/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Notificar e Destacar Conteúdo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf74/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exportar Receitas Médicas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf75/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agendamento de Consultas e Exames
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf60/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Acompanhar Andamento de Solicitações de Medicamentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf62/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consultar Pedidos/Solicitações de Medicamentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipo-de-alta-fidelidade-rf68/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicar Filtro de Pesquisa para a Consulta de Pedidos/Solicitações de Medicamentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1" id="__nav_10_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lista de Verificação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1">
+            <span class="md-nav__icon md-icon"></span>
+            Lista de Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lista_verif/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 4
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo4/entrega1/entrega6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_3" id="__nav_10_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeções do Grupo 5
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_3">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeções do Grupo 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega1g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega2g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega3g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega4g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega5g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/entrega6g5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega Final
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega Final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/execucao-do-projeto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Execução do Projeto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/tecnicas-utilizadas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Técnicas Utilizadas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/artefatos-produzidos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artefatos Produzidos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/videos-apresentacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vídeos das Apresentações
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/resultados-alcancados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resultados Alcançados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/facilidades-e-dificuldades/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Facilidades e Dificuldades
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Métodos de Verificação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/validacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Métodos de Validaçao
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      📑 Histórico de Versões
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="requisitos-elicitados">Requisitos Elicitados</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Requisitos são condições ou capacidades que um sistema (como um aplicativo, por exemplo) deve atender para resolver problemas ou alcançar objetivos, documentando necessidades e restrições. Os requisitos funcionais definem as funcionalidades específicas do sistema, enquanto os não funcionais abrangem qualidades como desempenho, segurança e usabilidade. Implementá-los adequadamente, após sua elicitação por meio de uma ou mais técnicas, é crucial para alinhar o desenvolvimento às expectativas, reduzir custos e retrabalho, garantir qualidade e minimizar falhas, criando sistemas eficazes e alinhados às necessidades dos usuários.</p>
+<p>Este documento reúne todos os requisitos, tanto funcionais quanto não funcionais, elicitados através das técnicas de <a href="../tecnicas/analise-de-documentos/">Análise de Documentos</a>, <a href="../tecnicas/entrevista/">Entrevista</a>, <a href="../tecnicas/grupo-de-foco/">Grupo de Foco</a>, <a href="../tecnicas/introspeccao/">Introspecção</a>, <a href="../tecnicas/observacao/">Observação</a> e <a href="../analise-perfil-usuario/questionario/">Questionário</a>.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Optamos por dispor todos os requisitos elicitados na <strong>Tabela 2</strong>. A tabela contém os campos "Tipo", que trata da sigla referente ao tipo de requisito elicitado, "Descrição", onde a funcionalidade do requisito é descrita, "Rastreabilidade", que contém a(s) sigla(s)* referente(s) a cada técnica utilizada durante cada elicitação, e o campo "Implementado", onde é possível identificar se o requisito equivalente foi ou não implementado no Meu SUS Digital.</p>
+<p>Já na <strong>Tabela 1</strong>, optamos por disponibilizar uma legenda para cada uma das siglas utilizadas na <strong>Tabela 2</strong>.</p>
+<p>* Cada sigla contém um link que redireciona para o documento respectivo à técnica em questão. </p>
+<div align="center">
+    <p><strong>Tabela 1 – Legenda para cada sigla utilizada</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Tipo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">RFn</td>
+<td>n-ésimo Requisito Funcional</td>
+</tr>
+<tr>
+<td style="text-align: center;">RNFn</td>
+<td>n-ésimo Requisito Não Funcional</td>
+</tr>
+<tr>
+<td style="text-align: center;">ADn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Análise de Documentos</td>
+</tr>
+<tr>
+<td style="text-align: center;">ENn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Entrevista</td>
+</tr>
+<tr>
+<td style="text-align: center;">GFn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Grupo de Foco</td>
+</tr>
+<tr>
+<td style="text-align: center;">INTn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Introspecção</td>
+</tr>
+<tr>
+<td style="text-align: center;">OBSn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Observação</td>
+</tr>
+<tr>
+<td style="text-align: center;">QUEn</td>
+<td>n-ésimo Requisito elicitado pela técnica de Questionário</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
+</div>
+
+<h2 id="requisitos">Requisitos</h2>
+<p>Na <strong>Tabela 2</strong>, temos a relação de requisitos elicitados para o Meu SUS Digital, bem como sua rastreabilidade (técnicas por meio das quais foram elicitados) e implementação (se foram ou não implementados no Meu SUS Digital). </p>
+<div align="center">
+    <p><strong>Tabela 2 – Requisitos elicitados</strong></p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Tipo</th>
+<th>Descrição</th>
+<th>Rastreabilidade</th>
+<th style="text-align: center;">Implementado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a id="RF1"></a>RF1</td>
+<td>O sistema deve permitir que o paciente realize login por meio de uma conta Gov.br</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS1</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD09</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF2"></a>RF2</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Vacinas</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS2</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF3"></a>RF3</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso à sua Carteira Nacional de Vacinação Digital</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS3</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF4"></a>RF4</td>
+<td>O aplicativo deve permitir que o usuário selecione o idioma do certificado referente à sua Carteira Nacional de Vacinação Digital</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS4</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF5"></a>RF5</td>
+<td>O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente à sua Carteira Nacional de Vacinação Digital</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS5</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD24</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF6"></a>RF6</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de vacinas</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS6</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF7"></a>RF7</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso aos detalhes de cada vacina</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS7</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF8"></a>RF8</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Exames</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS8</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF9"></a>RF9</td>
+<td>O aplicativo deve permitir a visualização dos exames laboratoriais realizados</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS9</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF10"></a>RF10</td>
+<td>O aplicativo deve permitir a visualização dos resultados e demais informações a respeito dos exames laboratoriais realizados</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS10</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF11"></a>RF11</td>
+<td>O aplicativo deve permitir a exportação/download do documento contendo o resultado e demais informações a respeito de cada exame laboratorial realizado</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS11</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF12"></a>RF12</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Medicamentos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS12</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF13"></a>RF13</td>
+<td>O aplicativo deve disponibilizar ao usuário o acesso ao seu histórico de medicamentos recebidos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS13</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF14"></a>RF14</td>
+<td>O aplicativo deve permitir que o usuário adicione um medicamento recebido por meio de programas de dispensação do Governo Federal através de um mecanismo de busca</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS14</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF15"></a>RF15</td>
+<td>O aplicativo deve permitir que o usuário possa realizar a busca por um medicamento através do nome e dosagem do mesmo</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS15</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF16"></a>RF16</td>
+<td>O aplicativo deve fornecer ao usuário, em adesão ao Programa Farmácia Popular, a opção de autorizar ou não a retirada de medicamentos em seu CPF</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS16</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF17"></a>RF17</td>
+<td>O aplicativo deve permitir que o usuário possa verificar os medicamentos recebidos pelo Programa Farmácia Popular</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS17</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF18"></a>RF18</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Dignidade Menstrual</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS18</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF19"></a>RF19</td>
+<td>Caso o usuário atenda aos critérios do Programa, o aplicativo deve permitir que o usuário emita uma autorização para participar do Programa Dignidade Menstrual</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS19</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF20"></a>RF20</td>
+<td>O aplicativo deve permitir que o usuário exporte/baixe o documento referente à autorização de participação do Programa Dignidade Menstrual</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS20</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF21"></a>RF21</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Rede de Saúde</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS21</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF22"></a>RF22</td>
+<td>O aplicativo deve pedir permissão de acesso à localização do dispositivo do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS22</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD05</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF23"></a>RF23</td>
+<td>O aplicativo deve armazenar a localização do dispositivo do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS23</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD06</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF24"></a>RF24</td>
+<td>O aplicativo deve oferecer opções de estabelecimentos de saúde a fim de que o usuário possa identificar àqueles próximos à sua localização, de acordo com o tipo de serviço desejado</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS24</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF25"></a>RF25</td>
+<td>O aplicativo deve permitir que o usuário possa identificar os estabelecimentos de saúde recentes vinculados a ele</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS25</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF26"></a>RF26</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Agendamentos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS26</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF27"></a>RF27</td>
+<td>O aplicativo deve exibir as consultas médicas ou exames de saúde do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS27</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF28"></a>RF28</td>
+<td>O aplicativo deve possibilitar o agendamento de consultas médicas ou exames de saúde</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS28</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD27</a>, <a href="../tecnicas/entrevista/#requisitos-elicitados">EN02</a>, <a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF02</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF29"></a>RF29</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Atendimento e Internação</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS29</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF30"></a>RF30</td>
+<td>O aplicativo deve exibir os registros de atendimentos ou internações do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS30</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF31"></a>RF31</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Contatos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS31</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF32"></a>RF32</td>
+<td>O aplicativo deve exibir contatos de profissionais de saúde</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS32</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF33"></a>RF33</td>
+<td>O aplicativo deve permitir que o usuário adicione o contato de um profissional de saúde em casos de emergência</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS33</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF34"></a>RF34</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Diário de Saúde</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS34</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF35"></a>RF35</td>
+<td>O aplicativo deve exibir todos os registros de saúde do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS35</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF36"></a>RF36</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes à sua Pressão</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS36</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF37"></a>RF37</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Pressão</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS37</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF38"></a>RF38</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes à sua Glicose</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS38</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF39"></a>RF39</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente à sua Glicose</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS39</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF40"></a>RF40</td>
+<td>O aplicativo deve exibir os registros de saúde do usuário referentes ao seu IMC</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS40</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF41"></a>RF41</td>
+<td>O aplicativo deve permitir que o usuário adicione um registro de saúde referente ao seu IMC</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS41</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF42"></a>RF42</td>
+<td>O aplicativo deve permitir que o usuário obtenha ajuda informativa a respeito da seção de Alergias</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS42</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF43"></a>RF43</td>
+<td>O aplicativo deve exibir as alergias que usuário possui</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS43</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF44"></a>RF44</td>
+<td>O aplicativo deve permitir que o usuário adicione uma alergia</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS44</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF45"></a>RF45</td>
+<td>O sistema deverá apresentar o termo de consentimento.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD01</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF46"></a>RF46</td>
+<td>O sistema deverá informar quais dados serão coletados.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD02</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF47"></a>RF47</td>
+<td>O sistema deverá permitir que o paciente escolha entre aceitar ou recusar a coleta de seus dados pessoais.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD03</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF48"></a>RF48</td>
+<td>O sistema deverá registrar a escolha do paciente em relação à coleta de seus dados pessoais.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD04</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF49"></a>RF49</td>
+<td>O sistema deverá pedir permissão de acesso à câmera do dispositivo.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD07</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF50"></a>RF50</td>
+<td>O sistema deverá permitir ao paciente tirar sua foto utilizando a câmera do dispositivo.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD08</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF51"></a>RF51</td>
+<td>O sistema deverá buscar no CADSUS os dados do paciente (Nome, data de nascimento, sexo, filiação, nacionalidade, e-mail, endereço e telefone) utilizando o CPF associado à conta Gov.br informada no login.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD10</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF52"></a>RF52</td>
+<td>O sistema deverá buscar na RNDS os dados do paciente (Histórico clínico, dados de vacinação e resultados de exames) utilizando o CPF associado à conta Gov.br informada no login.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD11</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF53"></a>RF53</td>
+<td>O sistema deverá permitir que o paciente solicite a remoção de seus dados pessoais do aplicativo.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD12</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF54"></a>RF54</td>
+<td>O sistema deverá apresentar o <em>status</em> e posição do usuário na lista de espera para transplante de órgão e tecido.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD18</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF55"></a>RF55</td>
+<td>O aplicativo deve permitir que o usuário exporte ou realize o download do documento referente ao Certificado de vacinação nacional de Covid-19.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD25</a>, <a href="../tecnicas/observacao/#OBS45">OBS45</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF56"></a>RF56</td>
+<td>O sistema deverá permitir que o paciente preencha informações de autodeclaração com nome social, raça/cor e endereço.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD26</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF57"></a>RF57</td>
+<td>O sistema deverá notificar o paciente sobre consultas agendadas, informando o tipo de consulta, a data, o horário e o local da consulta.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD30</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF58"></a>RF58</td>
+<td>A aplicação permite agendar exames</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN03</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF59"></a>RF59</td>
+<td>A aplicação permite ao servidor solicitar licença saúde</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN04</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF60"></a>RF60</td>
+<td>A aplicação permite acompanhar o andamento de solicitações de medicamentos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN05</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF61"></a>RF61</td>
+<td>A aplicação permite acompanhar a vacinação</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN 06</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF62"></a>RF62</td>
+<td>A aplicação permite consultar pedidos/solicitações de medicamentos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN 07</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF63"></a>RF63</td>
+<td>A aplicação permite consultar recebimentos de medicamento</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN 08</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF64"></a>RF64</td>
+<td>A aplicação permite consultar os agendamentos de exames</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN 09</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF65"></a>RF65</td>
+<td>A aplicação permite consultar os resultados de exames</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN10</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF66"></a>RF66</td>
+<td>A aplicação notifica o cancelamento de agendamentos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN11</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF67"></a>RF67</td>
+<td>A aplicação permite realizar pedidos/solicitações de medicamentos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN12</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF68"></a>RF68</td>
+<td>A aplicação permite ao paciente aplicar filtro de pesquisa ("Em processamento", "A caminho", "Entregue") para a consulta de pedidos/solicitações de medicamentos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN13</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF69"></a>RF69</td>
+<td>O aplicativo mostra o histórico de vacinação pré-pandemia</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF01</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF70"></a>RF70</td>
+<td>O aplicativo permite validação médica de declarações de alergia, mediante laudo. Essa validação deve ser visivelmente sinalizada ao paciente</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF03</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF71"></a>RF71</td>
+<td>O aplicativo permite consultar receitas médicas</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF04</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF72"></a>RF72</td>
+<td>O aplicativo notifica aos usuários atualizações em conteúdos relacionados a patologias que eles venham a ter</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF05</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF73"></a>RF73</td>
+<td>O aplicativo pode destacar conteúdos pertinentes a um estado para usuários desse estado</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF06</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF74"></a>RF74</td>
+<td>O aplicativo deve permitir que o paciente exporte/baixe as receitas médicas</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF07</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RF75"></a>RF75</td>
+<td>O aplicativo deve oferece agendamento de consultas e exames</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF02</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF1"></a>RNF1</td>
+<td>O sistema deve garantir que o login por meio da conta Gov.br seja realizado com autenticação segura (OAuth 2.0)</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS45</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD22</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF2"></a>RNF2</td>
+<td>O aplicativo deve exibir informações de ajuda de maneira acessível e compreensível para todos os usuários, incluindo pessoas com deficiência visual ou auditiva</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS46</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF3"></a>RNF3</td>
+<td>O histórico de vacinação deve ser carregado em menos de 3 segundos em dispositivos com conexão 4G</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS47</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF4"></a>RNF4</td>
+<td>O aplicativo deve oferecer suporte a pelo menos três idiomas (português, inglês e espanhol) para os certificados de vacinação</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS48</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD29</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF5"></a>RNF5</td>
+<td>O certificado de vacinação deve ser exportado em formato PDF de alta qualidade, com tamanho máximo de 2 MB</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS49</a>, <a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD32</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF6"></a>RNF6</td>
+<td>O histórico de vacinas deve ser armazenado em servidores seguros, em conformidade com a LGPD</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS50</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF7"></a>RNF7</td>
+<td>O acesso aos detalhes de cada vacina deve ser protegido por criptografia ponta a ponta</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS51</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF8"></a>RNF8</td>
+<td>As informações de ajuda relacionadas a exames devem ser exibidas em uma interface amigável, seguindo padrões de usabilidade</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS52</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF9"></a>RNF9</td>
+<td>Os resultados de exames laboratoriais devem ser apresentados em formato padronizado e visualmente acessível</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS53</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF10"></a>RNF10</td>
+<td>Os dados sobre exames laboratoriais devem ser carregados de maneira otimizada, mesmo em conexões lentas</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS54</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF11"></a>RNF11</td>
+<td>Os documentos de resultados de exames laboratoriais devem ser exportados em formatos amplamente compatíveis, como PDF ou JPEG</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS55</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF12"></a>RNF12</td>
+<td>O aplicativo deve exibir informações sobre medicamentos em uma interface responsiva e acessível</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS56</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF13"></a>RNF13</td>
+<td>O histórico de medicamentos deve ser armazenado em servidores redundantes para garantir alta disponibilidade</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS57</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF14"></a>RNF14</td>
+<td>A busca por medicamentos deve apresentar resultados relevantes em menos de 2 segundos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS58</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF15"></a>RNF15</td>
+<td>A busca de medicamentos por nome e dosagem deve ser sensível a erros de digitação</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS59</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF16"></a>RNF16</td>
+<td>A autorização para retirada de medicamentos deve ser confirmada com autenticação segura do usuário</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS60</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF17"></a>RNF17</td>
+<td>Os medicamentos recebidos pelo Programa Farmácia Popular devem ser exibidos em ordem cronológica</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS61</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF18"></a>RNF18</td>
+<td>A seção de ajuda do Programa Dignidade Menstrual deve seguir diretrizes de acessibilidade (WCAG 2.1)</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS62</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF19"></a>RNF19</td>
+<td>As autorizações para participação no Programa Dignidade Menstrual devem ser processadas em menos de 5 segundos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS63</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF20"></a>RNF20</td>
+<td>O documento referente à autorização do Programa Dignidade Menstrual deve ser exportado em formato PDF com validação digital</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS64</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF21"></a>RNF21</td>
+<td>A localização do dispositivo do usuário deve ser acessada apenas com consentimento explícito e armazenada temporariamente</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS65</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF22"></a>RNF22</td>
+<td>O aplicativo deve usar APIs de geolocalização eficientes e de baixo consumo de bateria</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS66</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF23"></a>RNF23</td>
+<td>As opções de estabelecimentos de saúde devem ser carregadas em menos de 2 segundos</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS67</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF24"></a>RNF24</td>
+<td>A lista de estabelecimentos de saúde recentes deve ser atualizada automaticamente sem comprometer o desempenho</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS68</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF25"></a>RNF25</td>
+<td>O agendamento de consultas deve ser sincronizado em tempo real com os sistemas do SUS</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS69</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF26"></a>RNF26</td>
+<td>As informações sobre consultas médicas ou exames devem ser exibidas com visualização amigável e intuitiva</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS70</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF27"></a>RNF27</td>
+<td>O registro de atendimentos ou internações deve ser armazenado de forma segura em servidores certificados</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS71</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF28"></a>RNF28</td>
+<td>Os contatos de profissionais de saúde devem ser exibidos em uma lista organizada, de fácil navegação</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS72</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF29"></a>RNF29</td>
+<td>As informações de emergência devem ser acessíveis rapidamente, com opção de busca por nome ou especialidade</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS73</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF30"></a>RNF30</td>
+<td>Os registros de saúde do usuário devem ser apresentados em gráficos interativos e de fácil interpretação</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS74</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF31"></a>RNF31</td>
+<td>As informações sobre Pressão, Glicose e IMC devem ser armazenadas de forma criptografada para garantir a privacidade</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS75</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF32"></a>RNF32</td>
+<td>O aplicativo deve garantir alta disponibilidade, com no mínimo 99,5% de uptime</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS76</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF33"></a>RNF33</td>
+<td>Os dados relacionados a alergias devem ser carregados rapidamente e protegidos contra acesso não autorizado</td>
+<td><a href="../tecnicas/observacao/#requisitos-elicitados">OBS77</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF34"></a>RNF34</td>
+<td>Os dados pessoais dos pacientes devem ser protegidos por criptografia AES-256.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD14</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF35"></a>RNF35</td>
+<td>O sistema deverá ser compatível com dispositivos Android e iOS.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD15</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF36"></a>RNF36</td>
+<td>O armazenamento e processamento dos dados pessoais deverão estar em conformidade com a LGPD.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD16</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF37"></a>RNF37</td>
+<td>O termo de consentimento deverá ser exibido em até 5 segundos após a solicitação, em dispositivos com conexão 4G.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD19</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF38"></a>RNF38</td>
+<td>O design do termo de consentimento deverá ser responsivo, adaptando-se a diferentes tamanhos de tela.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD20</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF39"></a>RNF39</td>
+<td>As informações sobre os dados coletados deverão ser apresentadas em linguagem acessível, seguindo o padrão de leitura de nível intermediário.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD21</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF40"></a>RNF40</td>
+<td>O sistema deverá usar conexões criptografadas (TLS 1.2 ou superior) para comunicação com os servidores do CADSUS.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD23</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF41"></a>RNF41</td>
+<td>O sistema deverá atualizar as informações presentes no cartão de vacinação em até 10 dias após o registro dos dados no sistema do Ministério da Saúde.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD28</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF42"></a>RNF42</td>
+<td>A notificação de consultas agendadas deverá ser feita com pelo menos 12 horas de antecedência.</td>
+<td><a href="../tecnicas/analise-de-documentos/#requisitos-elicitados">AD31</a></td>
+<td style="text-align: center;">Sim</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF43"></a>RNF43</td>
+<td>A aplicação pode receber informações do usuário através de biosensores</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN01</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF44"></a>RNF44</td>
+<td>O fluxo para solicitar medicamentos deve ser concluído em até 5 cliques/telas</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN14</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF45"></a>RNF45</td>
+<td>A aplicação deve processar a solicitação de medicamentos e fornecer uma resposta em até 5 segundos</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN15</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF46"></a>RNF46</td>
+<td>O resultado da consulta de pedidos de medicamento deve ser exibido em ordem cronológica</td>
+<td><a href="../tecnicas/entrevista/#requisitos-elicitados">EN16</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF47"></a>RNF47</td>
+<td>A receita médica deve ser exportada em formato PDF de alta qualidade, com tamanho máximo de 2 MB</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF08</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a id="RNF48"></a>RNF48</td>
+<td>O resultado da consulta de receitas médicas deve ser exibido em ordem cronológica</td>
+<td><a href="../tecnicas/grupo-de-foco/#requisitos-elicitados">GF09</a></td>
+<td style="text-align: center;">Não</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div align="center">
+    <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+</div>
+
+<h2 id="bibliografia">📚 Bibliografia</h2>
+<blockquote>
+<p>VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.</p>
+</blockquote>
+<h2 id="historico-de-versoes">📑 Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th style="text-align: center;">Data de Produção</th>
+<th>Revisor(es)</th>
+<th style="text-align: center;">Data de Revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><code>1.0</code></td>
+<td>Criação inicial da estrutura do documento referente aos requisitos elicitados.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">23/11/2024</td>
+<td><a href="https://github.com/pLopess">Pedro Lopes</a></td>
+<td style="text-align: center;">24/11/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.1</code></td>
+<td>Adição de parte dos requisitos elicitados.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">23/11/2024</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">01/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.2</code></td>
+<td>Adição dos requisitos da Análise de Documentos</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">01/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">07/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.3</code></td>
+<td>Adição dos requisitos da Entrevista</td>
+<td><a href="https://github.com/JoosPerro">João Pedro</a></td>
+<td style="text-align: center;">05/12/2024</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">07/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.4</code></td>
+<td>Adição dos requisitos do Grupo de Foco</td>
+<td><a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
+<td style="text-align: center;">07/12/2024</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">07/12/2024</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.5</code></td>
+<td>Inserção das âncoras nos tipos dos requisitos elicitados.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">07/12/2024</td>
+<td>-</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.6</code></td>
+<td>Correção da descrição referente ao requisito de tipo RF5 elicitado e inserção de novo requisito (de tipo RF75) elicitado.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">08/12/2024</td>
+<td>-</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.7</code></td>
+<td>Correção de conflito entre requisitos.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">19/01/2025</td>
+<td>-</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>1.8</code></td>
+<td>Atualização da descrição dos requisitos RF60, RF62, RF67 e RF68.</td>
+<td><a href="https://github.com/algorithmorphic">Artur Ricardo</a></td>
+<td style="text-align: center;">03/02/2025</td>
+<td><a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a></td>
+<td style="text-align: center;">09/02/2025</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+    
+  </body>
+</html>
