@@ -48,9 +48,11 @@ A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_
 |       P4         |  O cenário descreve uma situação concreta de uso do sistema? | Sim | Artur Ricardo      | 12/08/2024 23:50       |
 |       P5         |      Cada símbolo é caracterizado por um, e apenas um, dos seguintes tipos: sujeito, verbo, objeto ou estado?         | Sim | Matheus Henrick      | 12/08/2024 23:50       |
 
-  Autores: Todos
 </center>
 
+<div align="center">
+  <p>Autores: <a href="https://github.com/pLopess">Pedro Lopes</a>, <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>, <a href="https://github.com/JoosPerro">João Pedro</a>, <a href="https://github.com/algorithmorphic">Artur Ricardo</a> e <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></p>
+</div>
 
 ## Gravação da Inspeção do Grupo 4
 </center>
@@ -59,7 +61,9 @@ A inspeção foi baseada na [lista de verificação da 3ª entrega](../../lista_
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbvZlsSixCM?si=FWJP4H5jncavabrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-_Autor: Pedro Lopes_
+<div align="center">
+  <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a></p>
+</div>
 
 
 ## 📑 Histórico de Versão
@@ -67,3 +71,4 @@ _Autor: Pedro Lopes_
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Criação do documento. | [João Pedro](https://github.com/JoosPerro) | 09/12/2024 | [Pedro Lopes](https://github.com/pLopess) | 09/12/2024 |
+| `1.1`  | Correção em *Autores* da lista de verificação | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |  |  |
