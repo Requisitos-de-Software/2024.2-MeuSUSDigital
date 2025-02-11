@@ -1,5 +1,5 @@
 ## Introdução
-Apos a primeira reunião estudamos os horários dos integrantes da equipe para conseguir fazer um Heatmap, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões, para realizar nos horarios onde teria ou a equipe toda ou o maior numero de integrantes possivel.
+Apos a primeira reunião estudamos os horários dos integrantes da equipe para conseguir fazer um Heatmap, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões, para realizar nos horários onde teria ou a equipe toda ou o maior número de integrantes possível.
 
 
 <div align="center">
@@ -14,7 +14,7 @@ Apos a primeira reunião estudamos os horários dos integrantes da equipe para c
 
 </br>
 
-Logo, através do estudo do Heatmap, a equipe então definiu que os melhores horários para reunião poderia ser nas segundas entre as 14h ate as 18h, terças e quintas no horário entre 21h as 22h, sendo que na segunda seria uma revisão geral e o planejamento das sprints, e na terça seria um feadback da reunição de segunda caso algum mebro tivesse perdido algo e tambem pra ver se já iniciou algo das sprint seguinte, e na quinta o fechamento/abertura de sprints, e optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos as reuniões.
+Logo, através do estudo do Heatmap, a equipe então definiu que os melhores horários para reunião poderia ser nas segundas entre as 14h até as 18h, terças e quintas no horário entre 21h às 22h, sendo que na segunda seria uma revisão geral e o planejamento das sprints, e na terça seria um feadback da reunição de segunda caso algum membro tivesse perdido algo e também pra ver se já iniciou algo das sprint seguinte, e na quinta o fechamento/abertura de sprints, e optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos as reuniões.
 
 ## 📚 Referências
 
