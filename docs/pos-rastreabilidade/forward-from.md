@@ -169,4 +169,4 @@ A tabela 3 apresenta os elos entre os requisitos elicitados e os artefatos defin
 | `1.0`  | Criação do Documento |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 |  [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.1`  | Adicionando tabelas |[Pedro Lopes](https://github.com/pLopess) | 16/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
 | `1.2`  | Preenchendo tabela FF |[Pedro Lopes](https://github.com/pLopess) | 17/01/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 19/01/2025 |
-| `1.3`  | Correção tabela de Requisitos Foward From |[Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |   |  |
+| `1.3`  | Correção tabela de Requisitos Foward From |[Pedro Lopes](https://github.com/pLopess) | 10/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |

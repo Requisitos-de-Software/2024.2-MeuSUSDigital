@@ -23,7 +23,7 @@ Nesse documento estará contido na tabela 1 todas as apresentações e os partic
 
 ## 📑 Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
-|--------|-----------|-------|------|---------|-----------------|
-|  `1.0` | Criação do documento | [Emivalto junior](https://github.com/EmivaltoJrr) | 07/02/2025 |  |  |
-|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do documento | [Emivalto junior](https://github.com/EmivaltoJrr) | 07/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |
+| `1.1`  | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |
