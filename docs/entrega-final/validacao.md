@@ -6,7 +6,7 @@
 A validação de protótipos é uma etapa crucial no desenvolvimento de aplicativos, especialmente aqueles voltados para a área da saúde, como o SUS Digital. Este processo garante que as soluções propostas atendam às necessidades reais dos usuários, proporcionando uma experiência intuitiva e eficaz. Neste contexto, a validação dos protótipos desenvolvidos pelos integrantes da equipe é fundamental para assegurar que o aplicativo não apenas cumpra suas funções, mas também seja acessível e fácil de usar para os cidadãos que dependem dos serviços de saúde.
 
 ## Metodologia
-para conseguir os melhores resultados possiveis nessa parte de validação do apicativo foi adotado uma metodologia para a validação dos prototipos ferado pelo grupo afim de sugerir melhorias no aplicativo SUS Digital que envolveu as seguintes etapas:
+Para conseguir os melhores resultados possíveis nessa parte de validação do apicativo foi adotado uma metodologia para a validação dos prototipos ferado pelo grupo afim de sugerir melhorias no aplicativo SUS Digital que envolveu as seguintes etapas:
 
 - **Definição de Requisitos:** Antes da prototipação, foram elicitados requisitos essenciais com base nas necessidades dos usuários e nas diretrizes do SUS. Esses requisitos serviram como base para a criação dos protótipos de alta fidelidade.
 
@@ -16,7 +16,7 @@ para conseguir os melhores resultados possiveis nessa parte de validação do ap
 
 - **Coleta e Análise de Dados:** Durante os testes, foram coletados dados qualitativos e quantitativos, incluindo observações sobre a facilidade de uso, a eficiência nas tarefas e a satisfação geral dos usuários. As informações foram registradas e analisadas para identificar padrões e áreas de melhoria.
 
-- **Documentação dos Resultados: Todos os resultados das validações foram documentados em artefatos específicos, que incluem as observações dos testes, feedback dos usuários e sugestões de melhorias. Esses documentos estão disponíveis e foram elaborados pelos autores responsáveis.
+- **Documentação dos Resultados**: Todos os resultados das validações foram documentados em artefatos específicos, que incluem as observações dos testes, feedback dos usuários e sugestões de melhorias. Esses documentos estão disponíveis e foram elaborados pelos autores responsáveis.
 
 - **Revisão e Iteração:** Com base nos feedbacks coletados, a equipe revisou os protótipos, implementando as melhorias necessárias para aprimorar a experiência do usuário. Esse processo iterativo é fundamental para garantir que o aplicativo atenda às expectativas dos usuários e às exigências do SUS.
 
@@ -27,7 +27,7 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 ---
 
 <div align="center">
-    <p><strong>Tabela 1 - Entrevistas. – </strong></p>
+    <p><strong>Tabela 1 - Entrevistas </strong></p>
 </div>
 <Center>
 
@@ -55,7 +55,7 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 ---
 
 <div align="center">
-    <p><strong>Tabela 2 - Artefatos Avaliados na prototipação. – </strong></p>
+    <p><strong>Tabela 2 - Artefatos Avaliados na prototipação</strong></p>
 </div>
 <Center>
 
@@ -97,6 +97,6 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
-|  `1.1`  | Preenchimento das tabelas  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
-|  `1.2`  | Adição de links das Gravações e Rastreabilidade  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  |  |  |
+|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
+|  `1.1`  | Preenchimento das tabelas  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
+|  `1.2`  | Adição de links das Gravações e Rastreabilidade  |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
