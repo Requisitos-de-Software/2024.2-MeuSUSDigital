@@ -2,11 +2,15 @@
 Apos a primeira reunião estudamos os horários dos integrantes da equipe para conseguir fazer um Heatmap, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões, para realizar nos horarios onde teria ou a equipe toda ou o maior numero de integrantes possivel.
 
 
+<div align="center">
+    <p><strong>Imagem 1 – Heatmap geral da equipe</strong></p>
+</div>
 
 <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/heatmap.png?raw=true">
 
-<font size="3"><p style="text-align: center"><b>Imagem 1</b> - Heatmap geral da equipe</p></font>
-
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
+</div>
 
 </br>
 
@@ -25,10 +29,11 @@ Logo, através do estudo do Heatmap, a equipe então definiu que os melhores hor
 
 
 ## 📑 Histórico de Versões
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0` | Adição de Rich Picture |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
-|  `1.1`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Adição de HeatMap | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 05/11/2024 | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
+| `1.1`  | Padronização e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
 
 
 </center>
