@@ -263,7 +263,7 @@ A **Tabela 1** apresenta as técnicas empregadas no projeto Meu SUS Digital. Par
     <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
 </div>
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do documento |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
