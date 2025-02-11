@@ -23,8 +23,8 @@ Tendo como base o conhecimento obtido dentro de sala de aula, bem como os materi
 Abaixo, podemos identificar a **Figura 1** contendo tanto o *Rich Picture* do aplicativo Meu SUS Digital quanto sua legenda.
 
 <div align="center">
-    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
     <p><strong>Figura 1 – <em>Rich Picture</em> do aplicativo Meu SUS Digital</strong></p>
+    <img src="https://github.com/Requisitos-de-Software/2024.2-Grupo04/blob/main/docs/imagens/rich-picture-meu-sus-digital.jpg?raw=true">
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
 </div>
 
