@@ -268,7 +268,7 @@ As informações dos artefatos disponibilizadas neste documento são: Entrega do
   </td>
 </tr>
 <tr>
-  <th rowspan="19">Verificação</th>
+  <th rowspan="18">Verificação</th>
   <td><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/verificacao/lista_verif/entrega1/">Lista de Verificação - Entrega 1</a></td>
   <td><a href="https://github.com/pLopess">Pedro Lopes</a>, 
   <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, 
@@ -358,13 +358,6 @@ As informações dos artefatos disponibilizadas neste documento são: Entrega do
 </tr>
 <tr>
   <td><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/verificacao/grupo4/entrega1/entrega6/">Autoavaliação Grupo 4 - Entrega 6</a></td>
-  <td><a href="https://github.com/pLopess">Pedro Lopes</a>, 
-  <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, 
-  <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>,
-  <a href="https://github.com/JoosPerro">João Pedro</a> e  
-  <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a></td>
-</tr>
- <td><a href="https://requisitos-de-software.github.io/2024.2-MeuSUSDigital/verificacao/grupo5/entrega1/entrega1g5/">Avaliação Grupo 5 - Entrega 1</a></td>
   <td><a href="https://github.com/pLopess">Pedro Lopes</a>, 
   <a href="https://github.com/algorithmorphic">Artur Ricardo</a>, 
   <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>,
