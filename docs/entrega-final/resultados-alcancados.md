@@ -74,7 +74,7 @@ Na **Figura 2** podemos identificar a resposta automática indicando o encerrame
 
 Apesar da tentativa de contato, a ausência de um retorno direto da equipe do Ministério da Saúde impediu que tivéssemos uma colaboração efetiva. Esse fator reforça a importância de canais de comunicação acessíveis para projetos acadêmicos e contribuições externas que possam aprimorar sistemas governamentais.
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do documento. |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Artur Lopes](https://github.com/algorithmorphic) | 10/02/2025 |
