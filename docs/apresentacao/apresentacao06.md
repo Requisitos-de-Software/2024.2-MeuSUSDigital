@@ -27,4 +27,4 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 | :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
 | `1.0`  | Criação inicial da estrutura do documento.  | [Pedro Lopes](https://github.com/pLopess) | 19/01/2025 | [Artur Ricardo](https://github.com/algorithmorphic) | 19/01/2025 |
-|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
+|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
