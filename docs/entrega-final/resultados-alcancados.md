@@ -18,4 +18,4 @@ Os objetivos gerais identificados pelo grupo, e seus respectivos resultados são
 ## 📑 Histórico de versão
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do documento |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  |  |  |
+|  `1.0`  | Criação do documento |[João Pedro](https://github.com/JoosPerro)| 10/02/2025  | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025 |

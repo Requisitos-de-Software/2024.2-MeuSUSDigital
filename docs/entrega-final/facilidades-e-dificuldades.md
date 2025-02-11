@@ -52,4 +52,4 @@ Ademais, tivemos a oportunidade de aprofundar nossos conhecimentos na documenta�
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |  |  |
+| `1.0`  | Criação do documento. | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 | [Emivalto Júnior](https://github.com/EmivaltoJrr)| 10/02/2025 |
