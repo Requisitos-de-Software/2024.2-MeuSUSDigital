@@ -98,11 +98,11 @@ A execução do projeto pode ser sintetizada conforme a **Tabela 1**, que aprese
     </tr>
     <tr>
         <th align="center">Grupo 04</th>
-        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/verificacao/grupo4/entrega1/panorama-geral.md">Panorama Geral da Verificação dos Artefatos Entregues pelo Grupo 4</a></td>
+        <td align="center"> - </td>
     </tr>
     <tr>
         <th align="center">Grupo 05</th>
-        <td align="center"><a href="https://github.com/Requisitos-de-Software/2024.2-MeuSUSDigital/blob/main/docs/verificacao/grupo5/entrega1/panorama-geral.md">Panorama Geral da Verificação dos Artefatos Entregues pelo Grupo 5</a></td>
+        <td align="center"> - </td>
     </tr>
     <tr>
         <th align="center">Validação</th>
