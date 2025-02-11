@@ -18,9 +18,9 @@ Essa página tem como objetivo documentar a gravação de apresentação  refere
 
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento e Adição da Gravação | [Pedro Lopes](https://github.com/pLopess) | 24/11/2024  | [Emivalto Júnior](https://github.com/EmivaltoJrr)  |  24/11/2024|
 |  `1.1`  | adição da Gravação | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 24/11/2024  | [Artur Ricardo](https://github.com/algorithmorphic) | 24/11/2024 |
-|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
+|  `1.2` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |

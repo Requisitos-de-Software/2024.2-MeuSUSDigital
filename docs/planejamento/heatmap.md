@@ -24,11 +24,11 @@ Logo, através do estudo do Heatmap, a equipe então definiu que os melhores hor
 > HEATMAP: Entenda o Que é, Quando Usar e Que Ferramentas Usar. Neil Patel, 2024. Disponível em: https://neilpatel.com/br/blog/heatmap-o-que-e/. Acesso em 05 de novembro de 2024.
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0` | Adição de Rich Picture |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 05/11/2024   | [Pedro Lopes](https://github.com/pLopess) | 05/11/2024 |
-|  `1.1`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 |  |   |
+|  `1.1`  | Padronizaçao e correções | [Emivalto Júnior](https://github.com/EmivaltoJrr) | 06/02/2025 | [Pedro Lopes](https://github.com/pLopess) | 10/02/2025 |
 
 
 </center>

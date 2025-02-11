@@ -142,7 +142,7 @@ Dessa forma, o projeto reforça a relevância de metodologias sistemáticas para
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Criação inicial da estrutura do documento referente à execução do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 09/02/2025 |  |  |
-| `1.1`  | Atualização dos dados da tabela na etapa de Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
-| `1.2`  | Atualização dos dados da tabela na etapa de Elicitação e Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
-| `1.3`  | Atualização dos dados da tabela na etapa de Elicitação e correção de erro. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 |  |  |
+| `1.0`  | Criação inicial da estrutura do documento referente à execução do projeto. | [Artur Ricardo](https://github.com/algorithmorphic) | 09/02/2025 | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
+| `1.1`  | Atualização dos dados da tabela na etapa de Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
+| `1.2`  | Atualização dos dados da tabela na etapa de Elicitação e Pós-rastreabilidade. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
+| `1.3`  | Atualização dos dados da tabela na etapa de Elicitação e correção de erro. | [Artur Ricardo](https://github.com/algorithmorphic) | 10/02/2025 | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
