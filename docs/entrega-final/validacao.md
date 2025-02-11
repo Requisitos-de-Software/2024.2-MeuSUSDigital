@@ -94,7 +94,7 @@ Para apresentar os resultados obtidos, foram elaboradas tabelas que detalham os 
 
 
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versões
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 08/02/2025  | [João Pedro](https://github.com/JoosPerro) | 10/02/2025 |
