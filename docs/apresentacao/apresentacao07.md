@@ -13,7 +13,7 @@ Esta página tem como objetivo documentar a gravação de apresentação referen
     <p><strong>Apresentação referente à Etapa 7</strong></p>
 </div>
 
-link
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJtm7Q-Hhsc?si=l2pod1ms2YiBUJ-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div align="center">
     <p>Autor: <a href="https://github.com/algorithmorphic">Artur Ricardo</a>.</p>
