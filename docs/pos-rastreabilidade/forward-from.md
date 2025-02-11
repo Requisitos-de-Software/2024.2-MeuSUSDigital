@@ -150,7 +150,7 @@ A tabela 3 apresenta os elos entre os requisitos elicitados e os artefatos defin
     | ELOF1 |  |  |  |  |  |  |
 
     <div align="center">
-        <p>Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>.</p>
+        <p>Autor: <a href="https://github.com/JoosPerro">João Pedro</a>.</p>
     </div>
 
 
