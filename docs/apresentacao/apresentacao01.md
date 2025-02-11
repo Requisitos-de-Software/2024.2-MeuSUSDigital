@@ -19,10 +19,10 @@ Essa página tem como objetivo documentar todas as gravações referente a entre
     <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Júnior</a>.</p>
 </div>
 
+## 📑 Histórico de Versões
 
-## 📑 Histórico de versão
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |   
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024  | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
-|  `1.1` | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 |  |  |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
+| `1.0`  | Criação do Documento e Adição da Gravação |[Emivalto Júnior](https://github.com/EmivaltoJrr)| 06/11/2024  | [Pedro Lopes](https://github.com/pLopess) | 11/11/2024 |
+| `1.1`  | adição de rastreabilidade | [Emivalto junior](https://github.com/EmivaltoJrr) | 08/02/2025 | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | 10/02/2025 |
 
